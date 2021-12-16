@@ -1,6 +1,12 @@
 Repo for multilingual rumor detection.
 
 ## Dataset statistics
+|Dataset|Train|Val|Test|
+|---|---|---|---|
+|Twiiter15| | 
+|PHEME| |  |
+|PHEME-Translated|
+|Weibo| |
 
 ## Experiments
 **PHEME**
@@ -10,3 +16,8 @@ Repo for multilingual rumor detection.
 | SVM | ID | |  | |
 |RvNN| EN|  |  | |
 |RvNN| ID| | |  |
+
+
+### Configs
+SVM - max_len: , vocabulary_size: , epochs: 
+RvNN - max_len: , vocabulary_size: , epochs
