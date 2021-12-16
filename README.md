@@ -20,4 +20,11 @@ Repo for multilingual rumor detection.
 
 ### Configs
 SVM - max_len: , vocabulary_size: , epochs: 
+
 RvNN - max_len: , vocabulary_size: , epochs
+
+
+### Todos
+1. [Rabiul] write preprocessing script for RvNN
+2. [Dan] jot down model details and experimental configs for SVM and LSTM
+
