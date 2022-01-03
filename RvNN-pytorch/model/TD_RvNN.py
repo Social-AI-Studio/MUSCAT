@@ -12,7 +12,8 @@ Nepoch = 600
 lr = 0.005
 unit="TD_RvNN-"+obj+str(fold)+'-vol.'+str(vocabulary_size)+tag
 
-treePath = 'resource/data.TD_RvNN.vol_'+str(vocabulary_size)+'.txt'
+# treePath = 'resource/data.TD_RvNN.vol_'+str(vocabulary_size)+'.txt'
+treePath = "../preprocessing/shaun_TD.txt"
 
 trainPath = "nfold/RNNtrainSet_"+obj+str(fold)+"_tree.txt"
 testPath = "nfold/RNNtestSet_"+obj+str(fold)+"_tree.txt"
