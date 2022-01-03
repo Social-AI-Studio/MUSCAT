@@ -13,7 +13,9 @@ lr = 0.005
 unit="TD_RvNN-"+obj+str(fold)+'-vol.'+str(vocabulary_size)+tag
 
 # treePath = 'resource/data.TD_RvNN.vol_'+str(vocabulary_size)+'.txt'
-treePath = "../preprocessing/shaun_TD.txt"
+# treePath = "../preprocessing/shaun_TD.txt"
+treePath = "../preprocessing/shaun_test_td.txt"
+# treePath = "../preprocessing/ma_test_td.txt"
 
 trainPath = "nfold/RNNtrainSet_"+obj+str(fold)+"_tree.txt"
 testPath = "nfold/RNNtestSet_"+obj+str(fold)+"_tree.txt"
@@ -35,6 +37,7 @@ class Node_tweet(object):
 
 ################################## tools ########################################33
 def str2matrix(Str, MaxL):  # str = index:wordfreq index:wordfreq
+	print(f"str --> {Str}")
 	wordFreq, wordIndex = [], []
 	l = 0
 	for pair in Str.split(' '):
@@ -44,8 +47,8 @@ def str2matrix(Str, MaxL):  # str = index:wordfreq index:wordfreq
 	ladd = [0 for i in range(MaxL - l)]
 	wordFreq += ladd
 	wordIndex += ladd
-	# print MaxL, l, len(Str.split(' ')), len(wordFreq)
-	# print Str.split(' ')
+	print(MaxL, l, len(Str.split(' ')), len(wordFreq))
+	# print(Str.split(' '))
 	return wordFreq, wordIndex
 
 
@@ -73,25 +76,28 @@ def constructTree(tree):
 	for i in tree:
 		node = Node_tweet(idx=i)
 		index2node[i] = node
+	print(f"index2node --> {index2node}")
 	## 2. construct tree
 	for j in tree:
 		indexC = j
 		indexP = tree[j]['parent']
 		nodeC = index2node[indexC]
 		wordFreq, wordIndex = str2matrix(tree[j]['vec'], tree[j]['maxL'])
-		# print tree[j]['maxL']
+		print(tree[j]['maxL'])
 		nodeC.index = wordIndex
 		nodeC.word = wordFreq
 		# nodeC.time = tree[j]['post_t']
 		## not root node ##
 		if not indexP == 'None':
+			if index2node.get(int(indexP)) is None:
+				continue
 			nodeP = index2node[int(indexP)]
 			nodeC.parent = nodeP
 			nodeP.children.append(nodeC)
 		## root node ##
 		else:
 			root = nodeC
-			print(f"{root}")
+			# print(f"{root}")
 	## 3. convert tree to DNN input
 	parent_num = tree[j]['parent_num']
 	ini_x, ini_index = str2matrix("0:0", tree[j]['maxL'])
@@ -116,7 +122,10 @@ def loadData():
 		line = line.rstrip()
 		eid, indexP, indexC = line.split('\t')[0], line.split('\t')[1], int(line.split('\t')[2])
 		parent_num, maxL = int(line.split('\t')[3]), int(line.split('\t')[4])
-		Vec = line.split('\t')[5]
+		Vec = line.split('\t')[5:]
+		# Vec = " ".join(Vec) 
+		Vec = Vec[0] 
+		# print(Vec)
 		if not eid in treeDic:
 			treeDic[eid] = {}
 		treeDic[eid][indexC] = {'parent': indexP, 'parent_num': parent_num, 'maxL': maxL, 'vec': Vec}
@@ -138,7 +147,7 @@ def loadData():
 		y, l1, l2, l3, l4 = loadLabel(label, l1, l2, l3, l4)
 		y_train.append(y)
 		## 2. construct tree
-		print(f"{eid} --> {treeDic[eid]}")
+		# print(f"{eid} --> {treeDic[eid]}")
 		x_word, x_index, tree, parent_num = constructTree(treeDic[eid])
 		tree_train.append(tree)
 		word_train.append(x_word)
