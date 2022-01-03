@@ -91,6 +91,7 @@ def constructTree(tree):
 		## root node ##
 		else:
 			root = nodeC
+			print(f"{root}")
 	## 3. convert tree to DNN input
 	parent_num = tree[j]['parent_num']
 	ini_x, ini_index = str2matrix("0:0", tree[j]['maxL'])
@@ -137,7 +138,7 @@ def loadData():
 		y, l1, l2, l3, l4 = loadLabel(label, l1, l2, l3, l4)
 		y_train.append(y)
 		## 2. construct tree
-		# print eid
+		print(f"{eid} --> {treeDic[eid]}")
 		x_word, x_index, tree, parent_num = constructTree(treeDic[eid])
 		tree_train.append(tree)
 		word_train.append(x_word)
