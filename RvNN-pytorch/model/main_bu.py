@@ -13,7 +13,7 @@ import sys
 # sys.setdefaultencoding('utf-8')
 import numpy as np
 import os
-from pytorch_treeRvNN import *
+from BU_RvNN import *
 
 import torch
 import torch.nn as nn
@@ -40,11 +40,11 @@ unit = "BU_RvNN-" + obj + str(fold) + '-vol.' + str(vocabulary_size) + tag
 # lossPath = "../loss/loss-"+unit+".txt"
 # modelPath = "../param/param-"+unit+".npz"
 
-treePath = '../resource/data.BU_RvNN.vol_' + str(vocabulary_size) + tag + '.txt'
+treePath = 'resource/data.BU_RvNN.vol_' + str(vocabulary_size) + tag + '.txt'
 
-trainPath = "../nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
-testPath = "../nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
-labelPath = "../resource/" + obj + "_label_All.txt"
+trainPath = "nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
+testPath = "nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
+labelPath = "resource/" + obj + "_label_All.txt"
 
 
 # floss = open(lossPath, 'a+')
