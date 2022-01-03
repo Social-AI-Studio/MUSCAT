@@ -182,32 +182,47 @@ for dataset in ["twitter15","twitter16"]:
                 recordstr_TD = len(list(td.keys()))
             if len(list(bu.keys()))> recordstr_BU:
                 recordstr_BU = len(list(bu.keys()))
-            
         for tweet_instance in helditems:
             sourcelist = helditems[tweet_instance]
             td = sourcedict[int(tweet_instance)][2]
             bu = sourcedict[int(tweet_instance)][3] # again, pull the respective vocab count versions.
             # print(helditems[tweet_instance][3])
             tdver = [root,list(sourcelist[1]),helditems[tweet_instance][3],len(list(parentalcount_td)),recordstr_TD,td]
-            if len(sourcelist[1])==0: # edge case where parent has no real parent.
+            if helditems[tweet_instance][0]==root: # tree root always is none
                 tdver[1]="None"
             else:
                 if len(sourcelist[1])==1:
                     tdver[1] = helditems[list(sourcelist[1])[0]][3]
                 else:
-                    tdver[1] = helditems[list(sourcelist[1])[-1]][3] # we just chunk the last parent as the main parent.
+                    if not list(sourcelist[1]):
+                        # print(helditems[tweet_instance])
+                        # print(root)
+                        # input()
+                        tdver[1] = "None" # So in this case there is no parent.. but it also wasn't a source node. what is it?
+                        # the answer is that it is a node that has a parent that does not have the tweet text available.
+                        tdver = []
+                        # mark for deletion.
+                    else:
+                        tdver[1] = helditems[list(sourcelist[1])[-1]][3] # we just chunk the last parent as the main parent.
                     # print("tdver: ERROR") # should not be triggered. Just here in case, but probably will be.
                     # print(tdver)
                     # input()
                     
             buver = [root,list(sourcelist[2]),helditems[tweet_instance][3],len(list(parentalcount_bu)),recordstr_BU,bu]
-            if len(sourcelist[2])==0: # edge case where parent has no real parent.
+            if helditems[tweet_instance][0]==root : # tree root always is none.. for some reason. even in BU
                 buver[1]="None"
             else:
                 if len(sourcelist[2])==1:
                     buver[1] = helditems[list(sourcelist[2])[0]][3]
                 else: # more than one parent, as is should be, but not explained in their paper either.
-                    buver[1] = helditems[list(sourcelist[2])[-1]][3] # we just chunk the last parent as the main parent.
+                    if not list(sourcelist[2]):
+                        buver[1] = "None" # So in this case there is no parent if you're talking bottom up. this is an absolute leaf on the tree.
+                        # Ma just.. regularly trees it but... it's not correct. So if there is no parent, i push None as an item.
+                    else:
+                        buver[1] = helditems[list(sourcelist[2])[-1]][3] # we just chunk the last parent as the main parent... despite it having several parents.
+                    
+                    
+                    
                     # she doesn't account for this in her preprocessing either because multiple parents for bottom up should be the norm, yet nothing is done to account for this in code.
                     # print("buver") # Should be triggered all the time basically.
                     # print(buver)
@@ -223,9 +238,10 @@ for dataset in ["twitter15","twitter16"]:
             
             # note that Ma's format is also inconsistent in the index numbers. Sometimes she refreshes between trees, sometimes she doesn't.
             # Ma's format also adds or removes some tweets randomly into trees later on. (tree.txt doesn't have the 
-            
-            held_TD.append(tdver) # ma also counts no parents as a parent.. therefore we should add 1 to all.
-            held_BU.append(buver)
+            if tdver:
+                held_TD.append(tdver) # ma also counts no parents as a parent.. therefore we should add 1 to all.
+            if buver:
+                held_BU.append(buver)
         all_TD.extend(held_TD)
         all_BU.extend(held_BU)
 
