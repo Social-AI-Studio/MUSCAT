@@ -117,7 +117,6 @@ for tweet_id in sourcedict: # perform further censoring based off top vocab used
 
 
 
-currentcount = 0
 all_BU = []
 all_TD = []
 for dataset in ["twitter15","twitter16"]:
@@ -130,6 +129,7 @@ for dataset in ["twitter15","twitter16"]:
         held_BU = []
         held_TD = []
         helditems = {}
+        currentcount = 0
 
         with open(os.path.join(dataset,"tree",treefile)) as openedfile:
             for line in openedfile:
