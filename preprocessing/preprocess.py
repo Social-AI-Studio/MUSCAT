@@ -30,8 +30,8 @@ for i in ["twitter15","twitter16"]:
                     if not newcandidate in alltokens:
                         alltokens[newcandidate] = tokencounter
                         tokencounts[newcandidate] = 0
-                        tokencounter+=1
-                        tokencounts[newcandidate] = tokencounts[newcandidate] + 1
+                    tokencounter+=1
+                    tokencounts[newcandidate] = tokencounts[newcandidate] + 1
 
                 sourcedict[int(linelist[0])] = ["\t".join(linelist[1:]),filtered]
                 
