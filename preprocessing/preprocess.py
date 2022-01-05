@@ -64,8 +64,8 @@ BUValids = set(list(tokencounts.keys())[:3229]) # BU has 3229 unique vocabs in h
 TDValids = set(list(tokencounts.keys())[:3260]) # TD has 3260 unique vocabs in her counts..
 
 # IGNORE MA'S LIMIT.
-BUValids = set(list(tokencounts.keys()))
-TDValids = set(list(tokencounts.keys()))
+# BUValids = set(list(tokencounts.keys()))
+# TDValids = set(list(tokencounts.keys()))
 tdvocabdict = {}
 counter = 0
 for i in TDValids:
@@ -129,7 +129,7 @@ for dataset in ["twitter15","twitter16"]:
         held_BU = []
         held_TD = []
         helditems = {}
-        currentcount = 0
+        currentcount = 1
 
         with open(os.path.join(dataset,"tree",treefile)) as openedfile:
             for line in openedfile:
@@ -188,6 +188,7 @@ for dataset in ["twitter15","twitter16"]:
             bu = sourcedict[int(tweet_instance)][3] # again, pull the respective vocab count versions.
             # print(helditems[tweet_instance][3])
             tdver = [root,list(sourcelist[1]),helditems[tweet_instance][3],len(list(parentalcount_td)),recordstr_TD,td]
+
             if helditems[tweet_instance][0]==root: # tree root always is none
                 tdver[1]="None"
             else:
@@ -198,10 +199,15 @@ for dataset in ["twitter15","twitter16"]:
                         # print(helditems[tweet_instance])
                         # print(root)
                         # input()
-                        tdver[1] = "None" # So in this case there is no parent.. but it also wasn't a source node. what is it?
+                        tdver[1] = helditems[root][3] 
+                        
+                        # So in this case there is no parent.. but it also wasn't a source node. what is it?
                         # the answer is that it is a node that has a parent that does not have the tweet text available.
-                        tdver = []
-                        # mark for deletion.
+                        
+                        # simply put parent as root...
+                        # tdver = [] # mark for deletion. don't use. breaks ma code.
+                        
+                        
                     else:
                         tdver[1] = helditems[list(sourcelist[1])[-1]][3] # we just chunk the last parent as the main parent.
                     # print("tdver: ERROR") # should not be triggered. Just here in case, but probably will be.
@@ -244,6 +250,7 @@ for dataset in ["twitter15","twitter16"]:
                 held_BU.append(buver)
         all_TD.extend(held_TD)
         all_BU.extend(held_BU)
+
 
 with open("shaun_TD.txt","w",encoding="utf-8") as tdfile:
     for i in all_TD:
