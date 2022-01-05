@@ -24,27 +24,43 @@ from evaluate import *
 import torch.utils.data as Data
 from sklearn.metrics import classification_report
 
-device = torch.device('cuda:2' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 # from Util import *
 
-obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
-fold = "3"  # fold index, choose from 0-4
+obj = "PHEME"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
+fold = "1"  # fold index, choose from 0-4
 tag = ""
 vocabulary_size = 5000
 hidden_dim = 100
 Nclass = 4
 Nepoch = 300
 lr = 0.005
-
-unit = "BU_RvNN-" + obj + str(fold) + '-vol.' + str(vocabulary_size) + tag
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+unit = "TD_RvNN-" + obj + str(fold) + '-vol.' + str(vocabulary_size) + tag
 # lossPath = "../loss/loss-"+unit+".txt"
 # modelPath = "../param/param-"+unit+".npz"
 
-treePath = '../resource/data.BU_RvNN.vol_' + str(vocabulary_size) + tag + '.txt'
+treePath = '../resource/data.TD_RvNN.vol_' + str(vocabulary_size) + tag + '.txt'
 
-trainPath = "../nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
-testPath = "../nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
+# trainPath = "../nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
+# testPath = "../nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
+trainPath = "../nfold/train_" + obj + str(fold) + ".txt"
+testPath = "../nfold/test_" + obj + str(fold) + ".txt"
 labelPath = "../resource/" + obj + "_label_All.txt"
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
+###################################################################################################################
 
 
 # floss = open(lossPath, 'a+')
@@ -220,7 +236,7 @@ optimizer = torch.optim.Adam(model.parameters(), lr=0.001, weight_decay=0.001)
 t1 = time.time()
 print('Recursive model established,', (t1 - t0) / 60)
 
-target_names = ['news-non-rumor', 'false', 'true', 'unverified'] #### 分类类别
+target_names = ['false', 'true', 'unverified'] #### 分类类别
 ## 4. train
 losses_5, losses = [], []
 num_examples_seen = 0
