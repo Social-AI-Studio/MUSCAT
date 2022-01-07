@@ -13,6 +13,7 @@ def _getTreeInfo(tree):
 		idx_dict[parent_idx] = 'not leaf'
 		idx_dict[child_idx] = 'leaf'
 	leaves_idx = [_i for _i in idx_dict if idx_dict[_i] == 'leaf']
+	print(f"leaves_idx --> {leaves_idx}, {len(idx_dict)}")
 	return {'num_node': len(idx_dict), 'num_leaf': len(leaves_idx), 'leaves_idx': leaves_idx}
 
 class RvNN(nn.Module):
@@ -70,8 +71,11 @@ class RvNN(nn.Module):
 			child_idx = tree[i][1]
 			parent_h = h_list[parent_idx]
 			word_idx_tensor = torch.LongTensor(word_idx[i]).to(device)
+			# print(word_idx_tensor)
 			word_tensor = torch.FloatTensor(word[i]).unsqueeze(dim=1).to(device)
+			# print(word_tensor)
 			E_child = self.E[:, word_idx_tensor]
+			# print(E_child)
 			child_xe = E_child.mm(word_tensor).squeeze(dim=1)
 
 			batch_input = child_xe.unsqueeze(dim=0)
@@ -82,6 +86,7 @@ class RvNN(nn.Module):
 			h_list = torch.cat((h_list[:child_idx, :], child_h.unsqueeze(dim=0), h_list[child_idx+1:, :]), dim=0).to(device)
 			# h_list.requires_grad = True
 
+		print(tree_info['leaves_idx'])
 		children_h = h_list[tree_info['leaves_idx']]
 		# children_h = h_list
 		final_state = children_h.max(dim=0)[0]
