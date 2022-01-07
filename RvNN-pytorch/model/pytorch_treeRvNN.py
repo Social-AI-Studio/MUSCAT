@@ -12,13 +12,14 @@ import numpy as np
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 # lstm 模型架构
 class Node_tweet(object):
-    def __init__(self, idx=None):
+    def __init__(self, idx=None,eid=None):
         super(Node_tweet, self).__init__()
         self.children = []
         #self.index = index
         self.idx = idx
         self.word = []
         self.index = []
+        self.root_tweet_idx = eid
         self.numchildren = 0
         #self.height = 1
         #self.size = 1
