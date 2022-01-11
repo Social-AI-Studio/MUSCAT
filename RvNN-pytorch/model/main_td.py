@@ -23,6 +23,7 @@ lr = 0.005
 
 
 (
+    eid_train,
     tree_train,
     word_train,
     index_train,
@@ -63,7 +64,7 @@ for epoch in range(epoches):
     # random.shuffle(train_idx_list)
     for train_idx in train_idx_list:
         # pred = model.forward(tree_train[train_idx+1], word_train[train_idx+1], index_train[train_idx+1])
-        # print(f"tree_train --> {tree_train[train_idx]}")
+        # print(f"tree_train: eid {eid_train[train_idx]} --> {tree_train[train_idx]}")
         pred = model.forward(
             tree_train[train_idx], word_train[train_idx], index_train[train_idx]
         )

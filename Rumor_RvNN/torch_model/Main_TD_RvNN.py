@@ -16,6 +16,8 @@ import time
 import random
 import torch.optim as optim
 import datetime
+from sklearn.metrics import f1_score
+from sklearn.metrics import classification_report
 from evaluate import *
 
 obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
@@ -29,7 +31,8 @@ lr = 0.005
 
 unit = "TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag
 
-treePath = "../resource/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
+# treePath = "../resource/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
+treePath = "../resource/shaun_TD.txt"
 
 trainPath = "../nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
 testPath = "../nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
@@ -295,8 +298,9 @@ for epoch in range(Nepoch):
                     word_test[j], index_test[j], tree_test[j], leaf_idxs_test[j]
                 ).data.tolist()
             )
-        print("predictions:", prediction)
+        # print("predictions:", prediction)
         res = evaluation_4class(prediction, y_test)
+        # res = classification_report(prediction, y_test)
         print("results:", res)
         sys.stdout.flush()
         ## Adjust the learning rate if loss increases

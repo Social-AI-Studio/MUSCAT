@@ -1,14 +1,23 @@
 __doc__ = """Tree GRU aka Recursive Neural Networks."""
 
 import numpy as np
+import logging
+
+logging.basicConfig(
+    format="%(asctime)s,%(msecs)d %(name)s:%(lineno)d %(levelname)s %(message)s",
+    datefmt="%H:%M:%S",
+    level=logging.INFO,
+)
+logger = logging.getLogger(__name__)
+
 
 obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
-fold = "2"  # fold index, choose from 0-4
+fold = "3"  # fold index, choose from 0-4
 tag = "_u2b"
 vocabulary_size = 5000
 hidden_dim = 100
 Nclass = 4
-Nepoch = 600
+Nepoch = 100
 lr = 0.005
 unit = "TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag
 
@@ -40,7 +49,7 @@ class Node_tweet(object):
 
 ################################## tools ########################################33
 def str2matrix(Str, MaxL):  # str = index:wordfreq index:wordfreq
-    # print(f"str --> {Str}")
+    # logger.info(f"str --> {Str}")
     wordFreq, wordIndex = [], []
     l = 0
     for pair in Str.split(" "):
@@ -50,8 +59,8 @@ def str2matrix(Str, MaxL):  # str = index:wordfreq index:wordfreq
     ladd = [0 for i in range(MaxL - l)]
     wordFreq += ladd
     wordIndex += ladd
-    # print(MaxL, l, len(Str.split(' ')), len(wordFreq))
-    # print(Str.split(' '))
+    # logger.info(MaxL, l, len(Str.split(' ')), len(wordFreq))
+    # logger.info(Str.split(' '))
     return wordFreq, wordIndex
 
 
@@ -84,15 +93,15 @@ def constructTree(tree):
     for i in tree:
         node = Node_tweet(idx=i)
         index2node[i] = node
-    print(f"tree --> {tree}")
-    # print(f"index2node --> {index2node}")
+    # logger.info(f"tree --> {tree}")
+    # logger.info(f"index2node --> {index2node}")
     ## 2. construct tree
     for j in tree:
         indexC = j
         indexP = tree[j]["parent"]
         nodeC = index2node[indexC]
         wordFreq, wordIndex = str2matrix(tree[j]["vec"], tree[j]["maxL"])
-        # print(tree[j]['parent'], tree[j]['maxL'])
+        # logger.info(tree[j]['parent'], tree[j]['maxL'])
         nodeC.index = wordIndex
         nodeC.word = wordFreq
         # nodeC.time = tree[j]['post_t']
@@ -106,7 +115,7 @@ def constructTree(tree):
         ## root node ##
         else:
             root = nodeC
-            # print(f"{root}")
+            # logger.info(f"{root}")
     ## 3. convert tree to DNN input
     parent_num = tree[j]["parent_num"]
     ini_x, ini_index = str2matrix("0:0", tree[j]["maxL"])
@@ -117,20 +126,20 @@ def constructTree(tree):
 
 ################################# loas data ###################################
 def loadData():
-    print("loading tree label")
+    logger.info("loading tree label")
     labelDic = {}
     for line in open(labelPath):
         line = line.rstrip()
         label, eid = line.split("\t")[0], line.split("\t")[2]
         labelDic[eid] = label.lower()
-    print(len(labelDic))
+    logger.info(len(labelDic))
 
-    print("reading tree")  ## X
+    logger.info("reading tree")  ## X
     treeDic = {}
     teid = None  # for debug purpose
     for line in open(treePath):
         line = line.rstrip()
-        # print(line.split('\t'))
+        logger.debug(line.split("\t"))
         eid, indexP, indexC = (
             line.split("\t")[0],
             line.split("\t")[1],
@@ -140,7 +149,7 @@ def loadData():
         Vec = line.split("\t")[5:]
         # Vec = " ".join(Vec)
         Vec = Vec[0]
-        # print(Vec)
+        # logger.info(Vec)
         if not eid in treeDic:
             treeDic[eid] = {}
         treeDic[eid][indexC] = {
@@ -148,13 +157,13 @@ def loadData():
             "parent_num": parent_num,
             "maxL": maxL,
             "vec": Vec,
+            "eid": eid,
         }
-        if teid != None and teid != eid:
-            print(treeDic[teid])
-            teid = eid
-    print("tree no:", len(treeDic))
-
-    print("loading train set")
+        # print(f"{teid}")
+        # if teid != None and teid != eid:
+        #     logger.info(f"treeDic --> {treeDic[teid]}")
+        teid = eid
+    logger.info("loading train set")
     tree_train, word_train, index_train, y_train, parent_num_train, c = (
         [],
         [],
@@ -163,6 +172,8 @@ def loadData():
         [],
         0,
     )
+    # for debug purpose
+    eid_train = [] 
     l1, l2, l3, l4 = 0, 0, 0, 0
     for eid in open(trainPath):
         # if c > 8: break
@@ -172,26 +183,27 @@ def loadData():
         if not eid in treeDic:
             continue
         if len(treeDic[eid]) <= 0:
-            # print labelDic[eid]
+            # logger.info labelDic[eid]
             continue
         ## 1. load label
         label = labelDic[eid]
         y, l1, l2, l3, l4 = loadLabel(label, l1, l2, l3, l4)
         y_train.append(y)
         ## 2. construct tree
-        # print(f"{eid} --> {treeDic[eid]}")
+        # logger.info(f"{eid} --> {treeDic[eid]}")
         x_word, x_index, tree, parent_num = constructTree(treeDic[eid])
         tree_train.append(tree)
         word_train.append(x_word)
         index_train.append(x_index)
         parent_num_train.append(parent_num)
-        # print treeDic[eid]
-        # print tree, child_num
+        eid_train.append(eid)
+        # logger.info treeDic[eid]
+        # logger.info tree, child_num
         # exit(0)
         c += 1
-    print(l1, l2, l3, l4)
+    logger.info(f"{l1}, {l2}, {l3}, {l4}")
 
-    print("loading test set")
+    logger.info("loading test set")
     tree_test, word_test, index_test, parent_num_test, y_test, c = [], [], [], [], [], 0
     l1, l2, l3, l4 = 0, 0, 0, 0
     for eid in open(testPath):
@@ -202,7 +214,7 @@ def loadData():
         if not eid in treeDic:
             continue
         if len(treeDic[eid]) <= 0:
-            # print labelDic[eid]
+            # logger.info labelDic[eid]
             continue
         ## 1. load label
         label = labelDic[eid]
@@ -215,38 +227,27 @@ def loadData():
         index_test.append(x_index)
         parent_num_test.append(parent_num)
         c += 1
-    print(l1, l2, l3, l4)
-    print(
-        "train no:",
-        len(tree_train),
-        len(word_train),
-        len(index_train),
-        len(parent_num_train),
-        len(y_train),
+    logger.info(f"{l1}, {l2}, {l3}, {l4}")
+    logger.info(
+        "train no: {len(tree_train)},{len(word_train)},{len(index_train)},{len(parent_num_train)},{len(y_train)}"
     )
-    print(
-        "test no:",
-        len(tree_test),
-        len(word_test),
-        len(index_test),
-        len(parent_num_test),
-        len(y_test),
+    logger.info(
+        f"test no {len(tree_test)}, {len(word_test)}, {len(index_test)}, {len(parent_num_test)},{len(y_test)}"
     )
-    print("dim1 for 0:", len(tree_train[0]), len(word_train[0]), len(index_train[0]))
-    print(
-        "case 0:",
-        tree_train[0][0],
-        word_train[0][0],
-        index_train[0][0],
-        parent_num_train[0],
+    logger.info(
+        f"dim1 for 0:, {len(tree_train[0])}, {len(word_train[0])}, {len(index_train[0])}"
     )
-    print(len(tree_train), len(y_train))
-    print(len(tree_test), len(y_test))
-    # print index_train[0]
-    # print word_train[0]
-    # print tree_train[0]
+    logger.info(
+        f"case 0: {tree_train[0][0]},{word_train[0][0]},{index_train[0][0]},{parent_num_train[0]}"
+    )
+    logger.info(f"{len(tree_train)}, {len(y_train)}")
+    logger.info(f"{len(tree_test)}, {len(y_test)}")
+    # logger.info index_train[0]
+    # logger.info word_train[0]
+    # logger.info tree_train[0]
     # exit(0)
     return (
+        eid_train,
         tree_train,
         word_train,
         index_train,
@@ -267,6 +268,7 @@ def gen_nn_inputs(root_node, ini_word):
     X_word, X_index = [root_node.word], [root_node.index]
 
     internal_tree, internal_word, internal_index = _get_tree_path(root_node)
+    # logger.info(f"{internal_tree}, {internal_word}, {internal_index}")
     tree.extend(internal_tree)
     X_word.extend(internal_word)
     X_index.extend(internal_index)
@@ -303,6 +305,6 @@ def _get_tree_path(root_node):
                 word.append(child.word if child.word is not None else -1)
                 index.append(child.index if child.index is not None else -1)
 
-    # print(tree, word, index)
-    print(tree)
+    # logger.info(tree, word, index)
+    # logger.info(tree)
     return tree, word, index
