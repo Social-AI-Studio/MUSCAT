@@ -37,7 +37,7 @@ So far testing was done on PHEME-English and PHEME-Indo. A bilingual dataset was
 
 ##### SVM
 
-For SVM, posts in each thread is concatenated into a long string, by chronological order.
+For SVM, posts in each thread is concatenated into a long string, by chronological order. The two csv files `pheme_english.csv` and `pheme_indo.csv` in the same folder contains pre-concatenated tweets with event labelling (for Leave-one-out sampling)
 
 Seeding: `random` and `np.random` random state seed was set to 1111
 
@@ -63,13 +63,15 @@ Training and testing data was split according to Leave-One-Group-Out rule. In th
 
 ##### LSTM
 
-[to be updated after rerunning]
+**How to run (monolingual script)**
+
+Download pretrained vectors from [FastText](https://fasttext.cc/docs/en/crawl-vectors.html) for English and Indo. Extract and place `.vec` file in same folder as script. The two csv files `pheme_english.csv` and `pheme_indo.csv` in the same folder contains pre-concatenated tweets with event labelling (for Leave-one-out sampling)
 
 The baseline test uses the same concatenated dataset as the SVM test. Tokenization was done similarly to SVM test. Stemming was not done.
 
-*[to be decided] Currently URLs are substituted with a `[PAD]` special token. What's the best way to handle?*
+URLs were replaced with a placeholder `<URL>` token. @mentions were left as is, as they might be meaningful content
 
-Embedding was done with FastText. *[to be updated] First test was run with pre calculated embedding vectors and was not ideal, since the vocabulary had to be restricted to 10000 due to memory issue. Subsequently will rerun with FastText pre-trained model, to 1) handle representation of OOV words and 2) generate a preprocessed dataset for future use*
+Embedding was done with FastText. Pretrained vector embeddings were used, and embedding layer was set to trainable. Vocabulary size was limited to 50,000 words due to memory issue (English dataset has a ~70k words vocab, Indo has ~60k). Maximum sequence length was set to 3000.
 
 Model is as followed:
 
@@ -95,7 +97,12 @@ Hyperparameters:
 - Batch size: 64
 - Loss: categorical cross entropy
 - Optimizer: Adam
-- Epochs: Max 50, early stopping on validation loss with patience of 5
+- Epochs: Max 50, early stopping on validation loss with patience of 3
+
+Observation:
+
+- Most training stops very early, after less than 10 epochs. Signs of overfitting as training loss decreases, but val loss plateau out or increase.
+- Overwhelming misclassification of non-rumor class. Possible to use weighted sampling to combat this?
 
 ##### Branch-LSTM
 @Dan: Describe how the model is implemented and its hyperparameters.
