@@ -24,11 +24,9 @@ from evaluate import *
 import torch.utils.data as Data
 from sklearn.metrics import classification_report
 
-device = torch.device('cuda:2' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 # from Util import *
 
-obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
-fold = "3"  # fold index, choose from 0-4
 tag = ""
 vocabulary_size = 5000
 hidden_dim = 100
@@ -36,7 +34,7 @@ Nclass = 4
 Nepoch = 300
 lr = 0.005
 
-unit = "BU_RvNN-" + obj + str(fold) + '-vol.' + str(vocabulary_size) + tag
+# unit = "TD_RvNN-" + obj + str(fold) + '-vol.' + str(vocabulary_size) + tag
 # lossPath = "../loss/loss-"+unit+".txt"
 # modelPath = "../param/param-"+unit+".npz"
 
@@ -98,7 +96,7 @@ def constructTree(tree):
     ## 1. ini tree node
     index2node = {}
     for i in tree:
-        node = Node_tweet(idx=i)
+        node = Node_tweet(idx=i,eid=eid) #add eid here to save what each sample means.
         index2node[i] = node
     ## 2. construct tree
     for j in tree:
@@ -131,21 +129,21 @@ def loadData():
         line = line.rstrip()
         label, eid = line.split('\t')[0], line.split('\t')[2]
         labelDic[eid] = label.lower()
-    print(len(labelDic))
+    # print(len(labelDic))
 
-    print("reading tree")  ## X
+    # print("reading tree")  ## X
     treeDic = {}
     for line in open(treePath):
         line = line.rstrip()
-        print(line.split('\t'))
+        # print(line.split('\t'))
         eid, indexP, indexC = line.split('\t')[0], line.split('\t')[1], int(line.split('\t')[2])
         max_degree, maxL, Vec = int(line.split('\t')[3]), int(line.split('\t')[4]), line.split('\t')[5]
         if not eid in treeDic:
             treeDic[eid] = {}
         treeDic[eid][indexC] = {'parent': indexP, 'max_degree': max_degree, 'maxL': maxL, 'vec': Vec}
-    print('tree no:', len(treeDic))
+    # print('tree no:', len(treeDic))
 
-    print("loading train set")
+    # print("loading train set")
     tree_train, word_train, index_train, y_train, c = [], [], [], [], 0
     l1, l2, l3, l4 = 0, 0, 0, 0
     for eid in open(trainPath):
@@ -159,13 +157,13 @@ def loadData():
         y, l1, l2, l3, l4 = loadLabel(label, l1, l2, l3, l4)
         y_train.append(y)
         ## 2. construct tree)
-        root = constructTree(treeDic[eid])
+        root = constructTree(treeDic[eid],eid)
         tree_train.append(root)
 
         c += 1
-    print(l1, l2, l3, l4)
+    # print(l1, l2, l3, l4)
 
-    print("loading test set")
+    # print("loading test set")
     tree_test, word_test, index_test, y_test, c = [], [], [], [], 0
     l1, l2, l3, l4 = 0, 0, 0, 0
     for eid in open(testPath):
@@ -179,10 +177,10 @@ def loadData():
         y, l1, l2, l3, l4 = loadLabel(label, l1, l2, l3, l4)
         y_test.append(y)
         ## 2. construct tree
-        root = constructTree(treeDic[eid])
+        root = constructTree(treeDic[eid],eid)
         tree_test.append(root)
         c += 1
-    print(l1, l2, l3, l4)
+    # print(l1, l2, l3, l4)
     # print("train no:", len(tree_train), len(word_train), len(index_train), len(y_train))
     # print("test no:", len(tree_test), len(word_test), len(index_test), len(y_test))
     # print("dim1 for 0:", len(tree_train[0]), len(word_train[0]), len(index_train[0]))
@@ -218,9 +216,9 @@ model = ChildSumTreeGRU(vocabulary_size, hidden_dim, hidden_dim, Nclass).to(devi
 lossfn = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=0.001, weight_decay=0.001)
 t1 = time.time()
-print('Recursive model established,', (t1 - t0) / 60)
+# print('Recursive model established,', (t1 - t0) / 60)
 
-target_names = ['news-non-rumor', 'false', 'true', 'unverified'] #### 分类类别
+
 ## 4. train
 losses_5, losses = [], []
 num_examples_seen = 0
@@ -247,12 +245,27 @@ for epoch in range(Nepoch):
         print("%s: Loss after num_examples_seen=%d epoch=%d: %f" % (time, num_examples_seen, epoch, torch.mean(torch.tensor(losses))))
         sys.stdout.flush()
         prediction = []
+        pairings = []
         for j in range(len(y_test)):
-            prediction.append(model(tree_test[j]).argmax().cpu())
+            prediction_output = model(tree_test[j]).argmax().cpu()
+            # print(tree_test[j].children)
+            # print(tree_test[j].parent)
+            # print(tree_test[j].idx) # useless garbage information. doesn't mean anything unless you understand structure
+            print(tree_test[j].root_tweet_idx) # added this into the class to ensure we can at least pull the tree out.
+            print("Predicted:",prediction_output)
+            print("Actual:",y_test[j])
+            prediction.append(prediction_output)
+            # print(tree_test[j].root_tweet_idx,"Predicted:",prediction_output," Actual:",y_test[j])
+            pairings.append([tree_test[j].root_tweet_idx, int(prediction_output), int(y_test[j])])
+            
         # print(y_test.cpu(), prediction)
         res = classification_report(y_test.cpu(), prediction, target_names=target_names)
         print('results:')
         print(res)
+        torch.save(model.state_dict(),"pytorch_rvnn_"+str(epoch)+".torch")
+        pairings.append(res.__str__())
+        with open("pytorch_rvnn_predictions_"+str(epoch)+".json","w",encoding="utf-8") as jsondumpfile:
+            json.dump(pairings,jsondumpfile,indent=4)
     sys.stdout.flush()
     losses = []
 
