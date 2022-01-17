@@ -20,7 +20,8 @@ from sklearn.metrics import f1_score
 from sklearn.metrics import classification_report
 from evaluate import *
 
-obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
+# obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
+obj = "PHEME"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
 fold = "2"  # fold index, choose from 0-4
 tag = "_u2b"
 vocabulary_size = 5000
@@ -32,12 +33,17 @@ lr = 0.005
 unit = "TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag
 
 # treePath = "../resource/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
-treePath = "../resource/shaun_TD.txt"
 
-trainPath = "../nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
-testPath = "../nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
-labelPath = "../resource/" + obj + "_label_All.txt"
+# trainPath = "../nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
+# testPath = "../nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
+# labelPath = "../resource/" + obj + "_label_All.txt"
 
+
+treePath = "../../preprocess/data.TD_PHEME.vol_" + str(vocabulary_size) +".txt"
+
+trainPath = "../../preprocess/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
+testPath = "../../preprocess/RNNtestSet_" + obj + str(fold) + "_tree.txt"
+labelPath = "../../preprocess/" + obj + "_label_All.txt"
 
 ################################### tools #####################################
 def str2matrix(Str, MaxL):  # str = index:wordfreq index:wordfreq
@@ -122,6 +128,7 @@ def loadData():
     treeDic = {}
     for line in open(treePath):
         line = line.rstrip()
+        print(line)
         eid, indexP, indexC = (
             line.split("\t")[0],
             line.split("\t")[1],
