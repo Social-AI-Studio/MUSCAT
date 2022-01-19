@@ -151,10 +151,11 @@ For the current reported results, `charliehebdo` was left out as validation set,
 Experiment results for PHEME dataset
 |Model| Lang | Macro-F1| True F1| False F1| Verified F1| Unverified F1|
 |---|---|---|---|---|---|---|
-| SVM | EN | | | |
-| SVM | ID | |  | |
-| LSTM | EN | | | |
-| LSTM | ID | |  | |
+| SVM | EN | 0.193 | | |
+| SVM | ID | 0.218 |  | |
+| SVM | EN+ID | 0.189 |  | |
+| LSTM | EN | 0.196 | | |
+| LSTM | ID | 0.204 |  | |
 | Branch-LSTM | EN |0.290 | | |
 | Branch-LSTM | ID | |  | |
 | BERT | EN | 0.382 | | |
