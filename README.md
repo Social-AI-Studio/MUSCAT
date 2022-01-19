@@ -105,7 +105,44 @@ Observation:
 - Overwhelming misclassification of non-rumor class. Possible to use weighted sampling to combat this?
 
 ##### Branch-LSTM
-@Dan: Describe how the model is implemented and its hyperparameters.
+
+Code was taken from [Kochkina, 2018](https://github.com/kochkinaelena/Multitask4Veracity)
+
+Experiment was done with the veracity + detection multitask model. Could not run hyperparameters optimization and no optimal params was provided, therefore model was trained with the following parameters (selected from suggested parameters in author's optimization script):
+
+```
+{'num_dense_layers': 2,
+'num_dense_units': 300,
+'num_epochs': 5,
+'num_lstm_units': 100,
+'num_lstm_layers': 2,
+'learn_rate': 1e-4,
+'batchsize': 32,
+'l2reg': 1e-3}
+```
+
+Preprocessing script was not provided; however from the paper, it seems that it was a modified version of an old BranchLSTM single task model's preprocessing script [here](https://github.com/kochkinaelena/branchLSTM)
+
+**Observation**:
+
+- Loss for task B (veracity classification) was really high (>100k) and increasing as training goes, even though training accuracy increases. Might be a result of loss function choice or hyperparameters. Need to investigate this
+
+##### BERT
+
+Used the same concatenated dataset as SVM and LSTM above. Preprocessing was done with AngryBERT preprocessing script [here](https://gitlab.com/bottle_shop/safe/angrybert/-/blob/master/Bert-MTL/preprocessing.py).
+
+Pretrained model was loaded and finetuned. Model used for English is `bert-base-uncased`, for Indo is `indolem/indobert-base-uncased`
+
+Hyperparameters used:
+
+- Batch size: 4
+- Epochs: 5
+- Optimizer: AdamW
+- Max sequence length: 512
+- Learning rate: 1e-3
+- Optimizer epsilon: 1e-6
+
+For the current reported results, `charliehebdo` was left out as validation set, 8 others used for training.
 
 ##### RvNN
 @Rabiul: Describe how the model is implemented and its hyperparameters.
@@ -118,8 +155,10 @@ Experiment results for PHEME dataset
 | SVM | ID | |  | |
 | LSTM | EN | | | |
 | LSTM | ID | |  | |
-| Branch-LSTM | EN | | | |
+| Branch-LSTM | EN |0.290 | | |
 | Branch-LSTM | ID | |  | |
+| BERT | EN | 0.382 | | |
+| BERT | ID | 0.357 |  | |
 |RvNN| EN|  |  | |
 |RvNN| ID| | |  |
 
