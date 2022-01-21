@@ -5,7 +5,7 @@ import os
 cwd=os.getcwd()
 
 def load5foldData(obj):
-    if 'Twitter' in obj:
+    if 'Twitter' or 'PHEME' in obj:
         labelPath = os.path.join(cwd,"data/" +obj+"/"+ obj + "_label_All.txt")
         labelset_nonR, labelset_f, labelset_t, labelset_u = ['news', 'non-rumor'], ['false'], ['true'], ['unverified']
         print("loading tree label" )
