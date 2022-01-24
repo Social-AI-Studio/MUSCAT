@@ -110,10 +110,12 @@ def train_GCN(treeDic, x_test, x_train,TDdroprate,BUdroprate,lr, weight_decay,pa
     train_accs = []
     val_accs = []
     early_stopping = EarlyStopping(patience=patience, verbose=True)
+
+    traindata_list, testdata_list = loadBiData(dataname, treeDic, x_train, x_test, TDdroprate,BUdroprate)
+    train_loader = DataLoader(traindata_list, batch_size=batchsize, shuffle=True, num_workers=5)
+    test_loader = DataLoader(testdata_list, batch_size=batchsize, shuffle=True, num_workers=5)
+
     for epoch in range(n_epochs):
-        traindata_list, testdata_list = loadBiData(dataname, treeDic, x_train, x_test, TDdroprate,BUdroprate)
-        train_loader = DataLoader(traindata_list, batch_size=batchsize, shuffle=True, num_workers=5)
-        test_loader = DataLoader(testdata_list, batch_size=batchsize, shuffle=True, num_workers=5)
         avg_loss = []
         avg_acc = []
         batch_idx = 0
@@ -131,9 +133,9 @@ def train_GCN(treeDic, x_test, x_train,TDdroprate,BUdroprate,lr, weight_decay,pa
             correct = pred.eq(Batch_data.y).sum().item()
             train_acc = correct / len(Batch_data.y)
             avg_acc.append(train_acc)
-            print("Iter {:03d} | Epoch {:05d} | Batch{:02d} | Train_Loss {:.4f}| Train_Accuracy {:.4f}".format(iter,epoch, batch_idx,
-                                                                                                 loss.item(),
-                                                                                                 train_acc))
+            # print("Iter {:03d} | Epoch {:05d} | Batch{:02d} | Train_Loss {:.4f}| Train_Accuracy {:.4f}".format(iter,epoch, batch_idx,
+            #                                                                                      loss.item(),
+            #                                                                                      train_acc))
             batch_idx = batch_idx + 1
 
         train_losses.append(np.mean(avg_loss))
@@ -168,8 +170,8 @@ def train_GCN(treeDic, x_test, x_train,TDdroprate,BUdroprate,lr, weight_decay,pa
             temp_val_accs.append(val_acc)
         val_losses.append(np.mean(temp_val_losses))
         val_accs.append(np.mean(temp_val_accs))
-        print("Epoch {:05d} | Val_Loss {:.4f}| Val_Accuracy {:.4f}".format(epoch, np.mean(temp_val_losses),
-                                                                           np.mean(temp_val_accs)))
+        # print("Epoch {:05d} | Val_Loss {:.4f}| Val_Accuracy {:.4f}".format(epoch, np.mean(temp_val_losses),
+        #                                                                    np.mean(temp_val_accs)))
 
         res = ['acc:{:.4f}'.format(np.mean(temp_val_Acc_all)),
                'C1:{:.4f},{:.4f},{:.4f},{:.4f}'.format(np.mean(temp_val_Acc1), np.mean(temp_val_Prec1),
@@ -180,7 +182,8 @@ def train_GCN(treeDic, x_test, x_train,TDdroprate,BUdroprate,lr, weight_decay,pa
                                                        np.mean(temp_val_Recll3), np.mean(temp_val_F3)),
                'C4:{:.4f},{:.4f},{:.4f},{:.4f}'.format(np.mean(temp_val_Acc4), np.mean(temp_val_Prec4),
                                                        np.mean(temp_val_Recll4), np.mean(temp_val_F4))]
-        print('results:', res)
+        if epoch % 5 == 0:
+            print('results:', res)
         early_stopping(np.mean(temp_val_losses), np.mean(temp_val_accs), np.mean(temp_val_F1), np.mean(temp_val_F2),
                        np.mean(temp_val_F3), np.mean(temp_val_F4), model, 'BiGCN', dataname)
         accs =np.mean(temp_val_accs)
@@ -214,13 +217,15 @@ NR_F1 = []
 FR_F1 = []
 TR_F1 = []
 UR_F1 = []
+
+fold0_x_test, fold0_x_train, \
+fold1_x_test,  fold1_x_train,  \
+fold2_x_test, fold2_x_train, \
+fold3_x_test, fold3_x_train, \
+fold4_x_test,fold4_x_train = load5foldData(datasetname)
+treeDic=loadTree(datasetname)
+
 for iter in range(iterations):
-    fold0_x_test, fold0_x_train, \
-    fold1_x_test,  fold1_x_train,  \
-    fold2_x_test, fold2_x_train, \
-    fold3_x_test, fold3_x_train, \
-    fold4_x_test,fold4_x_train = load5foldData(datasetname)
-    treeDic=loadTree(datasetname)
     train_losses, val_losses, train_accs, val_accs0, accs0, F1_0, F2_0, F3_0, F4_0 = train_GCN(treeDic,
                                                                                                fold0_x_test,
                                                                                                fold0_x_train,

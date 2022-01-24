@@ -14,4 +14,4 @@ python ./Process/getTwittergraph.py PHEME
 # python ./model/Weibo/BiGCN_Weibo.py 100
 # python ./model/Twitter/BiGCN_Twitter.py Twitter15 100
 # python ./model/Twitter/BiGCN_Twitter.py Twitter16 100
-python ./model/Twitter/BiGCN_Twitter.py PHEME 100
+python ./model/Twitter/BiGCN_Twitter.py PHEME 20
