@@ -1,5 +1,6 @@
 import os
 import logging
+from posixpath import join
 from tqdm import tqdm
 
 logging.basicConfig(
@@ -9,9 +10,11 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+par_dir = os.path.dirname(os.getcwd())
 
-def leave_one_out_gen():
-    dir_name = "all-rnr-annotated-threads/"
+
+def load9foldData():
+    dir_name = os.path.join(par_dir, "all-rnr-annotated-threads")
     sub_dirs = os.listdir(dir_name)
 
     event_folds = {}
@@ -36,6 +39,7 @@ def leave_one_out_gen():
                 )
                 event_folds[event_dir].append(int(tweet_tree_idx))
 
+    folds_dict = {}
     for i, cur_key in enumerate(event_folds):
         logger.info(f"Processing fold {i}# {cur_key}")
 
@@ -48,8 +52,12 @@ def leave_one_out_gen():
         logger.info(f"train sample size --> {len(train_identifiers)}")
         logger.info(f"test sample size --> {len(test_identifiers)}")
 
-        test_fname = "preprocess/folds9/RNNtestSet_PHEME" + str(i) + "_tree.txt"
-        train_fname = "preprocess/folds9/RNNtrainSet_PHEME" + str(i) + "_tree.txt"
+        test_fname = os.path.join(
+            par_dir, "preprocess/folds9/RNNtestSet_PHEME" + str(i) + "_tree.txt"
+        )
+        train_fname = os.path.join(
+            par_dir, "preprocess/folds9/RNNtrainSet_PHEME" + str(i) + "_tree.txt"
+        )
         with open(train_fname, "w") as filehandle:
             filehandle.writelines(
                 "%s\n" % tree_idx for tree_idx in list(train_identifiers)
@@ -59,7 +67,10 @@ def leave_one_out_gen():
             filehandle.writelines(
                 "%s\n" % tree_idx for tree_idx in list(test_identifiers)
             )
+        folds_dict[i] = (train_identifiers, test_identifiers)
+
+    return folds_dict
 
 
 if __name__ == "__main__":
-    leave_one_out_gen()
+    load9foldData()
