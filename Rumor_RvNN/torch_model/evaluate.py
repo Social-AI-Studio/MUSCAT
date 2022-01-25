@@ -157,11 +157,11 @@ def evaluation_4class(prediction, y): # 4 dim
     RMSE_all_3 = round( ( RMSE3/len(y) )**0.5, 4)
     RMSE_all_4 = round( ( RMSE4/len(y) )**0.5, 4)
     RMSE_all_avg = round( ( RMSE_all_1+RMSE_all_2+RMSE_all_3+RMSE_all_4 )/4, 4)
-    return ['acc:', Acc_all, 'Favg:',microF, RMSE_all, RMSE_all_avg, 
-            'C1:',Acc1, Prec1, Recll1, F1,
-            'C2:',Acc2, Prec2, Recll2, F2,
-            'C3:',Acc3, Prec3, Recll3, F3,
-            'C4:',Acc4, Prec4, Recll4, F4]
+    return {'acc': Acc_all, 'Favg': microF,  
+            'C1': [Acc1, Prec1, Recll1, F1],
+            'C2': [Acc2, Prec2, Recll2, F2],
+            'C3': [Acc3, Prec3, Recll3, F3],
+            'C4': [Acc4, Prec4, Recll4, F4]}
     
 def write2Predict_oneVSall(prediction, y, resultPath): ## no. of time series 
     fout = open(resultPath, 'w')

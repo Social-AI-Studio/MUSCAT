@@ -1,0 +1,65 @@
+import os
+import logging
+from tqdm import tqdm
+
+logging.basicConfig(
+    format="%(asctime)s,%(msecs)d %(name)s:%(lineno)d %(levelname)s %(message)s",
+    datefmt="%H:%M:%S",
+    level=logging.INFO,
+)
+logger = logging.getLogger(__name__)
+
+
+def leave_one_out_gen():
+    dir_name = "all-rnr-annotated-threads/"
+    sub_dirs = os.listdir(dir_name)
+
+    event_folds = {}
+    for event_dir in sub_dirs:
+        if event_dir.startswith("."):
+            continue
+        logger.debug("\t-------------------------------------")
+        logger.info("Processing event {}".format(event_dir))
+        files = os.listdir(os.path.join(dir_name, event_dir))
+        event_folds[event_dir] = []
+        for file_name in files:
+            if file_name.startswith("."):
+                continue
+            logger.debug("***** Working on {} dir *****".format(file_name))
+            annot_subfile = os.path.join(dir_name, event_dir, file_name)
+            tweet_tree_dirs = os.listdir(annot_subfile)
+            for idx, tweet_tree_idx in enumerate(tqdm(tweet_tree_dirs)):
+                if tweet_tree_idx.startswith("."):
+                    continue
+                logger.debug(
+                    "***** Processing tweet id {} *****".format(tweet_tree_idx)
+                )
+                event_folds[event_dir].append(int(tweet_tree_idx))
+
+    for i, cur_key in enumerate(event_folds):
+        logger.info(f"Processing fold {i}# {cur_key}")
+
+        test_identifiers = event_folds[cur_key]
+        train_identifiers = []
+
+        for it_key in event_folds:
+            if it_key != cur_key:
+                train_identifiers.extend(event_folds[it_key])
+        logger.info(f"train sample size --> {len(train_identifiers)}")
+        logger.info(f"test sample size --> {len(test_identifiers)}")
+
+        test_fname = "preprocess/folds9/RNNtestSet_PHEME" + str(i) + "_tree.txt"
+        train_fname = "preprocess/folds9/RNNtrainSet_PHEME" + str(i) + "_tree.txt"
+        with open(train_fname, "w") as filehandle:
+            filehandle.writelines(
+                "%s\n" % tree_idx for tree_idx in list(train_identifiers)
+            )
+
+        with open(test_fname, "w") as filehandle:
+            filehandle.writelines(
+                "%s\n" % tree_idx for tree_idx in list(test_identifiers)
+            )
+
+
+if __name__ == "__main__":
+    leave_one_out_gen()

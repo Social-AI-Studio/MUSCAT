@@ -148,8 +148,8 @@ def load5foldData(obj, shuffle_flag=True, seed=2020):
     train_identifiers = [fold0_train, fold1_train, fold3_train, fold4_train]
     test_identifiers = [fold0_test, fold1_test, fold3_test, fold4_test]
     for i in range(4):
-        test_fname = "preprocess/RNNtestSet_PHEME" + str(i) + "_tree.txt"
-        train_fname = "preprocess/RNNtrainSet_PHEME" + str(i) + "_tree.txt"
+        test_fname = "preprocess/folds5/RNNtestSet_PHEME" + str(i) + "_tree.txt"
+        train_fname = "preprocess/folds5/RNNtrainSet_PHEME" + str(i) + "_tree.txt"
         with open(train_fname, "w") as filehandle:
             filehandle.writelines(
                 "%s\n" % tree_idx for tree_idx in list(train_identifiers[i])
@@ -173,3 +173,6 @@ def load5foldData(obj, shuffle_flag=True, seed=2020):
         list(fold3_train),
         list(fold4_train),
     ]
+
+if __name__ == "__main__":
+    load5foldData(obj="PHEME")
