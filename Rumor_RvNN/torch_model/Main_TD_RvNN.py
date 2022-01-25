@@ -40,7 +40,7 @@ Nclass = 4
 Nepoch = 600
 lr = 0.005
 
-unit = "../output/TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag + ".json"
+# unit = "../output/TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag + ".json"
 
 # treePath = "../resource/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
 
@@ -285,8 +285,9 @@ losses_5, losses = [], []
 num_examples_seen = 0
 indexs = [i for i in range(len(y_train))]
 
-best_f1 = 0.0
+best_f1 = -1.0
 best_result = {}
+best_pred = []
 for epoch in range(Nepoch):
     ## one SGD
     random.shuffle(indexs)
@@ -321,8 +322,9 @@ for epoch in range(Nepoch):
         # print("predictions:", prediction)
         res = evaluation_4class(prediction, y_test)
         cur_f1 = res.get("Favg")
-        if cur_f1 > best_f1:
+        if cur_f1 >= best_f1:
             best_result = res
+            best_pred = prediction
         # res = classification_report(prediction, y_test)
         print("results:", res)
         sys.stdout.flush()
@@ -336,5 +338,22 @@ for epoch in range(Nepoch):
 
 print(f"best resutl --> {best_result}")
 
-with open(unit, "w") as fp:
+eval_fname = os.path.join("../output", f"fold{fold}", "eval_result.json")
+pred_fname = os.path.join("../output", f"fold{fold}", "pred.txt")
+true_fname = os.path.join("../output", f"fold{fold}", "true.txt")
+best_pred = np.argmax(best_pred, axis = 1)
+true = np.argmax(y_test, axis = 1)
+
+with open(eval_fname, "w") as fp:
     json.dump(best_result, fp)
+
+with open(pred_fname, "w") as fp:
+    fp.writelines(
+        "%s\n" % pred for pred in list(best_pred)
+    )
+
+with open(true_fname, "w") as fp:
+    fp.writelines(
+        "%s\n" % label for label in list(true)
+    )
+
