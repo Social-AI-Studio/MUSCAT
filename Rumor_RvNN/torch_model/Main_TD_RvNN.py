@@ -13,16 +13,26 @@ import sys
 import numpy as np
 import TD_RvNN
 import time
+import json
 import random
 import torch.optim as optim
 import datetime
 from sklearn.metrics import f1_score
 from sklearn.metrics import classification_report
 from evaluate import *
+import argparse
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument("--fold", default="3", type=str,
+                    help="validation folder")
+args = parser.parse_args()
+
+
 
 # obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
 obj = "PHEME"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
-fold = "2"  # fold index, choose from 0-4
+fold = args.fold  # fold index, choose from 0-4
 tag = "_u2b"
 vocabulary_size = 5000
 hidden_dim = 100
@@ -30,7 +40,7 @@ Nclass = 4
 Nepoch = 600
 lr = 0.005
 
-unit = "TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag
+# unit = "../output/TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag + ".json"
 
 # treePath = "../resource/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
 
@@ -39,10 +49,10 @@ unit = "TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag
 # labelPath = "../resource/" + obj + "_label_All.txt"
 
 
-treePath = "../../preprocess/data.TD_PHEME.vol_" + str(vocabulary_size) +".txt"
+treePath = "../../preprocess/data.TD_PHEME.vol_" + str(vocabulary_size) + ".txt"
 
-trainPath = "../../preprocess/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
-testPath = "../../preprocess/RNNtestSet_" + obj + str(fold) + "_tree.txt"
+trainPath = "../../preprocess/folds9/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
+testPath = "../../preprocess/folds9/RNNtestSet_" + obj + str(fold) + "_tree.txt"
 labelPath = "../../preprocess/" + obj + "_label_All.txt"
 
 ################################### tools #####################################
@@ -128,7 +138,7 @@ def loadData():
     treeDic = {}
     for line in open(treePath):
         line = line.rstrip()
-        print(line)
+        # print(line)
         eid, indexP, indexC = (
             line.split("\t")[0],
             line.split("\t")[1],
@@ -274,6 +284,10 @@ optimizer = optim.Adagrad(model.parameters(), lr=0.01)
 losses_5, losses = [], []
 num_examples_seen = 0
 indexs = [i for i in range(len(y_train))]
+
+best_f1 = -1.0
+best_result = {}
+best_pred = []
 for epoch in range(Nepoch):
     ## one SGD
     random.shuffle(indexs)
@@ -286,11 +300,11 @@ for epoch in range(Nepoch):
         optimizer.step()
         losses.append(loss.data)
         num_examples_seen += 1
-        print("epoch=%d: idx=%d, loss=%f" % (epoch, i, np.mean(losses)))
+        # print("epoch=%d: idx=%d, loss=%f" % (epoch, i, np.mean(losses)))
         if i == indexs[10]:
             break
     ## cal loss & evaluate
-    if epoch % 1 == 0:
+    if epoch % 25 == 0:
         losses_5.append((num_examples_seen, np.mean(losses)))
         time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         print(
@@ -307,6 +321,10 @@ for epoch in range(Nepoch):
             )
         # print("predictions:", prediction)
         res = evaluation_4class(prediction, y_test)
+        cur_f1 = res.get("Favg")
+        if cur_f1 >= best_f1:
+            best_result = res
+            best_pred = prediction
         # res = classification_report(prediction, y_test)
         print("results:", res)
         sys.stdout.flush()
@@ -317,3 +335,25 @@ for epoch in range(Nepoch):
             sys.stdout.flush()
     sys.stdout.flush()
     losses = []
+
+print(f"best resutl --> {best_result}")
+
+eval_fname = os.path.join("../output", f"fold{fold}", "eval_result.json")
+pred_fname = os.path.join("../output", f"fold{fold}", "pred.txt")
+true_fname = os.path.join("../output", f"fold{fold}", "true.txt")
+best_pred = np.argmax(best_pred, axis = 1)
+true = np.argmax(y_test, axis = 1)
+
+with open(eval_fname, "w") as fp:
+    json.dump(best_result, fp)
+
+with open(pred_fname, "w") as fp:
+    fp.writelines(
+        "%s\n" % pred for pred in list(best_pred)
+    )
+
+with open(true_fname, "w") as fp:
+    fp.writelines(
+        "%s\n" % label for label in list(true)
+    )
+
