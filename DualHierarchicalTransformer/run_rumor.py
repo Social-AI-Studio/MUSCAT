@@ -39,7 +39,7 @@ from my_bert.optimization import BertAdam
 from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
 
 from sklearn.metrics import precision_recall_fscore_support
-
+from sklearn.metrics import classification_report as cls_report
 
 logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
                     datefmt = '%m/%d/%Y %H:%M:%S',
@@ -577,7 +577,9 @@ def rumor_macro_f1(y_true, y_pred):
     p_macro, r_macro, f_macro, support_macro \
       = precision_recall_fscore_support(true, preds, average='macro')
     #f_macro = 2*p_macro*r_macro/(p_macro+r_macro)
-    return p_macro, r_macro, f_macro
+    report = cls_report(true, preds, output_dict=True)
+    print(report)
+    return report
 
 def warmup_linear(x, warmup=0.002):
     if x < warmup:
@@ -1055,10 +1057,16 @@ def main():
             loss = tr_loss / nb_tr_steps if args.do_train else None
             true_label = np.concatenate(true_label_list)
             pred_outputs = np.concatenate(pred_label_list)
-            precision, recall, F_score = rumor_macro_f1(true_label, pred_outputs)
+            report = rumor_macro_f1(true_label, pred_outputs)
+            F_score = report.get('macro avg').get('f1-score')
+            precision = report.get('macro avg').get('precision')
+            recall = report.get('macro avg').get('recall')
             result = {'eval_loss': eval_loss,
                       'eval_accuracy': eval_accuracy,
                       'f_score': F_score,
+                      'true_f1': report.get('1').get('f1-score'),
+                      'false_f1': report.get('0').get('f1-score'),
+                      'unverified_f1': report.get('2').get('f1-score'),
                       'global_step': global_step,
                       'loss': loss}
 
@@ -1126,10 +1134,16 @@ def main():
             loss = tr_loss / nb_tr_steps if args.do_train else None
             true_label = np.concatenate(true_label_list)
             pred_outputs = np.concatenate(pred_label_list)
-            precision, recall, F_score = rumor_macro_f1(true_label, pred_outputs)
+            report = rumor_macro_f1(true_label, pred_outputs)
+            F_score = report.get('macro avg').get('f1-score')
+            precision = report.get('macro avg').get('precision')
+            recall = report.get('macro avg').get('recall')
             result = {'eval_loss': eval_loss,
                       'eval_accuracy': eval_accuracy,
                       'f_score': F_score,
+                      'true_f1': report.get('1').get('f1-score'),
+                      'false_f1': report.get('0').get('f1-score'),
+                      'unverified_f1': report.get('2').get('f1-score'),
                       'global_step': global_step,
                       'loss': loss}
 
@@ -1225,12 +1239,16 @@ def main():
         loss = tr_loss/nb_tr_steps if args.do_train else None
         true_label = np.concatenate(true_label_list)
         pred_outputs = np.concatenate(pred_label_list)
-        precision, recall, F_score = rumor_macro_f1(true_label, pred_outputs)
+        report = rumor_macro_f1(true_label, pred_outputs)
+        F_score = report.get('macro avg').get('f1-score')
+        precision = report.get('macro avg').get('precision')
+        recall = report.get('macro avg').get('recall')
         result = {'eval_loss': eval_loss,
                   'eval_accuracy': eval_accuracy,
-                  'precision': precision,
-                  'recall': recall,
                   'f_score': F_score,
+                  'true_f1': report.get('1').get('f1-score'),
+                  'false_f1': report.get('0').get('f1-score'),
+                  'unverified_f1': report.get('2').get('f1-score'),
                   'global_step': global_step,
                   'loss': loss}
 
