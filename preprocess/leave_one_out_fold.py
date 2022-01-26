@@ -2,6 +2,7 @@ import os
 import logging
 from posixpath import join
 from tqdm import tqdm
+import time
 
 logging.basicConfig(
     format="%(asctime)s,%(msecs)d %(name)s:%(lineno)d %(levelname)s %(message)s",
@@ -18,11 +19,12 @@ def load9foldData():
     sub_dirs = os.listdir(dir_name)
 
     event_folds = {}
+    pbar = tqdm(range(len(sub_dirs)), desc="Event")
     for event_dir in sub_dirs:
         if event_dir.startswith("."):
             continue
         logger.debug("\t-------------------------------------")
-        logger.info("Processing event {}".format(event_dir))
+        logger.debug("Processing event {}".format(event_dir))
         files = os.listdir(os.path.join(dir_name, event_dir))
         event_folds[event_dir] = []
         for file_name in files:
@@ -31,7 +33,9 @@ def load9foldData():
             logger.debug("***** Working on {} dir *****".format(file_name))
             annot_subfile = os.path.join(dir_name, event_dir, file_name)
             tweet_tree_dirs = os.listdir(annot_subfile)
-            for idx, tweet_tree_idx in enumerate(tqdm(tweet_tree_dirs)):
+            for idx, tweet_tree_idx in enumerate(tweet_tree_dirs):
+                pbar.set_postfix({"Tree": idx})
+                time.sleep(0.0001)
                 if tweet_tree_idx.startswith("."):
                     continue
                 logger.debug(
@@ -49,8 +53,9 @@ def load9foldData():
         for it_key in event_folds:
             if it_key != cur_key:
                 train_identifiers.extend(event_folds[it_key])
-        logger.info(f"train sample size --> {len(train_identifiers)}")
-        logger.info(f"test sample size --> {len(test_identifiers)}")
+        logger.info(
+            f"sample size: train {len(train_identifiers)}, test {len(test_identifiers)}"
+        )
 
         test_fname = os.path.join(
             par_dir, "preprocess/folds9/RNNtestSet_PHEME" + str(i) + "_tree.txt"
