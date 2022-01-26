@@ -16,5 +16,5 @@ for sub_dir in os.listdir(dir_name):
     true_all.extend(true)
     pred_all.extend(pred)
 
-cls_report = classification_report(pred_all, true_all)
+cls_report = classification_report(true_all, pred_all)
 print(cls_report)
