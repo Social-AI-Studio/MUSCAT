@@ -1,7 +1,17 @@
 import os
 import numpy as np
+import argparse
 
-dir_name = "output_v7"
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "--data_dir",
+    default="output_v7",
+    help="output dir where evaluation files are stored.",
+)
+args = parser.parse_args()
+
+print(f"Generating reports from {args.data_dir}")
+dir_name = args.data_dir
 files = os.listdir(dir_name)
 
 avg_results = {}

@@ -79,8 +79,8 @@ def convert_pheme_sequential():
         )
         foutdir = os.path.join(outdir, f"split_{i}")
         os.makedirs(foutdir, exist_ok=True)
-        test_fname = os.path.join(foutdir, "train.json")
-        train_fname = os.path.join(foutdir, "test.json")
+        train_fname = os.path.join(foutdir, "train.json")
+        test_fname = os.path.join(foutdir, "test.json")
         with open(train_fname, "w") as filehandle:
             filehandle.writelines(
                 "%s\n" % tree_idx for tree_idx in list(train_identifiers)
