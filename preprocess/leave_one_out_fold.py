@@ -45,8 +45,6 @@ def load9foldData():
 
     folds_dict = {}
     for i, cur_key in enumerate(event_folds):
-        logger.info(f"Processing fold {i}# {cur_key}")
-
         test_identifiers = event_folds[cur_key]
         train_identifiers = []
 
@@ -54,7 +52,7 @@ def load9foldData():
             if it_key != cur_key:
                 train_identifiers.extend(event_folds[it_key])
         logger.info(
-            f"sample size: train {len(train_identifiers)}, test {len(test_identifiers)}"
+            f"Loading fold {i}# {split_key} \t sample size: train {len(train_identifiers)}, test {len(test_identifiers)}"
         )
 
         test_fname = os.path.join(

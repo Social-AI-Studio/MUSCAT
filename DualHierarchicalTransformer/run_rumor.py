@@ -1064,9 +1064,9 @@ def main():
             result = {'eval_loss': eval_loss,
                       'eval_accuracy': eval_accuracy,
                       'f_score': F_score,
-                      'true_f1': report.get('1').get('f1-score'),
-                      'false_f1': report.get('0').get('f1-score'),
-                      'unverified_f1': report.get('2').get('f1-score'),
+                      'true_f1': report.get('1',{}).get('f1-score'),
+                      'false_f1': report.get('0',{}).get('f1-score'),
+                      'unverified_f1': report.get('2',{}).get('f1-score'),
                       'global_step': global_step,
                       'loss': loss}
 
@@ -1141,9 +1141,9 @@ def main():
             result = {'eval_loss': eval_loss,
                       'eval_accuracy': eval_accuracy,
                       'f_score': F_score,
-                      'true_f1': report.get('1').get('f1-score'),
-                      'false_f1': report.get('0').get('f1-score'),
-                      'unverified_f1': report.get('2').get('f1-score'),
+                      'true_f1': report.get('1',{}).get('f1-score'),
+                      'false_f1': report.get('0',{}).get('f1-score'),
+                      'unverified_f1': report.get('2',{}).get('f1-score'),
                       'global_step': global_step,
                       'loss': loss}
 
@@ -1246,9 +1246,9 @@ def main():
         result = {'eval_loss': eval_loss,
                   'eval_accuracy': eval_accuracy,
                   'f_score': F_score,
-                  'true_f1': report.get('1').get('f1-score'),
-                  'false_f1': report.get('0').get('f1-score'),
-                  'unverified_f1': report.get('2').get('f1-score'),
+                  'true_f1': report.get('1',{}).get('f1-score'),
+                  'false_f1': report.get('0',{}).get('f1-score'),
+                  'unverified_f1': report.get('2',{}).get('f1-score'),
                   'global_step': global_step,
                   'loss': loss}
 

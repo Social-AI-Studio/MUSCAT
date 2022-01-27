@@ -1,4 +1,5 @@
 import sys
+import re
 import os
 import json
 import logging
@@ -54,11 +55,13 @@ def convert_pheme_sequential():
                     label = 3
 
                 pheme_info_all[event_dir].append(
-                    {
-                        "id_": tweet_tree_idx,
-                        "label": label,
-                        "tweets": tweet_thread,
-                    }
+                    json.dumps(
+                        {
+                            "id_": tweet_tree_idx,
+                            "label": label,
+                            "tweets": tweet_thread,
+                        }
+                    )
                 )
                 logger.debug(
                     f"id_: {tweet_tree_idx}, label: {label}, tweets: {tweet_thread}"
@@ -123,7 +126,7 @@ class DataProcessor:
                 cur_tweet = self.get_reaction_tweet(children)
             else:
                 cur_tweet = self.get_source_tweet()
-
+            cur_tweet = re.sub("\n|\r", " ", cur_tweet)
             if cur_tweet:
                 # create index for children
                 if self.tweet_indices_in_tree.get(children) is None:
