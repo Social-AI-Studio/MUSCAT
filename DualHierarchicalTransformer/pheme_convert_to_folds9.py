@@ -26,6 +26,7 @@ def convert_pheme_sequential():
     sub_dirs = os.listdir(dir_name)
 
     pheme_info_all = {}
+    label_cntr = {}
     pbar = tqdm(range(len(sub_dirs)), desc="Event")
     for event_dir in sub_dirs:
         if event_dir.startswith("."):
@@ -51,8 +52,12 @@ def convert_pheme_sequential():
                 data_item_proc = DataProcessor(annot_subfile, tweet_tree_idx)
                 tweet_thread = data_item_proc.get_thread_sequential()
                 label = data_item_proc.get_label()
-                if not label:
+                if label is None:
                     label = 3
+
+                if label_cntr.get(str(label)) is None:
+                    label_cntr[str(label)] = 0
+                label_cntr[str(label)] += 1
 
                 pheme_info_all[event_dir].append(
                     json.dumps(
@@ -66,6 +71,8 @@ def convert_pheme_sequential():
                 logger.debug(
                     f"id_: {tweet_tree_idx}, label: {label}, tweets: {tweet_thread}"
                 )
+
+    logger.info(label_cntr)
     outdir = "rumor_data/pheme4cls"
     for i, split_key in enumerate(pheme_info_all):
         test_identifiers = pheme_info_all[split_key]
