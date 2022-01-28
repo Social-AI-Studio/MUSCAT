@@ -666,7 +666,7 @@ def main():
         # model = DDP(model)
         model = torch.nn.parallel.DistributedDataParallel(model)
     elif n_gpu > 1:
-        model = torch.nn.DataParallel(model, device_ids=[args.local_rank], output_device=args.local_rank)
+        model = torch.nn.DataParallel(model)
 
     # Prepare optimizer
     param_optimizer = list(model.named_parameters())
