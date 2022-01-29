@@ -45,6 +45,8 @@ def format_rumor(data_dir, fold_num):
             label = str(int(input_dict["label"]))
             train_fh.write("%s\t%s\t%s\n" % (count, label, s1))
 
+        print(f"Total train size {count}")
+
     fin = open(rumor_test_file, 'r', encoding='utf-8', newline='\n', errors='ignore')
     lines = fin.readlines()
     with open(os.path.join(rumor_dir, "dev.tsv"), 'w') as train_fh:
@@ -58,6 +60,8 @@ def format_rumor(data_dir, fold_num):
             label = str(int(input_dict["label"]))
             train_fh.write("%s\t%s\t%s\n" % (count, label, s1))
 
+        print(f"Total dev size {count}")
+
     fin = open(rumor_test_file, 'r', encoding='utf-8', newline='\n', errors='ignore')
     lines = fin.readlines()
     with open(os.path.join(rumor_dir, "test.tsv"), 'w') as test_fh:
@@ -70,6 +74,9 @@ def format_rumor(data_dir, fold_num):
             s1 = '|||||'.join(tweets)
             label = str(int(input_dict["label"]))
             test_fh.write("%s\t%s\t%s\n" % (count, label, s1))
+
+        print(f"Total test size {count}")
+
     print("\tCompleted!")
 
 

@@ -43,6 +43,9 @@ def compute_f1_report(args):
     for sub_dir in os.listdir(args.data_dir):
         pred_fname = os.path.join(args.data_dir, sub_dir, "pred.txt")
         true_fname = os.path.join(args.data_dir, sub_dir, "true.txt")
+        if not os.path.exists(pred_fname) or not os.path.exists(true_fname):
+            continue
+        print(f"########### Processing file {sub_dir} #############")
         with open(true_fname, "r") as fp:
             true = [line.strip() for line in fp]
 
