@@ -962,6 +962,7 @@ def main():
                       'true_f1': report.get('1',{}).get('f1-score'),
                       'false_f1': report.get('0',{}).get('f1-score'),
                       'unverified_f1': report.get('2',{}).get('f1-score'),
+                      'nonrumor_f1': report.get('3',{}).get('f1-score'),
                       'global_step': global_step,
                       'loss': loss}
 
@@ -1039,6 +1040,7 @@ def main():
                       'true_f1': report.get('1',{}).get('f1-score'),
                       'false_f1': report.get('0',{}).get('f1-score'),
                       'unverified_f1': report.get('2',{}).get('f1-score'),
+                      'nonrumor_f1': report.get('3',{}).get('f1-score'),
                       'global_step': global_step,
                       'loss': loss}
 
@@ -1144,6 +1146,7 @@ def main():
                   'true_f1': report.get('1',{}).get('f1-score'),
                   'false_f1': report.get('0',{}).get('f1-score'),
                   'unverified_f1': report.get('2',{}).get('f1-score'),
+                  'nonrumor_f1': report.get('3',{}).get('f1-score'),
                   'global_step': global_step,
                   'loss': loss}
 
