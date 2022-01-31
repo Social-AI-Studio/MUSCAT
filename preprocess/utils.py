@@ -246,10 +246,11 @@ def handle_punctuation(text):
     return text
 
 
-def encode_ekphrasis_en(text):
+def encode_ekphrasis_en(text, force_clean=True):
     global ekphrasis_text_processor_en
     text = " ".join(ekphrasis_text_processor_en.pre_process_doc(text))
-    text = text.replace("<user>", "")
+    if force_clean:
+        text = text.replace("<user>", "")
     text = text.replace("url", "")
     text = text.replace("<email>", "email")
     text = text.replace("<percent>", "percent")
@@ -261,7 +262,7 @@ def encode_ekphrasis_en(text):
     return text
 
 
-def preprocess_en_text(text: str):
+def preprocess_en_text(text: str, force_clean=True):
     # logger.info(text)
     # fixing apostrope
     text = text.replace("’", "'")
@@ -272,18 +273,14 @@ def preprocess_en_text(text: str):
     tokens = [fill[word] if word in fill else word for word in tokens]
     text = " ".join(tokens)
     text = re.sub("'s", "", text)
-    # logger.info(text)
-    text = encode_ekphrasis_en(text)
-    # logger.info(text)
-    text = " ".join(lemmatize_text(text))
-    # logger.info(text)
-    text = handle_punctuation(text)
-    # logger.info(text)
-    # if len(text) < 2:
-    #     logger.info(raw)
-    #     logger.info(text)
+    # call ekphrasis 
+    text = encode_ekphrasis_en(text, force_clean)
+    if force_clean:
+        # lemmatize text 
+        text = " ".join(lemmatize_text(text))
+        # remove punctuation 
+        text = handle_punctuation(text)
     return text
-
 
 def get_tfidf_top_features(documents, n_top=100):
     tfidf_vectorizer = TfidfVectorizer(
