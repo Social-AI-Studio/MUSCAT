@@ -1,5 +1,5 @@
 # SEA Rumor Dataset Collection Pipeline
- - @Dan : Describe the data collection pipline and illustrate it with a diagram 
+ - @Dan : [TOD0] Describe the data collection pipline and illustrate it with a diagram 
 
 ### Collected Dataset Statistics 
 #### Cekfakta News (Indonesia)
@@ -12,28 +12,30 @@ We have attempted to scrape the tweets relevant to 5,157 Cekfakta news articles.
 # Multilingual Rumor Detection
 
 ### Translation of PHEME Dataset
-- @Rabiul: Describe the translation process
+We have created a translated version of PHEME dataset in 5 languages. The languages are: Thai, Bahasa Indo, Bahasa Malay, Chinese and Vietnamese. The translated has exactly same size of original PHEME dataset. It contains 9 events, 6425 tweet threads encompassing 105354 tweets.  
 
 ### Translated PHEME Dataset Statistics
 The table below show the distribution of the original PHEME dataset and ther translated subsets.
 
-|Dataset|#Event|#Tweets|#Train|#Test|
+|Dataset|#Event|#Thread|#Tweets|
 |---|---|---|---|---|
-|English| | | | |
-|Bahasa (Indon)| | | | |
-|Bahasa (Malay)| | | | |
-|Chinese| | | | |
-|Thai| | | | |
-|Viet| | | | | 
+|English| 9 | 6425 | 105354 |
+|Bahasa (Indon)| 9 | 6425 | 105354 |
+|Bahasa (Malay)| 9 | 6425 | 105354 |
+|Chinese| 9 | 6425 | 105354 |
+|Thai| 9 | 6425 | 105354 |
+|Viet| 9 | 6425 | 105354 | 
 
 
-### Experiment Settings
-
-[to be updated as necessary]
-
-So far testing was done on PHEME-English and PHEME-Indo. A bilingual dataset was made, using 50% randomly sampled threads from English and the other 50% from Indo
+# Experiments
+**Settings**: We experimet with three different types of baseline model for multilingual rumor detection: i) sequential (w/o pretrained LMs), ii) tree-structured modeling and iii) sequentiona with pretrained LMs. 
+So far testing was done on monolingual only setup: PHEME-English and PHEME-Indo translated datasets separately. A bilingual dataset was made, using 50% randomly sampled threads from English and the other 50% from Indo.
 
 #### Baselines
+- Sequential baseline w/o LMs: SVM, LSTM, BranchLSTM
+- Tree-structured baselines: RvNN, BiGCN, EBGCN
+- Sequential baselines with LMs: Hierarchical Transformer, mBERT, XLM-R
+- Our propsed model: CoHiXFormer (Coattention Multilingual Hierarchical Transformer)
 
 ##### SVM
 
@@ -58,8 +60,7 @@ vectorizer = TfidfVectorizer(tokenizer=identity_tokenizer,
                                  use_idf=True)
 ```
 
-Training and testing data was split according to Leave-One-Group-Out rule. In this case, group refers to the event that the tweet thread was discussing about or relevant to (of which there are 9 in PHEME). The test was run 9 times, each with one different event group left out of training. The reported result was an average of all 9 runs.
-
+Training and testing data was split according to `Leave-One-Group-Out rule`. In this case, group refers to the event that the tweet thread was discussing about or relevant to (of which there are 9 in PHEME). The test was run 9 times, each with one different event group left out of training. The reported result was an average of all 9 runs.
 
 ##### LSTM
 
@@ -69,9 +70,9 @@ Download pretrained vectors from [FastText](https://fasttext.cc/docs/en/crawl-ve
 
 The baseline test uses the same concatenated dataset as the SVM test. Tokenization was done similarly to SVM test. Stemming was not done.
 
-URLs were replaced with a placeholder `<URL>` token. @mentions were left as is, as they might be meaningful content
+URLs, mentions, digits  were replaced with appropriate placeholders `<URL>`, `<USER>` etc. tokens. 
 
-Embedding was done with FastText. Pretrained vector embeddings were used, and embedding layer was set to trainable. Vocabulary size was limited to 50,000 words due to memory issue (English dataset has a ~70k words vocab, Indo has ~60k). Maximum sequence length was set to 3000.
+Embedding was done with `FastText` library. Pretrained vector embeddings were used, and embedding layer was set to trainable. Vocabulary size was limited to 50,000 words due to memory issue (English dataset has a ~70k words vocab, Indo has ~60k). Maximum sequence length was set to varying lengths such as 250, 300, 350 etc.
 
 Model is as followed:
 
@@ -145,27 +146,52 @@ Hyperparameters used:
 For the current reported results, `charliehebdo` was left out as validation set, 8 others used for training.
 
 ##### RvNN
-@Rabiul: Describe how the model is implemented and its hyperparameters.
+We use the torch version of the codes found in the authors github repo. There was no preprocessing script found to process new datasets. We reverse engineered a preprocessing script and matched the performance as reported in the paper. The PHEME dataset was not available at the time of this baseline publication. We tested on PHEME dataset in `leave-one-out` setting. Then, reported average on 9 events.
 
-### Experiment Results
-Experiment results for PHEME dataset
-|Model| Lang | Macro-F1| True F1| False F1| Verified F1| Unverified F1|
-|---|---|---|---|---|---|---|
-| SVM | EN | 0.193 | | |
-| SVM | ID | 0.218 |  | |
-| SVM | EN+ID | 0.189 |  | |
-| LSTM | EN | 0.196 | | |
-| LSTM | ID | 0.204 |  | |
-| Branch-LSTM | EN |0.290 | | |
-| Branch-LSTM | ID | |  | |
-| BERT | EN | 0.382 | | |
-| BERT | ID | 0.357 |  | |
-|RvNN| EN|  |  | |
-|RvNN| ID| | |  |
+##### BiGCN and EBGCN
+BiGCN and EBGCN was directy taken from authors github repo. The authors did not provide preprocessing script though. The I/O is similar to RvNN. We utilize RvNN preprocessing script (ours) here too.
 
+##### Hierarchical Transformers
+The codes are taken from authors. We directy used their scripts as they have provided models and required preprocessing scripts. This baseline is the most relevant to our proposed model as we are also exploring pre-trained transformer models.
+
+##### Proposed model
+TBA
+
+# Experiment Results
+Experiment results for PHEME **English** dataset
+
+|Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
+|---|---|---|---|---|---|---|---|---|
+| SVM | | 0.193 | | |
+| LSTM | | 0.204 |  | |
+| Branch-LSTM | |0.290 | | |
+| RvNN | | | |  |
+| BiGCN | | | |  |
+| EBGCN | | | |  |
+| mBERT | | 0.382 | | |
+| XLM-R | | |  | |
+| HierarchicalTransformer | 0.64 | 0.40 | 0.36 | 0.36  | 0.37 | 0.17 | 0.11 | 0.81 |
+| Ours | 0.67 | 0.41 | 0.34 | 0.34 | 0.33 | 0.09 | 0.12 | 0.82 |
+
+*Our proposed model is not done yet. Still on preliminary stage. Don't take our proposed model row seriously yet.*
+
+Experiment results for PHEME **Indonesia** dataset
+
+|Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
+|---|---|---|---|---|---|---|---|---|
+| SVM | |  | | |
+| LSTM | |  |  | |
+| Branch-LSTM | | | | |
+| RvNN | | | |  |
+| BiGCN | | | |  |
+| EBGCN | | | |  |
+| mBERT | |  | | |
+| XLM-R | | |  | |
+| HierarchicalTransformer |  |  |   |  |  |  |  |
+| Ours |  |  |  |  | | |  |
 
 
 ### Todos
-1. [Rabiul] write preprocessing script for RvNN
-2. [Dan] jot down model details and experimental configs for SVM and LSTM
+1. [Rabiul] Update experiments on prosposed model 
+2. [Dan] Dataset collection and jot down details on the baselines and dataset collection + annotation. 
 
