@@ -18,7 +18,7 @@ We have created a translated version of PHEME dataset in 5 languages. The langua
 The table below show the distribution of the original PHEME dataset and ther translated subsets.
 
 |Dataset|#Event|#Thread|#Tweets|
-|---|---|---|---|---|
+|---|---|---|---|
 |English| 9 | 6425 | 105354 |
 |Bahasa (Indon)| 9 | 6425 | 105354 |
 |Bahasa (Malay)| 9 | 6425 | 105354 |
@@ -190,6 +190,26 @@ Experiment results for PHEME **Indonesia** dataset
 | HierarchicalTransformer |  |  |   |  |  |  |  |
 | Ours |  |  |  |  | | |  |
 
+
+# Static Analysis on datasets
+
+Stats on thread (or tree) length:
+| Source | #Threads | eq1 | lt3 | lt5 | gt10 | gt15 | gt20 | gt30 |
+|---|---|---|---|---|---|---|---|---|
+|All samples|57825|6156|8667|13518|31464|24066|13653|5634|
+
+9 Folds distribution:
+| Fold Idx | Train | Test |
+|---|---|---|
+| 0 {TR:, FR:, UR:, NR: } | 6411 | 14 {TR:, FR:, UR:, NR: } |
+| 1 {TR:, FR:, UR:, NR: } | 5282 | 1183 |
+| 2 {TR:, FR:, UR:, NR: } | 5535 | 890  |
+| 3 {TR:, FR:, UR:, NR: } | 5956 | 469  |
+| 4 {TR:, FR:, UR:, NR: } | 6287 | 138  |
+| 5 {TR:, FR:, UR:, NR: } | 5204 | 1221 |
+| 6 {TR:, FR:, UR:, NR: } | 6192 | 233  |
+| 7 {TR:, FR:, UR:, NR: } | 4346 | 2079 |
+| 8 {TR:, FR:, UR:, NR: } | 6187 | 238  |
 
 ### Todos
 1. [Rabiul] Update experiments on prosposed model 
