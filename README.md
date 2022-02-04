@@ -162,14 +162,14 @@ Experiment results for PHEME **English** dataset
 
 |Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
 |---|---|---|---|---|---|---|---|---|
-| SVM | | 0.193 | | |
-| LSTM | | 0.204 |  | |
+| SVM | 0.621 | 0.354 | 0.338 | 0.333 | 0.321 | 0.043 | 0.176 | 0.793
+| LSTM | 0.402 | 0.315 | 0.311 | 0.294 | 0.240 | 0.125 | 0.222 | 0.589
 | Branch-LSTM | |0.290 | | |
 | RvNN | | | |  |
 | BiGCN | | | |  |
 | EBGCN | | | |  |
-| mBERT | | 0.382 | | |
-| XLM-R | | |  | |
+| mBERT | 0.564 | 0.335 | 0.333 | 0.333 | 0.262 | 0.178 | 0.126 | 0.765
+| XLM-R | 0.501 | 0.315 | 0.323 | 0.308 | 0.274 | 0.111 | 0.131 | 0.716
 | HierarchicalTransformer | 0.64 | 0.40 | 0.36 | 0.36  | 0.37 | 0.17 | 0.11 | 0.81 |
 | Ours | 0.67 | 0.41 | 0.34 | 0.34 | 0.33 | 0.09 | 0.12 | 0.82 |
 
