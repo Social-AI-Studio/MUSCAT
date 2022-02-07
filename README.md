@@ -171,7 +171,8 @@ Experiment results for PHEME **English** dataset
 | mBERT | 0.564 | 0.335 | 0.333 | 0.333 | 0.262 | 0.178 | 0.126 | 0.765
 | XLM-R | 0.501 | 0.315 | 0.323 | 0.308 | 0.274 | 0.111 | 0.131 | 0.716
 | HierarchicalTransformer | 0.64 | 0.40 | 0.36 | 0.36  | 0.37 | 0.17 | 0.11 | 0.81 |
-| Ours | 0.67 | 0.41 | 0.34 | 0.34 | 0.33 | 0.09 | 0.12 | 0.82 |
+| CoupleCoAttnTransformer (ours) | 0.63 | 0.39 | 0.35 | 0.36 | 0.35 | 0.11 | 0.17 | 0.79 |
+| CoupleCoAttnHierarchalTransformer (ours) | 0.63 | 0.37 | 0.35 | 0.35 | 0.41 | 0.08 | 0.12 | 0.80 |
 
 *Our proposed model is not done yet. Still on preliminary stage. Don't take our proposed model row seriously yet.*
 
@@ -196,7 +197,7 @@ Experiment results for PHEME **Indonesia** dataset
 Stats on thread (or tree) length:
 | Source | #Threads | eq1 | lt3 | lt5 | gt10 | gt15 | gt20 | gt30 |
 |---|---|---|---|---|---|---|---|---|
-|All samples|57825|6156|8667|13518|31464|24066|13653|5634|
+|All samples|6425|684|963|1502|3496|2674|1515|626|
 
 9 Folds distribution:
 | Fold Idx | Train | Test |
