@@ -1,0 +1,367 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246451743346614279"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 19,
+                        "probability": 0.4664,
+                        "type": "Organization",
+                        "normalized_text": "Luxury New York City"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 96,
+                        "end": 119,
+                        "url": "https://t.co/WPzActkNvO",
+                        "expanded_url": "https://twitter.com/NYCEMSwatch/status/1246451743346614279",
+                        "display_url": "twitter.com/NYCEMSwatch/st\u2026"
+                    }
+                ]
+            },
+            "id": "1246458419059412992",
+            "conversation_id": "1246458419059412992",
+            "created_at": "2020-04-04T15:23:39.000Z",
+            "reply_settings": "everyone",
+            "text": "Luxury New York City stores prepare for anarchy as EMS and first responders become overwhelmed. https://t.co/WPzActkNvO",
+            "author_id": "516213781"
+        },
+        "id": 1246458419059412992,
+        "text": "Luxury New York City stores prepare for anarchy as EMS and first responders become overwhelmed. https://t.co/WPzActkNvO",
+        "attachments": null,
+        "author_id": 516213781,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1246458419059412992,
+        "created_at": "2020-04-04T15:23:39+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 19,
+                    "probability": 0.4664,
+                    "type": "Organization",
+                    "normalized_text": "Luxury New York City"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/WPzActkNvO",
+                    "expanded_url": "https://twitter.com/NYCEMSwatch/status/1246451743346614279",
+                    "display_url": "twitter.com/NYCEMSwatch/st\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246451743346614279"
+                },
+                "id": 1246451743346614279,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246451743346614279"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 6,
+                        "end": 18,
+                        "probability": 0.6923,
+                        "type": "Place",
+                        "normalized_text": "lakeside mall"
+                    },
+                    {
+                        "start": 23,
+                        "end": 26,
+                        "probability": 0.9053,
+                        "type": "Place",
+                        "normalized_text": "nola"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 58,
+                        "end": 81,
+                        "url": "https://t.co/9FPfKazSwq",
+                        "expanded_url": "https://twitter.com/NYCEMSwatch/status/1246451743346614279",
+                        "display_url": "twitter.com/NYCEMSwatch/st\u2026"
+                    }
+                ]
+            },
+            "id": "1246454901263171586",
+            "conversation_id": "1246454901263171586",
+            "created_at": "2020-04-04T15:09:41.000Z",
+            "reply_settings": "everyone",
+            "text": "I saw lakeside mall in nola had several stores boarded up https://t.co/9FPfKazSwq",
+            "author_id": "2256001838"
+        },
+        "id": 1246454901263171586,
+        "text": "I saw lakeside mall in nola had several stores boarded up https://t.co/9FPfKazSwq",
+        "attachments": null,
+        "author_id": 2256001838,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1246454901263171586,
+        "created_at": "2020-04-04T15:09:41+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 6,
+                    "end": 18,
+                    "probability": 0.6923,
+                    "type": "Place",
+                    "normalized_text": "lakeside mall"
+                },
+                {
+                    "start": 23,
+                    "end": 26,
+                    "probability": 0.9053,
+                    "type": "Place",
+                    "normalized_text": "nola"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/9FPfKazSwq",
+                    "expanded_url": "https://twitter.com/NYCEMSwatch/status/1246451743346614279",
+                    "display_url": "twitter.com/NYCEMSwatch/st\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246451743346614279"
+                },
+                "id": 1246451743346614279,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246451743346614279"
+                }
+            ],
+            "id": "1246453092184469509",
+            "conversation_id": "1246453092184469509",
+            "created_at": "2020-04-04T15:02:29.000Z",
+            "reply_settings": "everyone",
+            "text": "And we\u2019re largely unarmed https://t.co/sacxv6XU4L",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 26,
+                        "end": 49,
+                        "url": "https://t.co/sacxv6XU4L",
+                        "expanded_url": "https://twitter.com/NYCEMSwatch/status/1246451743346614279",
+                        "display_url": "twitter.com/NYCEMSwatch/st\u2026"
+                    }
+                ]
+            },
+            "author_id": "2745345459"
+        },
+        "id": 1246453092184469509,
+        "text": "And we\u2019re largely unarmed https://t.co/sacxv6XU4L",
+        "attachments": null,
+        "author_id": 2745345459,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1246453092184469509,
+        "created_at": "2020-04-04T15:02:29+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 26,
+                    "end": 49,
+                    "url": "https://t.co/sacxv6XU4L",
+                    "expanded_url": "https://twitter.com/NYCEMSwatch/status/1246451743346614279",
+                    "display_url": "twitter.com/NYCEMSwatch/st\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246451743346614279"
+                },
+                "id": 1246451743346614279,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

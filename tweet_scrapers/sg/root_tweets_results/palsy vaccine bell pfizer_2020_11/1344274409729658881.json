@@ -1,0 +1,813 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "realityscalp",
+                        "id": "992179406"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 116,
+                        "end": 139,
+                        "url": "https://t.co/y9E0LF36SP",
+                        "expanded_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html",
+                        "display_url": "zeenews.india.com/world/covid-19\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=orig",
+                                "width": 970,
+                                "height": 545
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "COVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA",
+                        "description": "There is no evidence supporting a causal relationship between the Bell's palsy cases and the injection of the vaccine.",
+                        "unwound_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "85",
+                        "name": "Book Genre",
+                        "description": "A genre for books, like Fiction"
+                    },
+                    "entity": {
+                        "id": "847521144173350912",
+                        "name": "Comics",
+                        "description": "Comics"
+                    }
+                }
+            ],
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1344274409729658881"
+                }
+            ],
+            "id": "1397481008304320513",
+            "conversation_id": "1397481008304320513",
+            "created_at": "2021-05-26T09:13:30.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @realityscalp: \u3068\u308a\u30fb\u307f\u304d\u306e\u6f2b\u753b\u3067\u898b\u305f\u3088\u3046\u306a\u8868\u60c5\nCOVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA\nhttps://t.co/y9E0LF36SP\u2026",
+            "author_id": "755737772980211713"
+        },
+        "id": 1397481008304320513,
+        "text": "RT @realityscalp: \u3068\u308a\u30fb\u307f\u304d\u306e\u6f2b\u753b\u3067\u898b\u305f\u3088\u3046\u306a\u8868\u60c5\nCOVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA\nhttps://t.co/y9E0LF36SP\u2026",
+        "attachments": null,
+        "author_id": 755737772980211713,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "85",
+                    "name": "Book Genre",
+                    "description": "A genre for books, like Fiction"
+                },
+                "entity": {
+                    "id": "847521144173350912",
+                    "name": "Comics",
+                    "description": "Comics"
+                }
+            }
+        ],
+        "conversation_id": 1397481008304320513,
+        "created_at": "2021-05-26T09:13:30+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "realityscalp",
+                    "id": "992179406"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/y9E0LF36SP",
+                    "expanded_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html",
+                    "display_url": "zeenews.india.com/world/covid-19\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=orig",
+                            "width": 970,
+                            "height": 545
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "COVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA",
+                    "description": "There is no evidence supporting a causal relationship between the Bell's palsy cases and the injection of the vaccine.",
+                    "unwound_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1344274409729658881"
+                },
+                "id": 1344274409729658881,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "realityscalp",
+                        "id": "992179406"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 116,
+                        "end": 139,
+                        "url": "https://t.co/y9E0LF36SP",
+                        "expanded_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html",
+                        "display_url": "zeenews.india.com/world/covid-19\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=orig",
+                                "width": 970,
+                                "height": 545
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "COVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA",
+                        "description": "There is no evidence supporting a causal relationship between the Bell's palsy cases and the injection of the vaccine.",
+                        "unwound_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "85",
+                        "name": "Book Genre",
+                        "description": "A genre for books, like Fiction"
+                    },
+                    "entity": {
+                        "id": "847521144173350912",
+                        "name": "Comics",
+                        "description": "Comics"
+                    }
+                }
+            ],
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1344274409729658881"
+                }
+            ],
+            "id": "1350005116019961857",
+            "conversation_id": "1350005116019961857",
+            "created_at": "2021-01-15T09:01:16.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @realityscalp: \u3068\u308a\u30fb\u307f\u304d\u306e\u6f2b\u753b\u3067\u898b\u305f\u3088\u3046\u306a\u8868\u60c5\nCOVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA\nhttps://t.co/y9E0LF36SP\u2026",
+            "author_id": "1306858894531031041"
+        },
+        "id": 1350005116019961857,
+        "text": "RT @realityscalp: \u3068\u308a\u30fb\u307f\u304d\u306e\u6f2b\u753b\u3067\u898b\u305f\u3088\u3046\u306a\u8868\u60c5\nCOVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA\nhttps://t.co/y9E0LF36SP\u2026",
+        "attachments": null,
+        "author_id": 1306858894531031041,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "85",
+                    "name": "Book Genre",
+                    "description": "A genre for books, like Fiction"
+                },
+                "entity": {
+                    "id": "847521144173350912",
+                    "name": "Comics",
+                    "description": "Comics"
+                }
+            }
+        ],
+        "conversation_id": 1350005116019961857,
+        "created_at": "2021-01-15T09:01:16+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "realityscalp",
+                    "id": "992179406"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 116,
+                    "end": 139,
+                    "url": "https://t.co/y9E0LF36SP",
+                    "expanded_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html",
+                    "display_url": "zeenews.india.com/world/covid-19\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=orig",
+                            "width": 970,
+                            "height": 545
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "COVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA",
+                    "description": "There is no evidence supporting a causal relationship between the Bell's palsy cases and the injection of the vaccine.",
+                    "unwound_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1344274409729658881"
+                },
+                "id": 1344274409729658881,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "85",
+                        "name": "Book Genre",
+                        "description": "A genre for books, like Fiction"
+                    },
+                    "entity": {
+                        "id": "847521144173350912",
+                        "name": "Comics",
+                        "description": "Comics"
+                    }
+                }
+            ],
+            "lang": "ja",
+            "attachments": {
+                "media_keys": [
+                    "3_1344274039519338496"
+                ]
+            },
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 122,
+                        "end": 125,
+                        "probability": 0.9215,
+                        "type": "Place",
+                        "normalized_text": "\u30a4\u30ae\u30ea\u30b9"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 98,
+                        "end": 121,
+                        "url": "https://t.co/y9E0LF36SP",
+                        "expanded_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html",
+                        "display_url": "zeenews.india.com/world/covid-19\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=orig",
+                                "width": 970,
+                                "height": 545
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "COVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA",
+                        "description": "There is no evidence supporting a causal relationship between the Bell's palsy cases and the injection of the vaccine.",
+                        "unwound_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html"
+                    },
+                    {
+                        "start": 193,
+                        "end": 216,
+                        "url": "https://t.co/LoKcZhKque",
+                        "expanded_url": "https://twitter.com/realityscalp/status/1344274409729658881/photo/1",
+                        "display_url": "pic.twitter.com/LoKcZhKque"
+                    }
+                ]
+            },
+            "id": "1344274409729658881",
+            "conversation_id": "1344274409729658881",
+            "created_at": "2020-12-30T13:29:29.000Z",
+            "reply_settings": "everyone",
+            "text": "\u3068\u308a\u30fb\u307f\u304d\u306e\u6f2b\u753b\u3067\u898b\u305f\u3088\u3046\u306a\u8868\u60c5\nCOVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA\nhttps://t.co/y9E0LF36SP\n\u30a4\u30ae\u30ea\u30b9\u3067\u30d5\u30a1\u30a4\u30b6\u30fc\u306e\u30b3\u30ed\u30ca\u30ef\u30af\u30c1\u30f3\u3092\u6295\u4e0e\u3055\u308c\u305f\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2\u306e\u3046\u3061\u30014\u4eba\u304c\u30d9\u30eb\u9ebb\u75fa\u3092\u767a\u75c7\u3057\u307e\u3057\u305f\u3002\u30d9\u30eb\u9ebb\u75fa\u306f\u4e00\u6642\u7684\u306a\u9854\u9762\u795e\u7d4c\u9ebb\u75fa\u306e\u4e00\u5f62\u614b\u3067\u3059 https://t.co/LoKcZhKque",
+            "author_id": "992179406"
+        },
+        "id": 1344274409729658881,
+        "text": "\u3068\u308a\u30fb\u307f\u304d\u306e\u6f2b\u753b\u3067\u898b\u305f\u3088\u3046\u306a\u8868\u60c5\nCOVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA\nhttps://t.co/y9E0LF36SP\n\u30a4\u30ae\u30ea\u30b9\u3067\u30d5\u30a1\u30a4\u30b6\u30fc\u306e\u30b3\u30ed\u30ca\u30ef\u30af\u30c1\u30f3\u3092\u6295\u4e0e\u3055\u308c\u305f\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2\u306e\u3046\u3061\u30014\u4eba\u304c\u30d9\u30eb\u9ebb\u75fa\u3092\u767a\u75c7\u3057\u307e\u3057\u305f\u3002\u30d9\u30eb\u9ebb\u75fa\u306f\u4e00\u6642\u7684\u306a\u9854\u9762\u795e\u7d4c\u9ebb\u75fa\u306e\u4e00\u5f62\u614b\u3067\u3059 https://t.co/LoKcZhKque",
+        "attachments": {
+            "media_keys": [
+                "3_1344274039519338496"
+            ]
+        },
+        "author_id": 992179406,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "85",
+                    "name": "Book Genre",
+                    "description": "A genre for books, like Fiction"
+                },
+                "entity": {
+                    "id": "847521144173350912",
+                    "name": "Comics",
+                    "description": "Comics"
+                }
+            }
+        ],
+        "conversation_id": 1344274409729658881,
+        "created_at": "2020-12-30T13:29:29+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 122,
+                    "end": 125,
+                    "probability": 0.9215,
+                    "type": "Place",
+                    "normalized_text": "\u30a4\u30ae\u30ea\u30b9"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 121,
+                    "url": "https://t.co/y9E0LF36SP",
+                    "expanded_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html",
+                    "display_url": "zeenews.india.com/world/covid-19\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=orig",
+                            "width": 970,
+                            "height": 545
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1473432985974231044/mPltSP8h?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "COVID-19: Bell's palsy in four Pfizer volunteers not due to vaccine, says US FDA",
+                    "description": "There is no evidence supporting a causal relationship between the Bell's palsy cases and the injection of the vaccine.",
+                    "unwound_url": "https://zeenews.india.com/world/covid-19-four-pfizer-vaccine-volunteers-develop-bells-palsy-read-details-here-2329924.html"
+                },
+                {
+                    "start": 193,
+                    "end": 216,
+                    "url": "https://t.co/LoKcZhKque",
+                    "expanded_url": "https://twitter.com/realityscalp/status/1344274409729658881/photo/1",
+                    "display_url": "pic.twitter.com/LoKcZhKque"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

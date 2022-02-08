@@ -1,0 +1,500 @@
+[
+    {
+        "data": {
+            "created_at": "2021-09-10T13:16:55.000Z",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "JohnO5127",
+                        "id": "1292491264152215559"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 34,
+                        "end": 57,
+                        "url": "https://t.co/gjYt75Cef9",
+                        "expanded_url": "https://twitter.com/aedibari/status/1436117303263965185",
+                        "display_url": "twitter.com/aedibari/statu\u2026"
+                    }
+                ]
+            },
+            "text": "RT @JohnO5127: With the REAL VAX! https://t.co/gjYt75Cef9",
+            "id": "1436317767221796864",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436141072221196290"
+                }
+            ],
+            "author_id": "890919836020350976",
+            "conversation_id": "1436317767221796864",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806574543888232448",
+                        "name": "Bill Gates",
+                        "description": "Bill Gates"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ]
+        },
+        "id": 1436317767221796864,
+        "text": "RT @JohnO5127: With the REAL VAX! https://t.co/gjYt75Cef9",
+        "attachments": null,
+        "author_id": 890919836020350976,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806574543888232448",
+                    "name": "Bill Gates",
+                    "description": "Bill Gates"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1436317767221796864,
+        "created_at": "2021-09-10T13:16:55+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "JohnO5127",
+                    "id": "1292491264152215559"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 34,
+                    "end": 57,
+                    "url": "https://t.co/gjYt75Cef9",
+                    "expanded_url": "https://twitter.com/aedibari/status/1436117303263965185",
+                    "display_url": "twitter.com/aedibari/statu\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436141072221196290"
+                },
+                "id": 1436141072221196290,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-10T01:34:48.000Z",
+            "reply_settings": "everyone",
+            "text": "With the REAL VAX! https://t.co/gjYt75Cef9",
+            "id": "1436141072221196290",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 19,
+                        "end": 42,
+                        "url": "https://t.co/gjYt75Cef9",
+                        "expanded_url": "https://twitter.com/aedibari/status/1436117303263965185",
+                        "display_url": "twitter.com/aedibari/statu\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436117303263965185"
+                }
+            ],
+            "author_id": "1292491264152215559",
+            "conversation_id": "1436141072221196290",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPad",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806574543888232448",
+                        "name": "Bill Gates",
+                        "description": "Bill Gates"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ]
+        },
+        "id": 1436141072221196290,
+        "text": "With the REAL VAX! https://t.co/gjYt75Cef9",
+        "attachments": null,
+        "author_id": 1292491264152215559,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806574543888232448",
+                    "name": "Bill Gates",
+                    "description": "Bill Gates"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1436141072221196290,
+        "created_at": "2021-09-10T01:34:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 42,
+                    "url": "https://t.co/gjYt75Cef9",
+                    "expanded_url": "https://twitter.com/aedibari/status/1436117303263965185",
+                    "display_url": "twitter.com/aedibari/statu\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436117303263965185"
+                },
+                "id": 1436117303263965185,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

@@ -1,0 +1,714 @@
+[
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "TelBabe",
+                        "id": "1876554792"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 9,
+                        "end": 32,
+                        "url": "https://t.co/eZigW1XGNX",
+                        "expanded_url": "https://twitter.com/Bobby1897/status/1352793629438439427/photo/1",
+                        "display_url": "pic.twitter.com/eZigW1XGNX"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1352793629438439427",
+            "text": "@TelBabe https://t.co/eZigW1XGNX",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "3_1352793623243448335"
+                ]
+            },
+            "author_id": "1286736672504401929",
+            "created_at": "2021-01-23T01:41:49.000Z",
+            "in_reply_to_user_id": "1876554792",
+            "conversation_id": "1352405165400350720"
+        },
+        "id": 1352793629438439427,
+        "text": "@TelBabe https://t.co/eZigW1XGNX",
+        "attachments": {
+            "media_keys": [
+                "3_1352793623243448335"
+            ]
+        },
+        "author_id": 1286736672504401929,
+        "context_annotations": [],
+        "conversation_id": 1352405165400350720,
+        "created_at": "2021-01-23T01:41:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "TelBabe",
+                    "id": "1876554792"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 9,
+                    "end": 32,
+                    "url": "https://t.co/eZigW1XGNX",
+                    "expanded_url": "https://twitter.com/Bobby1897/status/1352793629438439427/photo/1",
+                    "display_url": "pic.twitter.com/eZigW1XGNX"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1876554792,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                },
+                "id": 1352405165400350720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "geo": {
+                "place_id": "7f55e839e1715da2"
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "TelBabe",
+                        "id": "1876554792"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 46,
+                        "probability": 0.5329,
+                        "type": "Person",
+                        "normalized_text": "Covid"
+                    },
+                    {
+                        "start": 66,
+                        "end": 74,
+                        "probability": 0.9979,
+                        "type": "Place",
+                        "normalized_text": "Australia"
+                    },
+                    {
+                        "start": 80,
+                        "end": 84,
+                        "probability": 0.979,
+                        "type": "Place",
+                        "normalized_text": "Italy"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1352414696394149890",
+            "text": "@TelBabe I see the Chinese are now saying Covid was imported from Australia and Italy and other countries . Unbelievable",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                }
+            ],
+            "author_id": "3023249458",
+            "created_at": "2021-01-22T00:36:04.000Z",
+            "in_reply_to_user_id": "1876554792",
+            "conversation_id": "1352405165400350720"
+        },
+        "id": 1352414696394149890,
+        "text": "@TelBabe I see the Chinese are now saying Covid was imported from Australia and Italy and other countries . Unbelievable",
+        "attachments": null,
+        "author_id": 3023249458,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1352405165400350720,
+        "created_at": "2021-01-22T00:36:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "TelBabe",
+                    "id": "1876554792"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 46,
+                    "probability": 0.5329,
+                    "type": "Person",
+                    "normalized_text": "Covid"
+                },
+                {
+                    "start": 66,
+                    "end": 74,
+                    "probability": 0.9979,
+                    "type": "Place",
+                    "normalized_text": "Australia"
+                },
+                {
+                    "start": 80,
+                    "end": 84,
+                    "probability": 0.979,
+                    "type": "Place",
+                    "normalized_text": "Italy"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "7f55e839e1715da2"
+        },
+        "in_reply_to_user_id": 1876554792,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                },
+                "id": 1352405165400350720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "TelBabe",
+                        "id": "1876554792"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 41,
+                        "end": 64,
+                        "url": "https://t.co/ce5MF075Z6",
+                        "expanded_url": "https://www.facebook.com/brandy.deutsch/posts/10224263302390692",
+                        "display_url": "facebook.com/brandy.deutsch\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.facebook.com/brandy.deutsch/posts/10224263302390692"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 35,
+                        "end": 39,
+                        "probability": 0.9278,
+                        "type": "Person",
+                        "normalized_text": "Terry"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1352413015807827969",
+            "text": "@TelBabe Here's something to watch Terry https://t.co/ce5MF075Z6",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                }
+            ],
+            "author_id": "844916003947589632",
+            "created_at": "2021-01-22T00:29:24.000Z",
+            "in_reply_to_user_id": "1876554792",
+            "conversation_id": "1352405165400350720"
+        },
+        "id": 1352413015807827969,
+        "text": "@TelBabe Here's something to watch Terry https://t.co/ce5MF075Z6",
+        "attachments": null,
+        "author_id": 844916003947589632,
+        "context_annotations": [],
+        "conversation_id": 1352405165400350720,
+        "created_at": "2021-01-22T00:29:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "TelBabe",
+                    "id": "1876554792"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/ce5MF075Z6",
+                    "expanded_url": "https://www.facebook.com/brandy.deutsch/posts/10224263302390692",
+                    "display_url": "facebook.com/brandy.deutsch\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.facebook.com/brandy.deutsch/posts/10224263302390692"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 35,
+                    "end": 39,
+                    "probability": 0.9278,
+                    "type": "Person",
+                    "normalized_text": "Terry"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1876554792,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                },
+                "id": 1352405165400350720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "864925500627484672",
+                        "name": "Family and life stages",
+                        "description": "Family and Life Stages"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "TelBabe",
+                        "id": "1876554792"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 25,
+                        "end": 32,
+                        "probability": 0.974,
+                        "type": "Place",
+                        "normalized_text": "Shanghai"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1352411329970245636",
+            "text": "@TelBabe My son lives in Shanghai. All shops, bars, restaurants and schools are open. He\u2019s a teacher and his eldest two are in school and kindergarten. No restrictions. Nothing resembling what you describe.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                }
+            ],
+            "author_id": "45673545",
+            "created_at": "2021-01-22T00:22:42.000Z",
+            "in_reply_to_user_id": "1876554792",
+            "conversation_id": "1352405165400350720"
+        },
+        "id": 1352411329970245636,
+        "text": "@TelBabe My son lives in Shanghai. All shops, bars, restaurants and schools are open. He\u2019s a teacher and his eldest two are in school and kindergarten. No restrictions. Nothing resembling what you describe.",
+        "attachments": null,
+        "author_id": 45673545,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "864925500627484672",
+                    "name": "Family and life stages",
+                    "description": "Family and Life Stages"
+                }
+            }
+        ],
+        "conversation_id": 1352405165400350720,
+        "created_at": "2021-01-22T00:22:42+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "TelBabe",
+                    "id": "1876554792"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 32,
+                    "probability": 0.974,
+                    "type": "Place",
+                    "normalized_text": "Shanghai"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1876554792,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                },
+                "id": 1352405165400350720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "TelBabe",
+                        "id": "1876554792"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 9,
+                        "end": 32,
+                        "url": "https://t.co/GZu6CzMBKi",
+                        "expanded_url": "https://youtu.be/Yw7M-fUaIb0",
+                        "display_url": "youtu.be/Yw7M-fUaIb0",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1479912229566828549/w9ANWWaw?format=jpg&name=orig",
+                                "width": 1280,
+                                "height": 720
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1479912229566828549/w9ANWWaw?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Chinese Police Video Shows SWAT Team Drill For Controlling Coronavirus Suspect | NBC News",
+                        "description": "Police in China\u2019s Henan province posted a video on social media showing a simulation of how they will deal with drivers who ignore virus checkpoints.\u00bb Subscr...",
+                        "unwound_url": "https://www.youtube.com/watch?v=Yw7M-fUaIb0&feature=youtu.be"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1352408208279797760",
+            "text": "@TelBabe https://t.co/GZu6CzMBKi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                }
+            ],
+            "author_id": "2364314269",
+            "created_at": "2021-01-22T00:10:18.000Z",
+            "in_reply_to_user_id": "1876554792",
+            "conversation_id": "1352405165400350720"
+        },
+        "id": 1352408208279797760,
+        "text": "@TelBabe https://t.co/GZu6CzMBKi",
+        "attachments": null,
+        "author_id": 2364314269,
+        "context_annotations": [],
+        "conversation_id": 1352405165400350720,
+        "created_at": "2021-01-22T00:10:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "TelBabe",
+                    "id": "1876554792"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 9,
+                    "end": 32,
+                    "url": "https://t.co/GZu6CzMBKi",
+                    "expanded_url": "https://youtu.be/Yw7M-fUaIb0",
+                    "display_url": "youtu.be/Yw7M-fUaIb0",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1479912229566828549/w9ANWWaw?format=jpg&name=orig",
+                            "width": 1280,
+                            "height": 720
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1479912229566828549/w9ANWWaw?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Chinese Police Video Shows SWAT Team Drill For Controlling Coronavirus Suspect | NBC News",
+                    "description": "Police in China\u2019s Henan province posted a video on social media showing a simulation of how they will deal with drivers who ignore virus checkpoints.\u00bb Subscr...",
+                    "unwound_url": "https://www.youtube.com/watch?v=Yw7M-fUaIb0&feature=youtu.be"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1876554792,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                },
+                "id": 1352405165400350720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "TelBabe",
+                        "id": "1876554792"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1352405870316019713",
+            "text": "@TelBabe Wet markets for them, or a shared cell with a Muslim.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                }
+            ],
+            "author_id": "841479127618211840",
+            "created_at": "2021-01-22T00:01:00.000Z",
+            "in_reply_to_user_id": "1876554792",
+            "conversation_id": "1352405165400350720"
+        },
+        "id": 1352405870316019713,
+        "text": "@TelBabe Wet markets for them, or a shared cell with a Muslim.",
+        "attachments": null,
+        "author_id": 841479127618211840,
+        "context_annotations": [],
+        "conversation_id": 1352405165400350720,
+        "created_at": "2021-01-22T00:01:00+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "TelBabe",
+                    "id": "1876554792"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1876554792,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352405165400350720"
+                },
+                "id": 1352405165400350720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

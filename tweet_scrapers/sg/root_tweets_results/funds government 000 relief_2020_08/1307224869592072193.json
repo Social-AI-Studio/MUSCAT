@@ -1,0 +1,82 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1307224869592072193"
+                }
+            ],
+            "id": "1307423589877133315",
+            "conversation_id": "1307423589877133315",
+            "created_at": "2020-09-19T20:57:29.000Z",
+            "reply_settings": "everyone",
+            "text": "\ud83d\ude15Carnage https://t.co/AzuSlntmI0",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 9,
+                        "end": 32,
+                        "url": "https://t.co/AzuSlntmI0",
+                        "expanded_url": "https://twitter.com/Mashstartup/status/1307224869592072193",
+                        "display_url": "twitter.com/Mashstartup/st\u2026"
+                    }
+                ]
+            },
+            "author_id": "137304219"
+        },
+        "id": 1307423589877133315,
+        "text": "\ud83d\ude15Carnage https://t.co/AzuSlntmI0",
+        "attachments": null,
+        "author_id": 137304219,
+        "context_annotations": [],
+        "conversation_id": 1307423589877133315,
+        "created_at": "2020-09-19T20:57:29+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 9,
+                    "end": 32,
+                    "url": "https://t.co/AzuSlntmI0",
+                    "expanded_url": "https://twitter.com/Mashstartup/status/1307224869592072193",
+                    "display_url": "twitter.com/Mashstartup/st\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1307224869592072193"
+                },
+                "id": 1307224869592072193,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "author_id": "907645200368943106",
+            "in_reply_to_user_id": "907645200368943106",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    }
+                ]
+            },
+            "text": "@narendramodi\n\nThe above one is very useful Kaka\n\nBelieve me",
+            "id": "1235108331980611584",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232544514709106688"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1232544514709106688",
+            "possibly_sensitive": false,
+            "created_at": "2020-03-04T07:42:28.000Z"
+        },
+        "id": 1235108331980611584,
+        "text": "@narendramodi\n\nThe above one is very useful Kaka\n\nBelieve me",
+        "attachments": null,
+        "author_id": 907645200368943106,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1232544514709106688,
+        "created_at": "2020-03-04T07:42:28+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 907645200368943106,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232544514709106688"
+                },
+                "id": 1232544514709106688,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "data": {
+            "author_id": "1116087079",
+            "id": "1352517066931113990",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1352516285024718848"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "RenegadeArtsCo",
+                        "id": "577905676"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 83,
+                        "end": 106,
+                        "url": "https://t.co/E7lkiOHiB8",
+                        "expanded_url": "https://twitter.com/GlobalBC/status/1352421354860118017",
+                        "display_url": "twitter.com/GlobalBC/statu\u2026"
+                    }
+                ]
+            },
+            "text": "RT @RenegadeArtsCo: Don\u2019t forget the unsung heros of musical and dramatic theatre! https://t.co/E7lkiOHiB8",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2021-01-22T07:22:51.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "87",
+                        "name": "Movie Genre",
+                        "description": "A movie genre like Action"
+                    },
+                    "entity": {
+                        "id": "1035186638777802752",
+                        "name": "Musicals",
+                        "description": "Musical"
+                    }
+                }
+            ],
+            "conversation_id": "1352517066931113990",
+            "source": "Twitter Web App",
+            "reply_settings": "everyone"
+        },
+        "id": 1352517066931113990,
+        "text": "RT @RenegadeArtsCo: Don\u2019t forget the unsung heros of musical and dramatic theatre! https://t.co/E7lkiOHiB8",
+        "attachments": null,
+        "author_id": 1116087079,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "87",
+                    "name": "Movie Genre",
+                    "description": "A movie genre like Action"
+                },
+                "entity": {
+                    "id": "1035186638777802752",
+                    "name": "Musicals",
+                    "description": "Musical"
+                }
+            }
+        ],
+        "conversation_id": 1352517066931113990,
+        "created_at": "2021-01-22T07:22:51+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "RenegadeArtsCo",
+                    "id": "577905676"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/E7lkiOHiB8",
+                    "expanded_url": "https://twitter.com/GlobalBC/status/1352421354860118017",
+                    "display_url": "twitter.com/GlobalBC/statu\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1352516285024718848"
+                },
+                "id": 1352516285024718848,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "577905676",
+            "id": "1352516285024718848",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1352421354860118017"
+                }
+            ],
+            "text": "Don\u2019t forget the unsung heros of musical and dramatic theatre! https://t.co/E7lkiOHiB8",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 63,
+                        "end": 86,
+                        "url": "https://t.co/E7lkiOHiB8",
+                        "expanded_url": "https://twitter.com/GlobalBC/status/1352421354860118017",
+                        "display_url": "twitter.com/GlobalBC/statu\u2026"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "created_at": "2021-01-22T07:19:45.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "87",
+                        "name": "Movie Genre",
+                        "description": "A movie genre like Action"
+                    },
+                    "entity": {
+                        "id": "1035186638777802752",
+                        "name": "Musicals",
+                        "description": "Musical"
+                    }
+                }
+            ],
+            "conversation_id": "1352516285024718848",
+            "source": "Twitter for iPhone",
+            "reply_settings": "everyone"
+        },
+        "id": 1352516285024718848,
+        "text": "Don\u2019t forget the unsung heros of musical and dramatic theatre! https://t.co/E7lkiOHiB8",
+        "attachments": null,
+        "author_id": 577905676,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "87",
+                    "name": "Movie Genre",
+                    "description": "A movie genre like Action"
+                },
+                "entity": {
+                    "id": "1035186638777802752",
+                    "name": "Musicals",
+                    "description": "Musical"
+                }
+            }
+        ],
+        "conversation_id": 1352516285024718848,
+        "created_at": "2021-01-22T07:19:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/E7lkiOHiB8",
+                    "expanded_url": "https://twitter.com/GlobalBC/status/1352421354860118017",
+                    "display_url": "twitter.com/GlobalBC/statu\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1352421354860118017"
+                },
+                "id": 1352421354860118017,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

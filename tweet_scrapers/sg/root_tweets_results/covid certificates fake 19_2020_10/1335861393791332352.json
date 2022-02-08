@@ -1,0 +1,210 @@
+[
+    {
+        "data": {
+            "conversation_id": "1335925405535105025",
+            "reply_settings": "everyone",
+            "author_id": "308486178",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @ZadhrDoctors: Fake certificates pose a health risk. Gvt must come up with a list of certified laboratories allowed to issue out COVID-1\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1335905412835635200"
+                }
+            ],
+            "possibly_sensitive": false,
+            "id": "1335925405535105025",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "ZadhrDoctors",
+                        "id": "2870393025"
+                    }
+                ]
+            },
+            "created_at": "2020-12-07T12:33:31.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1335925405535105025,
+        "text": "RT @ZadhrDoctors: Fake certificates pose a health risk. Gvt must come up with a list of certified laboratories allowed to issue out COVID-1\u2026",
+        "attachments": null,
+        "author_id": 308486178,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1335925405535105025,
+        "created_at": "2020-12-07T12:33:31+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "ZadhrDoctors",
+                    "id": "2870393025"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1335905412835635200"
+                },
+                "id": 1335905412835635200,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1335905412835635200",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 268,
+                        "end": 291,
+                        "url": "https://t.co/OqHVl3DHci",
+                        "expanded_url": "https://twitter.com/Itairusike/status/1335861393791332352",
+                        "display_url": "twitter.com/Itairusike/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "2870393025",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "Fake certificates pose a health risk. Gvt must come up with a list of certified laboratories allowed to issue out COVID-19 results. Also gvt can create an electronic verification system where a client ID can be used to verify the authenticity of the covid 19 results. https://t.co/OqHVl3DHci",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1335861393791332352"
+                }
+            ],
+            "possibly_sensitive": false,
+            "id": "1335905412835635200",
+            "created_at": "2020-12-07T11:14:04.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1335905412835635200,
+        "text": "Fake certificates pose a health risk. Gvt must come up with a list of certified laboratories allowed to issue out COVID-19 results. Also gvt can create an electronic verification system where a client ID can be used to verify the authenticity of the covid 19 results. https://t.co/OqHVl3DHci",
+        "attachments": null,
+        "author_id": 2870393025,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1335905412835635200,
+        "created_at": "2020-12-07T11:14:04+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 268,
+                    "end": 291,
+                    "url": "https://t.co/OqHVl3DHci",
+                    "expanded_url": "https://twitter.com/Itairusike/status/1335861393791332352",
+                    "display_url": "twitter.com/Itairusike/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1335861393791332352"
+                },
+                "id": 1335861393791332352,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

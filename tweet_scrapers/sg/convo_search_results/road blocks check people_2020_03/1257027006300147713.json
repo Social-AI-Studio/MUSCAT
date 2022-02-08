@@ -1,0 +1,393 @@
+[
+    {
+        "data": {
+            "created_at": "2020-05-03T19:23:29.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1257027896926973952"
+                }
+            ],
+            "in_reply_to_user_id": "750373173439434752",
+            "conversation_id": "1257027006300147713",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 22,
+                        "probability": 0.5612,
+                        "type": "Product",
+                        "normalized_text": "amazon"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "author_id": "750373173439434752",
+            "source": "Twitter for iPhone",
+            "id": "1257028023842492420",
+            "text": "I bought mine on amazon I got it in a week . Just do the right thing"
+        },
+        "id": 1257028023842492420,
+        "text": "I bought mine on amazon I got it in a week . Just do the right thing",
+        "attachments": null,
+        "author_id": 750373173439434752,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "783335558466506752",
+                    "name": "Online"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026792024",
+                    "name": "Amazon"
+                }
+            }
+        ],
+        "conversation_id": 1257027006300147713,
+        "created_at": "2020-05-03T19:23:29+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 22,
+                    "probability": 0.5612,
+                    "type": "Product",
+                    "normalized_text": "amazon"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 750373173439434752,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1257027896926973952"
+                },
+                "id": 1257027896926973952,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-05-03T19:22:59.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1257027401999167492"
+                }
+            ],
+            "in_reply_to_user_id": "750373173439434752",
+            "conversation_id": "1257027006300147713",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "1045046778876153856",
+                        "name": "Going Out",
+                        "description": "This entity tracks all conversations about going out."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "1062025800591896576",
+                        "name": "National Health Service",
+                        "description": "National Health Service"
+                    }
+                }
+            ],
+            "author_id": "750373173439434752",
+            "source": "Twitter for iPhone",
+            "id": "1257027896926973952",
+            "text": "Hasn\u2019t even began to peak yet it\u2019s so bad everywhere in the hospital my heart broke listening to thr nhs staffs stories . The ambulance that came for me told me I was first patient to be in PPE gear for their arrival . People need to be stay home and wear PPE when going out ."
+        },
+        "id": 1257027896926973952,
+        "text": "Hasn\u2019t even began to peak yet it\u2019s so bad everywhere in the hospital my heart broke listening to thr nhs staffs stories . The ambulance that came for me told me I was first patient to be in PPE gear for their arrival . People need to be stay home and wear PPE when going out .",
+        "attachments": null,
+        "author_id": 750373173439434752,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "1045046778876153856",
+                    "name": "Going Out",
+                    "description": "This entity tracks all conversations about going out."
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "1062025800591896576",
+                    "name": "National Health Service",
+                    "description": "National Health Service"
+                }
+            }
+        ],
+        "conversation_id": 1257027006300147713,
+        "created_at": "2020-05-03T19:22:59+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 750373173439434752,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1257027401999167492"
+                },
+                "id": 1257027401999167492,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-05-03T19:21:01.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1257027006300147713"
+                }
+            ],
+            "in_reply_to_user_id": "750373173439434752",
+            "conversation_id": "1257027006300147713",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 206,
+                        "end": 208,
+                        "probability": 0.6235,
+                        "type": "Organization",
+                        "normalized_text": "NHS"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "1062025800591896576",
+                        "name": "National Health Service",
+                        "description": "National Health Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "author_id": "750373173439434752",
+            "source": "Twitter for iPhone",
+            "id": "1257027401999167492",
+            "text": "Hearing of people protesting today here about the lockdown give you head a wobble I was in hospital last week and I literally got out of there the next day ! Not safe . And the devastation so listen to thr NHS Cus they are the only ones telling the truth. My doctor told me this"
+        },
+        "id": 1257027401999167492,
+        "text": "Hearing of people protesting today here about the lockdown give you head a wobble I was in hospital last week and I literally got out of there the next day ! Not safe . And the devastation so listen to thr NHS Cus they are the only ones telling the truth. My doctor told me this",
+        "attachments": null,
+        "author_id": 750373173439434752,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "1062025800591896576",
+                    "name": "National Health Service",
+                    "description": "National Health Service"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1257027006300147713,
+        "created_at": "2020-05-03T19:21:01+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 206,
+                    "end": 208,
+                    "probability": 0.6235,
+                    "type": "Organization",
+                    "normalized_text": "NHS"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 750373173439434752,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1257027006300147713"
+                },
+                "id": 1257027006300147713,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

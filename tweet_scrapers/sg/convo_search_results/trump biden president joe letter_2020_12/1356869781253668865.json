@@ -1,0 +1,178 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "1410086040",
+            "created_at": "2021-02-05T04:33:57.000Z",
+            "possibly_sensitive": false,
+            "id": "1357547990592991235",
+            "author_id": "41840838",
+            "source": "Twitter for iPhone",
+            "text": "@DanFined @bronson69 Biden is not his own man-he can only read aloud what he is directed to say! Pelosi stating \u201cthe enemy within\u201d AGAINST her fellow Americans, this is not leadership or political responsibility! It feels as if a strange Cult has taken over-truth no longer exists -just manipulation!",
+            "reply_settings": "everyone",
+            "conversation_id": "1356869781253668865",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 21,
+                        "end": 25,
+                        "probability": 0.9976,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 97,
+                        "end": 102,
+                        "probability": 0.9708,
+                        "type": "Person",
+                        "normalized_text": "Pelosi"
+                    },
+                    {
+                        "start": 150,
+                        "end": 158,
+                        "probability": 0.5724,
+                        "type": "Person",
+                        "normalized_text": "Americans"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 10,
+                        "end": 20,
+                        "username": "bronson69",
+                        "id": "39286438"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1356869781253668865"
+                }
+            ]
+        },
+        "id": 1357547990592991235,
+        "text": "@DanFined @bronson69 Biden is not his own man-he can only read aloud what he is directed to say! Pelosi stating \u201cthe enemy within\u201d AGAINST her fellow Americans, this is not leadership or political responsibility! It feels as if a strange Cult has taken over-truth no longer exists -just manipulation!",
+        "attachments": null,
+        "author_id": 41840838,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356869781253668865,
+        "created_at": "2021-02-05T04:33:57+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 21,
+                    "end": 25,
+                    "probability": 0.9976,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                },
+                {
+                    "start": 97,
+                    "end": 102,
+                    "probability": 0.9708,
+                    "type": "Person",
+                    "normalized_text": "Pelosi"
+                },
+                {
+                    "start": 150,
+                    "end": 158,
+                    "probability": 0.5724,
+                    "type": "Person",
+                    "normalized_text": "Americans"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 20,
+                    "username": "bronson69",
+                    "id": "39286438"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1410086040,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1356869781253668865"
+                },
+                "id": 1356869781253668865,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

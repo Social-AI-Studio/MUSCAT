@@ -1,0 +1,1282 @@
+[
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 24,
+                        "end": 36,
+                        "tag": "MontyPython"
+                    },
+                    {
+                        "start": 42,
+                        "end": 51,
+                        "tag": "COVID\u30fc19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "Si_or_just_Si",
+                        "id": "3120025702"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 53,
+                        "end": 76,
+                        "url": "https://t.co/RsIntvSKvv",
+                        "expanded_url": "https://twitter.com/james82224273/status/1248250021327155202?s=21",
+                        "display_url": "twitter.com/james82224273/\u2026"
+                    },
+                    {
+                        "start": 77,
+                        "end": 100,
+                        "url": "https://t.co/oouqIc1Xe8",
+                        "expanded_url": "https://twitter.com/James82224273/status/1248250021327155202",
+                        "display_url": "twitter.com/James82224273/\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "1198984790092869634",
+                        "name": "Holiday Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1248540918245974016",
+            "text": "RT @Si_or_just_Si: Post #MontyPython here #COVID\u30fc19 \nhttps://t.co/RsIntvSKvv https://t.co/oouqIc1Xe8",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1248531063753900032"
+                }
+            ],
+            "author_id": "1082443865657880576",
+            "created_at": "2020-04-10T09:18:46.000Z",
+            "conversation_id": "1248540918245974016"
+        },
+        "id": 1248540918245974016,
+        "text": "RT @Si_or_just_Si: Post #MontyPython here #COVID\u30fc19 \nhttps://t.co/RsIntvSKvv https://t.co/oouqIc1Xe8",
+        "attachments": null,
+        "author_id": 1082443865657880576,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "1198984790092869634",
+                    "name": "Holiday Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1248540918245974016,
+        "created_at": "2020-04-10T09:18:46+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 24,
+                    "end": 36,
+                    "tag": "MontyPython"
+                },
+                {
+                    "start": 42,
+                    "end": 51,
+                    "tag": "COVID\u30fc19"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "Si_or_just_Si",
+                    "id": "3120025702"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 53,
+                    "end": 76,
+                    "url": "https://t.co/RsIntvSKvv",
+                    "expanded_url": "https://twitter.com/james82224273/status/1248250021327155202?s=21",
+                    "display_url": "twitter.com/james82224273/\u2026"
+                },
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/oouqIc1Xe8",
+                    "expanded_url": "https://twitter.com/James82224273/status/1248250021327155202",
+                    "display_url": "twitter.com/James82224273/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1248531063753900032"
+                },
+                "id": 1248531063753900032,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 5,
+                        "end": 17,
+                        "tag": "MontyPython"
+                    },
+                    {
+                        "start": 23,
+                        "end": 32,
+                        "tag": "COVID\u30fc19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 34,
+                        "end": 57,
+                        "url": "https://t.co/RsIntvSKvv",
+                        "expanded_url": "https://twitter.com/james82224273/status/1248250021327155202?s=21",
+                        "display_url": "twitter.com/james82224273/\u2026"
+                    },
+                    {
+                        "start": 58,
+                        "end": 81,
+                        "url": "https://t.co/oouqIc1Xe8",
+                        "expanded_url": "https://twitter.com/James82224273/status/1248250021327155202",
+                        "display_url": "twitter.com/James82224273/\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "1198984790092869634",
+                        "name": "Holiday Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1248531063753900032",
+            "text": "Post #MontyPython here #COVID\u30fc19 \nhttps://t.co/RsIntvSKvv https://t.co/oouqIc1Xe8",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1248250021327155202"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1127713218766561280"
+                }
+            ],
+            "author_id": "3120025702",
+            "created_at": "2020-04-10T08:39:36.000Z",
+            "in_reply_to_user_id": "3120025702",
+            "conversation_id": "1126950040893890561"
+        },
+        "id": 1248531063753900032,
+        "text": "Post #MontyPython here #COVID\u30fc19 \nhttps://t.co/RsIntvSKvv https://t.co/oouqIc1Xe8",
+        "attachments": null,
+        "author_id": 3120025702,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "1198984790092869634",
+                    "name": "Holiday Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1126950040893890561,
+        "created_at": "2020-04-10T08:39:36+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 5,
+                    "end": 17,
+                    "tag": "MontyPython"
+                },
+                {
+                    "start": 23,
+                    "end": 32,
+                    "tag": "COVID\u30fc19"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 34,
+                    "end": 57,
+                    "url": "https://t.co/RsIntvSKvv",
+                    "expanded_url": "https://twitter.com/james82224273/status/1248250021327155202?s=21",
+                    "display_url": "twitter.com/james82224273/\u2026"
+                },
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/oouqIc1Xe8",
+                    "expanded_url": "https://twitter.com/James82224273/status/1248250021327155202",
+                    "display_url": "twitter.com/James82224273/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3120025702,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1248250021327155202"
+                },
+                "id": 1248250021327155202,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1127713218766561280"
+                },
+                "id": 1127713218766561280,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "1198984790092869634",
+                        "name": "Holiday Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "actiontiff",
+                        "id": "4622096295"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 20,
+                        "end": 24,
+                        "probability": 0.9722,
+                        "type": "Person",
+                        "normalized_text": "James"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1248261417951780867",
+            "text": "RT @actiontiff: Yes James I totally agree--stopping the likes of the Scottish ex-Medical Chief traipsing off willy nilly Eh ??",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1248252390932955143"
+                }
+            ],
+            "author_id": "718936269",
+            "created_at": "2020-04-09T14:48:08.000Z",
+            "conversation_id": "1248261417951780867"
+        },
+        "id": 1248261417951780867,
+        "text": "RT @actiontiff: Yes James I totally agree--stopping the likes of the Scottish ex-Medical Chief traipsing off willy nilly Eh ??",
+        "attachments": null,
+        "author_id": 718936269,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "1198984790092869634",
+                    "name": "Holiday Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1248261417951780867,
+        "created_at": "2020-04-09T14:48:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "actiontiff",
+                    "id": "4622096295"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 20,
+                    "end": 24,
+                    "probability": 0.9722,
+                    "type": "Person",
+                    "normalized_text": "James"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1248252390932955143"
+                },
+                "id": 1248252390932955143,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "1198984790092869634",
+                        "name": "Holiday Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "actiontiff",
+                        "id": "4622096295"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 20,
+                        "end": 24,
+                        "probability": 0.9705,
+                        "type": "Person",
+                        "normalized_text": "James"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1248255414837415939",
+            "text": "RT @actiontiff: Yes James I totally agree--stopping the likes of the Scottish ex-Medical Chief traipsing off willy nilly Eh ?? https://t.co\u2026",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1248252390932955143"
+                }
+            ],
+            "author_id": "1082443865657880576",
+            "created_at": "2020-04-09T14:24:17.000Z",
+            "conversation_id": "1248255414837415939"
+        },
+        "id": 1248255414837415939,
+        "text": "RT @actiontiff: Yes James I totally agree--stopping the likes of the Scottish ex-Medical Chief traipsing off willy nilly Eh ?? https://t.co\u2026",
+        "attachments": null,
+        "author_id": 1082443865657880576,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "1198984790092869634",
+                    "name": "Holiday Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1248255414837415939,
+        "created_at": "2020-04-09T14:24:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "actiontiff",
+                    "id": "4622096295"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 20,
+                    "end": 24,
+                    "probability": 0.9705,
+                    "type": "Person",
+                    "normalized_text": "James"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1248252390932955143"
+                },
+                "id": 1248252390932955143,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "1198984790092869634",
+                        "name": "Holiday Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 111,
+                        "end": 134,
+                        "url": "https://t.co/7zgij0ZzAJ",
+                        "expanded_url": "https://twitter.com/James82224273/status/1248250021327155202",
+                        "display_url": "twitter.com/James82224273/\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 4,
+                        "end": 8,
+                        "probability": 0.9546,
+                        "type": "Person",
+                        "normalized_text": "James"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1248252390932955143",
+            "text": "Yes James I totally agree--stopping the likes of the Scottish ex-Medical Chief traipsing off willy nilly Eh ?? https://t.co/7zgij0ZzAJ",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1248250021327155202"
+                }
+            ],
+            "author_id": "4622096295",
+            "created_at": "2020-04-09T14:12:16.000Z",
+            "conversation_id": "1248252390932955143"
+        },
+        "id": 1248252390932955143,
+        "text": "Yes James I totally agree--stopping the likes of the Scottish ex-Medical Chief traipsing off willy nilly Eh ?? https://t.co/7zgij0ZzAJ",
+        "attachments": null,
+        "author_id": 4622096295,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "1198984790092869634",
+                    "name": "Holiday Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1248252390932955143,
+        "created_at": "2020-04-09T14:12:16+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/7zgij0ZzAJ",
+                    "expanded_url": "https://twitter.com/James82224273/status/1248250021327155202",
+                    "display_url": "twitter.com/James82224273/\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 4,
+                    "end": 8,
+                    "probability": 0.9546,
+                    "type": "Person",
+                    "normalized_text": "James"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1248250021327155202"
+                },
+                "id": 1248250021327155202,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

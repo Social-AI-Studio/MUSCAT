@@ -1,0 +1,358 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "285908150",
+            "id": "1284707123230801920",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-07-19T04:30:21.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "shawnmilrad",
+                        "id": "285908150"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 93,
+                        "end": 97,
+                        "probability": 0.9907,
+                        "type": "Person",
+                        "normalized_text": "trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "2432950868",
+            "source": "Twitter for iPad",
+            "text": "@shawnmilrad The repeated performances over 50% is truly something. No room for that \u201csecret trump vote\u201d to take over in that case. Still gonna act like we\u2019re 10 points down.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1284703570336428032"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1284589349426757632"
+        },
+        "id": 1284707123230801920,
+        "text": "@shawnmilrad The repeated performances over 50% is truly something. No room for that \u201csecret trump vote\u201d to take over in that case. Still gonna act like we\u2019re 10 points down.",
+        "attachments": null,
+        "author_id": 2432950868,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1284589349426757632,
+        "created_at": "2020-07-19T04:30:21+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "shawnmilrad",
+                    "id": "285908150"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 93,
+                    "end": 97,
+                    "probability": 0.9907,
+                    "type": "Person",
+                    "normalized_text": "trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 285908150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1284703570336428032"
+                },
+                "id": 1284703570336428032,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/PtSWg0FAqQ",
+                        "expanded_url": "https://twitter.com/billscher/status/1284700181787795461?s=20",
+                        "display_url": "twitter.com/billscher/stat\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "shawnmilrad",
+                        "id": "285908150"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "285908150",
+            "id": "1284701505514287110",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-07-19T04:08:02.000Z",
+            "reply_settings": "everyone",
+            "author_id": "2432950868",
+            "source": "Twitter Web App",
+            "text": "@shawnmilrad https://t.co/PtSWg0FAqQ The qunnipiac one not looking like as much of an outlier anymore!",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1284700181787795461"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1284589349426757632"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1284589349426757632"
+        },
+        "id": 1284701505514287110,
+        "text": "@shawnmilrad https://t.co/PtSWg0FAqQ The qunnipiac one not looking like as much of an outlier anymore!",
+        "attachments": null,
+        "author_id": 2432950868,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1284589349426757632,
+        "created_at": "2020-07-19T04:08:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/PtSWg0FAqQ",
+                    "expanded_url": "https://twitter.com/billscher/status/1284700181787795461?s=20",
+                    "display_url": "twitter.com/billscher/stat\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "shawnmilrad",
+                    "id": "285908150"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 285908150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1284700181787795461"
+                },
+                "id": 1284700181787795461,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1284589349426757632"
+                },
+                "id": 1284589349426757632,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

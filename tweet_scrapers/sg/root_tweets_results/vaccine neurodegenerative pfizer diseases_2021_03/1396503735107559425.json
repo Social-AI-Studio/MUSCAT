@@ -1,0 +1,603 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 203,
+                        "end": 226,
+                        "url": "https://t.co/WjR5yhrNdn",
+                        "expanded_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00528-6/fulltext#:~:text=Supporting%20a%20longer%2Dinterval%20immunisation,was%20significantly%20higher%20at%2081&text=3%25%20(60&text=3%E2%80%9391&text=2)%20after%20two%20standard%20doses,or%20longer%2C%20compared%20with%2055",
+                        "display_url": "thelancet.com/journals/lance\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1454565484016201729/xl4VQcyz?format=jpg&name=orig",
+                                "width": 181,
+                                "height": 262
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1454565484016201729/xl4VQcyz?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Single-dose Oxford\u2013AstraZeneca COVID-19 vaccine followed by a 12-week booster",
+                        "description": "Vaccines to prevent COVID-19 infection are crucial for an effective global pandemic response. In The Lancet, Merryn Voysey and colleagues1 report the updated primary efficacy results for the Oxford\u2013AstraZeneca ChAdOx1 nCoV-19 (AZD1222) vaccine from three single-blind, randomised controlled trials in the UK and Brazil and one double-blind study in South Africa.2\u20134 The ChAdOx1 nCoV-19 vaccine was granted emergency use authorisation in adults by the UK Medicines and Healthcare products Regulatory Agency5 in December, 2020.",
+                        "unwound_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00528-6/fulltext#:~:text=Supporting%20a%20longer%2Dinterval%20immunisation,was%20significantly%20higher%20at%2081&text=3%25%20(60&text=3%E2%80%9391&text=2)%20after%20two%20standard%20doses,or%20longer%2C%20compared%20with%2055"
+                    },
+                    {
+                        "start": 227,
+                        "end": 250,
+                        "url": "https://t.co/VDPC83vHuQ",
+                        "expanded_url": "https://twitter.com/rupasubramanya/status/1396503735107559425",
+                        "display_url": "twitter.com/rupasubramanya\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 43,
+                        "probability": 0.5203,
+                        "type": "Place",
+                        "normalized_text": "AZ"
+                    }
+                ]
+            },
+            "id": "1396771068329799680",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-05-24T10:12:28.000Z",
+            "reply_settings": "everyone",
+            "author_id": "749437358",
+            "source": "Twitter Web App",
+            "text": "This is very misleading. The efficacy for AZ was 60% when the booster dose was given 28 days after the first dose. If the interval is increased to 12 weeks the efficacy is 80% as published March 21 here https://t.co/WjR5yhrNdn https://t.co/VDPC83vHuQ",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1396503735107559425"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1396771068329799680"
+        },
+        "id": 1396771068329799680,
+        "text": "This is very misleading. The efficacy for AZ was 60% when the booster dose was given 28 days after the first dose. If the interval is increased to 12 weeks the efficacy is 80% as published March 21 here https://t.co/WjR5yhrNdn https://t.co/VDPC83vHuQ",
+        "attachments": null,
+        "author_id": 749437358,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1396771068329799680,
+        "created_at": "2021-05-24T10:12:28+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 203,
+                    "end": 226,
+                    "url": "https://t.co/WjR5yhrNdn",
+                    "expanded_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00528-6/fulltext#:~:text=Supporting%20a%20longer%2Dinterval%20immunisation,was%20significantly%20higher%20at%2081&text=3%25%20(60&text=3%E2%80%9391&text=2)%20after%20two%20standard%20doses,or%20longer%2C%20compared%20with%2055",
+                    "display_url": "thelancet.com/journals/lance\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1454565484016201729/xl4VQcyz?format=jpg&name=orig",
+                            "width": 181,
+                            "height": 262
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1454565484016201729/xl4VQcyz?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Single-dose Oxford\u2013AstraZeneca COVID-19 vaccine followed by a 12-week booster",
+                    "description": "Vaccines to prevent COVID-19 infection are crucial for an effective global pandemic response. In The Lancet, Merryn Voysey and colleagues1 report the updated primary efficacy results for the Oxford\u2013AstraZeneca ChAdOx1 nCoV-19 (AZD1222) vaccine from three single-blind, randomised controlled trials in the UK and Brazil and one double-blind study in South Africa.2\u20134 The ChAdOx1 nCoV-19 vaccine was granted emergency use authorisation in adults by the UK Medicines and Healthcare products Regulatory Agency5 in December, 2020.",
+                    "unwound_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00528-6/fulltext#:~:text=Supporting%20a%20longer%2Dinterval%20immunisation,was%20significantly%20higher%20at%2081&text=3%25%20(60&text=3%E2%80%9391&text=2)%20after%20two%20standard%20doses,or%20longer%2C%20compared%20with%2055"
+                },
+                {
+                    "start": 227,
+                    "end": 250,
+                    "url": "https://t.co/VDPC83vHuQ",
+                    "expanded_url": "https://twitter.com/rupasubramanya/status/1396503735107559425",
+                    "display_url": "twitter.com/rupasubramanya\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 43,
+                    "probability": 0.5203,
+                    "type": "Place",
+                    "normalized_text": "AZ"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1396503735107559425"
+                },
+                "id": 1396503735107559425,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 46,
+                        "end": 69,
+                        "url": "https://t.co/WixCnGykQL",
+                        "expanded_url": "https://twitter.com/rupasubramanya/status/1396503735107559425",
+                        "display_url": "twitter.com/rupasubramanya\u2026"
+                    }
+                ]
+            },
+            "id": "1396509171533553678",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-05-23T16:51:47.000Z",
+            "reply_settings": "everyone",
+            "author_id": "1560668581",
+            "source": "Twitter for Android",
+            "text": "Imagine money spent by pfizer..\nEnd of story. https://t.co/WixCnGykQL",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1396503735107559425"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1396509171533553678"
+        },
+        "id": 1396509171533553678,
+        "text": "Imagine money spent by pfizer..\nEnd of story. https://t.co/WixCnGykQL",
+        "attachments": null,
+        "author_id": 1560668581,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1396509171533553678,
+        "created_at": "2021-05-23T16:51:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/WixCnGykQL",
+                    "expanded_url": "https://twitter.com/rupasubramanya/status/1396503735107559425",
+                    "display_url": "twitter.com/rupasubramanya\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1396503735107559425"
+                },
+                "id": 1396503735107559425,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 19,
+                        "end": 42,
+                        "url": "https://t.co/Pr6FhhVJ08",
+                        "expanded_url": "https://twitter.com/rupasubramanya/status/1396503735107559425",
+                        "display_url": "twitter.com/rupasubramanya\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "tag": "covid19sk"
+                    },
+                    {
+                        "start": 11,
+                        "end": 18,
+                        "tag": "skpoli"
+                    }
+                ]
+            },
+            "id": "1396504582625374210",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-05-23T16:33:32.000Z",
+            "reply_settings": "everyone",
+            "author_id": "1433167542",
+            "source": "Twitter for iPhone",
+            "text": "#covid19sk #skpoli https://t.co/Pr6FhhVJ08",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1396503735107559425"
+                }
+            ],
+            "lang": "und",
+            "possibly_sensitive": false,
+            "conversation_id": "1396504582625374210"
+        },
+        "id": 1396504582625374210,
+        "text": "#covid19sk #skpoli https://t.co/Pr6FhhVJ08",
+        "attachments": null,
+        "author_id": 1433167542,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1396504582625374210,
+        "created_at": "2021-05-23T16:33:32+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 42,
+                    "url": "https://t.co/Pr6FhhVJ08",
+                    "expanded_url": "https://twitter.com/rupasubramanya/status/1396503735107559425",
+                    "display_url": "twitter.com/rupasubramanya\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "tag": "covid19sk"
+                },
+                {
+                    "start": 11,
+                    "end": 18,
+                    "tag": "skpoli"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1396503735107559425"
+                },
+                "id": 1396503735107559425,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

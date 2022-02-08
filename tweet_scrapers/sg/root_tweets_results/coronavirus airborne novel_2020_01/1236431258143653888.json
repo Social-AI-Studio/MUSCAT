@@ -1,0 +1,953 @@
+[
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1236431258143653888"
+                }
+            ],
+            "conversation_id": "1236783485030993925",
+            "id": "1236783485030993925",
+            "source": "Twitter for Android",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 176,
+                        "end": 192,
+                        "tag": "TyrionLannister"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 158,
+                        "end": 164,
+                        "probability": 0.7891,
+                        "type": "Product",
+                        "normalized_text": "twitter"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 252,
+                        "end": 275,
+                        "url": "https://t.co/7Ht7AHDqeJ",
+                        "expanded_url": "https://twitter.com/ZachandMattShow/status/1236431258143653888",
+                        "display_url": "twitter.com/ZachandMattSho\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "elonmusk",
+                        "id": "44196397"
+                    },
+                    {
+                        "start": 24,
+                        "end": 34,
+                        "username": "elizableu",
+                        "id": "1210398164878024704"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "44196397",
+            "author_id": "3106564042",
+            "lang": "en",
+            "created_at": "2020-03-08T22:38:55.000Z",
+            "reply_settings": "everyone",
+            "text": "@elonmusk please follow @elizableu she has inspiring content and she seems like a wonderful person from what I have seen and had interaction with from her on twitter! And like #TyrionLannister, I consider myself to be an excellent judge of character \ud83c\udf77 https://t.co/7Ht7AHDqeJ",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10002926166",
+                        "name": "Game of Thrones",
+                        "description": "The final season is here.\n\nPhoto via @GameofThrones"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10028298913",
+                        "name": "Game of Thrones",
+                        "description": "George R.R. Martin's best-selling book series `A Song of Ice and Fire' is brought to the screen as HBO sinks its considerable storytelling teeth into the medieval fantasy epic. It's the depiction of two powerful families - kings and queens, knights and renegades, liars and honest men - playing a deadly game for control of the Seven Kingdoms of Westeros, and to sit atop the Iron Throne. Martin is credited as a co-executive producer and one of the writers for the series, which was filmed in Northern Ireland and Malta."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "122",
+                        "name": "Fictional Character",
+                        "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow"
+                    },
+                    "entity": {
+                        "id": "886627481645498368",
+                        "name": "Tyrion Lannister",
+                        "description": "Tyrion Lannister"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "808713037230157824",
+                        "name": "Elon Musk",
+                        "description": "Elon Musk"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781972125171060736",
+                        "name": "Auto"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781972125179518977",
+                        "name": "Auto Manufacturer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10044199219",
+                        "name": "Tesla Motors"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847528391163092993",
+                        "name": "Automotive",
+                        "description": "Car culture"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847868745150119936",
+                        "name": "Home & family",
+                        "description": "Hobbies and interests"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847528576551337984",
+                        "name": "Hybrid and electric vehicles",
+                        "description": "Hybrid and electric vehicles"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847528646185070592",
+                        "name": "Luxury Cars",
+                        "description": "Luxury"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "898654185146560512",
+                        "name": "Energy Technology",
+                        "description": "Energy Technology"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1236783485030993925,
+        "text": "@elonmusk please follow @elizableu she has inspiring content and she seems like a wonderful person from what I have seen and had interaction with from her on twitter! And like #TyrionLannister, I consider myself to be an excellent judge of character \ud83c\udf77 https://t.co/7Ht7AHDqeJ",
+        "attachments": null,
+        "author_id": 3106564042,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10002926166",
+                    "name": "Game of Thrones",
+                    "description": "The final season is here.\n\nPhoto via @GameofThrones"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10028298913",
+                    "name": "Game of Thrones",
+                    "description": "George R.R. Martin's best-selling book series `A Song of Ice and Fire' is brought to the screen as HBO sinks its considerable storytelling teeth into the medieval fantasy epic. It's the depiction of two powerful families - kings and queens, knights and renegades, liars and honest men - playing a deadly game for control of the Seven Kingdoms of Westeros, and to sit atop the Iron Throne. Martin is credited as a co-executive producer and one of the writers for the series, which was filmed in Northern Ireland and Malta."
+                }
+            },
+            {
+                "domain": {
+                    "id": "122",
+                    "name": "Fictional Character",
+                    "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow"
+                },
+                "entity": {
+                    "id": "886627481645498368",
+                    "name": "Tyrion Lannister",
+                    "description": "Tyrion Lannister"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "808713037230157824",
+                    "name": "Elon Musk",
+                    "description": "Elon Musk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781972125171060736",
+                    "name": "Auto"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781972125179518977",
+                    "name": "Auto Manufacturer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10044199219",
+                    "name": "Tesla Motors"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847528391163092993",
+                    "name": "Automotive",
+                    "description": "Car culture"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847868745150119936",
+                    "name": "Home & family",
+                    "description": "Hobbies and interests"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847528576551337984",
+                    "name": "Hybrid and electric vehicles",
+                    "description": "Hybrid and electric vehicles"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847528646185070592",
+                    "name": "Luxury Cars",
+                    "description": "Luxury"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "898654185146560512",
+                    "name": "Energy Technology",
+                    "description": "Energy Technology"
+                }
+            }
+        ],
+        "conversation_id": 1236783485030993925,
+        "created_at": "2020-03-08T22:38:55+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 176,
+                    "end": 192,
+                    "tag": "TyrionLannister"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 158,
+                    "end": 164,
+                    "probability": 0.7891,
+                    "type": "Product",
+                    "normalized_text": "twitter"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 252,
+                    "end": 275,
+                    "url": "https://t.co/7Ht7AHDqeJ",
+                    "expanded_url": "https://twitter.com/ZachandMattShow/status/1236431258143653888",
+                    "display_url": "twitter.com/ZachandMattSho\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "elonmusk",
+                    "id": "44196397"
+                },
+                {
+                    "start": 24,
+                    "end": 34,
+                    "username": "elizableu",
+                    "id": "1210398164878024704"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 44196397,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1236431258143653888"
+                },
+                "id": 1236431258143653888,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1236431258143653888"
+                }
+            ],
+            "conversation_id": "1236555673363566596",
+            "id": "1236555673363566596",
+            "source": "Twitter for iPhone",
+            "author_id": "1070448013082935297",
+            "lang": "en",
+            "created_at": "2020-03-08T07:33:41.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 20,
+                        "end": 43,
+                        "url": "https://t.co/dRRTg6bvKr",
+                        "expanded_url": "https://twitter.com/ZachandMattShow/status/1236431258143653888",
+                        "display_url": "twitter.com/ZachandMattSho\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "This is amazing \ud83d\udef0\ud83d\ude80\ud83d\udef8 https://t.co/dRRTg6bvKr",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "808713037230157824",
+                        "name": "Elon Musk",
+                        "description": "Elon Musk"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781972125171060736",
+                        "name": "Auto"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781972125179518977",
+                        "name": "Auto Manufacturer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10044199219",
+                        "name": "Tesla Motors"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847528391163092993",
+                        "name": "Automotive",
+                        "description": "Car culture"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847868745150119936",
+                        "name": "Home & family",
+                        "description": "Hobbies and interests"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847528576551337984",
+                        "name": "Hybrid and electric vehicles",
+                        "description": "Hybrid and electric vehicles"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847528646185070592",
+                        "name": "Luxury Cars",
+                        "description": "Luxury"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "898654185146560512",
+                        "name": "Energy Technology",
+                        "description": "Energy Technology"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1236555673363566596,
+        "text": "This is amazing \ud83d\udef0\ud83d\ude80\ud83d\udef8 https://t.co/dRRTg6bvKr",
+        "attachments": null,
+        "author_id": 1070448013082935297,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "808713037230157824",
+                    "name": "Elon Musk",
+                    "description": "Elon Musk"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781972125171060736",
+                    "name": "Auto"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781972125179518977",
+                    "name": "Auto Manufacturer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10044199219",
+                    "name": "Tesla Motors"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847528391163092993",
+                    "name": "Automotive",
+                    "description": "Car culture"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847868745150119936",
+                    "name": "Home & family",
+                    "description": "Hobbies and interests"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847528576551337984",
+                    "name": "Hybrid and electric vehicles",
+                    "description": "Hybrid and electric vehicles"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847528646185070592",
+                    "name": "Luxury Cars",
+                    "description": "Luxury"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "898654185146560512",
+                    "name": "Energy Technology",
+                    "description": "Energy Technology"
+                }
+            }
+        ],
+        "conversation_id": 1236555673363566596,
+        "created_at": "2020-03-08T07:33:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 20,
+                    "end": 43,
+                    "url": "https://t.co/dRRTg6bvKr",
+                    "expanded_url": "https://twitter.com/ZachandMattShow/status/1236431258143653888",
+                    "display_url": "twitter.com/ZachandMattSho\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1236431258143653888"
+                },
+                "id": 1236431258143653888,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

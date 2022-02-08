@@ -1,0 +1,2281 @@
+[
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105164288",
+                        "name": "Casual"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10027516491",
+                        "name": "Panera Bread"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "860133563332648963",
+                        "name": "Cuisines",
+                        "description": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "860133974043049985",
+                        "name": "American cuisine",
+                        "description": "American Cuisine"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105164288",
+                        "name": "Casual"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10027516491",
+                        "name": "Panera Bread"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 33,
+                        "end": 38,
+                        "probability": 0.6197,
+                        "type": "Organization",
+                        "normalized_text": "Panera"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1437213706643968001",
+            "text": "@TheOnion I want to feel safe in Panera. Also got the vac and still got COVID. So YOLO i guess",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "author_id": "1432518301306048514",
+            "created_at": "2021-09-13T00:37:04.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1437213706643968001,
+        "text": "@TheOnion I want to feel safe in Panera. Also got the vac and still got COVID. So YOLO i guess",
+        "attachments": null,
+        "author_id": 1432518301306048514,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596161376261",
+                    "name": "Dining"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105164288",
+                    "name": "Casual"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027516491",
+                    "name": "Panera Bread"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "860133563332648963",
+                    "name": "Cuisines",
+                    "description": "Cuisines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "860133974043049985",
+                    "name": "American cuisine",
+                    "description": "American Cuisine"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596161376261",
+                    "name": "Dining"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105164288",
+                    "name": "Casual"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027516491",
+                    "name": "Panera Bread"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-13T00:37:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 33,
+                    "end": 38,
+                    "probability": 0.6197,
+                    "type": "Organization",
+                    "normalized_text": "Panera"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14075928,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "dannyongod",
+                        "id": "1012196018472079361"
+                    },
+                    {
+                        "start": 12,
+                        "end": 20,
+                        "username": "phelanm",
+                        "id": "15256416"
+                    },
+                    {
+                        "start": 21,
+                        "end": 30,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1436110419228246016",
+            "text": "@dannyongod @phelanm @TheOnion With...the...weird...punctuation...and...period...stops...every...other word...almost...it would seem...this...person is...a freaking bot posing as a human being.\n\nThat's my first guess. \ud83d\ude0b",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436099571361488898"
+                }
+            ],
+            "author_id": "969247709411643392",
+            "created_at": "2021-09-09T23:33:00.000Z",
+            "in_reply_to_user_id": "1012196018472079361",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436110419228246016,
+        "text": "@dannyongod @phelanm @TheOnion With...the...weird...punctuation...and...period...stops...every...other word...almost...it would seem...this...person is...a freaking bot posing as a human being.\n\nThat's my first guess. \ud83d\ude0b",
+        "attachments": null,
+        "author_id": 969247709411643392,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T23:33:00+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "dannyongod",
+                    "id": "1012196018472079361"
+                },
+                {
+                    "start": 12,
+                    "end": 20,
+                    "username": "phelanm",
+                    "id": "15256416"
+                },
+                {
+                    "start": 21,
+                    "end": 30,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1012196018472079361,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436099571361488898"
+                },
+                "id": 1436099571361488898,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 145,
+                        "end": 168,
+                        "url": "https://t.co/bmJnmrLobK",
+                        "expanded_url": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/myo-outcomes.html",
+                        "display_url": "cdc.gov/coronavirus/20\u2026"
+                    },
+                    {
+                        "start": 201,
+                        "end": 224,
+                        "url": "https://t.co/KDIhEcm4Lx",
+                        "expanded_url": "https://thehill.com/policy/healthcare/530966-fda-investigating-allergic-reactions-to-pfizer-vaccine-reported-in-multiple",
+                        "display_url": "thehill.com/policy/healthc\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1471600218823081988/GYVegFi-?format=jpg&name=orig",
+                                "width": 1440,
+                                "height": 880
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1471600218823081988/GYVegFi-?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "FDA investigating allergic reactions to Pfizer vaccine reported in",
+                        "description": "The Food and Drug Administration (FDA) is investigating allergic reactions to the Pfizer coronavirus vaccine that were reported in multiple states after it began to be administered this week.",
+                        "unwound_url": "https://thehill.com/policy/healthcare/530966-fda-investigating-allergic-reactions-to-pfizer-vaccine-reported-in-multiple"
+                    },
+                    {
+                        "start": 263,
+                        "end": 286,
+                        "url": "https://t.co/s86YakzLXE",
+                        "expanded_url": "https://www.ibtimes.com/coronavirus-update-vaccine-skips-important-animal-testing-phase-straight-human-trials-2941208",
+                        "display_url": "ibtimes.com/coronavirus-up\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487175374249381893/6XRiPyk2?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 645
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487175374249381893/6XRiPyk2?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Coronavirus Update: Vaccine Skips Important Animal Testing Phase, Straight To Human Trials",
+                        "description": "Politicians have long said a candidate vaccine for COVID-19 might be available in 2021, but this means taking shorcuts to the laborious testing process for medicines.",
+                        "unwound_url": "https://www.ibtimes.com/coronavirus-update-vaccine-skips-important-animal-testing-phase-straight-human-trials-2941208"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1436100071385440256",
+            "text": "@TheOnion MOST? *FULLY?* \"..developing myocarditis ..inflammation of the heart ..after ..mRNA COVID-19 vaccine ..Most ..people fully recover..\": https://t.co/bmJnmrLobK \"..FDA ..allergic reactions..\": https://t.co/KDIhEcm4Lx \"..Vaccine Skips ..Animal Testing..\": https://t.co/s86YakzLXE",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "author_id": "15256416",
+            "created_at": "2021-09-09T22:51:53.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436100071385440256,
+        "text": "@TheOnion MOST? *FULLY?* \"..developing myocarditis ..inflammation of the heart ..after ..mRNA COVID-19 vaccine ..Most ..people fully recover..\": https://t.co/bmJnmrLobK \"..FDA ..allergic reactions..\": https://t.co/KDIhEcm4Lx \"..Vaccine Skips ..Animal Testing..\": https://t.co/s86YakzLXE",
+        "attachments": null,
+        "author_id": 15256416,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:51:53+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 145,
+                    "end": 168,
+                    "url": "https://t.co/bmJnmrLobK",
+                    "expanded_url": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/myo-outcomes.html",
+                    "display_url": "cdc.gov/coronavirus/20\u2026"
+                },
+                {
+                    "start": 201,
+                    "end": 224,
+                    "url": "https://t.co/KDIhEcm4Lx",
+                    "expanded_url": "https://thehill.com/policy/healthcare/530966-fda-investigating-allergic-reactions-to-pfizer-vaccine-reported-in-multiple",
+                    "display_url": "thehill.com/policy/healthc\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1471600218823081988/GYVegFi-?format=jpg&name=orig",
+                            "width": 1440,
+                            "height": 880
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1471600218823081988/GYVegFi-?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "FDA investigating allergic reactions to Pfizer vaccine reported in",
+                    "description": "The Food and Drug Administration (FDA) is investigating allergic reactions to the Pfizer coronavirus vaccine that were reported in multiple states after it began to be administered this week.",
+                    "unwound_url": "https://thehill.com/policy/healthcare/530966-fda-investigating-allergic-reactions-to-pfizer-vaccine-reported-in-multiple"
+                },
+                {
+                    "start": 263,
+                    "end": 286,
+                    "url": "https://t.co/s86YakzLXE",
+                    "expanded_url": "https://www.ibtimes.com/coronavirus-update-vaccine-skips-important-animal-testing-phase-straight-human-trials-2941208",
+                    "display_url": "ibtimes.com/coronavirus-up\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487175374249381893/6XRiPyk2?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 645
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487175374249381893/6XRiPyk2?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Coronavirus Update: Vaccine Skips Important Animal Testing Phase, Straight To Human Trials",
+                    "description": "Politicians have long said a candidate vaccine for COVID-19 might be available in 2021, but this means taking shorcuts to the laborious testing process for medicines.",
+                    "unwound_url": "https://www.ibtimes.com/coronavirus-update-vaccine-skips-important-animal-testing-phase-straight-human-trials-2941208"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14075928,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1436099818074501126",
+            "text": "@TheOnion wanna make sure that the injection site is at the rear end \ud83d\ude09",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436099670107844611"
+                }
+            ],
+            "author_id": "1119377207783149569",
+            "created_at": "2021-09-09T22:50:52.000Z",
+            "in_reply_to_user_id": "1119377207783149569",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436099818074501126,
+        "text": "@TheOnion wanna make sure that the injection site is at the rear end \ud83d\ude09",
+        "attachments": null,
+        "author_id": 1119377207783149569,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:50:52+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1119377207783149569,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436099670107844611"
+                },
+                "id": 1436099670107844611,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1436099670107844611",
+            "text": "@TheOnion can they insert the needle at the buttocks? \ud83d\ude1f",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "author_id": "1119377207783149569",
+            "created_at": "2021-09-09T22:50:17.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436099670107844611,
+        "text": "@TheOnion can they insert the needle at the buttocks? \ud83d\ude1f",
+        "attachments": null,
+        "author_id": 1119377207783149569,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:50:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14075928,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/63jJKgH3ha",
+                        "expanded_url": "https://twitter.com/KateMal08645762/status/1436099617104482308/photo/1",
+                        "display_url": "pic.twitter.com/63jJKgH3ha"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1436099617104482308",
+            "text": "@TheOnion https://t.co/63jJKgH3ha",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "16_1436099610590711811"
+                ]
+            },
+            "author_id": "1184213111991128069",
+            "created_at": "2021-09-09T22:50:04.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436099617104482308,
+        "text": "@TheOnion https://t.co/63jJKgH3ha",
+        "attachments": {
+            "media_keys": [
+                "16_1436099610590711811"
+            ]
+        },
+        "author_id": 1184213111991128069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:50:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/63jJKgH3ha",
+                    "expanded_url": "https://twitter.com/KateMal08645762/status/1436099617104482308/photo/1",
+                    "display_url": "pic.twitter.com/63jJKgH3ha"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14075928,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "phelanm",
+                        "id": "15256416"
+                    },
+                    {
+                        "start": 9,
+                        "end": 18,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1436099571361488898",
+            "text": "@phelanm @TheOnion what?",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436099015108661251"
+                }
+            ],
+            "author_id": "1012196018472079361",
+            "created_at": "2021-09-09T22:49:53.000Z",
+            "in_reply_to_user_id": "15256416",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436099571361488898,
+        "text": "@phelanm @TheOnion what?",
+        "attachments": null,
+        "author_id": 1012196018472079361,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:49:53+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "phelanm",
+                    "id": "15256416"
+                },
+                {
+                    "start": 9,
+                    "end": 18,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15256416,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436099015108661251"
+                },
+                "id": 1436099015108661251,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 119,
+                        "end": 142,
+                        "url": "https://t.co/GVt7FOKskA",
+                        "expanded_url": "https://rt.com/news/533981-israel-covid19-vaccine-fourth-dose/",
+                        "display_url": "rt.com/news/533981-is\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=orig",
+                                "width": 980,
+                                "height": 551
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "\u2018This is life from now on\u2019: Israel\u2019s coronavirus czar warns people to prepare for a \u2018fourth injection\u2019 of Covid vaccine \u2014 RT World News",
+                        "description": "With over 2.5 million Israelis already inoculated with three Covid-19 vaccine doses, the national coronavirus czar, Salman Zarka, has said preparations need to begin for an eventual fourth jab due to the virus\u2019 growing variants.",
+                        "unwound_url": "https://www.rt.com/news/533981-israel-covid19-vaccine-fourth-dose/"
+                    },
+                    {
+                        "start": 189,
+                        "end": 212,
+                        "url": "https://t.co/tl5pihMW6A",
+                        "expanded_url": "https://rt.com/usa/533806-fauci-third-vaccine-dose/",
+                        "display_url": "rt.com/usa/533806-fau\u2026"
+                    },
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "url": "https://t.co/tGF1XKE1WS",
+                        "expanded_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html",
+                        "display_url": "cnbc.com/2021/04/15/pfi\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=orig",
+                                "width": 2850,
+                                "height": 2062
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Pfizer CEO says third Covid vaccine dose likely needed within 12 months",
+                        "description": "Pfizer\u00a0CEO Albert Bourla said people will \"likely\" need a third dose of a Covid-19 vaccine within 12 months of getting fully vaccinated.",
+                        "unwound_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 216,
+                        "end": 221,
+                        "probability": 0.541,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1436099234579849217",
+            "text": "@TheOnion kinda \"funny\"? \"..2.5 million Israelis already inoculated with three ..doses ..preparations ..fourth jab..\": https://t.co/GVt7FOKskA \"..Fauci ..fully vaccinated ..three doses..\": https://t.co/tl5pihMW6A \"..Pfizer CEO ..need to get vaccinated ..annually..\": https://t.co/tGF1XKE1WS",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "author_id": "15256416",
+            "created_at": "2021-09-09T22:48:33.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436099234579849217,
+        "text": "@TheOnion kinda \"funny\"? \"..2.5 million Israelis already inoculated with three ..doses ..preparations ..fourth jab..\": https://t.co/GVt7FOKskA \"..Fauci ..fully vaccinated ..three doses..\": https://t.co/tl5pihMW6A \"..Pfizer CEO ..need to get vaccinated ..annually..\": https://t.co/tGF1XKE1WS",
+        "attachments": null,
+        "author_id": 15256416,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:48:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 119,
+                    "end": 142,
+                    "url": "https://t.co/GVt7FOKskA",
+                    "expanded_url": "https://rt.com/news/533981-israel-covid19-vaccine-fourth-dose/",
+                    "display_url": "rt.com/news/533981-is\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=orig",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "\u2018This is life from now on\u2019: Israel\u2019s coronavirus czar warns people to prepare for a \u2018fourth injection\u2019 of Covid vaccine \u2014 RT World News",
+                    "description": "With over 2.5 million Israelis already inoculated with three Covid-19 vaccine doses, the national coronavirus czar, Salman Zarka, has said preparations need to begin for an eventual fourth jab due to the virus\u2019 growing variants.",
+                    "unwound_url": "https://www.rt.com/news/533981-israel-covid19-vaccine-fourth-dose/"
+                },
+                {
+                    "start": 189,
+                    "end": 212,
+                    "url": "https://t.co/tl5pihMW6A",
+                    "expanded_url": "https://rt.com/usa/533806-fauci-third-vaccine-dose/",
+                    "display_url": "rt.com/usa/533806-fau\u2026"
+                },
+                {
+                    "start": 267,
+                    "end": 290,
+                    "url": "https://t.co/tGF1XKE1WS",
+                    "expanded_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html",
+                    "display_url": "cnbc.com/2021/04/15/pfi\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=orig",
+                            "width": 2850,
+                            "height": 2062
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Pfizer CEO says third Covid vaccine dose likely needed within 12 months",
+                    "description": "Pfizer\u00a0CEO Albert Bourla said people will \"likely\" need a third dose of a Covid-19 vaccine within 12 months of getting fully vaccinated.",
+                    "unwound_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 216,
+                    "end": 221,
+                    "probability": 0.541,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14075928,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 72,
+                        "end": 95,
+                        "url": "https://t.co/1zvV3sJUJO",
+                        "expanded_url": "https://clinicaltrials.gov/ct2/show/NCT04368728",
+                        "display_url": "clinicaltrials.gov/ct2/show/NCT04\u2026"
+                    },
+                    {
+                        "start": 158,
+                        "end": 181,
+                        "url": "https://t.co/pYCefQ3TLm",
+                        "expanded_url": "https://theguardian.com/theobserver/commentisfree/2021/jun/27/why-most-people-who-now-die-with-covid-have-been-vaccinated",
+                        "display_url": "theguardian.com/theobserver/co\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486914919857594369/Nl2gefAR?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 630
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486914919857594369/Nl2gefAR?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Why most people who now die with Covid in England have had a vaccination | David Spiegelhalter and Anthony Masters",
+                        "description": "Don\u2019t think of this as a bad sign, it\u2019s exactly what\u2019s expected from an effective but imperfect jab",
+                        "unwound_url": "https://www.theguardian.com/theobserver/commentisfree/2021/jun/27/why-most-people-who-now-die-with-covid-have-been-vaccinated"
+                    },
+                    {
+                        "start": 266,
+                        "end": 289,
+                        "url": "https://t.co/NuAycj14j5",
+                        "expanded_url": "https://twitter.com/GMB/status/1336207518373122049",
+                        "display_url": "twitter.com/GMB/status/133\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1436099015108661251",
+            "text": "@TheOnion \"..Study ..of RNA Vaccine ..Completion Date ..May 2, 2023..\": https://t.co/1zvV3sJUJO \"..most people who now die with Covid ..had a vaccination..\": https://t.co/pYCefQ3TLm \"..doesn\u2019t stop her getting ..transmitting ..What effect does the vaccine have?..\": https://t.co/NuAycj14j5",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1336207518373122049"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "author_id": "15256416",
+            "created_at": "2021-09-09T22:47:41.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436099015108661251,
+        "text": "@TheOnion \"..Study ..of RNA Vaccine ..Completion Date ..May 2, 2023..\": https://t.co/1zvV3sJUJO \"..most people who now die with Covid ..had a vaccination..\": https://t.co/pYCefQ3TLm \"..doesn\u2019t stop her getting ..transmitting ..What effect does the vaccine have?..\": https://t.co/NuAycj14j5",
+        "attachments": null,
+        "author_id": 15256416,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:47:41+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/1zvV3sJUJO",
+                    "expanded_url": "https://clinicaltrials.gov/ct2/show/NCT04368728",
+                    "display_url": "clinicaltrials.gov/ct2/show/NCT04\u2026"
+                },
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/pYCefQ3TLm",
+                    "expanded_url": "https://theguardian.com/theobserver/commentisfree/2021/jun/27/why-most-people-who-now-die-with-covid-have-been-vaccinated",
+                    "display_url": "theguardian.com/theobserver/co\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486914919857594369/Nl2gefAR?format=jpg&name=orig",
+                            "width": 1200,
+                            "height": 630
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486914919857594369/Nl2gefAR?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Why most people who now die with Covid in England have had a vaccination | David Spiegelhalter and Anthony Masters",
+                    "description": "Don\u2019t think of this as a bad sign, it\u2019s exactly what\u2019s expected from an effective but imperfect jab",
+                    "unwound_url": "https://www.theguardian.com/theobserver/commentisfree/2021/jun/27/why-most-people-who-now-die-with-covid-have-been-vaccinated"
+                },
+                {
+                    "start": 266,
+                    "end": 289,
+                    "url": "https://t.co/NuAycj14j5",
+                    "expanded_url": "https://twitter.com/GMB/status/1336207518373122049",
+                    "display_url": "twitter.com/GMB/status/133\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14075928,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1336207518373122049"
+                },
+                "id": 1336207518373122049,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "geo": {
+                "place_id": "5a700e3c73cbf9b9"
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/6xjtQNNr4p",
+                        "expanded_url": "https://twitter.com/JohnGreerNJ/status/1436098979490672652/photo/1",
+                        "display_url": "pic.twitter.com/6xjtQNNr4p"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1436098979490672652",
+            "text": "@TheOnion https://t.co/6xjtQNNr4p",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "16_1436098973266333697"
+                ]
+            },
+            "author_id": "24433444",
+            "created_at": "2021-09-09T22:47:32.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436098979490672652,
+        "text": "@TheOnion https://t.co/6xjtQNNr4p",
+        "attachments": {
+            "media_keys": [
+                "16_1436098973266333697"
+            ]
+        },
+        "author_id": 24433444,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:47:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/6xjtQNNr4p",
+                    "expanded_url": "https://twitter.com/JohnGreerNJ/status/1436098979490672652/photo/1",
+                    "display_url": "pic.twitter.com/6xjtQNNr4p"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "5a700e3c73cbf9b9"
+        },
+        "in_reply_to_user_id": 14075928,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10043189065",
+                        "name": "The Onion"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheOnion",
+                        "id": "14075928"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1436098885483732994",
+            "text": "@TheOnion \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                }
+            ],
+            "author_id": "1412538419058782210",
+            "created_at": "2021-09-09T22:47:10.000Z",
+            "in_reply_to_user_id": "14075928",
+            "conversation_id": "1436098414090113029"
+        },
+        "id": 1436098885483732994,
+        "text": "@TheOnion \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "attachments": null,
+        "author_id": 1412538419058782210,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10043189065",
+                    "name": "The Onion"
+                }
+            }
+        ],
+        "conversation_id": 1436098414090113029,
+        "created_at": "2021-09-09T22:47:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheOnion",
+                    "id": "14075928"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14075928,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436098414090113029"
+                },
+                "id": 1436098414090113029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1250040436045078533"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1250107230093037569",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "OliverMathenge",
+                        "id": "25805906"
+                    }
+                ]
+            },
+            "author_id": "1221003360284893184",
+            "in_reply_to_user_id": "25805906",
+            "created_at": "2020-04-14T17:02:44.000Z",
+            "text": "@OliverMathenge Too bad",
+            "reply_settings": "everyone",
+            "conversation_id": "1250040436045078533",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1250107230093037569,
+        "text": "@OliverMathenge Too bad",
+        "attachments": null,
+        "author_id": 1221003360284893184,
+        "context_annotations": [],
+        "conversation_id": 1250040436045078533,
+        "created_at": "2020-04-14T17:02:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "OliverMathenge",
+                    "id": "25805906"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 25805906,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1250040436045078533"
+                },
+                "id": 1250040436045078533,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

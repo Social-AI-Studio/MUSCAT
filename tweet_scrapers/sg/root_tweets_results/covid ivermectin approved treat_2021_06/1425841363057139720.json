@@ -1,0 +1,184 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 163,
+                        "end": 186,
+                        "url": "https://t.co/TbrQNne9J0",
+                        "expanded_url": "https://twitter.com/kathleenalice4/status/1425841363057139720",
+                        "display_url": "twitter.com/kathleenalice4\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "KristiNoem",
+                        "id": "114388293"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "114388293",
+            "id": "1425842332444905477",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "993571989351624704",
+                        "name": "Kristi Noem",
+                        "description": "US Representative Kristi Noem (SD At large)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "993571989351624704",
+                        "name": "Kristi Noem",
+                        "description": "US Representative Kristi Noem (SD At large)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-12T15:31:17.000Z",
+            "reply_settings": "everyone",
+            "author_id": "17492377",
+            "source": "Twitter Web App",
+            "text": "@KristiNoem Look at this baby (and many other photos of soooooo much needless death and illness)\n\nThat 'personal responsibility' game plan sure ain't working.   \n\nhttps://t.co/TbrQNne9J0",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1425841363057139720"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1425773155759624200"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1425773155759624200"
+        },
+        "id": 1425842332444905477,
+        "text": "@KristiNoem Look at this baby (and many other photos of soooooo much needless death and illness)\n\nThat 'personal responsibility' game plan sure ain't working.   \n\nhttps://t.co/TbrQNne9J0",
+        "attachments": null,
+        "author_id": 17492377,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "993571989351624704",
+                    "name": "Kristi Noem",
+                    "description": "US Representative Kristi Noem (SD At large)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "993571989351624704",
+                    "name": "Kristi Noem",
+                    "description": "US Representative Kristi Noem (SD At large)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1425773155759624200,
+        "created_at": "2021-08-12T15:31:17+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 163,
+                    "end": 186,
+                    "url": "https://t.co/TbrQNne9J0",
+                    "expanded_url": "https://twitter.com/kathleenalice4/status/1425841363057139720",
+                    "display_url": "twitter.com/kathleenalice4\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "KristiNoem",
+                    "id": "114388293"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 114388293,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1425841363057139720"
+                },
+                "id": 1425841363057139720,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1425773155759624200"
+                },
+                "id": 1425773155759624200,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

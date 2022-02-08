@@ -1,0 +1,5349 @@
+[
+    {
+        "data": {
+            "author_id": "1223512856756396032",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10040666972",
+                        "name": "The New York Times"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 193,
+                        "end": 210,
+                        "probability": 0.8649,
+                        "type": "Organization",
+                        "normalized_text": "The New York Times"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 212,
+                        "end": 235,
+                        "url": "https://t.co/trSr0lAce3",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1459823068671471618",
+            "text": "\u201cIn reality, it is impossible to experience any effects from being near a vaccinated person, because none of the vaccine ingredients are capable of leaving the body they were injected into.\u201d \u2014 The New York Times https://t.co/trSr0lAce3",
+            "created_at": "2021-11-14T09:58:36.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1459823068671471618",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1459823068671471618,
+        "text": "\u201cIn reality, it is impossible to experience any effects from being near a vaccinated person, because none of the vaccine ingredients are capable of leaving the body they were injected into.\u201d \u2014 The New York Times https://t.co/trSr0lAce3",
+        "attachments": null,
+        "author_id": 1223512856756396032,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10040666972",
+                    "name": "The New York Times"
+                }
+            }
+        ],
+        "conversation_id": 1459823068671471618,
+        "created_at": "2021-11-14T09:58:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 193,
+                    "end": 210,
+                    "probability": 0.8649,
+                    "type": "Organization",
+                    "normalized_text": "The New York Times"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 212,
+                    "end": 235,
+                    "url": "https://t.co/trSr0lAce3",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1223512856756396032",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 34,
+                        "end": 35,
+                        "probability": 0.8326,
+                        "type": "Organization",
+                        "normalized_text": "AP"
+                    },
+                    {
+                        "start": 41,
+                        "end": 50,
+                        "probability": 0.5195,
+                        "type": "Organization",
+                        "normalized_text": "PolitiFact"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 212,
+                        "end": 235,
+                        "url": "https://t.co/trSr0lAce3",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1459822063959437312",
+            "text": "Multiple fact-checkers, including AP and PolitiFact, confirmed that a vaccinated person cannot \"shed\" spike proteins to unvaccinated people and that COVID-19 vaccines do not spread by inhalation or skin contact. https://t.co/trSr0lAce3",
+            "created_at": "2021-11-14T09:54:36.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1459822063959437312",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1459822063959437312,
+        "text": "Multiple fact-checkers, including AP and PolitiFact, confirmed that a vaccinated person cannot \"shed\" spike proteins to unvaccinated people and that COVID-19 vaccines do not spread by inhalation or skin contact. https://t.co/trSr0lAce3",
+        "attachments": null,
+        "author_id": 1223512856756396032,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1459822063959437312,
+        "created_at": "2021-11-14T09:54:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 34,
+                    "end": 35,
+                    "probability": 0.8326,
+                    "type": "Organization",
+                    "normalized_text": "AP"
+                },
+                {
+                    "start": 41,
+                    "end": 50,
+                    "probability": 0.5195,
+                    "type": "Organization",
+                    "normalized_text": "PolitiFact"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 212,
+                    "end": 235,
+                    "url": "https://t.co/trSr0lAce3",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1457788148541440004",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 34,
+                        "end": 40,
+                        "probability": 0.3554,
+                        "type": "Person",
+                        "normalized_text": "Covid19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 68,
+                        "end": 91,
+                        "url": "https://t.co/4swI9Zde2h",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1459272392174444555",
+            "text": "Unvaccinated people Infected with Covid19 can Spread Covid19. Fact. https://t.co/4swI9Zde2h",
+            "created_at": "2021-11-12T21:30:24.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1459272392174444555",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1459272392174444555,
+        "text": "Unvaccinated people Infected with Covid19 can Spread Covid19. Fact. https://t.co/4swI9Zde2h",
+        "attachments": null,
+        "author_id": 1457788148541440004,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1459272392174444555,
+        "created_at": "2021-11-12T21:30:24+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 34,
+                    "end": 40,
+                    "probability": 0.3554,
+                    "type": "Person",
+                    "normalized_text": "Covid19"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/4swI9Zde2h",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "121799582",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1459265198011793414",
+            "text": "The unvaxxed continue to both puzzle and amaze me. I mean seriously! Worried about \"catching\" proteins spread by vaccinated. #rockBottom https://t.co/CCzpmp5SOI",
+            "created_at": "2021-11-12T21:01:49.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 137,
+                        "end": 160,
+                        "url": "https://t.co/CCzpmp5SOI",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 125,
+                        "end": 136,
+                        "tag": "rockBottom"
+                    }
+                ]
+            },
+            "conversation_id": "1459265198011793414",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1459265198011793414,
+        "text": "The unvaxxed continue to both puzzle and amaze me. I mean seriously! Worried about \"catching\" proteins spread by vaccinated. #rockBottom https://t.co/CCzpmp5SOI",
+        "attachments": null,
+        "author_id": 121799582,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1459265198011793414,
+        "created_at": "2021-11-12T21:01:49+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/CCzpmp5SOI",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 125,
+                    "end": 136,
+                    "tag": "rockBottom"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "3060276082",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1459239155544858624",
+            "text": "What baffles me is how many people actually think this is real\u2026. https://t.co/TFkZMiaP1p",
+            "created_at": "2021-11-12T19:18:20.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 65,
+                        "end": 88,
+                        "url": "https://t.co/TFkZMiaP1p",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1459239155544858624",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1459239155544858624,
+        "text": "What baffles me is how many people actually think this is real\u2026. https://t.co/TFkZMiaP1p",
+        "attachments": null,
+        "author_id": 3060276082,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1459239155544858624,
+        "created_at": "2021-11-12T19:18:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 65,
+                    "end": 88,
+                    "url": "https://t.co/TFkZMiaP1p",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "400594158",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1458984921641283588",
+            "text": "Wonder about wujan?  Check here--https://t.co/Zk6Vq39Sz7 https://t.co/SdywBTfBWJ",
+            "created_at": "2021-11-12T02:28:06.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 33,
+                        "end": 56,
+                        "url": "https://t.co/Zk6Vq39Sz7",
+                        "expanded_url": "https://9h6k.com/covid-facts-and-fantasies/",
+                        "display_url": "9h6k.com/covid-facts-an\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1477439523327860736/axwfJlYp?format=jpg&name=orig",
+                                "width": 3000,
+                                "height": 4000
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1477439523327860736/axwfJlYp?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Covid facts and fantasies - Barbara's Spark for Change",
+                        "description": "Covid facts and fantasies deal with the introductio of the Covid virus: how and when it came about and common misconceptions.",
+                        "unwound_url": "https://9h6k.com/covid-facts-and-fantasies/"
+                    },
+                    {
+                        "start": 57,
+                        "end": 80,
+                        "url": "https://t.co/SdywBTfBWJ",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1458984921641283588",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1458984921641283588,
+        "text": "Wonder about wujan?  Check here--https://t.co/Zk6Vq39Sz7 https://t.co/SdywBTfBWJ",
+        "attachments": null,
+        "author_id": 400594158,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1458984921641283588,
+        "created_at": "2021-11-12T02:28:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 33,
+                    "end": 56,
+                    "url": "https://t.co/Zk6Vq39Sz7",
+                    "expanded_url": "https://9h6k.com/covid-facts-and-fantasies/",
+                    "display_url": "9h6k.com/covid-facts-an\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1477439523327860736/axwfJlYp?format=jpg&name=orig",
+                            "width": 3000,
+                            "height": 4000
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1477439523327860736/axwfJlYp?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Covid facts and fantasies - Barbara's Spark for Change",
+                    "description": "Covid facts and fantasies deal with the introductio of the Covid virus: how and when it came about and common misconceptions.",
+                    "unwound_url": "https://9h6k.com/covid-facts-and-fantasies/"
+                },
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/SdywBTfBWJ",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1346993656138403840",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1458925353875828740",
+            "text": "So if the fact checkers say the vaccines cannot shed, then that probably means they can and do.\n\nThe technology and desire exists.\nhttps://t.co/KY3GmLKXMq\n\nhttps://t.co/PO82NQ10fZ\n\nhttps://t.co/iGnl2PAS9s https://t.co/2fqLzaBE6E",
+            "created_at": "2021-11-11T22:31:24.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 131,
+                        "end": 154,
+                        "url": "https://t.co/KY3GmLKXMq",
+                        "expanded_url": "https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4732410/",
+                        "display_url": "ncbi.nlm.nih.gov/labs/pmc/artic\u2026"
+                    },
+                    {
+                        "start": 156,
+                        "end": 179,
+                        "url": "https://t.co/PO82NQ10fZ",
+                        "expanded_url": "https://jhsphcenterforhealthsecurity.s3.amazonaws.com/181009-gcbr-tech-report.pdf",
+                        "display_url": "\u2026terforhealthsecurity.s3.amazonaws.com/181009-gcbr-te\u2026"
+                    },
+                    {
+                        "start": 181,
+                        "end": 204,
+                        "url": "https://t.co/iGnl2PAS9s",
+                        "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0264410X01001840",
+                        "display_url": "sciencedirect.com/science/articl\u2026"
+                    },
+                    {
+                        "start": 205,
+                        "end": 228,
+                        "url": "https://t.co/2fqLzaBE6E",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1458925353875828740",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1458925353875828740,
+        "text": "So if the fact checkers say the vaccines cannot shed, then that probably means they can and do.\n\nThe technology and desire exists.\nhttps://t.co/KY3GmLKXMq\n\nhttps://t.co/PO82NQ10fZ\n\nhttps://t.co/iGnl2PAS9s https://t.co/2fqLzaBE6E",
+        "attachments": null,
+        "author_id": 1346993656138403840,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1458925353875828740,
+        "created_at": "2021-11-11T22:31:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/KY3GmLKXMq",
+                    "expanded_url": "https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4732410/",
+                    "display_url": "ncbi.nlm.nih.gov/labs/pmc/artic\u2026"
+                },
+                {
+                    "start": 156,
+                    "end": 179,
+                    "url": "https://t.co/PO82NQ10fZ",
+                    "expanded_url": "https://jhsphcenterforhealthsecurity.s3.amazonaws.com/181009-gcbr-tech-report.pdf",
+                    "display_url": "\u2026terforhealthsecurity.s3.amazonaws.com/181009-gcbr-te\u2026"
+                },
+                {
+                    "start": 181,
+                    "end": 204,
+                    "url": "https://t.co/iGnl2PAS9s",
+                    "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0264410X01001840",
+                    "display_url": "sciencedirect.com/science/articl\u2026"
+                },
+                {
+                    "start": 205,
+                    "end": 228,
+                    "url": "https://t.co/2fqLzaBE6E",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1057824590695665665",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1458871660765925380",
+            "text": "Of course they are. How else to explain dramatic rise of cases after vaccinations? And if this is not true why were masks mandated? Don't believe one word of this. https://t.co/j3I1zhnIO4",
+            "created_at": "2021-11-11T18:58:03.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 164,
+                        "end": 187,
+                        "url": "https://t.co/j3I1zhnIO4",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1458871660765925380",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1458871660765925380,
+        "text": "Of course they are. How else to explain dramatic rise of cases after vaccinations? And if this is not true why were masks mandated? Don't believe one word of this. https://t.co/j3I1zhnIO4",
+        "attachments": null,
+        "author_id": 1057824590695665665,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1458871660765925380,
+        "created_at": "2021-11-11T18:58:03+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 164,
+                    "end": 187,
+                    "url": "https://t.co/j3I1zhnIO4",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "20081305",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1458784730497888262",
+            "text": "Hoaxes I wish were true: #1, this... https://t.co/FYe8bWI8yL",
+            "created_at": "2021-11-11T13:12:37.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 37,
+                        "end": 60,
+                        "url": "https://t.co/FYe8bWI8yL",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1458784730497888262",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1458784730497888262,
+        "text": "Hoaxes I wish were true: #1, this... https://t.co/FYe8bWI8yL",
+        "attachments": null,
+        "author_id": 20081305,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1458784730497888262,
+        "created_at": "2021-11-11T13:12:37+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 37,
+                    "end": 60,
+                    "url": "https://t.co/FYe8bWI8yL",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2259763628",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1458775068851388417",
+            "text": "This is misinformation. \nNobody thinks vaccines are spreading. What does that even mean?\nVaccinated people can and do spread the virus. \nStop lying! https://t.co/ZHROk37jsM",
+            "created_at": "2021-11-11T12:34:13.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 149,
+                        "end": 172,
+                        "url": "https://t.co/ZHROk37jsM",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1458775068851388417",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1458775068851388417,
+        "text": "This is misinformation. \nNobody thinks vaccines are spreading. What does that even mean?\nVaccinated people can and do spread the virus. \nStop lying! https://t.co/ZHROk37jsM",
+        "attachments": null,
+        "author_id": 2259763628,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1458775068851388417,
+        "created_at": "2021-11-11T12:34:13+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 149,
+                    "end": 172,
+                    "url": "https://t.co/ZHROk37jsM",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2840739262",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 201,
+                        "end": 210,
+                        "probability": 0.9957,
+                        "type": "Person",
+                        "normalized_text": "Mike Adams"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 218,
+                        "end": 241,
+                        "url": "https://t.co/bkLXpFje8Q",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1458773697116913664",
+            "text": "It's a bad state of affairs whens someone NEEDS to fact check Natural News.\n\nAnyone only needs to read the disclaimer at the base of the page to know this site is all made up bullshit intended to make Mike Adams rich. https://t.co/bkLXpFje8Q",
+            "created_at": "2021-11-11T12:28:46.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "conversation_id": "1458773697116913664",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1458773697116913664,
+        "text": "It's a bad state of affairs whens someone NEEDS to fact check Natural News.\n\nAnyone only needs to read the disclaimer at the base of the page to know this site is all made up bullshit intended to make Mike Adams rich. https://t.co/bkLXpFje8Q",
+        "attachments": null,
+        "author_id": 2840739262,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1458773697116913664,
+        "created_at": "2021-11-11T12:28:46+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 201,
+                    "end": 210,
+                    "probability": 0.9957,
+                    "type": "Person",
+                    "normalized_text": "Mike Adams"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 218,
+                    "end": 241,
+                    "url": "https://t.co/bkLXpFje8Q",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "8756382",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1458770923864084482",
+            "text": "Yea it's not infection but they still get the benefit of not getting it because we got vaccinated! https://t.co/1SB08fnX3x",
+            "created_at": "2021-11-11T12:17:45.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 99,
+                        "end": 122,
+                        "url": "https://t.co/1SB08fnX3x",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1458770923864084482",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1458770923864084482,
+        "text": "Yea it's not infection but they still get the benefit of not getting it because we got vaccinated! https://t.co/1SB08fnX3x",
+        "attachments": null,
+        "author_id": 8756382,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1458770923864084482,
+        "created_at": "2021-11-11T12:17:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/1SB08fnX3x",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "720319367318089728",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 8,
+                        "end": 11,
+                        "probability": 0.8097,
+                        "type": "Person",
+                        "normalized_text": "Jack"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 88,
+                        "end": 111,
+                        "url": "https://t.co/LnY1Nxh2Jh",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "following",
+            "id": "1396154815433134080",
+            "text": "Well if Jack's Hacks are claiming it can't b  done then you know 2 believe the opposite https://t.co/LnY1Nxh2Jh",
+            "created_at": "2021-05-22T17:23:41.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396154815433134080",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396154815433134080,
+        "text": "Well if Jack's Hacks are claiming it can't b  done then you know 2 believe the opposite https://t.co/LnY1Nxh2Jh",
+        "attachments": null,
+        "author_id": 720319367318089728,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396154815433134080,
+        "created_at": "2021-05-22T17:23:41+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 8,
+                    "end": 11,
+                    "probability": 0.8097,
+                    "type": "Person",
+                    "normalized_text": "Jack"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 88,
+                    "end": 111,
+                    "url": "https://t.co/LnY1Nxh2Jh",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1723241430",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "de",
+            "reply_settings": "everyone",
+            "id": "1396152443172495361",
+            "text": "Pfizer put out the info https://t.co/3Npb1DOgwQ",
+            "created_at": "2021-05-22T17:14:16.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/3Npb1DOgwQ",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396152443172495361",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396152443172495361,
+        "text": "Pfizer put out the info https://t.co/3Npb1DOgwQ",
+        "attachments": null,
+        "author_id": 1723241430,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1396152443172495361,
+        "created_at": "2021-05-22T17:14:16+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/3Npb1DOgwQ",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1223192369756962816",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 79,
+                        "end": 87,
+                        "probability": 0.7474,
+                        "type": "Person",
+                        "normalized_text": "Dr. Gohil"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 254,
+                        "end": 277,
+                        "url": "https://t.co/BTsiJBmcDK",
+                        "expanded_url": "https://www.faculty.uci.edu/profile.cfm?faculty_id=5866",
+                        "display_url": "faculty.uci.edu/profile.cfm?fa\u2026"
+                    },
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/xFaksfksq5",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396147776539353089",
+            "text": "An OPINION piece\nNO data\nNOT a controlled study\nNOT peer reviewed\nNOT science\n\nDr. Gohil has 18 publications, none of which deal with viral or vaccine shedding\nHer work is almost all related to bacteria\nShe is not a virologist nor an expert on vaccines\n\nhttps://t.co/BTsiJBmcDK https://t.co/xFaksfksq5",
+            "created_at": "2021-05-22T16:55:43.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396147776539353089",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396147776539353089,
+        "text": "An OPINION piece\nNO data\nNOT a controlled study\nNOT peer reviewed\nNOT science\n\nDr. Gohil has 18 publications, none of which deal with viral or vaccine shedding\nHer work is almost all related to bacteria\nShe is not a virologist nor an expert on vaccines\n\nhttps://t.co/BTsiJBmcDK https://t.co/xFaksfksq5",
+        "attachments": null,
+        "author_id": 1223192369756962816,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396147776539353089,
+        "created_at": "2021-05-22T16:55:43+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 79,
+                    "end": 87,
+                    "probability": 0.7474,
+                    "type": "Person",
+                    "normalized_text": "Dr. Gohil"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/BTsiJBmcDK",
+                    "expanded_url": "https://www.faculty.uci.edu/profile.cfm?faculty_id=5866",
+                    "display_url": "faculty.uci.edu/profile.cfm?fa\u2026"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/xFaksfksq5",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1371209955475357697",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396131690481848320",
+            "text": "https://t.co/ZFdvK5gQnS  do not believe the lies https://t.co/asPpr23BnI",
+            "created_at": "2021-05-22T15:51:48.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/ZFdvK5gQnS",
+                        "expanded_url": "https://www.brighteon.com/2aaed9bc-aa22-4da2-bdf8-2b0f2059983a",
+                        "display_url": "brighteon.com/2aaed9bc-aa22-\u2026"
+                    },
+                    {
+                        "start": 49,
+                        "end": 72,
+                        "url": "https://t.co/asPpr23BnI",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396131690481848320",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396131690481848320,
+        "text": "https://t.co/ZFdvK5gQnS  do not believe the lies https://t.co/asPpr23BnI",
+        "attachments": null,
+        "author_id": 1371209955475357697,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396131690481848320,
+        "created_at": "2021-05-22T15:51:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/ZFdvK5gQnS",
+                    "expanded_url": "https://www.brighteon.com/2aaed9bc-aa22-4da2-bdf8-2b0f2059983a",
+                    "display_url": "brighteon.com/2aaed9bc-aa22-\u2026"
+                },
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/asPpr23BnI",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "3243875511",
+            "author_id": "3243875511",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396129570298925067",
+            "text": "https://t.co/zuPXnFaAGU\nLook at the site featured in this tweet's picture. \"PROTECTING HEALTH\" while saying you can get vaccinated by shed skin cells. As a bad thing in a global pandemic.\nI've said this before. If you're anti-vac or think COVID is a hoax, start killing people.",
+            "created_at": "2021-05-22T15:43:23.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/zuPXnFaAGU",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396126857251147776",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1396126857251147776"
+                }
+            ]
+        },
+        "id": 1396129570298925067,
+        "text": "https://t.co/zuPXnFaAGU\nLook at the site featured in this tweet's picture. \"PROTECTING HEALTH\" while saying you can get vaccinated by shed skin cells. As a bad thing in a global pandemic.\nI've said this before. If you're anti-vac or think COVID is a hoax, start killing people.",
+        "attachments": null,
+        "author_id": 3243875511,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396126857251147776,
+        "created_at": "2021-05-22T15:43:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/zuPXnFaAGU",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3243875511,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1396126857251147776"
+                },
+                "id": 1396126857251147776,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "20008982",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396128108772724739",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "wphamilton",
+                        "id": "19896211"
+                    }
+                ]
+            },
+            "text": "RT @wphamilton: If the anti-vaxers are convinced that vaccines spread from person to person, they'll at least finally start wearing their m\u2026",
+            "created_at": "2021-05-22T15:37:34.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396128108772724739",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396092323600207874"
+                }
+            ]
+        },
+        "id": 1396128108772724739,
+        "text": "RT @wphamilton: If the anti-vaxers are convinced that vaccines spread from person to person, they'll at least finally start wearing their m\u2026",
+        "attachments": null,
+        "author_id": 20008982,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396128108772724739,
+        "created_at": "2021-05-22T15:37:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "wphamilton",
+                    "id": "19896211"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396092323600207874"
+                },
+                "id": 1396092323600207874,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "86554003",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "und",
+            "reply_settings": "everyone",
+            "id": "1396125780627709960",
+            "text": "#GetVaccinated https://t.co/eaOEMB55nn",
+            "created_at": "2021-05-22T15:28:19.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 15,
+                        "end": 38,
+                        "url": "https://t.co/eaOEMB55nn",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "tag": "GetVaccinated"
+                    }
+                ]
+            },
+            "conversation_id": "1396125780627709960",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPad",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396125780627709960,
+        "text": "#GetVaccinated https://t.co/eaOEMB55nn",
+        "attachments": null,
+        "author_id": 86554003,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396125780627709960,
+        "created_at": "2021-05-22T15:28:19+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 15,
+                    "end": 38,
+                    "url": "https://t.co/eaOEMB55nn",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "tag": "GetVaccinated"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1109442921533718528",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9915,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "PeachMint17",
+                        "id": "1177380665232375809"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396121205137100809",
+            "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+            "created_at": "2021-05-22T15:10:08.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396121205137100809",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                }
+            ]
+        },
+        "id": 1396121205137100809,
+        "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+        "attachments": null,
+        "author_id": 1109442921533718528,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396121205137100809,
+        "created_at": "2021-05-22T15:10:08+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "probability": 0.9915,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PeachMint17",
+                    "id": "1177380665232375809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                },
+                "id": 1396070517820596225,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2372934648",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9915,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "PeachMint17",
+                        "id": "1177380665232375809"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396120273393442820",
+            "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+            "created_at": "2021-05-22T15:06:26.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396120273393442820",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                }
+            ]
+        },
+        "id": 1396120273393442820,
+        "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+        "attachments": null,
+        "author_id": 2372934648,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396120273393442820,
+        "created_at": "2021-05-22T15:06:26+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "probability": 0.9915,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PeachMint17",
+                    "id": "1177380665232375809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                },
+                "id": 1396070517820596225,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "16672644",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 134,
+                        "end": 138,
+                        "probability": 0.9939,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 259,
+                        "end": 282,
+                        "url": "https://t.co/EDEJ3euGIO",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396117999782965255",
+            "text": "What would be a wonderful thing if you could actually shed vaccines though, when you think about it. We could send 10 to 20 people to India and probably cure the whole country. Just get them all into an auditorium and everyone would be vaccinated by osmosis. https://t.co/EDEJ3euGIO",
+            "created_at": "2021-05-22T14:57:24.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396117999782965255",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396117999782965255,
+        "text": "What would be a wonderful thing if you could actually shed vaccines though, when you think about it. We could send 10 to 20 people to India and probably cure the whole country. Just get them all into an auditorium and everyone would be vaccinated by osmosis. https://t.co/EDEJ3euGIO",
+        "attachments": null,
+        "author_id": 16672644,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396117999782965255,
+        "created_at": "2021-05-22T14:57:24+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 134,
+                    "end": 138,
+                    "probability": 0.9939,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 259,
+                    "end": 282,
+                    "url": "https://t.co/EDEJ3euGIO",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "592358181",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396117840911028228",
+            "text": "I just can't believe the # of people who spread this \nfalse information! https://t.co/uPzdobS3KU",
+            "created_at": "2021-05-22T14:56:46.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 73,
+                        "end": 96,
+                        "url": "https://t.co/uPzdobS3KU",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396117840911028228",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396117840911028228,
+        "text": "I just can't believe the # of people who spread this \nfalse information! https://t.co/uPzdobS3KU",
+        "attachments": null,
+        "author_id": 592358181,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396117840911028228,
+        "created_at": "2021-05-22T14:56:46+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/uPzdobS3KU",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "19896211",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396092323600207874",
+            "text": "If the anti-vaxers are convinced that vaccines spread from person to person, they'll at least finally start wearing their masks. https://t.co/9hIPkzVHG1",
+            "created_at": "2021-05-22T13:15:22.000Z",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 129,
+                        "end": 152,
+                        "url": "https://t.co/9hIPkzVHG1",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396092323600207874",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396092323600207874,
+        "text": "If the anti-vaxers are convinced that vaccines spread from person to person, they'll at least finally start wearing their masks. https://t.co/9hIPkzVHG1",
+        "attachments": null,
+        "author_id": 19896211,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396092323600207874,
+        "created_at": "2021-05-22T13:15:22+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/9hIPkzVHG1",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "760528250363707393",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "und",
+            "reply_settings": "everyone",
+            "id": "1396092196500115472",
+            "text": "\ud83d\udc40 https://t.co/af9Jb2YnHb",
+            "created_at": "2021-05-22T13:14:52.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 2,
+                        "end": 25,
+                        "url": "https://t.co/af9Jb2YnHb",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396092196500115472",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396092196500115472,
+        "text": "\ud83d\udc40 https://t.co/af9Jb2YnHb",
+        "attachments": null,
+        "author_id": 760528250363707393,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396092196500115472,
+        "created_at": "2021-05-22T13:14:52+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 2,
+                    "end": 25,
+                    "url": "https://t.co/af9Jb2YnHb",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "4925674419",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396086257151844355",
+            "text": "The fact that this is even a conversation... https://t.co/znABfBVutJ",
+            "created_at": "2021-05-22T12:51:16.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 45,
+                        "end": 68,
+                        "url": "https://t.co/znABfBVutJ",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396086257151844355",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396086257151844355,
+        "text": "The fact that this is even a conversation... https://t.co/znABfBVutJ",
+        "attachments": null,
+        "author_id": 4925674419,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396086257151844355,
+        "created_at": "2021-05-22T12:51:16+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/znABfBVutJ",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "718936269",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9915,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "PeachMint17",
+                        "id": "1177380665232375809"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396078810118901762",
+            "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+            "created_at": "2021-05-22T12:21:40.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396078810118901762",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPad",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                }
+            ]
+        },
+        "id": 1396078810118901762,
+        "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+        "attachments": null,
+        "author_id": 718936269,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396078810118901762,
+        "created_at": "2021-05-22T12:21:40+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "probability": 0.9915,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PeachMint17",
+                    "id": "1177380665232375809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                },
+                "id": 1396070517820596225,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "826340397454614529",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9915,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "PeachMint17",
+                        "id": "1177380665232375809"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396076718557892624",
+            "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+            "created_at": "2021-05-22T12:13:22.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396076718557892624",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                }
+            ]
+        },
+        "id": 1396076718557892624,
+        "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+        "attachments": null,
+        "author_id": 826340397454614529,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396076718557892624,
+        "created_at": "2021-05-22T12:13:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "probability": 0.9915,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PeachMint17",
+                    "id": "1177380665232375809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                },
+                "id": 1396070517820596225,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1283393531269316608",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9915,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "PeachMint17",
+                        "id": "1177380665232375809"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396074794437775361",
+            "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+            "created_at": "2021-05-22T12:05:43.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396074794437775361",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                }
+            ]
+        },
+        "id": 1396074794437775361,
+        "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+        "attachments": null,
+        "author_id": 1283393531269316608,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396074794437775361,
+        "created_at": "2021-05-22T12:05:43+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "probability": 0.9915,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PeachMint17",
+                    "id": "1177380665232375809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                },
+                "id": 1396070517820596225,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1167476245694599168",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9915,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "PeachMint17",
+                        "id": "1177380665232375809"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396073045442265091",
+            "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+            "created_at": "2021-05-22T11:58:46.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396073045442265091",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                }
+            ]
+        },
+        "id": 1396073045442265091,
+        "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+        "attachments": null,
+        "author_id": 1167476245694599168,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396073045442265091,
+        "created_at": "2021-05-22T11:58:46+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "probability": 0.9915,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PeachMint17",
+                    "id": "1177380665232375809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                },
+                "id": 1396070517820596225,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "946680896563957760",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 121,
+                        "probability": 0.9915,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "PeachMint17",
+                        "id": "1177380665232375809"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396070810654289920",
+            "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+            "created_at": "2021-05-22T11:49:53.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1396070810654289920",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                }
+            ]
+        },
+        "id": 1396070810654289920,
+        "text": "RT @PeachMint17: Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindep\u2026",
+        "attachments": null,
+        "author_id": 946680896563957760,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396070810654289920,
+        "created_at": "2021-05-22T11:49:53+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 121,
+                    "probability": 0.9915,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "PeachMint17",
+                    "id": "1177380665232375809"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1396070517820596225"
+                },
+                "id": 1396070517820596225,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "attachments": {
+                "media_keys": [
+                    "3_1396069694642311170",
+                    "3_1396069823088574465"
+                ]
+            },
+            "author_id": "1177380665232375809",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10037721440",
+                        "name": "Hillary Clinton",
+                        "description": "Former First Lady of the United States Hillary Clinton"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 104,
+                        "probability": 0.9921,
+                        "type": "Person",
+                        "normalized_text": "Hillary Clinton"
+                    },
+                    {
+                        "start": 160,
+                        "end": 167,
+                        "probability": 0.4757,
+                        "type": "Organization",
+                        "normalized_text": "Facebook"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 203,
+                        "end": 226,
+                        "url": "https://t.co/9zDzUUitHT",
+                        "expanded_url": "https://thepostmillennial.com/revealed-facebook-fact-checking-certifier-exposed-as-hillary-clinton-superfan",
+                        "display_url": "thepostmillennial.com/revealed-faceb\u2026"
+                    },
+                    {
+                        "start": 227,
+                        "end": 250,
+                        "url": "https://t.co/og42FsiAp7",
+                        "expanded_url": "https://twitter.com/PeachMint17/status/1396070517820596225/photo/1",
+                        "display_url": "pic.twitter.com/og42FsiAp7"
+                    },
+                    {
+                        "start": 227,
+                        "end": 250,
+                        "url": "https://t.co/og42FsiAp7",
+                        "expanded_url": "https://twitter.com/PeachMint17/status/1396070517820596225/photo/1",
+                        "display_url": "pic.twitter.com/og42FsiAp7"
+                    },
+                    {
+                        "start": 251,
+                        "end": 274,
+                        "url": "https://t.co/572EeeuuXP",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1396070517820596225",
+            "text": "Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindependent expert in charge of certifying Facebook fact-checkers.\u201c\n\nThese shills...\n\nhttps://t.co/9zDzUUitHT https://t.co/og42FsiAp7 https://t.co/572EeeuuXP",
+            "created_at": "2021-05-22T11:48:43.000Z",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 1
+            },
+            "conversation_id": "1396070517820596225",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396070517820596225,
+        "text": "Well wouldve look at that, 7 mins into investigation of Lead Stories, and look who aligns Hillary Clinton, and is a \u201cindependent expert in charge of certifying Facebook fact-checkers.\u201c\n\nThese shills...\n\nhttps://t.co/9zDzUUitHT https://t.co/og42FsiAp7 https://t.co/572EeeuuXP",
+        "attachments": {
+            "media_keys": [
+                "3_1396069694642311170",
+                "3_1396069823088574465"
+            ]
+        },
+        "author_id": 1177380665232375809,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10037721440",
+                    "name": "Hillary Clinton",
+                    "description": "Former First Lady of the United States Hillary Clinton"
+                }
+            }
+        ],
+        "conversation_id": 1396070517820596225,
+        "created_at": "2021-05-22T11:48:43+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 104,
+                    "probability": 0.9921,
+                    "type": "Person",
+                    "normalized_text": "Hillary Clinton"
+                },
+                {
+                    "start": 160,
+                    "end": 167,
+                    "probability": 0.4757,
+                    "type": "Organization",
+                    "normalized_text": "Facebook"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 203,
+                    "end": 226,
+                    "url": "https://t.co/9zDzUUitHT",
+                    "expanded_url": "https://thepostmillennial.com/revealed-facebook-fact-checking-certifier-exposed-as-hillary-clinton-superfan",
+                    "display_url": "thepostmillennial.com/revealed-faceb\u2026"
+                },
+                {
+                    "start": 227,
+                    "end": 250,
+                    "url": "https://t.co/og42FsiAp7",
+                    "expanded_url": "https://twitter.com/PeachMint17/status/1396070517820596225/photo/1",
+                    "display_url": "pic.twitter.com/og42FsiAp7"
+                },
+                {
+                    "start": 227,
+                    "end": 250,
+                    "url": "https://t.co/og42FsiAp7",
+                    "expanded_url": "https://twitter.com/PeachMint17/status/1396070517820596225/photo/1",
+                    "display_url": "pic.twitter.com/og42FsiAp7"
+                },
+                {
+                    "start": 251,
+                    "end": 274,
+                    "url": "https://t.co/572EeeuuXP",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1285114295756496896",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "ca",
+            "reply_settings": "everyone",
+            "id": "1396062204005392386",
+            "text": "Consensus varies https://t.co/Cnq28kXiKg https://t.co/BFX8YjrmOX",
+            "created_at": "2021-05-22T11:15:41.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/Cnq28kXiKg",
+                        "expanded_url": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075#",
+                        "display_url": "academic.oup.com/cid/advance-ar\u2026"
+                    },
+                    {
+                        "start": 41,
+                        "end": 64,
+                        "url": "https://t.co/BFX8YjrmOX",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396062204005392386",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396062204005392386,
+        "text": "Consensus varies https://t.co/Cnq28kXiKg https://t.co/BFX8YjrmOX",
+        "attachments": null,
+        "author_id": 1285114295756496896,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396062204005392386,
+        "created_at": "2021-05-22T11:15:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/Cnq28kXiKg",
+                    "expanded_url": "https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075#",
+                    "display_url": "academic.oup.com/cid/advance-ar\u2026"
+                },
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/BFX8YjrmOX",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ca",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1119320429196382209",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396053386651475973",
+            "text": "If only it worked that way, right? No more anything if we could just osmosis the vaccines to everyone with one dose! #wouldntitbenice https://t.co/wzOMAIiB4p",
+            "created_at": "2021-05-22T10:40:39.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 134,
+                        "end": 157,
+                        "url": "https://t.co/wzOMAIiB4p",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 117,
+                        "end": 133,
+                        "tag": "wouldntitbenice"
+                    }
+                ]
+            },
+            "conversation_id": "1396053386651475973",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396053386651475973,
+        "text": "If only it worked that way, right? No more anything if we could just osmosis the vaccines to everyone with one dose! #wouldntitbenice https://t.co/wzOMAIiB4p",
+        "attachments": null,
+        "author_id": 1119320429196382209,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396053386651475973,
+        "created_at": "2021-05-22T10:40:39+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/wzOMAIiB4p",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 117,
+                    "end": 133,
+                    "tag": "wouldntitbenice"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "37078637",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396044271606697986",
+            "text": "you'd say that there's no problem sold out people.... how you live with yourself I do NOT wanna know...disgusting!!! https://t.co/GLu4Zz3KW8",
+            "created_at": "2021-05-22T10:04:26.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 117,
+                        "end": 140,
+                        "url": "https://t.co/GLu4Zz3KW8",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396044271606697986",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396044271606697986,
+        "text": "you'd say that there's no problem sold out people.... how you live with yourself I do NOT wanna know...disgusting!!! https://t.co/GLu4Zz3KW8",
+        "attachments": null,
+        "author_id": 37078637,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396044271606697986,
+        "created_at": "2021-05-22T10:04:26+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 117,
+                    "end": 140,
+                    "url": "https://t.co/GLu4Zz3KW8",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1726431889",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1396003214080741377",
+            "text": "Too bad hundreds of reputable doctors say they are. Believe them over media narrative any day. Which is unfortunate bc media has lied so much now we never know what's real, what's true. https://t.co/M4jQpl3lD6",
+            "created_at": "2021-05-22T07:21:17.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 186,
+                        "end": 209,
+                        "url": "https://t.co/M4jQpl3lD6",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1396003214080741377",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1396003214080741377,
+        "text": "Too bad hundreds of reputable doctors say they are. Believe them over media narrative any day. Which is unfortunate bc media has lied so much now we never know what's real, what's true. https://t.co/M4jQpl3lD6",
+        "attachments": null,
+        "author_id": 1726431889,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396003214080741377,
+        "created_at": "2021-05-22T07:21:17+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 186,
+                    "end": 209,
+                    "url": "https://t.co/M4jQpl3lD6",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2912312388",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1395963588817395715",
+            "text": "I can\u2019t believe this had to be said in the first place. \ud83e\udd26\u200d\u2640\ufe0f https://t.co/qH0qpoL9Oy",
+            "created_at": "2021-05-22T04:43:49.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 61,
+                        "end": 84,
+                        "url": "https://t.co/qH0qpoL9Oy",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1395963588817395715",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1395963588817395715,
+        "text": "I can\u2019t believe this had to be said in the first place. \ud83e\udd26\u200d\u2640\ufe0f https://t.co/qH0qpoL9Oy",
+        "attachments": null,
+        "author_id": 2912312388,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1395963588817395715,
+        "created_at": "2021-05-22T04:43:49+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 61,
+                    "end": 84,
+                    "url": "https://t.co/qH0qpoL9Oy",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "14128705",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1395892013187338245",
+            "text": "Screencap: Natural News\n\nI should have guessed \ud83d\ude44 https://t.co/QQRDRML8pE",
+            "created_at": "2021-05-21T23:59:25.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 49,
+                        "end": 72,
+                        "url": "https://t.co/QQRDRML8pE",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1395892013187338245",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1395892013187338245,
+        "text": "Screencap: Natural News\n\nI should have guessed \ud83d\ude44 https://t.co/QQRDRML8pE",
+        "attachments": null,
+        "author_id": 14128705,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1395892013187338245,
+        "created_at": "2021-05-21T23:59:25+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/QQRDRML8pE",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "798401",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1395887845160669190",
+            "text": "Omg wow https://t.co/UUManoRTEl",
+            "created_at": "2021-05-21T23:42:51.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 8,
+                        "end": 31,
+                        "url": "https://t.co/UUManoRTEl",
+                        "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                        "display_url": "twitter.com/LeadStoriesCom\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1395887845160669190",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                }
+            ]
+        },
+        "id": 1395887845160669190,
+        "text": "Omg wow https://t.co/UUManoRTEl",
+        "attachments": null,
+        "author_id": 798401,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1395887845160669190,
+        "created_at": "2021-05-21T23:42:51+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 8,
+                    "end": 31,
+                    "url": "https://t.co/UUManoRTEl",
+                    "expanded_url": "https://twitter.com/LeadStoriesCom/status/1395138792978272260",
+                    "display_url": "twitter.com/LeadStoriesCom\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1395138792978272260"
+                },
+                "id": 1395138792978272260,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

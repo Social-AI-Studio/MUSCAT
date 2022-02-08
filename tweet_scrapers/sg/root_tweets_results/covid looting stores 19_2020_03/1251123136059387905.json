@@ -1,0 +1,100 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 78,
+                        "end": 101,
+                        "url": "https://t.co/qY9iZtvKaT",
+                        "expanded_url": "https://twitter.com/theOriginalOWL/status/1251123136059387905",
+                        "display_url": "twitter.com/theOriginalOWL\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 5,
+                        "end": 7,
+                        "probability": 0.9856,
+                        "type": "Other",
+                        "normalized_text": "God"
+                    }
+                ]
+            },
+            "id": "1251123734192291842",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-17T12:21:57.000Z",
+            "reply_settings": "everyone",
+            "author_id": "1223248551003807746",
+            "source": "Twitter Web App",
+            "text": "dear God, and this woman isn't stupid or evil, but this is what they are..... https://t.co/qY9iZtvKaT",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1251123136059387905"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1251123734192291842"
+        },
+        "id": 1251123734192291842,
+        "text": "dear God, and this woman isn't stupid or evil, but this is what they are..... https://t.co/qY9iZtvKaT",
+        "attachments": null,
+        "author_id": 1223248551003807746,
+        "context_annotations": [],
+        "conversation_id": 1251123734192291842,
+        "created_at": "2020-04-17T12:21:57+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/qY9iZtvKaT",
+                    "expanded_url": "https://twitter.com/theOriginalOWL/status/1251123136059387905",
+                    "display_url": "twitter.com/theOriginalOWL\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 7,
+                    "probability": 0.9856,
+                    "type": "Other",
+                    "normalized_text": "God"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1251123136059387905"
+                },
+                "id": 1251123136059387905,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

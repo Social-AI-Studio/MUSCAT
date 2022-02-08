@@ -1,0 +1,138 @@
+[
+    {
+        "data": {
+            "created_at": "2020-12-07T11:35:33.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "TheRealClementM",
+                        "id": "492847623"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 180,
+                        "end": 190,
+                        "probability": 0.5451,
+                        "type": "Place",
+                        "normalized_text": "Parkstation"
+                    },
+                    {
+                        "start": 193,
+                        "end": 198,
+                        "probability": 0.4756,
+                        "type": "Place",
+                        "normalized_text": "Bosman"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "author_id": "1299699045204717569",
+            "reply_settings": "everyone",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1335878898438066176"
+                }
+            ],
+            "source": "Twitter for Android",
+            "text": "@TheRealClementM Fake covid-19 negative certificates is a real problem and it must be stopped now.\nCross border bus crews  are selling fake covid certificates for R400.\nJust go to Parkstation, Bosman etc and see for yourself.\nHow are these fake certificates  successfully used at the border?",
+            "lang": "en",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1335878898438066176",
+            "id": "1335910819234766848",
+            "in_reply_to_user_id": "492847623"
+        },
+        "id": 1335910819234766848,
+        "text": "@TheRealClementM Fake covid-19 negative certificates is a real problem and it must be stopped now.\nCross border bus crews  are selling fake covid certificates for R400.\nJust go to Parkstation, Bosman etc and see for yourself.\nHow are these fake certificates  successfully used at the border?",
+        "attachments": null,
+        "author_id": 1299699045204717569,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1335878898438066176,
+        "created_at": "2020-12-07T11:35:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "TheRealClementM",
+                    "id": "492847623"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 180,
+                    "end": 190,
+                    "probability": 0.5451,
+                    "type": "Place",
+                    "normalized_text": "Parkstation"
+                },
+                {
+                    "start": 193,
+                    "end": 198,
+                    "probability": 0.4756,
+                    "type": "Place",
+                    "normalized_text": "Bosman"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 492847623,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1335878898438066176"
+                },
+                "id": 1335878898438066176,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

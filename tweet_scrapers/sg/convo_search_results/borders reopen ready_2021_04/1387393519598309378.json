@@ -1,0 +1,178 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "conversation_id": "1387393519598309378",
+            "author_id": "216917110",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "@CTVAtlantic Not a chance. I will stay put, before I ever get a vaccine passport.\n\nDoes anyone ask themselves why they are pushing all this??  Because they personally care about each of us? \ud83e\udd23\ud83e\udd23  I hope people wake up sooner than later.",
+            "source": "Twitter Web App",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "CTVAtlantic",
+                        "id": "25287690"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "25287690",
+            "id": "1387396503816359946",
+            "created_at": "2021-04-28T13:21:17.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1387393519598309378"
+                }
+            ],
+            "reply_settings": "everyone",
+            "lang": "en"
+        },
+        "id": 1387396503816359946,
+        "text": "@CTVAtlantic Not a chance. I will stay put, before I ever get a vaccine passport.\n\nDoes anyone ask themselves why they are pushing all this??  Because they personally care about each of us? \ud83e\udd23\ud83e\udd23  I hope people wake up sooner than later.",
+        "attachments": null,
+        "author_id": 216917110,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1387393519598309378,
+        "created_at": "2021-04-28T13:21:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "CTVAtlantic",
+                    "id": "25287690"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 25287690,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1387393519598309378"
+                },
+                "id": 1387393519598309378,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

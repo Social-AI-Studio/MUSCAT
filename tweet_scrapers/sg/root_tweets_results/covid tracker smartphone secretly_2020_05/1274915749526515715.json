@@ -1,0 +1,115 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2020-06-22T04:02:56.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 27,
+                        "end": 50,
+                        "url": "https://t.co/gVXw5oADqJ",
+                        "expanded_url": "https://twitter.com/JustMeBlue333/status/1274915749526515715/photo/1",
+                        "display_url": "pic.twitter.com/gVXw5oADqJ"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 16,
+                        "end": 26,
+                        "tag": "COVID__19"
+                    }
+                ]
+            },
+            "author_id": "1112848253886750720",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1274915749526515715",
+            "text": "What is this? \ud83e\udd14 #COVID__19 https://t.co/gVXw5oADqJ",
+            "source": "Twitter for iPhone",
+            "conversation_id": "1274915749526515715",
+            "possibly_sensitive": false,
+            "attachments": {
+                "media_keys": [
+                    "3_1274915745571328000"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1274915749526515715,
+        "text": "What is this? \ud83e\udd14 #COVID__19 https://t.co/gVXw5oADqJ",
+        "attachments": {
+            "media_keys": [
+                "3_1274915745571328000"
+            ]
+        },
+        "author_id": 1112848253886750720,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1274915749526515715,
+        "created_at": "2020-06-22T04:02:56+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 27,
+                    "end": 50,
+                    "url": "https://t.co/gVXw5oADqJ",
+                    "expanded_url": "https://twitter.com/JustMeBlue333/status/1274915749526515715/photo/1",
+                    "display_url": "pic.twitter.com/gVXw5oADqJ"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 16,
+                    "end": 26,
+                    "tag": "COVID__19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

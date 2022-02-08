@@ -1,0 +1,141 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                }
+            ],
+            "created_at": "2021-08-08T09:50:06.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 56,
+                        "end": 79,
+                        "url": "https://t.co/ho8HjQSNv7",
+                        "expanded_url": "https://twitter.com/ImpleBooks/status/1424306919196348421/photo/1",
+                        "display_url": "pic.twitter.com/ho8HjQSNv7"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 35,
+                        "end": 55,
+                        "tag": "InternationalCatDay"
+                    }
+                ]
+            },
+            "author_id": "1246321170632208384",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1424306919196348421",
+            "text": "7 Life Lessons From Cats [THREAD]\n\n#InternationalCatDay https://t.co/ho8HjQSNv7",
+            "source": "Twitter for Android",
+            "conversation_id": "1424306919196348421",
+            "possibly_sensitive": false,
+            "attachments": {
+                "media_keys": [
+                    "3_1424306913630584835"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1424306919196348421,
+        "text": "7 Life Lessons From Cats [THREAD]\n\n#InternationalCatDay https://t.co/ho8HjQSNv7",
+        "attachments": {
+            "media_keys": [
+                "3_1424306913630584835"
+            ]
+        },
+        "author_id": 1246321170632208384,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            }
+        ],
+        "conversation_id": 1424306919196348421,
+        "created_at": "2021-08-08T09:50:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 56,
+                    "end": 79,
+                    "url": "https://t.co/ho8HjQSNv7",
+                    "expanded_url": "https://twitter.com/ImpleBooks/status/1424306919196348421/photo/1",
+                    "display_url": "pic.twitter.com/ho8HjQSNv7"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 35,
+                    "end": 55,
+                    "tag": "InternationalCatDay"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

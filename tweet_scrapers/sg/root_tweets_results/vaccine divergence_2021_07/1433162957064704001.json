@@ -1,0 +1,524 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 120,
+                        "end": 143,
+                        "url": "https://t.co/qEBE8mY142",
+                        "expanded_url": "https://twitter.com/MasoodCGD/status/1433162957064704001",
+                        "display_url": "twitter.com/MasoodCGD/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 100,
+                        "end": 104,
+                        "probability": 0.957,
+                        "type": "Person",
+                        "normalized_text": "Andr\u00e9"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 10,
+                        "end": 20,
+                        "username": "MasoodCGD",
+                        "id": "823904907799379968"
+                    },
+                    {
+                        "start": 21,
+                        "end": 32,
+                        "username": "SongweVera",
+                        "id": "458271246"
+                    },
+                    {
+                        "start": 33,
+                        "end": 49,
+                        "username": "JuttaUrpilainen",
+                        "id": "34611886"
+                    },
+                    {
+                        "start": 70,
+                        "end": 82,
+                        "username": "Bruegel_org",
+                        "id": "188736341"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1433438823913082881",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1433162957064704001"
+                }
+            ],
+            "author_id": "1292292907",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-09-02T14:37:02.000Z",
+            "source": "Twitter for Android",
+            "text": "Thank you @MasoodCGD @SongweVera @JuttaUrpilainen for speaking at our @Bruegel_org event. Thank you Andr\u00e9 for chairing. https://t.co/qEBE8mY142",
+            "id": "1433438823913082881",
+            "possibly_sensitive": false
+        },
+        "id": 1433438823913082881,
+        "text": "Thank you @MasoodCGD @SongweVera @JuttaUrpilainen for speaking at our @Bruegel_org event. Thank you Andr\u00e9 for chairing. https://t.co/qEBE8mY142",
+        "attachments": null,
+        "author_id": 1292292907,
+        "context_annotations": [],
+        "conversation_id": 1433438823913082881,
+        "created_at": "2021-09-02T14:37:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 120,
+                    "end": 143,
+                    "url": "https://t.co/qEBE8mY142",
+                    "expanded_url": "https://twitter.com/MasoodCGD/status/1433162957064704001",
+                    "display_url": "twitter.com/MasoodCGD/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 100,
+                    "end": 104,
+                    "probability": 0.957,
+                    "type": "Person",
+                    "normalized_text": "Andr\u00e9"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 20,
+                    "username": "MasoodCGD",
+                    "id": "823904907799379968"
+                },
+                {
+                    "start": 21,
+                    "end": 32,
+                    "username": "SongweVera",
+                    "id": "458271246"
+                },
+                {
+                    "start": 33,
+                    "end": 49,
+                    "username": "JuttaUrpilainen",
+                    "id": "34611886"
+                },
+                {
+                    "start": 70,
+                    "end": 82,
+                    "username": "Bruegel_org",
+                    "id": "188736341"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1433162957064704001"
+                },
+                "id": 1433162957064704001,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1433295534769549312",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1433162957064704001"
+                }
+            ],
+            "author_id": "188736341",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-09-02T05:07:39.000Z",
+            "source": "Twitter Web App",
+            "text": "RT @MasoodCGD: Many thanks to @Bruegel_org for the invitation to speak at its annual meetings on the future of EU-Africa relations with @So\u2026",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 111,
+                        "end": 119,
+                        "probability": 0.2892,
+                        "type": "Place",
+                        "normalized_text": "EU-Africa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "MasoodCGD",
+                        "id": "823904907799379968"
+                    },
+                    {
+                        "start": 30,
+                        "end": 42,
+                        "username": "Bruegel_org",
+                        "id": "188736341"
+                    }
+                ]
+            },
+            "id": "1433295534769549312",
+            "possibly_sensitive": false
+        },
+        "id": 1433295534769549312,
+        "text": "RT @MasoodCGD: Many thanks to @Bruegel_org for the invitation to speak at its annual meetings on the future of EU-Africa relations with @So\u2026",
+        "attachments": null,
+        "author_id": 188736341,
+        "context_annotations": [],
+        "conversation_id": 1433295534769549312,
+        "created_at": "2021-09-02T05:07:39+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 111,
+                    "end": 119,
+                    "probability": 0.2892,
+                    "type": "Place",
+                    "normalized_text": "EU-Africa"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "MasoodCGD",
+                    "id": "823904907799379968"
+                },
+                {
+                    "start": 30,
+                    "end": 42,
+                    "username": "Bruegel_org",
+                    "id": "188736341"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1433162957064704001"
+                },
+                "id": 1433162957064704001,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1433196262266920961",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1433162957064704001"
+                }
+            ],
+            "author_id": "211376476",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-09-01T22:33:11.000Z",
+            "source": "Twitter for iPhone",
+            "text": "RT @MasoodCGD: Many thanks to @Bruegel_org for the invitation to speak at its annual meetings on the future of EU-Africa relations with @So\u2026",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 111,
+                        "end": 119,
+                        "probability": 0.2892,
+                        "type": "Place",
+                        "normalized_text": "EU-Africa"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "MasoodCGD",
+                        "id": "823904907799379968"
+                    },
+                    {
+                        "start": 30,
+                        "end": 42,
+                        "username": "Bruegel_org",
+                        "id": "188736341"
+                    }
+                ]
+            },
+            "id": "1433196262266920961",
+            "possibly_sensitive": false
+        },
+        "id": 1433196262266920961,
+        "text": "RT @MasoodCGD: Many thanks to @Bruegel_org for the invitation to speak at its annual meetings on the future of EU-Africa relations with @So\u2026",
+        "attachments": null,
+        "author_id": 211376476,
+        "context_annotations": [],
+        "conversation_id": 1433196262266920961,
+        "created_at": "2021-09-01T22:33:11+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 111,
+                    "end": 119,
+                    "probability": 0.2892,
+                    "type": "Place",
+                    "normalized_text": "EU-Africa"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "MasoodCGD",
+                    "id": "823904907799379968"
+                },
+                {
+                    "start": 30,
+                    "end": 42,
+                    "username": "Bruegel_org",
+                    "id": "188736341"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1433162957064704001"
+                },
+                "id": 1433162957064704001,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 226,
+                        "end": 249,
+                        "url": "https://t.co/wqwONAVcMO",
+                        "expanded_url": "https://twitter.com/MasoodCGD/status/1433162957064704001/photo/1",
+                        "display_url": "pic.twitter.com/wqwONAVcMO"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 193,
+                        "end": 203,
+                        "probability": 0.9661,
+                        "type": "Person",
+                        "normalized_text": "Andre Sapir"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 15,
+                        "end": 27,
+                        "username": "Bruegel_org",
+                        "id": "188736341"
+                    },
+                    {
+                        "start": 121,
+                        "end": 132,
+                        "username": "SongweVera",
+                        "id": "458271246"
+                    },
+                    {
+                        "start": 136,
+                        "end": 149,
+                        "username": "ECA_OFFICIAL",
+                        "id": "329666643"
+                    },
+                    {
+                        "start": 151,
+                        "end": 167,
+                        "username": "JuttaUrpilainen",
+                        "id": "34611886"
+                    },
+                    {
+                        "start": 171,
+                        "end": 187,
+                        "username": "EU_Partnerships",
+                        "id": "19722343"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1433162957064704001",
+            "author_id": "823904907799379968",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 11,
+                "quote_count": 1
+            },
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1433161048421552134"
+                ]
+            },
+            "created_at": "2021-09-01T20:20:50.000Z",
+            "source": "Twitter Web App",
+            "text": "Many thanks to @Bruegel_org for the invitation to speak at its annual meetings on the future of EU-Africa relations with @SongweVera of @ECA_OFFICIAL, @JuttaUrpilainen of @EU_Partnerships, and Andre Sapir. Some key takeaways: https://t.co/wqwONAVcMO",
+            "id": "1433162957064704001",
+            "possibly_sensitive": false
+        },
+        "id": 1433162957064704001,
+        "text": "Many thanks to @Bruegel_org for the invitation to speak at its annual meetings on the future of EU-Africa relations with @SongweVera of @ECA_OFFICIAL, @JuttaUrpilainen of @EU_Partnerships, and Andre Sapir. Some key takeaways: https://t.co/wqwONAVcMO",
+        "attachments": {
+            "media_keys": [
+                "3_1433161048421552134"
+            ]
+        },
+        "author_id": 823904907799379968,
+        "context_annotations": [],
+        "conversation_id": 1433162957064704001,
+        "created_at": "2021-09-01T20:20:50+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 226,
+                    "end": 249,
+                    "url": "https://t.co/wqwONAVcMO",
+                    "expanded_url": "https://twitter.com/MasoodCGD/status/1433162957064704001/photo/1",
+                    "display_url": "pic.twitter.com/wqwONAVcMO"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 193,
+                    "end": 203,
+                    "probability": 0.9661,
+                    "type": "Person",
+                    "normalized_text": "Andre Sapir"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 15,
+                    "end": 27,
+                    "username": "Bruegel_org",
+                    "id": "188736341"
+                },
+                {
+                    "start": 121,
+                    "end": 132,
+                    "username": "SongweVera",
+                    "id": "458271246"
+                },
+                {
+                    "start": 136,
+                    "end": 149,
+                    "username": "ECA_OFFICIAL",
+                    "id": "329666643"
+                },
+                {
+                    "start": 151,
+                    "end": 167,
+                    "username": "JuttaUrpilainen",
+                    "id": "34611886"
+                },
+                {
+                    "start": 171,
+                    "end": 187,
+                    "username": "EU_Partnerships",
+                    "id": "19722343"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 11,
+            "quote_count": 1
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

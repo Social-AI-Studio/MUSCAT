@@ -1,0 +1,1610 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 22,
+                        "end": 27,
+                        "probability": 0.7505,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 44,
+                        "end": 56,
+                        "probability": 0.7338,
+                        "type": "Place",
+                        "normalized_text": "Country Hills"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "Yousuf_Rehman",
+                        "id": "152572261"
+                    }
+                ]
+            },
+            "author_id": "1238969978658992128",
+            "id": "1409976186130812930",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409928075723382787"
+                }
+            ],
+            "text": "@Yousuf_Rehman Got my Pfizer second shot at Country Hills pharmasave today. Needs appointment though",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "152572261",
+            "created_at": "2021-06-29T20:44:53.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter for iPhone",
+            "reply_settings": "everyone"
+        },
+        "id": 1409976186130812930,
+        "text": "@Yousuf_Rehman Got my Pfizer second shot at Country Hills pharmasave today. Needs appointment though",
+        "attachments": null,
+        "author_id": 1238969978658992128,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T20:44:53+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 27,
+                    "probability": 0.7505,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 44,
+                    "end": 56,
+                    "probability": 0.7338,
+                    "type": "Place",
+                    "normalized_text": "Country Hills"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "Yousuf_Rehman",
+                    "id": "152572261"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 152572261,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409928075723382787"
+                },
+                "id": 1409928075723382787,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "152572261",
+            "id": "1409928075723382787",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409892965208756224"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ROWPublicHealth",
+                        "id": "64714989"
+                    },
+                    {
+                        "start": 17,
+                        "end": 27,
+                        "username": "mmmmmm039",
+                        "id": "1238969978658992128"
+                    },
+                    {
+                        "start": 28,
+                        "end": 43,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    }
+                ]
+            },
+            "text": "@ROWPublicHealth @mmmmmm039 @RegionWaterloo Does forest heights collegiate institute offer pfizer for second dose?",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "64714989",
+            "created_at": "2021-06-29T17:33:43.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone"
+        },
+        "id": 1409928075723382787,
+        "text": "@ROWPublicHealth @mmmmmm039 @RegionWaterloo Does forest heights collegiate institute offer pfizer for second dose?",
+        "attachments": null,
+        "author_id": 152572261,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T17:33:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ROWPublicHealth",
+                    "id": "64714989"
+                },
+                {
+                    "start": 17,
+                    "end": 27,
+                    "username": "mmmmmm039",
+                    "id": "1238969978658992128"
+                },
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64714989,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409892965208756224"
+                },
+                "id": 1409892965208756224,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 59,
+                        "end": 74,
+                        "probability": 0.3516,
+                        "type": "Organization",
+                        "normalized_text": "Costco Kitchener"
+                    },
+                    {
+                        "start": 78,
+                        "end": 83,
+                        "probability": 0.4362,
+                        "type": "Organization",
+                        "normalized_text": "PFIZER"
+                    },
+                    {
+                        "start": 108,
+                        "end": 116,
+                        "probability": 0.6216,
+                        "type": "Place",
+                        "normalized_text": "Kitchener"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "Yousuf_Rehman",
+                        "id": "152572261"
+                    },
+                    {
+                        "start": 15,
+                        "end": 31,
+                        "username": "ROWPublicHealth",
+                        "id": "64714989"
+                    },
+                    {
+                        "start": 32,
+                        "end": 42,
+                        "username": "mmmmmm039",
+                        "id": "1238969978658992128"
+                    },
+                    {
+                        "start": 43,
+                        "end": 58,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 143,
+                        "end": 166,
+                        "url": "https://t.co/uTwVbFJ6AB",
+                        "expanded_url": "https://b.telehippo.com/o/w512/",
+                        "display_url": "b.telehippo.com/o/w512/",
+                        "status": 403,
+                        "unwound_url": "https://b.telehippo.com/o/w512/"
+                    }
+                ]
+            },
+            "author_id": "1125899684420231173",
+            "id": "1409925880948928518",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409880363573387265"
+                }
+            ],
+            "text": "@Yousuf_Rehman @ROWPublicHealth @mmmmmm039 @RegionWaterloo Costco Kitchener | PFIZER\n4438 King Street East, Kitchener\nSun July 4 appointments!\nhttps://t.co/uTwVbFJ6AB",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "152572261",
+            "created_at": "2021-06-29T17:24:59.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone"
+        },
+        "id": 1409925880948928518,
+        "text": "@Yousuf_Rehman @ROWPublicHealth @mmmmmm039 @RegionWaterloo Costco Kitchener | PFIZER\n4438 King Street East, Kitchener\nSun July 4 appointments!\nhttps://t.co/uTwVbFJ6AB",
+        "attachments": null,
+        "author_id": 1125899684420231173,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T17:24:59+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 59,
+                    "end": 74,
+                    "probability": 0.3516,
+                    "type": "Organization",
+                    "normalized_text": "Costco Kitchener"
+                },
+                {
+                    "start": 78,
+                    "end": 83,
+                    "probability": 0.4362,
+                    "type": "Organization",
+                    "normalized_text": "PFIZER"
+                },
+                {
+                    "start": 108,
+                    "end": 116,
+                    "probability": 0.6216,
+                    "type": "Place",
+                    "normalized_text": "Kitchener"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "Yousuf_Rehman",
+                    "id": "152572261"
+                },
+                {
+                    "start": 15,
+                    "end": 31,
+                    "username": "ROWPublicHealth",
+                    "id": "64714989"
+                },
+                {
+                    "start": 32,
+                    "end": 42,
+                    "username": "mmmmmm039",
+                    "id": "1238969978658992128"
+                },
+                {
+                    "start": 43,
+                    "end": 58,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 143,
+                    "end": 166,
+                    "url": "https://t.co/uTwVbFJ6AB",
+                    "expanded_url": "https://b.telehippo.com/o/w512/",
+                    "display_url": "b.telehippo.com/o/w512/",
+                    "status": 403,
+                    "unwound_url": "https://b.telehippo.com/o/w512/"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 152572261,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409880363573387265"
+                },
+                "id": 1409880363573387265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 112,
+                        "end": 117,
+                        "probability": 0.4673,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "Yousuf_Rehman",
+                        "id": "152572261"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "mmmmmm039",
+                        "id": "1238969978658992128"
+                    },
+                    {
+                        "start": 26,
+                        "end": 41,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 217,
+                        "end": 240,
+                        "url": "https://t.co/GXHqLXkWem",
+                        "expanded_url": "http://regionofwaterloo.ca/vaccinetype",
+                        "display_url": "regionofwaterloo.ca/vaccinetype",
+                        "status": 200,
+                        "title": "Get a Vaccine",
+                        "description": "How to get a COVID-19 vaccine Waterloo Region. Including booking an appointment at a vaccine clinic and more options for getting a vaccine.",
+                        "unwound_url": "https://www.regionofwaterloo.ca/en/health-and-wellness/covid-19-vaccination-pre-registration.aspx"
+                    }
+                ]
+            },
+            "author_id": "64714989",
+            "id": "1409892965208756224",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409880363573387265"
+                }
+            ],
+            "text": "@Yousuf_Rehman @mmmmmm039 @RegionWaterloo Other mobile teams that are not open for appointments may be offering Pfizer.\n\nVaccines available at public clinics (where anyone can book a second dose appt) can be found at https://t.co/GXHqLXkWem\n\nAll of the vaccines provide strong protection against COVID-19 and its variants.",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "152572261",
+            "created_at": "2021-06-29T15:14:12.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter Web App",
+            "reply_settings": "everyone"
+        },
+        "id": 1409892965208756224,
+        "text": "@Yousuf_Rehman @mmmmmm039 @RegionWaterloo Other mobile teams that are not open for appointments may be offering Pfizer.\n\nVaccines available at public clinics (where anyone can book a second dose appt) can be found at https://t.co/GXHqLXkWem\n\nAll of the vaccines provide strong protection against COVID-19 and its variants.",
+        "attachments": null,
+        "author_id": 64714989,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T15:14:12+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 112,
+                    "end": 117,
+                    "probability": 0.4673,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "Yousuf_Rehman",
+                    "id": "152572261"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "mmmmmm039",
+                    "id": "1238969978658992128"
+                },
+                {
+                    "start": 26,
+                    "end": 41,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 217,
+                    "end": 240,
+                    "url": "https://t.co/GXHqLXkWem",
+                    "expanded_url": "http://regionofwaterloo.ca/vaccinetype",
+                    "display_url": "regionofwaterloo.ca/vaccinetype",
+                    "status": 200,
+                    "title": "Get a Vaccine",
+                    "description": "How to get a COVID-19 vaccine Waterloo Region. Including booking an appointment at a vaccine clinic and more options for getting a vaccine.",
+                    "unwound_url": "https://www.regionofwaterloo.ca/en/health-and-wellness/covid-19-vaccination-pre-registration.aspx"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 152572261,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409880363573387265"
+                },
+                "id": 1409880363573387265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 102,
+                        "end": 107,
+                        "probability": 0.7908,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 112,
+                        "end": 118,
+                        "probability": 0.6663,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    },
+                    {
+                        "start": 219,
+                        "end": 224,
+                        "probability": 0.5868,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ROWPublicHealth",
+                        "id": "64714989"
+                    },
+                    {
+                        "start": 17,
+                        "end": 27,
+                        "username": "mmmmmm039",
+                        "id": "1238969978658992128"
+                    },
+                    {
+                        "start": 28,
+                        "end": 43,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    }
+                ]
+            },
+            "author_id": "152572261",
+            "id": "1409880363573387265",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409875860790857747"
+                }
+            ],
+            "text": "@ROWPublicHealth @mmmmmm039 @RegionWaterloo I had checked on the website of region &amp; it was mentioned Pfizer or Moderna available at mobile clinics for this week &amp; coming weeks. May i know which locations are providing Pfizer for second dose?",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "64714989",
+            "created_at": "2021-06-29T14:24:07.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone"
+        },
+        "id": 1409880363573387265,
+        "text": "@ROWPublicHealth @mmmmmm039 @RegionWaterloo I had checked on the website of region &amp; it was mentioned Pfizer or Moderna available at mobile clinics for this week &amp; coming weeks. May i know which locations are providing Pfizer for second dose?",
+        "attachments": null,
+        "author_id": 152572261,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T14:24:07+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 102,
+                    "end": 107,
+                    "probability": 0.7908,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 112,
+                    "end": 118,
+                    "probability": 0.6663,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                },
+                {
+                    "start": 219,
+                    "end": 224,
+                    "probability": 0.5868,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ROWPublicHealth",
+                    "id": "64714989"
+                },
+                {
+                    "start": 17,
+                    "end": 27,
+                    "username": "mmmmmm039",
+                    "id": "1238969978658992128"
+                },
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64714989,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409875860790857747"
+                },
+                "id": 1409875860790857747,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "64714989",
+            "id": "1409875860790857747",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409875142721916931"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "mmmmmm039",
+                        "id": "1238969978658992128"
+                    },
+                    {
+                        "start": 11,
+                        "end": 25,
+                        "username": "Yousuf_Rehman",
+                        "id": "152572261"
+                    },
+                    {
+                        "start": 26,
+                        "end": 41,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    }
+                ]
+            },
+            "text": "@mmmmmm039 @Yousuf_Rehman @RegionWaterloo For all of their appointments.",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1238969978658992128",
+            "created_at": "2021-06-29T14:06:14.000Z",
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter Web App",
+            "reply_settings": "everyone"
+        },
+        "id": 1409875860790857747,
+        "text": "@mmmmmm039 @Yousuf_Rehman @RegionWaterloo For all of their appointments.",
+        "attachments": null,
+        "author_id": 64714989,
+        "context_annotations": [],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T14:06:14+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "mmmmmm039",
+                    "id": "1238969978658992128"
+                },
+                {
+                    "start": 11,
+                    "end": 25,
+                    "username": "Yousuf_Rehman",
+                    "id": "152572261"
+                },
+                {
+                    "start": 26,
+                    "end": 41,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1238969978658992128,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409875142721916931"
+                },
+                "id": 1409875142721916931,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1238969978658992128",
+            "id": "1409875142721916931",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409868339694944260"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ROWPublicHealth",
+                        "id": "64714989"
+                    },
+                    {
+                        "start": 17,
+                        "end": 31,
+                        "username": "Yousuf_Rehman",
+                        "id": "152572261"
+                    },
+                    {
+                        "start": 32,
+                        "end": 47,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    }
+                ]
+            },
+            "text": "@ROWPublicHealth @Yousuf_Rehman @RegionWaterloo Moderna for this week?",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "64714989",
+            "created_at": "2021-06-29T14:03:22.000Z",
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter for iPhone",
+            "reply_settings": "everyone"
+        },
+        "id": 1409875142721916931,
+        "text": "@ROWPublicHealth @Yousuf_Rehman @RegionWaterloo Moderna for this week?",
+        "attachments": null,
+        "author_id": 1238969978658992128,
+        "context_annotations": [],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T14:03:22+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ROWPublicHealth",
+                    "id": "64714989"
+                },
+                {
+                    "start": 17,
+                    "end": 31,
+                    "username": "Yousuf_Rehman",
+                    "id": "152572261"
+                },
+                {
+                    "start": 32,
+                    "end": 47,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64714989,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409868339694944260"
+                },
+                "id": 1409868339694944260,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 97,
+                        "end": 114,
+                        "probability": 0.6924,
+                        "type": "Place",
+                        "normalized_text": "Cambridge Pinebush"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "Yousuf_Rehman",
+                        "id": "152572261"
+                    },
+                    {
+                        "start": 15,
+                        "end": 30,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    },
+                    {
+                        "start": 31,
+                        "end": 47,
+                        "username": "ROWPublicHealth",
+                        "id": "64714989"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 125,
+                        "end": 148,
+                        "url": "https://t.co/X2wWLyGBMz",
+                        "expanded_url": "https://rmow.vertoengage.com/engage/generic-open-clinic?key=3d6a9106-068b-4e5d-9d98-ad842133c206",
+                        "display_url": "rmow.vertoengage.com/engage/generic\u2026",
+                        "status": 503,
+                        "title": "Verto Engage",
+                        "unwound_url": "https://rmow.vertoengage.com/engage/generic-open-clinic?key=3d6a9106-068b-4e5d-9d98-ad842133c206"
+                    }
+                ]
+            },
+            "author_id": "1125899684420231173",
+            "id": "1409868906735484939",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409745569518661632"
+                }
+            ],
+            "text": "@Yousuf_Rehman @RegionWaterloo @ROWPublicHealth RoW just released appointments for Wed Jun 30 at Cambridge Pinebush 2nd DOSE https://t.co/X2wWLyGBMz",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "152572261",
+            "created_at": "2021-06-29T13:38:36.000Z",
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone"
+        },
+        "id": 1409868906735484939,
+        "text": "@Yousuf_Rehman @RegionWaterloo @ROWPublicHealth RoW just released appointments for Wed Jun 30 at Cambridge Pinebush 2nd DOSE https://t.co/X2wWLyGBMz",
+        "attachments": null,
+        "author_id": 1125899684420231173,
+        "context_annotations": [],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T13:38:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 97,
+                    "end": 114,
+                    "probability": 0.6924,
+                    "type": "Place",
+                    "normalized_text": "Cambridge Pinebush"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "Yousuf_Rehman",
+                    "id": "152572261"
+                },
+                {
+                    "start": 15,
+                    "end": 30,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                },
+                {
+                    "start": 31,
+                    "end": 47,
+                    "username": "ROWPublicHealth",
+                    "id": "64714989"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 125,
+                    "end": 148,
+                    "url": "https://t.co/X2wWLyGBMz",
+                    "expanded_url": "https://rmow.vertoengage.com/engage/generic-open-clinic?key=3d6a9106-068b-4e5d-9d98-ad842133c206",
+                    "display_url": "rmow.vertoengage.com/engage/generic\u2026",
+                    "status": 503,
+                    "title": "Verto Engage",
+                    "unwound_url": "https://rmow.vertoengage.com/engage/generic-open-clinic?key=3d6a9106-068b-4e5d-9d98-ad842133c206"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 152572261,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409745569518661632"
+                },
+                "id": 1409745569518661632,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 70,
+                        "end": 90,
+                        "probability": 0.7477,
+                        "type": "Organization",
+                        "normalized_text": "Ryerson Public School"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "Yousuf_Rehman",
+                        "id": "152572261"
+                    },
+                    {
+                        "start": 15,
+                        "end": 30,
+                        "username": "RegionWaterloo",
+                        "id": "222554496"
+                    }
+                ]
+            },
+            "author_id": "64714989",
+            "id": "1409868339694944260",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409745569518661632"
+                }
+            ],
+            "text": "@Yousuf_Rehman @RegionWaterloo Thanks for reaching out. The clinic at Ryerson Public School will be only offering Moderna (must be 18 years of age or older).",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "152572261",
+            "created_at": "2021-06-29T13:36:20.000Z",
+            "conversation_id": "1409745569518661632",
+            "source": "Twitter Web App",
+            "reply_settings": "everyone"
+        },
+        "id": 1409868339694944260,
+        "text": "@Yousuf_Rehman @RegionWaterloo Thanks for reaching out. The clinic at Ryerson Public School will be only offering Moderna (must be 18 years of age or older).",
+        "attachments": null,
+        "author_id": 64714989,
+        "context_annotations": [],
+        "conversation_id": 1409745569518661632,
+        "created_at": "2021-06-29T13:36:20+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 70,
+                    "end": 90,
+                    "probability": 0.7477,
+                    "type": "Organization",
+                    "normalized_text": "Ryerson Public School"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "Yousuf_Rehman",
+                    "id": "152572261"
+                },
+                {
+                    "start": 15,
+                    "end": 30,
+                    "username": "RegionWaterloo",
+                    "id": "222554496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 152572261,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409745569518661632"
+                },
+                "id": 1409745569518661632,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

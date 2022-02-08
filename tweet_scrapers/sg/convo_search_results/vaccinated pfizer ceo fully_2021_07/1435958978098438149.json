@@ -1,0 +1,417 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "carteroloco66",
+                        "id": "2943107921"
+                    },
+                    {
+                        "start": 15,
+                        "end": 26,
+                        "username": "Estadity51",
+                        "id": "1346957729722740737"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 32,
+                        "end": 37,
+                        "probability": 0.6594,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 85,
+                        "end": 108,
+                        "url": "https://t.co/zZ5TDFJYqY",
+                        "expanded_url": "https://twitter.com/bacchaus351/status/1436060671330951171/photo/1",
+                        "display_url": "pic.twitter.com/zZ5TDFJYqY"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436022047289774089"
+                }
+            ],
+            "created_at": "2021-09-09T20:15:19.000Z",
+            "author_id": "3307309744",
+            "lang": "en",
+            "id": "1436060671330951171",
+            "in_reply_to_user_id": "2943107921",
+            "conversation_id": "1435958978098438149",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@carteroloco66 @Estadity51 This Pfizer CEO who's been fully vaccinated for 6 months? https://t.co/zZ5TDFJYqY",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1436060668315283460"
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1436060671330951171,
+        "text": "@carteroloco66 @Estadity51 This Pfizer CEO who's been fully vaccinated for 6 months? https://t.co/zZ5TDFJYqY",
+        "attachments": {
+            "media_keys": [
+                "3_1436060668315283460"
+            ]
+        },
+        "author_id": 3307309744,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1435958978098438149,
+        "created_at": "2021-09-09T20:15:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "carteroloco66",
+                    "id": "2943107921"
+                },
+                {
+                    "start": 15,
+                    "end": 26,
+                    "username": "Estadity51",
+                    "id": "1346957729722740737"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 32,
+                    "end": 37,
+                    "probability": 0.6594,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 108,
+                    "url": "https://t.co/zZ5TDFJYqY",
+                    "expanded_url": "https://twitter.com/bacchaus351/status/1436060671330951171/photo/1",
+                    "display_url": "pic.twitter.com/zZ5TDFJYqY"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2943107921,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436022047289774089"
+                },
+                "id": 1436022047289774089,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Estadity51",
+                        "id": "1346957729722740737"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 48,
+                        "end": 53,
+                        "probability": 0.7927,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435958978098438149"
+                }
+            ],
+            "created_at": "2021-09-09T17:41:50.000Z",
+            "author_id": "2943107921",
+            "lang": "es",
+            "id": "1436022047289774089",
+            "in_reply_to_user_id": "1346957729722740737",
+            "conversation_id": "1435958978098438149",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@Estadity51 Eso es as\u00ed...sin embargo, el CEO de Pfizer tom\u00f3 esta misma desici\u00f3n y nadie lo cuestiona...ser\u00eda por buena salud como dice o por desconfianza de su propio producto??",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1436022047289774089,
+        "text": "@Estadity51 Eso es as\u00ed...sin embargo, el CEO de Pfizer tom\u00f3 esta misma desici\u00f3n y nadie lo cuestiona...ser\u00eda por buena salud como dice o por desconfianza de su propio producto??",
+        "attachments": null,
+        "author_id": 2943107921,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1435958978098438149,
+        "created_at": "2021-09-09T17:41:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Estadity51",
+                    "id": "1346957729722740737"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 48,
+                    "end": 53,
+                    "probability": 0.7927,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1346957729722740737,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435958978098438149"
+                },
+                "id": 1435958978098438149,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

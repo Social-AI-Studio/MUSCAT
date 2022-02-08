@@ -1,0 +1,686 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850399423867650048",
+                        "name": "Cocktails",
+                        "description": "Cocktails"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850142258871418880",
+                        "name": "Beer",
+                        "description": "Beer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "MagicienDeRiga",
+                        "id": "52870703"
+                    },
+                    {
+                        "start": 16,
+                        "end": 30,
+                        "username": "ImmunoPrecise",
+                        "id": "263399708"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 70,
+                        "end": 78,
+                        "probability": 0.2789,
+                        "type": "Organization",
+                        "normalized_text": "Regeneron"
+                    },
+                    {
+                        "start": 205,
+                        "end": 211,
+                        "probability": 0.3865,
+                        "type": "Person",
+                        "normalized_text": "LiteVax"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409821375745822722"
+                }
+            ],
+            "created_at": "2021-06-29T13:09:26.000Z",
+            "author_id": "876019682",
+            "lang": "en",
+            "id": "1409861569639452679",
+            "in_reply_to_user_id": "52870703",
+            "conversation_id": "1409461733287211012",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@MagicienDeRiga @ImmunoPrecise Casirivimab and Imdevimab developed by Regeneron and Roche antibody cocktail still being used as a therapeutic.  In the area of Vaccines, IPA did initiate joint venture with LiteVax -where is the update on this?  Looks like they have either shelved it or delayed it like polytope",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1409861569639452679,
+        "text": "@MagicienDeRiga @ImmunoPrecise Casirivimab and Imdevimab developed by Regeneron and Roche antibody cocktail still being used as a therapeutic.  In the area of Vaccines, IPA did initiate joint venture with LiteVax -where is the update on this?  Looks like they have either shelved it or delayed it like polytope",
+        "attachments": null,
+        "author_id": 876019682,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850399423867650048",
+                    "name": "Cocktails",
+                    "description": "Cocktails"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850142258871418880",
+                    "name": "Beer",
+                    "description": "Beer"
+                }
+            }
+        ],
+        "conversation_id": 1409461733287211012,
+        "created_at": "2021-06-29T13:09:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "MagicienDeRiga",
+                    "id": "52870703"
+                },
+                {
+                    "start": 16,
+                    "end": 30,
+                    "username": "ImmunoPrecise",
+                    "id": "263399708"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 70,
+                    "end": 78,
+                    "probability": 0.2789,
+                    "type": "Organization",
+                    "normalized_text": "Regeneron"
+                },
+                {
+                    "start": 205,
+                    "end": 211,
+                    "probability": 0.3865,
+                    "type": "Person",
+                    "normalized_text": "LiteVax"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52870703,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409821375745822722"
+                },
+                "id": 1409821375745822722,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "reddy_ak",
+                        "id": "876019682"
+                    },
+                    {
+                        "start": 10,
+                        "end": 24,
+                        "username": "ImmunoPrecise",
+                        "id": "263399708"
+                    }
+                ],
+                "cashtags": [
+                    {
+                        "start": 99,
+                        "end": 103,
+                        "tag": "IPA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/BSZxqRn6oC",
+                        "expanded_url": "https://endpts.com/us-pauses-use-of-eli-lillys-covid-19-treatment-nationwide-due-to-variants/",
+                        "display_url": "endpts.com/us-pauses-use-\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1455795764999905284/04GyhVbT?format=jpg&name=orig",
+                                "width": 2048,
+                                "height": 1152
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1455795764999905284/04GyhVbT?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "UPDATED: US pauses use of Eli Lilly's Covid-19 treatment nationwide due to variants",
+                        "description": "Due to the presence of variants, the US said Friday that it's pausing shipments of Eli Lilly's monoclonal antibody combo for the treatment of Covid-19 on a national basis until further notice. The pause, which could amount to the loss of about $375 million in sales according to one biotech",
+                        "unwound_url": "https://endpts.com/us-pauses-use-of-eli-lillys-covid-19-treatment-nationwide-due-to-variants/"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409638072375934977"
+                }
+            ],
+            "created_at": "2021-06-29T10:29:43.000Z",
+            "author_id": "52870703",
+            "lang": "en",
+            "id": "1409821375745822722",
+            "in_reply_to_user_id": "876019682",
+            "conversation_id": "1409461733287211012",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "text": "@reddy_ak @ImmunoPrecise I think you are confusing vaccines with Therapeutics. Pharma are failing. $IPA https://t.co/BSZxqRn6oC",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1409821375745822722,
+        "text": "@reddy_ak @ImmunoPrecise I think you are confusing vaccines with Therapeutics. Pharma are failing. $IPA https://t.co/BSZxqRn6oC",
+        "attachments": null,
+        "author_id": 52870703,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1409461733287211012,
+        "created_at": "2021-06-29T10:29:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "reddy_ak",
+                    "id": "876019682"
+                },
+                {
+                    "start": 10,
+                    "end": 24,
+                    "username": "ImmunoPrecise",
+                    "id": "263399708"
+                }
+            ],
+            "cashtags": [
+                {
+                    "start": 99,
+                    "end": 103,
+                    "tag": "IPA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/BSZxqRn6oC",
+                    "expanded_url": "https://endpts.com/us-pauses-use-of-eli-lillys-covid-19-treatment-nationwide-due-to-variants/",
+                    "display_url": "endpts.com/us-pauses-use-\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1455795764999905284/04GyhVbT?format=jpg&name=orig",
+                            "width": 2048,
+                            "height": 1152
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1455795764999905284/04GyhVbT?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "UPDATED: US pauses use of Eli Lilly's Covid-19 treatment nationwide due to variants",
+                    "description": "Due to the presence of variants, the US said Friday that it's pausing shipments of Eli Lilly's monoclonal antibody combo for the treatment of Covid-19 on a national basis until further notice. The pause, which could amount to the loss of about $375 million in sales according to one biotech",
+                    "unwound_url": "https://endpts.com/us-pauses-use-of-eli-lillys-covid-19-treatment-nationwide-due-to-variants/"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 876019682,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409638072375934977"
+                },
+                "id": 1409638072375934977,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850142258871418880",
+                        "name": "Beer",
+                        "description": "Beer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "MagicienDeRiga",
+                        "id": "52870703"
+                    },
+                    {
+                        "start": 16,
+                        "end": 30,
+                        "username": "ImmunoPrecise",
+                        "id": "263399708"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409461733287211012"
+                }
+            ],
+            "created_at": "2021-06-28T22:21:20.000Z",
+            "author_id": "876019682",
+            "lang": "en",
+            "id": "1409638072375934977",
+            "in_reply_to_user_id": "52870703",
+            "conversation_id": "1409461733287211012",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@MagicienDeRiga @ImmunoPrecise has great ideas i.e. Polytope but totally lacks strategy and communications skills. Strategy was all the big pharma was going to fail and IPA would come from behind with the solution.  Well, CV-19 vaccines have saved lives, reduced infections and hospitalizations",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1409638072375934977,
+        "text": "@MagicienDeRiga @ImmunoPrecise has great ideas i.e. Polytope but totally lacks strategy and communications skills. Strategy was all the big pharma was going to fail and IPA would come from behind with the solution.  Well, CV-19 vaccines have saved lives, reduced infections and hospitalizations",
+        "attachments": null,
+        "author_id": 876019682,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850142258871418880",
+                    "name": "Beer",
+                    "description": "Beer"
+                }
+            }
+        ],
+        "conversation_id": 1409461733287211012,
+        "created_at": "2021-06-28T22:21:20+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "MagicienDeRiga",
+                    "id": "52870703"
+                },
+                {
+                    "start": 16,
+                    "end": 30,
+                    "username": "ImmunoPrecise",
+                    "id": "263399708"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52870703,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409461733287211012"
+                },
+                "id": 1409461733287211012,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

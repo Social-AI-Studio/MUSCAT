@@ -1,0 +1,138 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "1364024389",
+            "author_id": "179379726",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1176478647454072833",
+                        "name": "AirAsia"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 11,
+                        "end": 19,
+                        "probability": 0.5845,
+                        "type": "Person",
+                        "normalized_text": "DIPAK DAS"
+                    },
+                    {
+                        "start": 140,
+                        "end": 143,
+                        "probability": 0.7698,
+                        "type": "Person",
+                        "normalized_text": "Amie"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "DDAS44",
+                        "id": "1364024389"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1271186074971312133",
+            "text": "@DDAS44 Hi DIPAK DAS. As this is under the airport authority. Hence, you may need to check with the authority for more details in regards. -Amie",
+            "created_at": "2020-06-11T21:02:32.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1270106504968863744",
+            "possibly_sensitive": false,
+            "source": "Salesforce - Social Studio",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1270106504968863744"
+                }
+            ]
+        },
+        "id": 1271186074971312133,
+        "text": "@DDAS44 Hi DIPAK DAS. As this is under the airport authority. Hence, you may need to check with the authority for more details in regards. -Amie",
+        "attachments": null,
+        "author_id": 179379726,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1176478647454072833",
+                    "name": "AirAsia"
+                }
+            }
+        ],
+        "conversation_id": 1270106504968863744,
+        "created_at": "2020-06-11T21:02:32+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 19,
+                    "probability": 0.5845,
+                    "type": "Person",
+                    "normalized_text": "DIPAK DAS"
+                },
+                {
+                    "start": 140,
+                    "end": 143,
+                    "probability": 0.7698,
+                    "type": "Person",
+                    "normalized_text": "Amie"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "DDAS44",
+                    "id": "1364024389"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1364024389,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1270106504968863744"
+                },
+                "id": 1270106504968863744,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Salesforce - Social Studio",
+        "withheld": null
+    }
+]

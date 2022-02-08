@@ -1,0 +1,136 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "rogertansey",
+                        "id": "459876432"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 45,
+                        "end": 68,
+                        "url": "https://t.co/71dHEl7ud2",
+                        "expanded_url": "https://twitter.com/myfriendLiz/status/1429730924556701697",
+                        "display_url": "twitter.com/myfriendLiz/st\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429730924556701697"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1429778638489092101"
+                }
+            ],
+            "created_at": "2021-08-23T12:14:38.000Z",
+            "author_id": "623030031",
+            "lang": "en",
+            "id": "1429779108523823105",
+            "in_reply_to_user_id": "459876432",
+            "conversation_id": "1429778638489092101",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@rogertansey do you want to vote in my poll? https://t.co/71dHEl7ud2",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1429779108523823105,
+        "text": "@rogertansey do you want to vote in my poll? https://t.co/71dHEl7ud2",
+        "attachments": null,
+        "author_id": 623030031,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429778638489092101,
+        "created_at": "2021-08-23T12:14:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "rogertansey",
+                    "id": "459876432"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/71dHEl7ud2",
+                    "expanded_url": "https://twitter.com/myfriendLiz/status/1429730924556701697",
+                    "display_url": "twitter.com/myfriendLiz/st\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 459876432,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429730924556701697"
+                },
+                "id": 1429730924556701697,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429778638489092101"
+                },
+                "id": 1429778638489092101,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

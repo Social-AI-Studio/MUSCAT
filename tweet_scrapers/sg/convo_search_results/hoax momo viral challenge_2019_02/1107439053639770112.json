@@ -1,0 +1,1377 @@
+[
+    {
+        "data": {
+            "geo": {
+                "place_id": "9c4c0b8127ec35a3"
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "danielmart_ins",
+                        "id": "932299264759418880"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 61,
+                        "end": 67,
+                        "probability": 0.8941,
+                        "type": "Product",
+                        "normalized_text": "YouTube"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107794912102281216",
+            "text": "@danielmart_ins Eu acho que \u00e9 fake. Ningu\u00e9m mostra o link do YouTube, s\u00f3 o v\u00eddeo solto",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107582842568171520"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-19T00:04:23.000Z",
+            "in_reply_to_user_id": "123955119",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107794912102281216,
+        "text": "@danielmart_ins Eu acho que \u00e9 fake. Ningu\u00e9m mostra o link do YouTube, s\u00f3 o v\u00eddeo solto",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029382357",
+                    "name": "YouTube"
+                }
+            }
+        ],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-19T00:04:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "danielmart_ins",
+                    "id": "932299264759418880"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 61,
+                    "end": 67,
+                    "probability": 0.8941,
+                    "type": "Product",
+                    "normalized_text": "YouTube"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "9c4c0b8127ec35a3"
+        },
+        "in_reply_to_user_id": 123955119,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107582842568171520"
+                },
+                "id": 1107582842568171520,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1107444411057635328",
+            "text": "@anaf_garcia kkkkkkk",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107444326756433921"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:51:37.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107444411057635328,
+        "text": "@anaf_garcia kkkkkkk",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:51:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107444326756433921"
+                },
+                "id": 1107444326756433921,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "FalsoGordo",
+                        "id": "14792689"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107444326756433921",
+            "text": "@FalsoGordo Ok, n\u00e3o falou OK, falou \"t\u00e1 bom\". Kkkkk",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107443743567732736"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-18T00:51:17.000Z",
+            "in_reply_to_user_id": "14792689",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107444326756433921,
+        "text": "@FalsoGordo Ok, n\u00e3o falou OK, falou \"t\u00e1 bom\". Kkkkk",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:51:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "FalsoGordo",
+                    "id": "14792689"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14792689,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107443743567732736"
+                },
+                "id": 1107443743567732736,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1107443743567732736",
+            "text": "@anaf_garcia kkkk OKAY",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107443131631497218"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:48:58.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107443743567732736,
+        "text": "@anaf_garcia kkkk OKAY",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:48:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107443131631497218"
+                },
+                "id": 1107443131631497218,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "FalsoGordo",
+                        "id": "14792689"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107443131631497218",
+            "text": "@FalsoGordo N\u00e3o foi assim kkkk ele olhou e falou \"n\u00e3o conhe\u00e7o, mam\u00e3e\". A\u00ed eu disse que ele era feio e bobo e que se ele visse que era pra avisar a mam\u00e3e. Ele falou ok e pediu pra jogar Sonic. Kkkk",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107442706517651456"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-18T00:46:32.000Z",
+            "in_reply_to_user_id": "14792689",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107443131631497218,
+        "text": "@FalsoGordo N\u00e3o foi assim kkkk ele olhou e falou \"n\u00e3o conhe\u00e7o, mam\u00e3e\". A\u00ed eu disse que ele era feio e bobo e que se ele visse que era pra avisar a mam\u00e3e. Ele falou ok e pediu pra jogar Sonic. Kkkk",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:46:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "FalsoGordo",
+                    "id": "14792689"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14792689,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107442706517651456"
+                },
+                "id": 1107442706517651456,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107442706517651456",
+            "text": "@anaf_garcia de nada kkkkk tenta n\u00e3o mostrar mais nada q v\u00e1 traumatizar seu filho kkkkk \"EI FILHO, VOC\u00ca J\u00c1 VIU ESSA FIGURA HORR\u00cdVEL QUE TE DEIXAR\u00c1 COM PESADELOS POR MESES? POR FAVOR DIGA QUE N\u00c3O\"",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107442089246277632"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:44:51.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107442706517651456,
+        "text": "@anaf_garcia de nada kkkkk tenta n\u00e3o mostrar mais nada q v\u00e1 traumatizar seu filho kkkkk \"EI FILHO, VOC\u00ca J\u00c1 VIU ESSA FIGURA HORR\u00cdVEL QUE TE DEIXAR\u00c1 COM PESADELOS POR MESES? POR FAVOR DIGA QUE N\u00c3O\"",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:44:51+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107442089246277632"
+                },
+                "id": 1107442089246277632,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "FalsoGordo",
+                        "id": "14792689"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107442089246277632",
+            "text": "@FalsoGordo Obrigada kkkkkk \u00b2",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107442004659625984"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-18T00:42:24.000Z",
+            "in_reply_to_user_id": "14792689",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107442089246277632,
+        "text": "@FalsoGordo Obrigada kkkkkk \u00b2",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:42:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "FalsoGordo",
+                    "id": "14792689"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14792689,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107442004659625984"
+                },
+                "id": 1107442004659625984,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107442004659625984",
+            "text": "@anaf_garcia pq sempre tem algum idiota q vai na onda da histeria",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107441752187854849"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:42:03.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107442004659625984,
+        "text": "@anaf_garcia pq sempre tem algum idiota q vai na onda da histeria",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:42:03+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107441752187854849"
+                },
+                "id": 1107441752187854849,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "FalsoGordo",
+                        "id": "14792689"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107441752187854849",
+            "text": "@FalsoGordo Mas vi trechos de v\u00eddeos",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107441599011684352"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-18T00:41:03.000Z",
+            "in_reply_to_user_id": "14792689",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107441752187854849,
+        "text": "@FalsoGordo Mas vi trechos de v\u00eddeos",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:41:03+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "FalsoGordo",
+                    "id": "14792689"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14792689,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107441599011684352"
+                },
+                "id": 1107441599011684352,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/htR0hO3jYY",
+                        "expanded_url": "https://www.theguardian.com/technology/2019/feb/28/viral-momo-challenge-is-a-malicious-hoax-say-charities",
+                        "display_url": "theguardian.com/technology/201\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1107441599011684352",
+            "text": "@anaf_garcia https://t.co/htR0hO3jYY",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107441352281870336"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:40:27.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107441599011684352,
+        "text": "@anaf_garcia https://t.co/htR0hO3jYY",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:40:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/htR0hO3jYY",
+                    "expanded_url": "https://www.theguardian.com/technology/2019/feb/28/viral-momo-challenge-is-a-malicious-hoax-say-charities",
+                    "display_url": "theguardian.com/technology/201\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107441352281870336"
+                },
+                "id": 1107441352281870336,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "geo": {
+                "place_id": "9c4c0b8127ec35a3"
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "FalsoGordo",
+                        "id": "14792689"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107441430371414017",
+            "text": "@FalsoGordo Obrigada kkkkkk",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107441327669563392"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-18T00:39:46.000Z",
+            "in_reply_to_user_id": "14792689",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107441430371414017,
+        "text": "@FalsoGordo Obrigada kkkkkk",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:39:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "FalsoGordo",
+                    "id": "14792689"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "9c4c0b8127ec35a3"
+        },
+        "in_reply_to_user_id": 14792689,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107441327669563392"
+                },
+                "id": 1107441327669563392,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "FalsoGordo",
+                        "id": "14792689"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 52,
+                        "probability": 0.5946,
+                        "type": "Person",
+                        "normalized_text": "Momo"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107441352281870336",
+            "text": "@FalsoGordo N\u00e3o carai, as crian\u00e7as falam que \u00e9 o Momo",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107441216512155648"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-18T00:39:28.000Z",
+            "in_reply_to_user_id": "14792689",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107441352281870336,
+        "text": "@FalsoGordo N\u00e3o carai, as crian\u00e7as falam que \u00e9 o Momo",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:39:28+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "FalsoGordo",
+                    "id": "14792689"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 49,
+                    "end": 52,
+                    "probability": 0.5946,
+                    "type": "Person",
+                    "normalized_text": "Momo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14792689,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107441216512155648"
+                },
+                "id": 1107441216512155648,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107441327669563392",
+            "text": "@anaf_garcia a crian\u00e7a entra em desespero pq n\u00e3o espera q a idiota da m\u00e3e mostre isso pra ele",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107440902446960640"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:39:22.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107441327669563392,
+        "text": "@anaf_garcia a crian\u00e7a entra em desespero pq n\u00e3o espera q a idiota da m\u00e3e mostre isso pra ele",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:39:22+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107440902446960640"
+                },
+                "id": 1107440902446960640,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107441216512155648",
+            "text": "@anaf_garcia \u00d3BVIO PORRA, \u00e9 uma imagem feia",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107440902446960640"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:38:55.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107441216512155648,
+        "text": "@anaf_garcia \u00d3BVIO PORRA, \u00e9 uma imagem feia",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:38:55+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107440902446960640"
+                },
+                "id": 1107440902446960640,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "FalsoGordo",
+                        "id": "14792689"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "pt",
+            "id": "1107440902446960640",
+            "text": "@FalsoGordo Tem v\u00e1rias m\u00e3es falando que mostraram pro filho e que a crian\u00e7a entra em desespero",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107440594459070464"
+                }
+            ],
+            "author_id": "41238918",
+            "created_at": "2019-03-18T00:37:41.000Z",
+            "in_reply_to_user_id": "14792689",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107440902446960640,
+        "text": "@FalsoGordo Tem v\u00e1rias m\u00e3es falando que mostraram pro filho e que a crian\u00e7a entra em desespero",
+        "attachments": null,
+        "author_id": 41238918,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:37:41+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "FalsoGordo",
+                    "id": "14792689"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14792689,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107440594459070464"
+                },
+                "id": 1107440594459070464,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web Client",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "anaf_garcia",
+                        "id": "41238918"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1107440594459070464",
+            "text": "@anaf_garcia fake",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107439053639770112"
+                }
+            ],
+            "author_id": "14792689",
+            "created_at": "2019-03-18T00:36:27.000Z",
+            "in_reply_to_user_id": "41238918",
+            "conversation_id": "1107439053639770112"
+        },
+        "id": 1107440594459070464,
+        "text": "@anaf_garcia fake",
+        "attachments": null,
+        "author_id": 14792689,
+        "context_annotations": [],
+        "conversation_id": 1107439053639770112,
+        "created_at": "2019-03-18T00:36:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "anaf_garcia",
+                    "id": "41238918"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 41238918,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107439053639770112"
+                },
+                "id": 1107439053639770112,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

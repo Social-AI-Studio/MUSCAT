@@ -1,0 +1,195 @@
+[
+    {
+        "data": {
+            "author_id": "544667363",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "1329443614888378368",
+                        "name": "Moderna Vaccine"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1409906667026673665",
+            "text": "Welp, looks like these scientist folks know what they\u2019re doing after all. https://t.co/gJDPCFYQU4",
+            "created_at": "2021-06-29T16:08:38.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/gJDPCFYQU4",
+                        "expanded_url": "https://twitter.com/pitdesi/status/1409868164821884935",
+                        "display_url": "twitter.com/pitdesi/status\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1409906667026673665",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1409868164821884935"
+                }
+            ]
+        },
+        "id": 1409906667026673665,
+        "text": "Welp, looks like these scientist folks know what they\u2019re doing after all. https://t.co/gJDPCFYQU4",
+        "attachments": null,
+        "author_id": 544667363,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "1329443614888378368",
+                    "name": "Moderna Vaccine"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1409906667026673665,
+        "created_at": "2021-06-29T16:08:38+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/gJDPCFYQU4",
+                    "expanded_url": "https://twitter.com/pitdesi/status/1409868164821884935",
+                    "display_url": "twitter.com/pitdesi/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1409868164821884935"
+                },
+                "id": 1409868164821884935,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

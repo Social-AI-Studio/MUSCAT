@@ -1,0 +1,2002 @@
+[
+    {
+        "data": {
+            "created_at": "2021-09-12T17:38:32.000Z",
+            "possibly_sensitive": false,
+            "id": "1437108379110027269",
+            "author_id": "921516183668609024",
+            "source": "Twitter Web App",
+            "text": "RT @booksliveon: The only crisis we have are Republicans who give zero fucks about people dying and all the fucks about creating havoc for\u2026",
+            "reply_settings": "everyone",
+            "conversation_id": "1437108379110027269",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 45,
+                        "end": 55,
+                        "probability": 0.7497,
+                        "type": "Organization",
+                        "normalized_text": "Republicans"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "booksliveon",
+                        "id": "1710993258"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1437098388890259460"
+                }
+            ]
+        },
+        "id": 1437108379110027269,
+        "text": "RT @booksliveon: The only crisis we have are Republicans who give zero fucks about people dying and all the fucks about creating havoc for\u2026",
+        "attachments": null,
+        "author_id": 921516183668609024,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437108379110027269,
+        "created_at": "2021-09-12T17:38:32+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 45,
+                    "end": 55,
+                    "probability": 0.7497,
+                    "type": "Organization",
+                    "normalized_text": "Republicans"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "booksliveon",
+                    "id": "1710993258"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1437098388890259460"
+                },
+                "id": 1437098388890259460,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T16:58:50.000Z",
+            "possibly_sensitive": false,
+            "id": "1437098388890259460",
+            "author_id": "1710993258",
+            "source": "Twitter for iPhone",
+            "text": "The only crisis we have are Republicans who give zero fucks about people dying and all the fucks about creating havoc for Biden. Power and greed are your concerns. Amirite? @RogerMarshallMD https://t.co/TbXgZCLi6O",
+            "reply_settings": "everyone",
+            "conversation_id": "1437098388890259460",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "981178443843829765",
+                        "name": "Roger Marshall",
+                        "description": "US Representative Roger Marshall (KS-01)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "981178443843829765",
+                        "name": "Roger Marshall",
+                        "description": "US Representative Roger Marshall (KS-01)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 28,
+                        "end": 38,
+                        "probability": 0.6663,
+                        "type": "Organization",
+                        "normalized_text": "Republicans"
+                    },
+                    {
+                        "start": 122,
+                        "end": 126,
+                        "probability": 0.9828,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 173,
+                        "end": 189,
+                        "username": "RogerMarshallMD",
+                        "id": "1240107944"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 190,
+                        "end": 213,
+                        "url": "https://t.co/TbXgZCLi6O",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ]
+        },
+        "id": 1437098388890259460,
+        "text": "The only crisis we have are Republicans who give zero fucks about people dying and all the fucks about creating havoc for Biden. Power and greed are your concerns. Amirite? @RogerMarshallMD https://t.co/TbXgZCLi6O",
+        "attachments": null,
+        "author_id": 1710993258,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "981178443843829765",
+                    "name": "Roger Marshall",
+                    "description": "US Representative Roger Marshall (KS-01)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "981178443843829765",
+                    "name": "Roger Marshall",
+                    "description": "US Representative Roger Marshall (KS-01)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1437098388890259460,
+        "created_at": "2021-09-12T16:58:50+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 28,
+                    "end": 38,
+                    "probability": 0.6663,
+                    "type": "Organization",
+                    "normalized_text": "Republicans"
+                },
+                {
+                    "start": 122,
+                    "end": 126,
+                    "probability": 0.9828,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 173,
+                    "end": 189,
+                    "username": "RogerMarshallMD",
+                    "id": "1240107944"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 190,
+                    "end": 213,
+                    "url": "https://t.co/TbXgZCLi6O",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T14:11:27.000Z",
+            "possibly_sensitive": false,
+            "id": "1437056266841600003",
+            "author_id": "3339985514",
+            "source": "Twitter for iPhone",
+            "text": "Good points! https://t.co/yqOf19GlAT",
+            "reply_settings": "everyone",
+            "conversation_id": "1437056266841600003",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/yqOf19GlAT",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1437056266841600003,
+        "text": "Good points! https://t.co/yqOf19GlAT",
+        "attachments": null,
+        "author_id": 3339985514,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437056266841600003,
+        "created_at": "2021-09-12T14:11:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/yqOf19GlAT",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T12:55:42.000Z",
+            "possibly_sensitive": false,
+            "id": "1437037204094734337",
+            "author_id": "2201599248",
+            "source": "Twitter for Android",
+            "text": "https://t.co/mcwq1C7ZYL https://t.co/OOgG6mQiHe",
+            "reply_settings": "everyone",
+            "conversation_id": "1437037204094734337",
+            "attachments": {
+                "media_keys": [
+                    "3_1437037201683009543"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "und",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "geo": {
+                "place_id": "4ec01c9dbc693497"
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/mcwq1C7ZYL",
+                        "expanded_url": "https://twitter.com/terrycasterline/status/1437037204094734337/photo/1",
+                        "display_url": "pic.twitter.com/mcwq1C7ZYL"
+                    },
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/OOgG6mQiHe",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1437037204094734337,
+        "text": "https://t.co/mcwq1C7ZYL https://t.co/OOgG6mQiHe",
+        "attachments": {
+            "media_keys": [
+                "3_1437037201683009543"
+            ]
+        },
+        "author_id": 2201599248,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437037204094734337,
+        "created_at": "2021-09-12T12:55:42+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/mcwq1C7ZYL",
+                    "expanded_url": "https://twitter.com/terrycasterline/status/1437037204094734337/photo/1",
+                    "display_url": "pic.twitter.com/mcwq1C7ZYL"
+                },
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/OOgG6mQiHe",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "4ec01c9dbc693497"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T12:28:36.000Z",
+            "possibly_sensitive": false,
+            "id": "1437030380289335299",
+            "author_id": "423729678",
+            "source": "Twitter for iPhone",
+            "text": "Yes it will! https://t.co/c4s1d6UETd",
+            "reply_settings": "everyone",
+            "conversation_id": "1437030380289335299",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/c4s1d6UETd",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1437030380289335299,
+        "text": "Yes it will! https://t.co/c4s1d6UETd",
+        "attachments": null,
+        "author_id": 423729678,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437030380289335299,
+        "created_at": "2021-09-12T12:28:36+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/c4s1d6UETd",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T11:42:28.000Z",
+            "possibly_sensitive": false,
+            "id": "1437018774335524866",
+            "author_id": "809405652770623488",
+            "source": "Twitter for iPhone",
+            "text": "All you senators need to forcibly together stand up for our constitutional rights and our country!!  What the hell is wrong with you people?? Everyone of you were trustfully elected or appointed to do so AND you all took SWORN oaths to uphold our constitutional laws-explain https://t.co/3Tre7DkWAB",
+            "reply_settings": "everyone",
+            "conversation_id": "1437018774335524866",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/3Tre7DkWAB",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1437018774335524866,
+        "text": "All you senators need to forcibly together stand up for our constitutional rights and our country!!  What the hell is wrong with you people?? Everyone of you were trustfully elected or appointed to do so AND you all took SWORN oaths to uphold our constitutional laws-explain https://t.co/3Tre7DkWAB",
+        "attachments": null,
+        "author_id": 809405652770623488,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437018774335524866,
+        "created_at": "2021-09-12T11:42:28+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 275,
+                    "end": 298,
+                    "url": "https://t.co/3Tre7DkWAB",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T10:31:25.000Z",
+            "possibly_sensitive": false,
+            "id": "1437000892952236034",
+            "author_id": "234705914",
+            "source": "Twitter for iPhone",
+            "text": "RT @GailSki4: This is all part of the dems plans/agendas. Nothing they have ever done is about health of a population or the good of a nati\u2026",
+            "reply_settings": "everyone",
+            "conversation_id": "1437000892952236034",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436905326729736194"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "GailSki4",
+                        "id": "1094032487821434880"
+                    }
+                ]
+            }
+        },
+        "id": 1437000892952236034,
+        "text": "RT @GailSki4: This is all part of the dems plans/agendas. Nothing they have ever done is about health of a population or the good of a nati\u2026",
+        "attachments": null,
+        "author_id": 234705914,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437000892952236034,
+        "created_at": "2021-09-12T10:31:25+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "GailSki4",
+                    "id": "1094032487821434880"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436905326729736194"
+                },
+                "id": 1436905326729736194,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T06:30:33.000Z",
+            "possibly_sensitive": false,
+            "id": "1436940277344784386",
+            "author_id": "912230694",
+            "source": "Twitter for iPhone",
+            "text": "One word to describe Dopey Biden a ClusterFuck is apt!!!! https://t.co/kOr5HmIdet",
+            "reply_settings": "everyone",
+            "conversation_id": "1436940277344784386",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 21,
+                        "end": 31,
+                        "probability": 0.9027,
+                        "type": "Person",
+                        "normalized_text": "Dopey Biden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 58,
+                        "end": 81,
+                        "url": "https://t.co/kOr5HmIdet",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ]
+        },
+        "id": 1436940277344784386,
+        "text": "One word to describe Dopey Biden a ClusterFuck is apt!!!! https://t.co/kOr5HmIdet",
+        "attachments": null,
+        "author_id": 912230694,
+        "context_annotations": [],
+        "conversation_id": 1436940277344784386,
+        "created_at": "2021-09-12T06:30:33+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 21,
+                    "end": 31,
+                    "probability": 0.9027,
+                    "type": "Person",
+                    "normalized_text": "Dopey Biden"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/kOr5HmIdet",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T05:05:38.000Z",
+            "possibly_sensitive": false,
+            "id": "1436918903960072195",
+            "author_id": "1302854562248753153",
+            "source": "Twitter for iPhone",
+            "text": "RT @VoteGiles: Say no to illegal mandates!",
+            "reply_settings": "everyone",
+            "conversation_id": "1436918903960072195",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436915620453310469"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "VoteGiles",
+                        "id": "744315872"
+                    }
+                ]
+            }
+        },
+        "id": 1436918903960072195,
+        "text": "RT @VoteGiles: Say no to illegal mandates!",
+        "attachments": null,
+        "author_id": 1302854562248753153,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436918903960072195,
+        "created_at": "2021-09-12T05:05:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "VoteGiles",
+                    "id": "744315872"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436915620453310469"
+                },
+                "id": 1436915620453310469,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T05:00:08.000Z",
+            "possibly_sensitive": false,
+            "id": "1436917523312746496",
+            "author_id": "755397199018754048",
+            "source": "Twitter for iPhone",
+            "text": "Well good luck with that as the whole county is wearing Fuk Biden shirts https://t.co/RylZHSRdyq",
+            "reply_settings": "everyone",
+            "conversation_id": "1436917523312746496",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 56,
+                        "end": 64,
+                        "probability": 0.4613,
+                        "type": "Person",
+                        "normalized_text": "Fuk Biden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 73,
+                        "end": 96,
+                        "url": "https://t.co/RylZHSRdyq",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "geo": {
+                "place_id": "003f10cc71a3ab9b"
+            }
+        },
+        "id": 1436917523312746496,
+        "text": "Well good luck with that as the whole county is wearing Fuk Biden shirts https://t.co/RylZHSRdyq",
+        "attachments": null,
+        "author_id": 755397199018754048,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1436917523312746496,
+        "created_at": "2021-09-12T05:00:08+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 64,
+                    "probability": 0.4613,
+                    "type": "Person",
+                    "normalized_text": "Fuk Biden"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/RylZHSRdyq",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "003f10cc71a3ab9b"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T04:58:45.000Z",
+            "possibly_sensitive": false,
+            "id": "1436917174388465669",
+            "author_id": "507618052",
+            "source": "Twitter for iPad",
+            "text": "Too bad the video is not available. https://t.co/m0Qu547hbl",
+            "reply_settings": "everyone",
+            "conversation_id": "1436917174388465669",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 36,
+                        "end": 59,
+                        "url": "https://t.co/m0Qu547hbl",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1436917174388465669,
+        "text": "Too bad the video is not available. https://t.co/m0Qu547hbl",
+        "attachments": null,
+        "author_id": 507618052,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436917174388465669,
+        "created_at": "2021-09-12T04:58:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 36,
+                    "end": 59,
+                    "url": "https://t.co/m0Qu547hbl",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T04:52:35.000Z",
+            "possibly_sensitive": false,
+            "id": "1436915620453310469",
+            "author_id": "744315872",
+            "source": "Twitter for Android",
+            "text": "Say no to illegal mandates! https://t.co/7iMescTAhL",
+            "reply_settings": "everyone",
+            "conversation_id": "1436915620453310469",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 28,
+                        "end": 51,
+                        "url": "https://t.co/7iMescTAhL",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1436915620453310469,
+        "text": "Say no to illegal mandates! https://t.co/7iMescTAhL",
+        "attachments": null,
+        "author_id": 744315872,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436915620453310469,
+        "created_at": "2021-09-12T04:52:35+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 28,
+                    "end": 51,
+                    "url": "https://t.co/7iMescTAhL",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T04:11:40.000Z",
+            "possibly_sensitive": false,
+            "id": "1436905326729736194",
+            "author_id": "1094032487821434880",
+            "source": "Twitter Web App",
+            "text": "This is all part of the dems plans/agendas. Nothing they have ever done is about health of a population or the good of a nation; it is the long haul agendas to gain total control &amp; power; just like the terroriest they are so fond of https://t.co/uywFDQSpa7",
+            "reply_settings": "everyone",
+            "conversation_id": "1436905326729736194",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 237,
+                        "end": 260,
+                        "url": "https://t.co/uywFDQSpa7",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1436905326729736194,
+        "text": "This is all part of the dems plans/agendas. Nothing they have ever done is about health of a population or the good of a nation; it is the long haul agendas to gain total control &amp; power; just like the terroriest they are so fond of https://t.co/uywFDQSpa7",
+        "attachments": null,
+        "author_id": 1094032487821434880,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436905326729736194,
+        "created_at": "2021-09-12T04:11:40+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 237,
+                    "end": 260,
+                    "url": "https://t.co/uywFDQSpa7",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T04:11:06.000Z",
+            "possibly_sensitive": false,
+            "id": "1436905180885397504",
+            "author_id": "564490721",
+            "source": "Twitter for Android",
+            "text": "No it wont.\nNobody is listening to this guy. https://t.co/VucFKjfpUX",
+            "reply_settings": "everyone",
+            "conversation_id": "1436905180885397504",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 45,
+                        "end": 68,
+                        "url": "https://t.co/VucFKjfpUX",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1436905180885397504,
+        "text": "No it wont.\nNobody is listening to this guy. https://t.co/VucFKjfpUX",
+        "attachments": null,
+        "author_id": 564490721,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436905180885397504,
+        "created_at": "2021-09-12T04:11:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/VucFKjfpUX",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T03:57:30.000Z",
+            "possibly_sensitive": false,
+            "id": "1436901761185353734",
+            "author_id": "1027205612",
+            "source": "Twitter Web App",
+            "text": "Amen https://t.co/Tena4RacDe",
+            "reply_settings": "everyone",
+            "conversation_id": "1436901761185353734",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 5,
+                        "end": 28,
+                        "url": "https://t.co/Tena4RacDe",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1436901761185353734,
+        "text": "Amen https://t.co/Tena4RacDe",
+        "attachments": null,
+        "author_id": 1027205612,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436901761185353734,
+        "created_at": "2021-09-12T03:57:30+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 5,
+                    "end": 28,
+                    "url": "https://t.co/Tena4RacDe",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-12T03:54:34.000Z",
+            "possibly_sensitive": false,
+            "id": "1436901020127404035",
+            "author_id": "347398215",
+            "source": "Twitter for Android",
+            "text": "Amen!!!!  Natural Immunity &gt;&gt;&gt; Vaccine https://t.co/9W9OHumIWg",
+            "reply_settings": "everyone",
+            "conversation_id": "1436901020127404035",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "ca",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 48,
+                        "end": 71,
+                        "url": "https://t.co/9W9OHumIWg",
+                        "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                        "display_url": "twitter.com/OANN/status/14\u2026"
+                    }
+                ]
+            }
+        },
+        "id": 1436901020127404035,
+        "text": "Amen!!!!  Natural Immunity &gt;&gt;&gt; Vaccine https://t.co/9W9OHumIWg",
+        "attachments": null,
+        "author_id": 347398215,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436901020127404035,
+        "created_at": "2021-09-12T03:54:34+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 48,
+                    "end": 71,
+                    "url": "https://t.co/9W9OHumIWg",
+                    "expanded_url": "https://twitter.com/OANN/status/1436894066021580807",
+                    "display_url": "twitter.com/OANN/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ca",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436894066021580807"
+                },
+                "id": 1436894066021580807,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

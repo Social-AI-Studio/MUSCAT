@@ -1,0 +1,2684 @@
+[
+    {
+        "data": {
+            "author_id": "993562842493345793",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10029697507",
+                        "name": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1106586061788987393",
+                        "name": "RT\u00c9 News",
+                        "description": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026292620",
+                        "name": "Delta Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "probability": 0.6645,
+                        "type": "Organization",
+                        "normalized_text": "The Government"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "rtenews",
+                        "id": "8973062"
+                    },
+                    {
+                        "start": 96,
+                        "end": 112,
+                        "username": "MichealMartinTD",
+                        "id": "114007914"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 76,
+                        "end": 84,
+                        "tag": "Covid19"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1404729787374084098",
+            "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+            "created_at": "2021-06-15T09:17:34.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1404729787374084098",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                }
+            ]
+        },
+        "id": 1404729787374084098,
+        "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+        "attachments": null,
+        "author_id": 993562842493345793,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029697507",
+                    "name": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1106586061788987393",
+                    "name": "RT\u00c9 News",
+                    "description": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026292620",
+                    "name": "Delta Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1404729787374084098,
+        "created_at": "2021-06-15T09:17:34+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 27,
+                    "probability": 0.6645,
+                    "type": "Organization",
+                    "normalized_text": "The Government"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "rtenews",
+                    "id": "8973062"
+                },
+                {
+                    "start": 96,
+                    "end": 112,
+                    "username": "MichealMartinTD",
+                    "id": "114007914"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "tag": "Covid19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                },
+                "id": 1404723397158965252,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "227703604",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10029697507",
+                        "name": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1106586061788987393",
+                        "name": "RT\u00c9 News",
+                        "description": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026292620",
+                        "name": "Delta Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "probability": 0.6645,
+                        "type": "Organization",
+                        "normalized_text": "The Government"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "rtenews",
+                        "id": "8973062"
+                    },
+                    {
+                        "start": 96,
+                        "end": 112,
+                        "username": "MichealMartinTD",
+                        "id": "114007914"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 76,
+                        "end": 84,
+                        "tag": "Covid19"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1404729338440916993",
+            "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+            "created_at": "2021-06-15T09:15:47.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1404729338440916993",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                }
+            ]
+        },
+        "id": 1404729338440916993,
+        "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+        "attachments": null,
+        "author_id": 227703604,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029697507",
+                    "name": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1106586061788987393",
+                    "name": "RT\u00c9 News",
+                    "description": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026292620",
+                    "name": "Delta Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1404729338440916993,
+        "created_at": "2021-06-15T09:15:47+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 27,
+                    "probability": 0.6645,
+                    "type": "Organization",
+                    "normalized_text": "The Government"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "rtenews",
+                    "id": "8973062"
+                },
+                {
+                    "start": 96,
+                    "end": 112,
+                    "username": "MichealMartinTD",
+                    "id": "114007914"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "tag": "Covid19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                },
+                "id": 1404723397158965252,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "15916118",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10029697507",
+                        "name": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1106586061788987393",
+                        "name": "RT\u00c9 News",
+                        "description": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026292620",
+                        "name": "Delta Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "probability": 0.6645,
+                        "type": "Organization",
+                        "normalized_text": "The Government"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "rtenews",
+                        "id": "8973062"
+                    },
+                    {
+                        "start": 96,
+                        "end": 112,
+                        "username": "MichealMartinTD",
+                        "id": "114007914"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 76,
+                        "end": 84,
+                        "tag": "Covid19"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1404728189486878722",
+            "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+            "created_at": "2021-06-15T09:11:13.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1404728189486878722",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                }
+            ]
+        },
+        "id": 1404728189486878722,
+        "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+        "attachments": null,
+        "author_id": 15916118,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029697507",
+                    "name": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1106586061788987393",
+                    "name": "RT\u00c9 News",
+                    "description": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026292620",
+                    "name": "Delta Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1404728189486878722,
+        "created_at": "2021-06-15T09:11:13+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 27,
+                    "probability": 0.6645,
+                    "type": "Organization",
+                    "normalized_text": "The Government"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "rtenews",
+                    "id": "8973062"
+                },
+                {
+                    "start": 96,
+                    "end": 112,
+                    "username": "MichealMartinTD",
+                    "id": "114007914"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "tag": "Covid19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                },
+                "id": 1404723397158965252,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "766939328220192768",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10029697507",
+                        "name": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1106586061788987393",
+                        "name": "RT\u00c9 News",
+                        "description": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026292620",
+                        "name": "Delta Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "probability": 0.6645,
+                        "type": "Organization",
+                        "normalized_text": "The Government"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "rtenews",
+                        "id": "8973062"
+                    },
+                    {
+                        "start": 96,
+                        "end": 112,
+                        "username": "MichealMartinTD",
+                        "id": "114007914"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 76,
+                        "end": 84,
+                        "tag": "Covid19"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1404726437593202689",
+            "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+            "created_at": "2021-06-15T09:04:15.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1404726437593202689",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                }
+            ]
+        },
+        "id": 1404726437593202689,
+        "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+        "attachments": null,
+        "author_id": 766939328220192768,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029697507",
+                    "name": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1106586061788987393",
+                    "name": "RT\u00c9 News",
+                    "description": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026292620",
+                    "name": "Delta Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1404726437593202689,
+        "created_at": "2021-06-15T09:04:15+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 27,
+                    "probability": 0.6645,
+                    "type": "Organization",
+                    "normalized_text": "The Government"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "rtenews",
+                    "id": "8973062"
+                },
+                {
+                    "start": 96,
+                    "end": 112,
+                    "username": "MichealMartinTD",
+                    "id": "114007914"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "tag": "Covid19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                },
+                "id": 1404723397158965252,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1168875758669967365",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10029697507",
+                        "name": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1106586061788987393",
+                        "name": "RT\u00c9 News",
+                        "description": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026292620",
+                        "name": "Delta Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "probability": 0.6645,
+                        "type": "Organization",
+                        "normalized_text": "The Government"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "rtenews",
+                        "id": "8973062"
+                    },
+                    {
+                        "start": 96,
+                        "end": 112,
+                        "username": "MichealMartinTD",
+                        "id": "114007914"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 76,
+                        "end": 84,
+                        "tag": "Covid19"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1404726153999536131",
+            "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+            "created_at": "2021-06-15T09:03:08.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1404726153999536131",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                }
+            ]
+        },
+        "id": 1404726153999536131,
+        "text": "RT @rtenews: 'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restr\u2026",
+        "attachments": null,
+        "author_id": 1168875758669967365,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029697507",
+                    "name": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1106586061788987393",
+                    "name": "RT\u00c9 News",
+                    "description": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026292620",
+                    "name": "Delta Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1404726153999536131,
+        "created_at": "2021-06-15T09:03:08+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 27,
+                    "probability": 0.6645,
+                    "type": "Organization",
+                    "normalized_text": "The Government"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "rtenews",
+                    "id": "8973062"
+                },
+                {
+                    "start": 96,
+                    "end": 112,
+                    "username": "MichealMartinTD",
+                    "id": "114007914"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 76,
+                    "end": 84,
+                    "tag": "Covid19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1404723397158965252"
+                },
+                "id": 1404723397158965252,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "attachments": {
+                "media_keys": [
+                    "13_1404721409000185857"
+                ]
+            },
+            "author_id": "8973062",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1215658026306134016",
+                        "name": "Miche\u00e1l Martin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1106586061788987393",
+                        "name": "RT\u00c9 News",
+                        "description": "RT\u00c9 News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026292620",
+                        "name": "Delta Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 1,
+                        "end": 14,
+                        "probability": 0.723,
+                        "type": "Organization",
+                        "normalized_text": "The Government"
+                    },
+                    {
+                        "start": 142,
+                        "end": 148,
+                        "probability": 0.988,
+                        "type": "Place",
+                        "normalized_text": "Ireland"
+                    },
+                    {
+                        "start": 158,
+                        "end": 159,
+                        "probability": 0.9768,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 83,
+                        "end": 99,
+                        "username": "MichealMartinTD",
+                        "id": "114007914"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 184,
+                        "end": 207,
+                        "url": "https://t.co/qwyuINUYaI",
+                        "expanded_url": "https://bit.ly/3iLq5CW",
+                        "display_url": "bit.ly/3iLq5CW",
+                        "status": 200,
+                        "unwound_url": "https://www.rte.ie/news/2021/0615/1228167-covid19-ireland/"
+                    },
+                    {
+                        "start": 208,
+                        "end": 231,
+                        "url": "https://t.co/Xf7IidLiTc",
+                        "expanded_url": "https://twitter.com/rtenews/status/1404723397158965252/video/1",
+                        "display_url": "pic.twitter.com/Xf7IidLiTc"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 63,
+                        "end": 71,
+                        "tag": "Covid19"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1404723397158965252",
+            "text": "'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restrictions between Ireland and the UK are being considered | https://t.co/qwyuINUYaI https://t.co/Xf7IidLiTc",
+            "created_at": "2021-06-15T08:52:11.000Z",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 39,
+                "like_count": 19,
+                "quote_count": 0
+            },
+            "conversation_id": "1404723397158965252",
+            "possibly_sensitive": false,
+            "source": "Twitter Media Studio"
+        },
+        "id": 1404723397158965252,
+        "text": "'The Government is continuing to monitor the Delta variant' of #Covid19, Taoiseach @MichealMartinTD says. Tighter travel restrictions between Ireland and the UK are being considered | https://t.co/qwyuINUYaI https://t.co/Xf7IidLiTc",
+        "attachments": {
+            "media_keys": [
+                "13_1404721409000185857"
+            ]
+        },
+        "author_id": 8973062,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1215658026306134016",
+                    "name": "Miche\u00e1l Martin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1106586061788987393",
+                    "name": "RT\u00c9 News",
+                    "description": "RT\u00c9 News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026292620",
+                    "name": "Delta Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1404723397158965252,
+        "created_at": "2021-06-15T08:52:11+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 1,
+                    "end": 14,
+                    "probability": 0.723,
+                    "type": "Organization",
+                    "normalized_text": "The Government"
+                },
+                {
+                    "start": 142,
+                    "end": 148,
+                    "probability": 0.988,
+                    "type": "Place",
+                    "normalized_text": "Ireland"
+                },
+                {
+                    "start": 158,
+                    "end": 159,
+                    "probability": 0.9768,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 83,
+                    "end": 99,
+                    "username": "MichealMartinTD",
+                    "id": "114007914"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 184,
+                    "end": 207,
+                    "url": "https://t.co/qwyuINUYaI",
+                    "expanded_url": "https://bit.ly/3iLq5CW",
+                    "display_url": "bit.ly/3iLq5CW",
+                    "status": 200,
+                    "unwound_url": "https://www.rte.ie/news/2021/0615/1228167-covid19-ireland/"
+                },
+                {
+                    "start": 208,
+                    "end": 231,
+                    "url": "https://t.co/Xf7IidLiTc",
+                    "expanded_url": "https://twitter.com/rtenews/status/1404723397158965252/video/1",
+                    "display_url": "pic.twitter.com/Xf7IidLiTc"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 63,
+                    "end": 71,
+                    "tag": "Covid19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 39,
+            "like_count": 19,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Media Studio",
+        "withheld": null
+    }
+]

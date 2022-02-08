@@ -1,0 +1,1078 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "31625907",
+            "author_id": "1196150225666265090",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1054506276032405504",
+                        "name": "Dave Wasserman",
+                        "description": "Dave Wasserman"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1138906221014949888",
+                        "name": "George Conway",
+                        "description": "George Conway"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1138906221014949888",
+                        "name": "George Conway",
+                        "description": "George Conway"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1054506276032405504",
+                        "name": "Dave Wasserman",
+                        "description": "Dave Wasserman"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 87,
+                        "end": 88,
+                        "probability": 0.9735,
+                        "type": "Place",
+                        "normalized_text": "TX"
+                    },
+                    {
+                        "start": 93,
+                        "end": 94,
+                        "probability": 0.9568,
+                        "type": "Place",
+                        "normalized_text": "FL"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Corey92808",
+                        "id": "31625907"
+                    },
+                    {
+                        "start": 12,
+                        "end": 22,
+                        "username": "estern839",
+                        "id": "246497633"
+                    },
+                    {
+                        "start": 23,
+                        "end": 34,
+                        "username": "Redistrict",
+                        "id": "74820061"
+                    },
+                    {
+                        "start": 35,
+                        "end": 46,
+                        "username": "gtconway3d",
+                        "id": "471677441"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 98,
+                        "end": 121,
+                        "url": "https://t.co/SPxPeBqwof",
+                        "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                        "display_url": "twitter.com/mattyglesias/s\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1437996497224839168",
+            "text": "@Corey92808 @estern839 @Redistrict @gtconway3d Lower per capita COVID death rates than TX or FL.  https://t.co/SPxPeBqwof",
+            "created_at": "2021-09-15T04:27:36.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1437977687201562631",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1437982361681948680"
+                }
+            ]
+        },
+        "id": 1437996497224839168,
+        "text": "@Corey92808 @estern839 @Redistrict @gtconway3d Lower per capita COVID death rates than TX or FL.  https://t.co/SPxPeBqwof",
+        "attachments": null,
+        "author_id": 1196150225666265090,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1054506276032405504",
+                    "name": "Dave Wasserman",
+                    "description": "Dave Wasserman"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1138906221014949888",
+                    "name": "George Conway",
+                    "description": "George Conway"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1138906221014949888",
+                    "name": "George Conway",
+                    "description": "George Conway"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1054506276032405504",
+                    "name": "Dave Wasserman",
+                    "description": "Dave Wasserman"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437977687201562631,
+        "created_at": "2021-09-15T04:27:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 87,
+                    "end": 88,
+                    "probability": 0.9735,
+                    "type": "Place",
+                    "normalized_text": "TX"
+                },
+                {
+                    "start": 93,
+                    "end": 94,
+                    "probability": 0.9568,
+                    "type": "Place",
+                    "normalized_text": "FL"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Corey92808",
+                    "id": "31625907"
+                },
+                {
+                    "start": 12,
+                    "end": 22,
+                    "username": "estern839",
+                    "id": "246497633"
+                },
+                {
+                    "start": 23,
+                    "end": 34,
+                    "username": "Redistrict",
+                    "id": "74820061"
+                },
+                {
+                    "start": 35,
+                    "end": 46,
+                    "username": "gtconway3d",
+                    "id": "471677441"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 98,
+                    "end": 121,
+                    "url": "https://t.co/SPxPeBqwof",
+                    "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                    "display_url": "twitter.com/mattyglesias/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 31625907,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1437982361681948680"
+                },
+                "id": 1437982361681948680,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "335985488",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1437610610649227264",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "wendythurm",
+                        "id": "242368265"
+                    }
+                ]
+            },
+            "text": "RT @wendythurm: It was worth it.  100%.",
+            "created_at": "2021-09-14T02:54:13.000Z",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1437610610649227264",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1437575201831600129"
+                }
+            ]
+        },
+        "id": 1437610610649227264,
+        "text": "RT @wendythurm: It was worth it.  100%.",
+        "attachments": null,
+        "author_id": 335985488,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437610610649227264,
+        "created_at": "2021-09-14T02:54:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "wendythurm",
+                    "id": "242368265"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1437575201831600129"
+                },
+                "id": 1437575201831600129,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2975504684",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1437588992208277509",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "jessespector",
+                        "id": "16037600"
+                    }
+                ]
+            },
+            "text": "RT @jessespector: You can\u2019t debate if it was worth it because it obviously was. Did you see the part you wrote about \u201c20% fewer deaths\u201d or\u2026",
+            "created_at": "2021-09-14T01:28:19.000Z",
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1437588992208277509",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1437576844220448768"
+                }
+            ]
+        },
+        "id": 1437588992208277509,
+        "text": "RT @jessespector: You can\u2019t debate if it was worth it because it obviously was. Did you see the part you wrote about \u201c20% fewer deaths\u201d or\u2026",
+        "attachments": null,
+        "author_id": 2975504684,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437588992208277509,
+        "created_at": "2021-09-14T01:28:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "jessespector",
+                    "id": "16037600"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1437576844220448768"
+                },
+                "id": 1437576844220448768,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2218742450",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1437578648077279236",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "jessespector",
+                        "id": "16037600"
+                    }
+                ]
+            },
+            "text": "RT @jessespector: You can\u2019t debate if it was worth it because it obviously was. Did you see the part you wrote about \u201c20% fewer deaths\u201d or\u2026",
+            "created_at": "2021-09-14T00:47:13.000Z",
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1437578648077279236",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1437576844220448768"
+                }
+            ]
+        },
+        "id": 1437578648077279236,
+        "text": "RT @jessespector: You can\u2019t debate if it was worth it because it obviously was. Did you see the part you wrote about \u201c20% fewer deaths\u201d or\u2026",
+        "attachments": null,
+        "author_id": 2218742450,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437578648077279236,
+        "created_at": "2021-09-14T00:47:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "jessespector",
+                    "id": "16037600"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1437576844220448768"
+                },
+                "id": 1437576844220448768,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "16037600",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1437576844220448768",
+            "text": "You can\u2019t debate if it was worth it because it obviously was. Did you see the part you wrote about \u201c20% fewer deaths\u201d or has punditry simply ruined your brain so much you honestly don\u2019t know anymore? https://t.co/qrz2zHJ0zc",
+            "created_at": "2021-09-14T00:40:03.000Z",
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 0,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 200,
+                        "end": 223,
+                        "url": "https://t.co/qrz2zHJ0zc",
+                        "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                        "display_url": "twitter.com/mattyglesias/s\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1437576844220448768",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone"
+        },
+        "id": 1437576844220448768,
+        "text": "You can\u2019t debate if it was worth it because it obviously was. Did you see the part you wrote about \u201c20% fewer deaths\u201d or has punditry simply ruined your brain so much you honestly don\u2019t know anymore? https://t.co/qrz2zHJ0zc",
+        "attachments": null,
+        "author_id": 16037600,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437576844220448768,
+        "created_at": "2021-09-14T00:40:03+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 200,
+                    "end": 223,
+                    "url": "https://t.co/qrz2zHJ0zc",
+                    "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                    "display_url": "twitter.com/mattyglesias/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "12002352",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1437576318103678978",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "wendythurm",
+                        "id": "242368265"
+                    }
+                ]
+            },
+            "text": "RT @wendythurm: It was worth it.  100%.",
+            "created_at": "2021-09-14T00:37:57.000Z",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1437576318103678978",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1437575201831600129"
+                }
+            ]
+        },
+        "id": 1437576318103678978,
+        "text": "RT @wendythurm: It was worth it.  100%.",
+        "attachments": null,
+        "author_id": 12002352,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437576318103678978,
+        "created_at": "2021-09-14T00:37:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "wendythurm",
+                    "id": "242368265"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1437575201831600129"
+                },
+                "id": 1437575201831600129,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "242368265",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1437575201831600129",
+            "text": "It was worth it.  100%. https://t.co/i9Zn1O4jnO",
+            "created_at": "2021-09-14T00:33:31.000Z",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/i9Zn1O4jnO",
+                        "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                        "display_url": "twitter.com/mattyglesias/s\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1437575201831600129",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App"
+        },
+        "id": 1437575201831600129,
+        "text": "It was worth it.  100%. https://t.co/i9Zn1O4jnO",
+        "attachments": null,
+        "author_id": 242368265,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437575201831600129,
+        "created_at": "2021-09-14T00:33:31+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/i9Zn1O4jnO",
+                    "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                    "display_url": "twitter.com/mattyglesias/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "52829154",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 54,
+                        "end": 62,
+                        "probability": 0.978,
+                        "type": "Place",
+                        "normalized_text": "Australia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/FaLm1o4nrD",
+                        "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                        "display_url": "twitter.com/mattyglesias/s\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1437517763170480131",
+            "text": "I wish this would be part of the discussion regarding Australia's approach as well. There is a notion that their extremely heavy-handed measures were ineffective because they have a current outbreak, but in terms of cumulative per capita dead they definitely have done well. https://t.co/FaLm1o4nrD",
+            "created_at": "2021-09-13T20:45:17.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "conversation_id": "1437517763170480131",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App"
+        },
+        "id": 1437517763170480131,
+        "text": "I wish this would be part of the discussion regarding Australia's approach as well. There is a notion that their extremely heavy-handed measures were ineffective because they have a current outbreak, but in terms of cumulative per capita dead they definitely have done well. https://t.co/FaLm1o4nrD",
+        "attachments": null,
+        "author_id": 52829154,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437517763170480131,
+        "created_at": "2021-09-13T20:45:17+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 62,
+                    "probability": 0.978,
+                    "type": "Place",
+                    "normalized_text": "Australia"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 275,
+                    "end": 298,
+                    "url": "https://t.co/FaLm1o4nrD",
+                    "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                    "display_url": "twitter.com/mattyglesias/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "11092292",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1437510906418655235",
+            "text": "Thread. https://t.co/7ETKcjI7jQ",
+            "created_at": "2021-09-13T20:18:02.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 8,
+                        "end": 31,
+                        "url": "https://t.co/7ETKcjI7jQ",
+                        "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                        "display_url": "twitter.com/mattyglesias/s\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1437510906418655235",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App"
+        },
+        "id": 1437510906418655235,
+        "text": "Thread. https://t.co/7ETKcjI7jQ",
+        "attachments": null,
+        "author_id": 11092292,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437510906418655235,
+        "created_at": "2021-09-13T20:18:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 8,
+                    "end": 31,
+                    "url": "https://t.co/7ETKcjI7jQ",
+                    "expanded_url": "https://twitter.com/mattyglesias/status/1437505146750181379",
+                    "display_url": "twitter.com/mattyglesias/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

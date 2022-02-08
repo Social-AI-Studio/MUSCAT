@@ -1,0 +1,149 @@
+[
+    {
+        "data": {
+            "text": "@forwardarc @realDonaldTrump And lying about what pharma CEOs have told him. If anything.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "626455898",
+            "lang": "en",
+            "created_at": "2020-10-01T19:26:38.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "forwardarc",
+                        "id": "626455898"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "author_id": "757610660536590336",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "geo": {
+                "place_id": "3b77caf94bfc81fe"
+            },
+            "id": "1311749383352795136",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1311735325916491776"
+                }
+            ],
+            "conversation_id": "1311735325916491776"
+        },
+        "id": 1311749383352795136,
+        "text": "@forwardarc @realDonaldTrump And lying about what pharma CEOs have told him. If anything.",
+        "attachments": null,
+        "author_id": 757610660536590336,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1311735325916491776,
+        "created_at": "2020-10-01T19:26:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "forwardarc",
+                    "id": "626455898"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "3b77caf94bfc81fe"
+        },
+        "in_reply_to_user_id": 626455898,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1311735325916491776"
+                },
+                "id": 1311735325916491776,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

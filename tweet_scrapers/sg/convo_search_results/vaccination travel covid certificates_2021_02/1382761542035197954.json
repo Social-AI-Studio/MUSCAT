@@ -1,0 +1,681 @@
+[
+    {
+        "data": {
+            "conversation_id": "1382761542035197954",
+            "reply_settings": "everyone",
+            "author_id": "255672148",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "So what is next for the US and vaccine passports?  \n\nAs more countries ease travel restrictions and with updated guidance that vaccinated individuals can travel safely within the US, it is likely that calls for a vaccine passport and/or guidance will increase. (6/6)",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1382761545646559232"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "255672148",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 25,
+                        "probability": 0.8717,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    },
+                    {
+                        "start": 179,
+                        "end": 180,
+                        "probability": 0.9857,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ]
+            },
+            "id": "1382761546594484226",
+            "created_at": "2021-04-15T18:23:37.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1382761546594484226,
+        "text": "So what is next for the US and vaccine passports?  \n\nAs more countries ease travel restrictions and with updated guidance that vaccinated individuals can travel safely within the US, it is likely that calls for a vaccine passport and/or guidance will increase. (6/6)",
+        "attachments": null,
+        "author_id": 255672148,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1382761542035197954,
+        "created_at": "2021-04-15T18:23:37+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 24,
+                    "end": 25,
+                    "probability": 0.8717,
+                    "type": "Place",
+                    "normalized_text": "US"
+                },
+                {
+                    "start": 179,
+                    "end": 180,
+                    "probability": 0.9857,
+                    "type": "Place",
+                    "normalized_text": "US"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 255672148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1382761545646559232"
+                },
+                "id": 1382761545646559232,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1382761542035197954",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 251,
+                        "end": 274,
+                        "url": "https://t.co/wxVANK1VuN",
+                        "expanded_url": "https://www.kff.org/coronavirus-covid-19/issue-brief/latest-data-on-covid-19-vaccinations-race-ethnicity/",
+                        "display_url": "kff.org/coronavirus-co\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1445592216559239177/5zQSJbEO?format=png&name=orig",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1445592216559239177/5zQSJbEO?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Latest Data on COVID-19 Vaccinations by Race/Ethnicity",
+                        "description": "KFF is collecting and analyzing data on COVID-19 vaccinations by race/ethnicity to gain increased insight who is receiving the vaccine and whether some groups are facing disparities in vaccination.",
+                        "unwound_url": "https://www.kff.org/coronavirus-covid-19/issue-brief/latest-data-on-covid-19-vaccinations-race-ethnicity/"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 160,
+                        "end": 161,
+                        "probability": 0.964,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ]
+            },
+            "author_id": "255672148",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "One major concern is equity. Requiring proof of vaccination to access certain activities could inequitably impact those with less access to a vaccine. \n\nIn the US, White people are being vaccinated at higher rates than Black or Hispanic people. (5/6) https://t.co/wxVANK1VuN",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1382761544790859776"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "255672148",
+            "id": "1382761545646559232",
+            "created_at": "2021-04-15T18:23:37.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1382761545646559232,
+        "text": "One major concern is equity. Requiring proof of vaccination to access certain activities could inequitably impact those with less access to a vaccine. \n\nIn the US, White people are being vaccinated at higher rates than Black or Hispanic people. (5/6) https://t.co/wxVANK1VuN",
+        "attachments": null,
+        "author_id": 255672148,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1382761542035197954,
+        "created_at": "2021-04-15T18:23:37+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 251,
+                    "end": 274,
+                    "url": "https://t.co/wxVANK1VuN",
+                    "expanded_url": "https://www.kff.org/coronavirus-covid-19/issue-brief/latest-data-on-covid-19-vaccinations-race-ethnicity/",
+                    "display_url": "kff.org/coronavirus-co\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1445592216559239177/5zQSJbEO?format=png&name=orig",
+                            "width": 640,
+                            "height": 360
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1445592216559239177/5zQSJbEO?format=png&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Latest Data on COVID-19 Vaccinations by Race/Ethnicity",
+                    "description": "KFF is collecting and analyzing data on COVID-19 vaccinations by race/ethnicity to gain increased insight who is receiving the vaccine and whether some groups are facing disparities in vaccination.",
+                    "unwound_url": "https://www.kff.org/coronavirus-covid-19/issue-brief/latest-data-on-covid-19-vaccinations-race-ethnicity/"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 160,
+                    "end": 161,
+                    "probability": 0.964,
+                    "type": "Place",
+                    "normalized_text": "US"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 255672148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1382761544790859776"
+                },
+                "id": 1382761544790859776,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1382761542035197954",
+            "reply_settings": "everyone",
+            "author_id": "255672148",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "898650876658634752",
+                        "name": "Cybersecurity",
+                        "description": "Cybersecurity"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1195376898001403904",
+                        "name": "Data Privacy and Protection"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "However, there are several ongoing challenges related to vaccine passports, including: \n\n- A lack of digital standards\n- Data privacy concerns\n- Diverse authorization landscapes globally\n- Ongoing scientific considerations related to the various COVID-19 vaccine products (4/6)",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1382761543994023936"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "255672148",
+            "id": "1382761544790859776",
+            "created_at": "2021-04-15T18:23:37.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1382761544790859776,
+        "text": "However, there are several ongoing challenges related to vaccine passports, including: \n\n- A lack of digital standards\n- Data privacy concerns\n- Diverse authorization landscapes globally\n- Ongoing scientific considerations related to the various COVID-19 vaccine products (4/6)",
+        "attachments": null,
+        "author_id": 255672148,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "898650876658634752",
+                    "name": "Cybersecurity",
+                    "description": "Cybersecurity"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1195376898001403904",
+                    "name": "Data Privacy and Protection"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1382761542035197954,
+        "created_at": "2021-04-15T18:23:37+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 255672148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1382761543994023936"
+                },
+                "id": 1382761543994023936,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1382761542035197954",
+            "reply_settings": "everyone",
+            "author_id": "255672148",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "In the US, officials have stated that it will not be the role of the federal govt to issue vaccine passports. Rather, officials are coordinating with private initiatives to provide standards. \n\nSome states, like NY, are moving ahead with their own initiatives. (3/6)",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1382761543012524033"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "255672148",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 7,
+                        "end": 8,
+                        "probability": 0.974,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    },
+                    {
+                        "start": 212,
+                        "end": 213,
+                        "probability": 0.9363,
+                        "type": "Place",
+                        "normalized_text": "NY"
+                    }
+                ]
+            },
+            "id": "1382761543994023936",
+            "created_at": "2021-04-15T18:23:37.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1382761543994023936,
+        "text": "In the US, officials have stated that it will not be the role of the federal govt to issue vaccine passports. Rather, officials are coordinating with private initiatives to provide standards. \n\nSome states, like NY, are moving ahead with their own initiatives. (3/6)",
+        "attachments": null,
+        "author_id": 255672148,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1382761542035197954,
+        "created_at": "2021-04-15T18:23:37+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 7,
+                    "end": 8,
+                    "probability": 0.974,
+                    "type": "Place",
+                    "normalized_text": "US"
+                },
+                {
+                    "start": 212,
+                    "end": 213,
+                    "probability": 0.9363,
+                    "type": "Place",
+                    "normalized_text": "NY"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 255672148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1382761543012524033"
+                },
+                "id": 1382761543012524033,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1382761542035197954",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 257,
+                        "end": 280,
+                        "url": "https://t.co/vpRcSsHoRo",
+                        "expanded_url": "https://www.reuters.com/article/us-health-coronavirus-eu-certificates/eu-countries-move-towards-covid-passes-to-reopen-summer-travel-idUSKBN2C11HT",
+                        "display_url": "reuters.com/article/us-hea\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.reuters.com/article/us-health-coronavirus-eu-certificates/eu-countries-move-towards-covid-passes-to-reopen-summer-travel-idUSKBN2C11HT"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 211,
+                        "end": 212,
+                        "probability": 0.4992,
+                        "type": "Organization",
+                        "normalized_text": "EU"
+                    }
+                ]
+            },
+            "author_id": "255672148",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "Several countries have begun using COVID-19 vaccine passports, with some using these for domestic use, while others have begun issuing/recognizing proof of vaccination for international travel. For example, the EU recently approved vaccine passports. (2/6) https://t.co/vpRcSsHoRo",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1382761542035197954"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "255672148",
+            "id": "1382761543012524033",
+            "created_at": "2021-04-15T18:23:36.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1382761543012524033,
+        "text": "Several countries have begun using COVID-19 vaccine passports, with some using these for domestic use, while others have begun issuing/recognizing proof of vaccination for international travel. For example, the EU recently approved vaccine passports. (2/6) https://t.co/vpRcSsHoRo",
+        "attachments": null,
+        "author_id": 255672148,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1382761542035197954,
+        "created_at": "2021-04-15T18:23:36+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 257,
+                    "end": 280,
+                    "url": "https://t.co/vpRcSsHoRo",
+                    "expanded_url": "https://www.reuters.com/article/us-health-coronavirus-eu-certificates/eu-countries-move-towards-covid-passes-to-reopen-summer-travel-idUSKBN2C11HT",
+                    "display_url": "reuters.com/article/us-hea\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/article/us-health-coronavirus-eu-certificates/eu-countries-move-towards-covid-passes-to-reopen-summer-travel-idUSKBN2C11HT"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 211,
+                    "end": 212,
+                    "probability": 0.4992,
+                    "type": "Organization",
+                    "normalized_text": "EU"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 255672148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1382761542035197954"
+                },
+                "id": 1382761542035197954,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

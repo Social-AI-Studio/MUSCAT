@@ -1,0 +1,608 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 179,
+                        "end": 202,
+                        "url": "https://t.co/HFImUYNiFJ",
+                        "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                        "display_url": "twitter.com/rapplerdotcom/\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 148,
+                        "end": 151,
+                        "probability": 0.8719,
+                        "type": "Person",
+                        "normalized_text": "Thor"
+                    }
+                ]
+            },
+            "id": "1400748843243692038",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "130",
+                        "name": "Multimedia Franchise",
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+                    },
+                    "entity": {
+                        "id": "1002576732971384832",
+                        "name": "Marvel Universe",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-04T09:38:43.000Z",
+            "reply_settings": "everyone",
+            "author_id": "190972936",
+            "source": "Twitter for iPad",
+            "text": "Even if it were true, wouldn\u2019t u want magnetic powers tho? Like instead of walking a few feet to get your phone, u can just hold your hand out like Thor to attract your phone \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/HFImUYNiFJ",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1400748843243692038"
+        },
+        "id": 1400748843243692038,
+        "text": "Even if it were true, wouldn\u2019t u want magnetic powers tho? Like instead of walking a few feet to get your phone, u can just hold your hand out like Thor to attract your phone \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/HFImUYNiFJ",
+        "attachments": null,
+        "author_id": 190972936,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "130",
+                    "name": "Multimedia Franchise",
+                    "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+                },
+                "entity": {
+                    "id": "1002576732971384832",
+                    "name": "Marvel Universe",
+                    "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                }
+            }
+        ],
+        "conversation_id": 1400748843243692038,
+        "created_at": "2021-06-04T09:38:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 179,
+                    "end": 202,
+                    "url": "https://t.co/HFImUYNiFJ",
+                    "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                    "display_url": "twitter.com/rapplerdotcom/\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 148,
+                    "end": 151,
+                    "probability": 0.8719,
+                    "type": "Person",
+                    "normalized_text": "Thor"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                },
+                "id": 1400414665008631812,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 144,
+                        "end": 167,
+                        "url": "https://t.co/SlzQ9K5QJR",
+                        "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                        "display_url": "twitter.com/rapplerdotcom/\u2026"
+                    }
+                ]
+            },
+            "id": "1400435279161282562",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-03T12:52:44.000Z",
+            "reply_settings": "everyone",
+            "author_id": "1285808090403627010",
+            "source": "Twitter for Android",
+            "text": "You'll probably have more chances of becoming magnetic from taking Sangobion or Stresstabs.\n\nAnd those OTC meds actually advertise having iron. https://t.co/SlzQ9K5QJR",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1400435279161282562"
+        },
+        "id": 1400435279161282562,
+        "text": "You'll probably have more chances of becoming magnetic from taking Sangobion or Stresstabs.\n\nAnd those OTC meds actually advertise having iron. https://t.co/SlzQ9K5QJR",
+        "attachments": null,
+        "author_id": 1285808090403627010,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400435279161282562,
+        "created_at": "2021-06-03T12:52:44+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 144,
+                    "end": 167,
+                    "url": "https://t.co/SlzQ9K5QJR",
+                    "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                    "display_url": "twitter.com/rapplerdotcom/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                },
+                "id": 1400414665008631812,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 22,
+                        "end": 45,
+                        "url": "https://t.co/QH0awQK0rB",
+                        "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                        "display_url": "twitter.com/rapplerdotcom/\u2026"
+                    }
+                ]
+            },
+            "id": "1400418921451200520",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-03T11:47:44.000Z",
+            "reply_settings": "everyone",
+            "author_id": "2462931776",
+            "source": "Twitter Web App",
+            "text": "NAURRRRRRRRRR PLEATHE https://t.co/QH0awQK0rB",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1400418921451200520"
+        },
+        "id": 1400418921451200520,
+        "text": "NAURRRRRRRRRR PLEATHE https://t.co/QH0awQK0rB",
+        "attachments": null,
+        "author_id": 2462931776,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400418921451200520,
+        "created_at": "2021-06-03T11:47:44+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 22,
+                    "end": 45,
+                    "url": "https://t.co/QH0awQK0rB",
+                    "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                    "display_url": "twitter.com/rapplerdotcom/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                },
+                "id": 1400414665008631812,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 25,
+                        "end": 48,
+                        "url": "https://t.co/NBIj047WcC",
+                        "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                        "display_url": "twitter.com/rapplerdotcom/\u2026"
+                    }
+                ]
+            },
+            "id": "1400415360931618820",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-03T11:33:35.000Z",
+            "reply_settings": "everyone",
+            "author_id": "2437090574",
+            "source": "Twitter for iPhone",
+            "text": "who captioned this???? \ud83d\ude2d https://t.co/NBIj047WcC",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1400415360931618820"
+        },
+        "id": 1400415360931618820,
+        "text": "who captioned this???? \ud83d\ude2d https://t.co/NBIj047WcC",
+        "attachments": null,
+        "author_id": 2437090574,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400415360931618820,
+        "created_at": "2021-06-03T11:33:35+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 25,
+                    "end": 48,
+                    "url": "https://t.co/NBIj047WcC",
+                    "expanded_url": "https://twitter.com/rapplerdotcom/status/1400414665008631812",
+                    "display_url": "twitter.com/rapplerdotcom/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400414665008631812"
+                },
+                "id": 1400414665008631812,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

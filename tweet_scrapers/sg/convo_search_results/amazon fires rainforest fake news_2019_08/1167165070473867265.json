@@ -1,0 +1,1568 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167196581654933512"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "TheEndisFar",
+                        "id": "65380909"
+                    },
+                    {
+                        "start": 13,
+                        "end": 26,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 27,
+                        "end": 43,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 62,
+                        "probability": 0.9979,
+                        "type": "Person",
+                        "normalized_text": "John Lennon"
+                    },
+                    {
+                        "start": 102,
+                        "end": 106,
+                        "probability": 0.9797,
+                        "type": "Person",
+                        "normalized_text": "Elvis"
+                    }
+                ]
+            },
+            "created_at": "2019-08-30T07:57:38.000Z",
+            "text": "@TheEndisFar @spikedonline @clim8resistance Yes and John Lennon never died I know this because he and Elvis form a duo,they play in butlins camps,I know this because I  have seen them.",
+            "lang": "en",
+            "in_reply_to_user_id": "65380909",
+            "id": "1167345620484534272",
+            "author_id": "1163563513262104577",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "939159641472229376",
+                        "name": "John Lennon",
+                        "description": "John Lennon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "939159641472229376",
+                        "name": "John Lennon",
+                        "description": "John Lennon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "939159641472229376",
+                        "name": "John Lennon",
+                        "description": "John Lennon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "939159641472229376",
+                        "name": "John Lennon",
+                        "description": "John Lennon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "55",
+                        "name": "Music Genre",
+                        "description": "A category for a musical style, like Pop, Rock, or Rap"
+                    },
+                    "entity": {
+                        "id": "806571747730341888",
+                        "name": "Rock",
+                        "description": "Rock"
+                    }
+                }
+            ]
+        },
+        "id": 1167345620484534272,
+        "text": "@TheEndisFar @spikedonline @clim8resistance Yes and John Lennon never died I know this because he and Elvis form a duo,they play in butlins camps,I know this because I  have seen them.",
+        "attachments": null,
+        "author_id": 1163563513262104577,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "939159641472229376",
+                    "name": "John Lennon",
+                    "description": "John Lennon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "939159641472229376",
+                    "name": "John Lennon",
+                    "description": "John Lennon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "54",
+                    "name": "Musician",
+                    "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                    "id": "939159641472229376",
+                    "name": "John Lennon",
+                    "description": "John Lennon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "54",
+                    "name": "Musician",
+                    "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                    "id": "939159641472229376",
+                    "name": "John Lennon",
+                    "description": "John Lennon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "55",
+                    "name": "Music Genre",
+                    "description": "A category for a musical style, like Pop, Rock, or Rap"
+                },
+                "entity": {
+                    "id": "806571747730341888",
+                    "name": "Rock",
+                    "description": "Rock"
+                }
+            }
+        ],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-30T07:57:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "TheEndisFar",
+                    "id": "65380909"
+                },
+                {
+                    "start": 13,
+                    "end": 26,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 27,
+                    "end": 43,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 62,
+                    "probability": 0.9979,
+                    "type": "Person",
+                    "normalized_text": "John Lennon"
+                },
+                {
+                    "start": 102,
+                    "end": 106,
+                    "probability": 0.9797,
+                    "type": "Person",
+                    "normalized_text": "Elvis"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 65380909,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167196581654933512"
+                },
+                "id": 1167196581654933512,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 145,
+                        "end": 150,
+                        "probability": 0.7772,
+                        "type": "Organization",
+                        "normalized_text": "Amazon"
+                    }
+                ]
+            },
+            "created_at": "2019-08-30T07:52:36.000Z",
+            "text": "@spikedonline @clim8resistance I've just returned from space,I have seen it for myself so I know the news is correct, hundreds of fires over the Amazon.",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167344352353497089",
+            "author_id": "1163563513262104577",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ]
+        },
+        "id": 1167344352353497089,
+        "text": "@spikedonline @clim8resistance I've just returned from space,I have seen it for myself so I know the news is correct, hundreds of fires over the Amazon.",
+        "attachments": null,
+        "author_id": 1163563513262104577,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "783335558466506752",
+                    "name": "Online"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026792024",
+                    "name": "Amazon"
+                }
+            }
+        ],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-30T07:52:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 145,
+                    "end": 150,
+                    "probability": 0.7772,
+                    "type": "Organization",
+                    "normalized_text": "Amazon"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-30T05:36:30.000Z",
+            "text": "@spikedonline @clim8resistance Because our media is corrupt and looks to influence and lie to the public for their own gain.",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167310101104877570",
+            "author_id": "990188649441460226",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167310101104877570,
+        "text": "@spikedonline @clim8resistance Because our media is corrupt and looks to influence and lie to the public for their own gain.",
+        "attachments": null,
+        "author_id": 990188649441460226,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-30T05:36:30+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-30T04:33:49.000Z",
+            "text": "@spikedonline @clim8resistance You know- there is a very fragile balance of nature that keeps humanity (and other living beings) alive. Increased pollution/ deforestation/ Carbon emissions will harm all of us equally. The greed of some who don't want to understand science/reality is going to kill all of us",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167294327095119875",
+            "author_id": "3119542715",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167294327095119875,
+        "text": "@spikedonline @clim8resistance You know- there is a very fragile balance of nature that keeps humanity (and other living beings) alive. Increased pollution/ deforestation/ Carbon emissions will harm all of us equally. The greed of some who don't want to understand science/reality is going to kill all of us",
+        "attachments": null,
+        "author_id": 3119542715,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-30T04:33:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T23:17:35.000Z",
+            "text": "@spikedonline @clim8resistance Everything about him is fake.",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167214744480210945",
+            "author_id": "477789660",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167214744480210945,
+        "text": "@spikedonline @clim8resistance Everything about him is fake.",
+        "attachments": null,
+        "author_id": 477789660,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T23:17:35+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T23:11:30.000Z",
+            "text": "@spikedonline @clim8resistance We have been living with fake news deliberately manipulated by the media for years - we are just more aware of their political agendas today.",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167213213542469639",
+            "author_id": "3099933389",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167213213542469639,
+        "text": "@spikedonline @clim8resistance We have been living with fake news deliberately manipulated by the media for years - we are just more aware of their political agendas today.",
+        "attachments": null,
+        "author_id": 3099933389,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T23:11:30+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167196581654933512"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "TheEndisFar",
+                        "id": "65380909"
+                    },
+                    {
+                        "start": 13,
+                        "end": 26,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 27,
+                        "end": 43,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T22:14:36.000Z",
+            "text": "@TheEndisFar @spikedonline @clim8resistance You are now entering a tinfoil hat zone. Please remove your powers of reasoning.",
+            "lang": "en",
+            "in_reply_to_user_id": "65380909",
+            "id": "1167198893987237889",
+            "author_id": "19362669",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167198893987237889,
+        "text": "@TheEndisFar @spikedonline @clim8resistance You are now entering a tinfoil hat zone. Please remove your powers of reasoning.",
+        "attachments": null,
+        "author_id": 19362669,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T22:14:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "TheEndisFar",
+                    "id": "65380909"
+                },
+                {
+                    "start": 13,
+                    "end": 26,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 27,
+                    "end": 43,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 65380909,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167196581654933512"
+                },
+                "id": 1167196581654933512,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 68,
+                        "end": 73,
+                        "probability": 0.7782,
+                        "type": "Organization",
+                        "normalized_text": "Amazon"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T21:07:14.000Z",
+            "text": "@spikedonline @clim8resistance I was worried when I heard about the Amazon fires, but then I found out it was the rainforest they were talking about.",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167181941608787968",
+            "author_id": "884302994",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167181941608787968,
+        "text": "@spikedonline @clim8resistance I was worried when I heard about the Amazon fires, but then I found out it was the rainforest they were talking about.",
+        "attachments": null,
+        "author_id": 884302994,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T21:07:14+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 68,
+                    "end": 73,
+                    "probability": 0.7782,
+                    "type": "Organization",
+                    "normalized_text": "Amazon"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 41,
+                        "probability": 0.4032,
+                        "type": "Person",
+                        "normalized_text": "Koch"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T20:50:47.000Z",
+            "text": "@spikedonline @clim8resistance So the Koch brothers, sorry, brother, is a climate change denier...  who knew?",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167177799171497997",
+            "author_id": "1043196758",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "854692455005921281",
+                        "name": "Science",
+                        "description": "Science"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857083369514876928",
+                        "name": "Weather",
+                        "description": "Weather"
+                    }
+                }
+            ]
+        },
+        "id": 1167177799171497997,
+        "text": "@spikedonline @clim8resistance So the Koch brothers, sorry, brother, is a climate change denier...  who knew?",
+        "attachments": null,
+        "author_id": 1043196758,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "854692455005921281",
+                    "name": "Science",
+                    "description": "Science"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857083369514876928",
+                    "name": "Weather",
+                    "description": "Weather"
+                }
+            }
+        ],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T20:50:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 41,
+                    "probability": 0.4032,
+                    "type": "Person",
+                    "normalized_text": "Koch"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T20:29:19.000Z",
+            "text": "@spikedonline @clim8resistance how do you write this shit day after day?",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167172397465780225",
+            "author_id": "1131519982544855041",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167172397465780225,
+        "text": "@spikedonline @clim8resistance how do you write this shit day after day?",
+        "attachments": null,
+        "author_id": 1131519982544855041,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T20:29:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 54,
+                        "end": 70,
+                        "probability": 0.919,
+                        "type": "Place",
+                        "normalized_text": "equatorial Africa"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T20:20:10.000Z",
+            "text": "@spikedonline @clim8resistance Do the fires raging in equatorial Africa not matter?",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167170094281216000",
+            "author_id": "585726415",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167170094281216000,
+        "text": "@spikedonline @clim8resistance Do the fires raging in equatorial Africa not matter?",
+        "attachments": null,
+        "author_id": 585726415,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T20:20:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 70,
+                    "probability": 0.919,
+                    "type": "Place",
+                    "normalized_text": "equatorial Africa"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "alan_poirier",
+                        "id": "24782816"
+                    },
+                    {
+                        "start": 28,
+                        "end": 44,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T20:15:57.000Z",
+            "text": "@spikedonline @alan_poirier @clim8resistance Why would they lost revenue if they did.",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167169034858582016",
+            "author_id": "981090020",
+            "reply_settings": "everyone",
+            "source": "Twitter Web Client",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167169034858582016,
+        "text": "@spikedonline @alan_poirier @clim8resistance Why would they lost revenue if they did.",
+        "attachments": null,
+        "author_id": 981090020,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T20:15:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "alan_poirier",
+                    "id": "24782816"
+                },
+                {
+                    "start": 28,
+                    "end": 44,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "spikedonline",
+                        "id": "21201150"
+                    },
+                    {
+                        "start": 14,
+                        "end": 30,
+                        "username": "clim8resistance",
+                        "id": "89742111"
+                    }
+                ]
+            },
+            "created_at": "2019-08-29T20:04:40.000Z",
+            "text": "@spikedonline @clim8resistance It happened with the EU too? Straight bananas and uncontrollable immigration etc etc",
+            "lang": "en",
+            "in_reply_to_user_id": "21201150",
+            "id": "1167166194979409920",
+            "author_id": "1057760560727638016",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1167165070473867265",
+            "possibly_sensitive": false
+        },
+        "id": 1167166194979409920,
+        "text": "@spikedonline @clim8resistance It happened with the EU too? Straight bananas and uncontrollable immigration etc etc",
+        "attachments": null,
+        "author_id": 1057760560727638016,
+        "context_annotations": [],
+        "conversation_id": 1167165070473867265,
+        "created_at": "2019-08-29T20:04:40+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "spikedonline",
+                    "id": "21201150"
+                },
+                {
+                    "start": 14,
+                    "end": 30,
+                    "username": "clim8resistance",
+                    "id": "89742111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21201150,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167165070473867265"
+                },
+                "id": 1167165070473867265,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

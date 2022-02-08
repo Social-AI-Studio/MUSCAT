@@ -1,0 +1,989 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 47,
+                        "end": 55,
+                        "probability": 0.8889,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 62,
+                        "end": 67,
+                        "probability": 0.5002,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 151,
+                        "end": 159,
+                        "probability": 0.9876,
+                        "type": "Place",
+                        "normalized_text": "Indonesia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 191,
+                        "end": 214,
+                        "url": "https://t.co/6br7IUhdGW",
+                        "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                        "display_url": "twitter.com/FinancialRevie\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 162,
+                        "end": 170,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "start": 171,
+                        "end": 181,
+                        "tag": "Singapore"
+                    },
+                    {
+                        "start": 182,
+                        "end": 190,
+                        "tag": "vaccine"
+                    }
+                ]
+            },
+            "created_at": "2021-09-26T13:09:50.000Z",
+            "author_id": "1204825296039399424",
+            "lang": "en",
+            "id": "1442114189938475012",
+            "conversation_id": "1442114189938475012",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I like how this does not have a headline like \"Singapore used Pfizer to vaccinate 80% and now cases are rising\" like they did with Chinese vaccines in Indonesia \n#COVID19 #Singapore #vaccine https://t.co/6br7IUhdGW",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1442114189938475012,
+        "text": "I like how this does not have a headline like \"Singapore used Pfizer to vaccinate 80% and now cases are rising\" like they did with Chinese vaccines in Indonesia \n#COVID19 #Singapore #vaccine https://t.co/6br7IUhdGW",
+        "attachments": null,
+        "author_id": 1204825296039399424,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1442114189938475012,
+        "created_at": "2021-09-26T13:09:50+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 47,
+                    "end": 55,
+                    "probability": 0.8889,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 62,
+                    "end": 67,
+                    "probability": 0.5002,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 151,
+                    "end": 159,
+                    "probability": 0.9876,
+                    "type": "Place",
+                    "normalized_text": "Indonesia"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 191,
+                    "end": 214,
+                    "url": "https://t.co/6br7IUhdGW",
+                    "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                    "display_url": "twitter.com/FinancialRevie\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 162,
+                    "end": 170,
+                    "tag": "COVID19"
+                },
+                {
+                    "start": 171,
+                    "end": 181,
+                    "tag": "Singapore"
+                },
+                {
+                    "start": 182,
+                    "end": 190,
+                    "tag": "vaccine"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                },
+                "id": 1441885290746974217,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "MattSanderson__",
+                        "id": "613200012"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 33,
+                        "end": 45,
+                        "probability": 0.5006,
+                        "type": "Organization",
+                        "normalized_text": "Rapid Antigen"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1441923736093872140"
+                }
+            ],
+            "created_at": "2021-09-26T13:04:51.000Z",
+            "author_id": "1291323543930597377",
+            "lang": "en",
+            "id": "1442112936307138564",
+            "conversation_id": "1442112936307138564",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @MattSanderson__: This is why Rapid Antigen Testing companies have been and are now accelerating getting very large contracts. Emergency\u2026",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1442112936307138564,
+        "text": "RT @MattSanderson__: This is why Rapid Antigen Testing companies have been and are now accelerating getting very large contracts. Emergency\u2026",
+        "attachments": null,
+        "author_id": 1291323543930597377,
+        "context_annotations": [],
+        "conversation_id": 1442112936307138564,
+        "created_at": "2021-09-26T13:04:51+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "MattSanderson__",
+                    "id": "613200012"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 33,
+                    "end": 45,
+                    "probability": 0.5006,
+                    "type": "Organization",
+                    "normalized_text": "Rapid Antigen"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1441923736093872140"
+                },
+                "id": 1441923736093872140,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "MattSanderson__",
+                        "id": "613200012"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 33,
+                        "end": 45,
+                        "probability": 0.5006,
+                        "type": "Organization",
+                        "normalized_text": "Rapid Antigen"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1441923736093872140"
+                }
+            ],
+            "created_at": "2021-09-26T02:06:23.000Z",
+            "author_id": "1046787986",
+            "lang": "en",
+            "id": "1441947227165900800",
+            "conversation_id": "1441947227165900800",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @MattSanderson__: This is why Rapid Antigen Testing companies have been and are now accelerating getting very large contracts. Emergency\u2026",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad"
+        },
+        "id": 1441947227165900800,
+        "text": "RT @MattSanderson__: This is why Rapid Antigen Testing companies have been and are now accelerating getting very large contracts. Emergency\u2026",
+        "attachments": null,
+        "author_id": 1046787986,
+        "context_annotations": [],
+        "conversation_id": 1441947227165900800,
+        "created_at": "2021-09-26T02:06:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "MattSanderson__",
+                    "id": "613200012"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 33,
+                    "end": 45,
+                    "probability": 0.5006,
+                    "type": "Organization",
+                    "normalized_text": "Rapid Antigen"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1441923736093872140"
+                },
+                "id": 1441923736093872140,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 212,
+                        "end": 223,
+                        "username": "AnteoTech_",
+                        "id": "292390485"
+                    },
+                    {
+                        "start": 224,
+                        "end": 238,
+                        "username": "EuGeni_Reader",
+                        "id": "1410023253196689413"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/4fSZEcPbpb",
+                        "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                        "display_url": "twitter.com/FinancialRevie\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 241,
+                        "end": 252,
+                        "tag": "COVID19Vic"
+                    },
+                    {
+                        "start": 253,
+                        "end": 264,
+                        "tag": "COVID19nsw"
+                    },
+                    {
+                        "start": 265,
+                        "end": 273,
+                        "tag": "covid19"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                }
+            ],
+            "created_at": "2021-09-26T00:33:02.000Z",
+            "author_id": "613200012",
+            "lang": "en",
+            "id": "1441923736093872140",
+            "conversation_id": "1441923736093872140",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "text": "This is why Rapid Antigen Testing companies have been and are now accelerating getting very large contracts. Emergency use approvals gave lower grade tests a false hope. The best tests and companies will rise. \n\n@AnteoTech_ @EuGeni_Reader \n\n#COVID19Vic #COVID19nsw #covid19 https://t.co/4fSZEcPbpb",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1441923736093872140,
+        "text": "This is why Rapid Antigen Testing companies have been and are now accelerating getting very large contracts. Emergency use approvals gave lower grade tests a false hope. The best tests and companies will rise. \n\n@AnteoTech_ @EuGeni_Reader \n\n#COVID19Vic #COVID19nsw #covid19 https://t.co/4fSZEcPbpb",
+        "attachments": null,
+        "author_id": 613200012,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1441923736093872140,
+        "created_at": "2021-09-26T00:33:02+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 212,
+                    "end": 223,
+                    "username": "AnteoTech_",
+                    "id": "292390485"
+                },
+                {
+                    "start": 224,
+                    "end": 238,
+                    "username": "EuGeni_Reader",
+                    "id": "1410023253196689413"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/4fSZEcPbpb",
+                    "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                    "display_url": "twitter.com/FinancialRevie\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 241,
+                    "end": 252,
+                    "tag": "COVID19Vic"
+                },
+                {
+                    "start": 253,
+                    "end": 264,
+                    "tag": "COVID19nsw"
+                },
+                {
+                    "start": 265,
+                    "end": 273,
+                    "tag": "covid19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                },
+                "id": 1441885290746974217,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "864925500627484672",
+                        "name": "Family and life stages",
+                        "description": "Family and Life Stages"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864926035569135616",
+                        "name": "Parenting K-6 kids",
+                        "description": "Parenting K-6 kids"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 67,
+                        "end": 75,
+                        "probability": 0.965,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 181,
+                        "end": 186,
+                        "probability": 0.8264,
+                        "type": "Person",
+                        "normalized_text": "Gladys"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 248,
+                        "end": 271,
+                        "url": "https://t.co/J91BU42bXr",
+                        "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                        "display_url": "twitter.com/FinancialRevie\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-09-25T22:54:09.000Z",
+            "author_id": "260032219",
+            "lang": "en",
+            "id": "1441898850139062275",
+            "conversation_id": "1441898850139062275",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "82% vaccinated &amp; still struggling. Most primary school children in Singapore \u2013 who are all unvaccinated \u2013 will go back to learning from home on Monday for a couple of weeks. Why is Gladys shoving kids back to school?! For a few pointless weeks https://t.co/J91BU42bXr",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1441898850139062275,
+        "text": "82% vaccinated &amp; still struggling. Most primary school children in Singapore \u2013 who are all unvaccinated \u2013 will go back to learning from home on Monday for a couple of weeks. Why is Gladys shoving kids back to school?! For a few pointless weeks https://t.co/J91BU42bXr",
+        "attachments": null,
+        "author_id": 260032219,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "864925500627484672",
+                    "name": "Family and life stages",
+                    "description": "Family and Life Stages"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864926035569135616",
+                    "name": "Parenting K-6 kids",
+                    "description": "Parenting K-6 kids"
+                }
+            }
+        ],
+        "conversation_id": 1441898850139062275,
+        "created_at": "2021-09-25T22:54:09+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 67,
+                    "end": 75,
+                    "probability": 0.965,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 181,
+                    "end": 186,
+                    "probability": 0.8264,
+                    "type": "Person",
+                    "normalized_text": "Gladys"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 248,
+                    "end": 271,
+                    "url": "https://t.co/J91BU42bXr",
+                    "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                    "display_url": "twitter.com/FinancialRevie\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                },
+                "id": 1441885290746974217,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                }
+            ],
+            "created_at": "2021-09-25T22:24:43.000Z",
+            "author_id": "987844879",
+            "lang": "und",
+            "id": "1441891441312034819",
+            "conversation_id": "1441891441312034819",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "#Covid19Singapore https://t.co/HW5ErbIpee",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/HW5ErbIpee",
+                        "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                        "display_url": "twitter.com/FinancialRevie\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 17,
+                        "tag": "Covid19Singapore"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1441891441312034819,
+        "text": "#Covid19Singapore https://t.co/HW5ErbIpee",
+        "attachments": null,
+        "author_id": 987844879,
+        "context_annotations": [],
+        "conversation_id": 1441891441312034819,
+        "created_at": "2021-09-25T22:24:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/HW5ErbIpee",
+                    "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                    "display_url": "twitter.com/FinancialRevie\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 17,
+                    "tag": "Covid19Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                },
+                "id": 1441885290746974217,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 22,
+                        "probability": 0.9976,
+                        "type": "Place",
+                        "normalized_text": "Australia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 30,
+                        "end": 53,
+                        "url": "https://t.co/rwyrhaD2W1",
+                        "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                        "display_url": "twitter.com/FinancialRevie\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-09-25T22:09:57.000Z",
+            "author_id": "1294407356",
+            "lang": "en",
+            "id": "1441887726710624257",
+            "conversation_id": "1441887726710624257",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "This is us in Australia next\u2026 https://t.co/rwyrhaD2W1",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad"
+        },
+        "id": 1441887726710624257,
+        "text": "This is us in Australia next\u2026 https://t.co/rwyrhaD2W1",
+        "attachments": null,
+        "author_id": 1294407356,
+        "context_annotations": [],
+        "conversation_id": 1441887726710624257,
+        "created_at": "2021-09-25T22:09:57+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 22,
+                    "probability": 0.9976,
+                    "type": "Place",
+                    "normalized_text": "Australia"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 30,
+                    "end": 53,
+                    "url": "https://t.co/rwyrhaD2W1",
+                    "expanded_url": "https://twitter.com/FinancialReview/status/1441885290746974217",
+                    "display_url": "twitter.com/FinancialRevie\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1441885290746974217"
+                },
+                "id": 1441885290746974217,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

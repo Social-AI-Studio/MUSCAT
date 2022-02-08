@@ -1,0 +1,108 @@
+[
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "username": "ZDNet",
+                        "id": "3819701"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 7,
+                        "end": 30,
+                        "url": "https://t.co/gutXkq63ky",
+                        "expanded_url": "https://twitter.com/Darthgreg78/status/1274802633996263424/photo/1",
+                        "display_url": "pic.twitter.com/gutXkq63ky"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1274802633996263424",
+            "text": "@ZDNet https://t.co/gutXkq63ky",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274794221199937536"
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "16_1274802628602421249"
+                ]
+            },
+            "author_id": "379554483",
+            "created_at": "2020-06-21T20:33:27.000Z",
+            "in_reply_to_user_id": "3819701",
+            "conversation_id": "1274794221199937536"
+        },
+        "id": 1274802633996263424,
+        "text": "@ZDNet https://t.co/gutXkq63ky",
+        "attachments": {
+            "media_keys": [
+                "16_1274802628602421249"
+            ]
+        },
+        "author_id": 379554483,
+        "context_annotations": [],
+        "conversation_id": 1274794221199937536,
+        "created_at": "2020-06-21T20:33:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "username": "ZDNet",
+                    "id": "3819701"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 7,
+                    "end": 30,
+                    "url": "https://t.co/gutXkq63ky",
+                    "expanded_url": "https://twitter.com/Darthgreg78/status/1274802633996263424/photo/1",
+                    "display_url": "pic.twitter.com/gutXkq63ky"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3819701,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274794221199937536"
+                },
+                "id": 1274794221199937536,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

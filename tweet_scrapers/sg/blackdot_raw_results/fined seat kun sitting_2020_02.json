@@ -1,0 +1,167 @@
+[
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 176,
+                        "end": 186,
+                        "tag": "Singapore"
+                    },
+                    {
+                        "start": 187,
+                        "end": 197,
+                        "tag": "factcheck"
+                    },
+                    {
+                        "start": 198,
+                        "end": 206,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 8,
+                        "end": 15,
+                        "probability": 0.6425,
+                        "type": "Product",
+                        "normalized_text": "Whatsapp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 151,
+                        "end": 174,
+                        "url": "https://t.co/YW2hPhu1rv",
+                        "expanded_url": "https://bit.ly/2xuVILs",
+                        "display_url": "bit.ly/2xuVILs"
+                    },
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "url": "https://t.co/efimUGMzdq",
+                        "expanded_url": "https://twitter.com/BDRFactCheck/status/1243794505616089088/photo/1",
+                        "display_url": "pic.twitter.com/efimUGMzdq"
+                    }
+                ]
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1243793760032411648"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "1037962426954604549",
+            "id": "1243794505616089088",
+            "created_at": "2020-03-28T06:58:13.000Z",
+            "conversation_id": "1243794505616089088",
+            "text": "A viral Whatsapp message claims a Ya Kun customer was fined $300 for using a seat demarcated under new safe distancing measures. Find out more here \ud83d\udc49\ud83c\udffb https://t.co/YW2hPhu1rv\n\n#Singapore #factcheck #COVID19 https://t.co/efimUGMzdq"
+        },
+        "id": 1243794505616089088,
+        "text": "A viral Whatsapp message claims a Ya Kun customer was fined $300 for using a seat demarcated under new safe distancing measures. Find out more here \ud83d\udc49\ud83c\udffb https://t.co/YW2hPhu1rv\n\n#Singapore #factcheck #COVID19 https://t.co/efimUGMzdq",
+        "attachments": {
+            "media_keys": [
+                "3_1243793760032411648"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1243794505616089088,
+        "created_at": "2020-03-28T06:58:13+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 176,
+                    "end": 186,
+                    "tag": "Singapore"
+                },
+                {
+                    "start": 187,
+                    "end": 197,
+                    "tag": "factcheck"
+                },
+                {
+                    "start": 198,
+                    "end": 206,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 8,
+                    "end": 15,
+                    "probability": 0.6425,
+                    "type": "Product",
+                    "normalized_text": "Whatsapp"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 151,
+                    "end": 174,
+                    "url": "https://t.co/YW2hPhu1rv",
+                    "expanded_url": "https://bit.ly/2xuVILs",
+                    "display_url": "bit.ly/2xuVILs"
+                },
+                {
+                    "start": 207,
+                    "end": 230,
+                    "url": "https://t.co/efimUGMzdq",
+                    "expanded_url": "https://twitter.com/BDRFactCheck/status/1243794505616089088/photo/1",
+                    "display_url": "pic.twitter.com/efimUGMzdq"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

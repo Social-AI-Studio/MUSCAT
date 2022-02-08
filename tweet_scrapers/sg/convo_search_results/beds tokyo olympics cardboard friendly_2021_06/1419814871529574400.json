@@ -1,0 +1,306 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1419814871529574400",
+            "author_id": "4390551120",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596157181954",
+                        "name": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596664692736",
+                        "name": "Hotel/Motel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026474881",
+                        "name": "Marriott Hotels"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596157181954",
+                        "name": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596664692736",
+                        "name": "Hotel/Motel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026474881",
+                        "name": "Marriott Hotels"
+                    }
+                }
+            ],
+            "text": "@rajivprab Not exactly the Newark Marriott, but very cool!!!!",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "rajivprab",
+                        "id": "29407886"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 27,
+                        "end": 41,
+                        "probability": 0.7778,
+                        "type": "Place",
+                        "normalized_text": "Newark Marriott"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "29407886",
+            "id": "1420102393195286536",
+            "created_at": "2021-07-27T19:22:49.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1419814871529574400"
+                }
+            ],
+            "reply_settings": "everyone",
+            "lang": "en"
+        },
+        "id": 1420102393195286536,
+        "text": "@rajivprab Not exactly the Newark Marriott, but very cool!!!!",
+        "attachments": null,
+        "author_id": 4390551120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157181954",
+                    "name": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596664692736",
+                    "name": "Hotel/Motel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026474881",
+                    "name": "Marriott Hotels"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157181954",
+                    "name": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596664692736",
+                    "name": "Hotel/Motel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026474881",
+                    "name": "Marriott Hotels"
+                }
+            }
+        ],
+        "conversation_id": 1419814871529574400,
+        "created_at": "2021-07-27T19:22:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "rajivprab",
+                    "id": "29407886"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 27,
+                    "end": 41,
+                    "probability": 0.7778,
+                    "type": "Place",
+                    "normalized_text": "Newark Marriott"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29407886,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1419814871529574400"
+                },
+                "id": 1419814871529574400,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

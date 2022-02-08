@@ -1,0 +1,87 @@
+[
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1359566370518818820",
+            "text": "@D_K_Wayne And still the penny won't drop even though elderly people in care homes are still dropping like flies from \"covid\" deaths after most of them have been vaccinated.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1359565256637493250"
+                }
+            ],
+            "author_id": "270522584",
+            "created_at": "2021-02-10T18:14:16.000Z",
+            "in_reply_to_user_id": "248002249",
+            "conversation_id": "1359565256637493250"
+        },
+        "id": 1359566370518818820,
+        "text": "@D_K_Wayne And still the penny won't drop even though elderly people in care homes are still dropping like flies from \"covid\" deaths after most of them have been vaccinated.",
+        "attachments": null,
+        "author_id": 270522584,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1359565256637493250,
+        "created_at": "2021-02-10T18:14:16+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 248002249,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1359565256637493250"
+                },
+                "id": 1359565256637493250,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,412 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1066084369666781184",
+                        "name": "Newsweek",
+                        "description": "Newsweek"
+                    }
+                }
+            ],
+            "author_id": "1360300046",
+            "in_reply_to_user_id": "2884771",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "Newsweek",
+                        "id": "2884771"
+                    }
+                ]
+            },
+            "text": "@Newsweek Very sad. Is the world going to investigate the devastation is causing the Maduro dictarorship in the Amazonia in order to extract gold?",
+            "id": "1167515364529455104",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167497227377487873"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1167497227377487873",
+            "possibly_sensitive": false,
+            "created_at": "2019-08-30T19:12:08.000Z"
+        },
+        "id": 1167515364529455104,
+        "text": "@Newsweek Very sad. Is the world going to investigate the devastation is causing the Maduro dictarorship in the Amazonia in order to extract gold?",
+        "attachments": null,
+        "author_id": 1360300046,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1066084369666781184",
+                    "name": "Newsweek",
+                    "description": "Newsweek"
+                }
+            }
+        ],
+        "conversation_id": 1167497227377487873,
+        "created_at": "2019-08-30T19:12:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "Newsweek",
+                    "id": "2884771"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2884771,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167497227377487873"
+                },
+                "id": 1167497227377487873,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1066084369666781184",
+                        "name": "Newsweek",
+                        "description": "Newsweek"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "872801340224806912",
+                        "name": "Aerospace",
+                        "description": "Aerospace"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "872802352448667648",
+                        "name": "NASA",
+                        "description": "NASA"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "825065204106948608",
+                        "name": "Steak",
+                        "description": "Steak"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "842797798626009088",
+                        "name": "Vegetables",
+                        "description": "Vegetables"
+                    }
+                }
+            ],
+            "author_id": "931006923671003136",
+            "in_reply_to_user_id": "2884771",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 129,
+                        "end": 132,
+                        "probability": 0.7058,
+                        "type": "Organization",
+                        "normalized_text": "NASA"
+                    },
+                    {
+                        "start": 182,
+                        "end": 187,
+                        "probability": 0.7921,
+                        "type": "Organization",
+                        "normalized_text": "Amazon"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "Newsweek",
+                        "id": "2884771"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 233,
+                        "end": 256,
+                        "url": "https://t.co/P1FOpfbWDd",
+                        "expanded_url": "https://trib.al/Qk5P7zZ",
+                        "display_url": "trib.al/Qk5P7zZ",
+                        "status": 200,
+                        "unwound_url": "https://www.newsweek.com/what-amazon-fires-look-like-space-1457001?utm_medium=Social&utm_campaign=NewsweekTwitter&utm_source=Twitter"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "text": "@Newsweek Fake News! It's steak &amp; broccoli..Seriously, ridiculous that Brazilian president doesn't give a damn\n-\nNew images from NASA give a glimpse at what the devastation from the Amazon rainforest fires looks like from space. https://t.co/P1FOpfbWDd",
+            "id": "1167497903432196098",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1167497227377487873"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1167497227377487873",
+            "possibly_sensitive": false,
+            "created_at": "2019-08-30T18:02:45.000Z"
+        },
+        "id": 1167497903432196098,
+        "text": "@Newsweek Fake News! It's steak &amp; broccoli..Seriously, ridiculous that Brazilian president doesn't give a damn\n-\nNew images from NASA give a glimpse at what the devastation from the Amazon rainforest fires looks like from space. https://t.co/P1FOpfbWDd",
+        "attachments": null,
+        "author_id": 931006923671003136,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1066084369666781184",
+                    "name": "Newsweek",
+                    "description": "Newsweek"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "872801340224806912",
+                    "name": "Aerospace",
+                    "description": "Aerospace"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "872802352448667648",
+                    "name": "NASA",
+                    "description": "NASA"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825065204106948608",
+                    "name": "Steak",
+                    "description": "Steak"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "842797798626009088",
+                    "name": "Vegetables",
+                    "description": "Vegetables"
+                }
+            }
+        ],
+        "conversation_id": 1167497227377487873,
+        "created_at": "2019-08-30T18:02:45+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 129,
+                    "end": 132,
+                    "probability": 0.7058,
+                    "type": "Organization",
+                    "normalized_text": "NASA"
+                },
+                {
+                    "start": 182,
+                    "end": 187,
+                    "probability": 0.7921,
+                    "type": "Organization",
+                    "normalized_text": "Amazon"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "Newsweek",
+                    "id": "2884771"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 233,
+                    "end": 256,
+                    "url": "https://t.co/P1FOpfbWDd",
+                    "expanded_url": "https://trib.al/Qk5P7zZ",
+                    "display_url": "trib.al/Qk5P7zZ",
+                    "status": 200,
+                    "unwound_url": "https://www.newsweek.com/what-amazon-fires-look-like-space-1457001?utm_medium=Social&utm_campaign=NewsweekTwitter&utm_source=Twitter"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2884771,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1167497227377487873"
+                },
+                "id": 1167497227377487873,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

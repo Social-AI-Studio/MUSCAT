@@ -1,0 +1,111 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 28,
+                        "end": 31,
+                        "probability": 0.7863,
+                        "type": "Place",
+                        "normalized_text": "Iran"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "RStatecraft",
+                        "id": "1184512866885558274"
+                    },
+                    {
+                        "start": 13,
+                        "end": 27,
+                        "username": "matthew_petti",
+                        "id": "785949447813423104"
+                    }
+                ]
+            },
+            "author_id": "144980759",
+            "text": "@RStatecraft @matthew_petti Iran is happy to have that war and put a cap in your bullshit. Let's go. :)",
+            "possibly_sensitive": false,
+            "id": "1358906157751033856",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-08T22:30:49.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1358905949264572418"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "in_reply_to_user_id": "1184512866885558274",
+            "conversation_id": "1358905949264572418",
+            "lang": "en"
+        },
+        "id": 1358906157751033856,
+        "text": "@RStatecraft @matthew_petti Iran is happy to have that war and put a cap in your bullshit. Let's go. :)",
+        "attachments": null,
+        "author_id": 144980759,
+        "context_annotations": [],
+        "conversation_id": 1358905949264572418,
+        "created_at": "2021-02-08T22:30:49+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 28,
+                    "end": 31,
+                    "probability": 0.7863,
+                    "type": "Place",
+                    "normalized_text": "Iran"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "RStatecraft",
+                    "id": "1184512866885558274"
+                },
+                {
+                    "start": 13,
+                    "end": 27,
+                    "username": "matthew_petti",
+                    "id": "785949447813423104"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1184512866885558274,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1358905949264572418"
+                },
+                "id": 1358905949264572418,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

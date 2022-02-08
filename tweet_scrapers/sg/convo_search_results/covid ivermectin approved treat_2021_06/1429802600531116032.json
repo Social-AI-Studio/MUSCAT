@@ -1,0 +1,1663 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "434557542",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429837631471378435"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "lyndaszelt",
+                        "id": "434557542"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 91,
+                        "end": 95,
+                        "probability": 0.485,
+                        "type": "Person",
+                        "normalized_text": "Covid"
+                    },
+                    {
+                        "start": 115,
+                        "end": 117,
+                        "probability": 0.7905,
+                        "type": "Organization",
+                        "normalized_text": "NPR"
+                    },
+                    {
+                        "start": 259,
+                        "end": 261,
+                        "probability": 0.6821,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "3241707920",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T22:12:10.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1065655657548832768",
+                        "name": "NPR",
+                        "description": "NPR"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1429929483646214147",
+            "text": "@lyndaszelt These idiots are willing to take ivermectin, that\u2019s not even approved to treat Covid. \nI just heard on NPR an ER doctor saying how frustrated he is that people are coming to the ER because they took their horses ivermectin, but they won\u2019t take an FDA approved vaccine. WTF?",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1429929483646214147,
+        "text": "@lyndaszelt These idiots are willing to take ivermectin, that\u2019s not even approved to treat Covid. \nI just heard on NPR an ER doctor saying how frustrated he is that people are coming to the ER because they took their horses ivermectin, but they won\u2019t take an FDA approved vaccine. WTF?",
+        "attachments": null,
+        "author_id": 3241707920,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1065655657548832768",
+                    "name": "NPR",
+                    "description": "NPR"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T22:12:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "lyndaszelt",
+                    "id": "434557542"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 91,
+                    "end": 95,
+                    "probability": 0.485,
+                    "type": "Person",
+                    "normalized_text": "Covid"
+                },
+                {
+                    "start": 115,
+                    "end": 117,
+                    "probability": 0.7905,
+                    "type": "Organization",
+                    "normalized_text": "NPR"
+                },
+                {
+                    "start": 259,
+                    "end": 261,
+                    "probability": 0.6821,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 434557542,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429837631471378435"
+                },
+                "id": 1429837631471378435,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "933483418238697472",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429924565287768089"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "DavidSeanDunn",
+                        "id": "933483418238697472"
+                    },
+                    {
+                        "start": 15,
+                        "end": 27,
+                        "username": "DJMommaTRex",
+                        "id": "1222389896150568961"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "3241707920",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T21:55:37.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1429925319180439552",
+            "text": "@DavidSeanDunn @DJMommaTRex These people are ridiculous, &amp; they are the reason we are having a surge in COVID cases. Damn them!\ud83e\udd26\u200d\u2640\ufe0f",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1429925319180439552,
+        "text": "@DavidSeanDunn @DJMommaTRex These people are ridiculous, &amp; they are the reason we are having a surge in COVID cases. Damn them!\ud83e\udd26\u200d\u2640\ufe0f",
+        "attachments": null,
+        "author_id": 3241707920,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T21:55:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "DavidSeanDunn",
+                    "id": "933483418238697472"
+                },
+                {
+                    "start": 15,
+                    "end": 27,
+                    "username": "DJMommaTRex",
+                    "id": "1222389896150568961"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 933483418238697472,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429924565287768089"
+                },
+                "id": 1429924565287768089,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "1222389896150568961",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429910592685412361"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DJMommaTRex",
+                        "id": "1222389896150568961"
+                    },
+                    {
+                        "start": 13,
+                        "end": 27,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "933483418238697472",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T21:52:37.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1429924565287768089",
+            "text": "@DJMommaTRex @FriendEden100 \"Fertility concerns\" was the last lame one I heard and my company calls not getting vaccinated a \"personal choice\". What a shameful disregard for human life in the modern age.",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1429924565287768089,
+        "text": "@DJMommaTRex @FriendEden100 \"Fertility concerns\" was the last lame one I heard and my company calls not getting vaccinated a \"personal choice\". What a shameful disregard for human life in the modern age.",
+        "attachments": null,
+        "author_id": 933483418238697472,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T21:52:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DJMommaTRex",
+                    "id": "1222389896150568961"
+                },
+                {
+                    "start": 13,
+                    "end": 27,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1222389896150568961,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429910592685412361"
+                },
+                "id": 1429910592685412361,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "933483418238697472",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429803044057665548"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "DavidSeanDunn",
+                        "id": "933483418238697472"
+                    },
+                    {
+                        "start": 15,
+                        "end": 29,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1222389896150568961",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T20:57:06.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1429910592685412361",
+            "text": "@DavidSeanDunn @FriendEden100 I have heard several new excuses. I won't bother to share their lame reasoning. Let's just say they like their 1.4% odds of a deadly outcome and it is more dangerous to drive their car, have a heart attack or get cancer.",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1429910592685412361,
+        "text": "@DavidSeanDunn @FriendEden100 I have heard several new excuses. I won't bother to share their lame reasoning. Let's just say they like their 1.4% odds of a deadly outcome and it is more dangerous to drive their car, have a heart attack or get cancer.",
+        "attachments": null,
+        "author_id": 1222389896150568961,
+        "context_annotations": [],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T20:57:06+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "DavidSeanDunn",
+                    "id": "933483418238697472"
+                },
+                {
+                    "start": 15,
+                    "end": 29,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 933483418238697472,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429803044057665548"
+                },
+                "id": 1429803044057665548,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "3241707920",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 37,
+                        "end": 39,
+                        "probability": 0.848,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    },
+                    {
+                        "start": 170,
+                        "end": 174,
+                        "probability": 0.9995,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "434557542",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T16:07:11.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1429837631471378435",
+            "text": "@FriendEden100 Comments now are that FDA was paid to approve vaccine, drs &amp; hospitals will make more $. Take ivermectin. Etc. you just can\u2019t help stupid! They even booed Trump when he said get vaccinated",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1429837631471378435,
+        "text": "@FriendEden100 Comments now are that FDA was paid to approve vaccine, drs &amp; hospitals will make more $. Take ivermectin. Etc. you just can\u2019t help stupid! They even booed Trump when he said get vaccinated",
+        "attachments": null,
+        "author_id": 434557542,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T16:07:11+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 39,
+                    "probability": 0.848,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                },
+                {
+                    "start": 170,
+                    "end": 174,
+                    "probability": 0.9995,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3241707920,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                },
+                "id": 1429802600531116032,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "3241707920",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "472319164",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T15:31:47.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1429828725139329036",
+            "text": "@FriendEden100 Great!  One less excuse for non-scientists to refuse to get the Covid vaccine.",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1429828725139329036,
+        "text": "@FriendEden100 Great!  One less excuse for non-scientists to refuse to get the Covid vaccine.",
+        "attachments": null,
+        "author_id": 472319164,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T15:31:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3241707920,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                },
+                "id": 1429802600531116032,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "933483418238697472",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429803044057665548"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "DavidSeanDunn",
+                        "id": "933483418238697472"
+                    },
+                    {
+                        "start": 15,
+                        "end": 29,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "2838682855",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T14:30:18.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1429813251366338565",
+            "text": "@DavidSeanDunn @FriendEden100 Perhaps a stubborn child might be able to shed some light on your question. They are masters at coming up with excuses.",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1429813251366338565,
+        "text": "@DavidSeanDunn @FriendEden100 Perhaps a stubborn child might be able to shed some light on your question. They are masters at coming up with excuses.",
+        "attachments": null,
+        "author_id": 2838682855,
+        "context_annotations": [],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T14:30:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "DavidSeanDunn",
+                    "id": "933483418238697472"
+                },
+                {
+                    "start": 15,
+                    "end": 29,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 933483418238697472,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429803044057665548"
+                },
+                "id": 1429803044057665548,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "933483418238697472",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429803044057665548"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "DavidSeanDunn",
+                        "id": "933483418238697472"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "3241707920",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T13:58:12.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1429805172629426180",
+            "text": "@DavidSeanDunn I didn\u2019t even think about that.\ud83e\udd26\u200d\u2640\ufe0f\nThe anti-vaxxers are absolutely infuriatingly, &amp; unbearably stupid!",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1429805172629426180,
+        "text": "@DavidSeanDunn I didn\u2019t even think about that.\ud83e\udd26\u200d\u2640\ufe0f\nThe anti-vaxxers are absolutely infuriatingly, &amp; unbearably stupid!",
+        "attachments": null,
+        "author_id": 3241707920,
+        "context_annotations": [],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T13:58:12+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "DavidSeanDunn",
+                    "id": "933483418238697472"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 933483418238697472,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429803044057665548"
+                },
+                "id": 1429803044057665548,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 46,
+                        "end": 69,
+                        "url": "https://t.co/p8FhB1JAsd",
+                        "expanded_url": "https://twitter.com/FriendEden100/status/1429804661398286343/photo/1",
+                        "display_url": "pic.twitter.com/p8FhB1JAsd"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "JosephOConnell3",
+                        "id": "493585489"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "493585489",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429803851914350594"
+                }
+            ],
+            "reply_settings": "everyone",
+            "author_id": "3241707920",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T13:56:10.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1429804661398286343",
+            "text": "@JosephOConnell3 OMG! I didn\u2019t think of that. https://t.co/p8FhB1JAsd",
+            "attachments": {
+                "media_keys": [
+                    "16_1429804655341625345"
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1429804661398286343,
+        "text": "@JosephOConnell3 OMG! I didn\u2019t think of that. https://t.co/p8FhB1JAsd",
+        "attachments": {
+            "media_keys": [
+                "16_1429804655341625345"
+            ]
+        },
+        "author_id": 3241707920,
+        "context_annotations": [],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T13:56:10+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/p8FhB1JAsd",
+                    "expanded_url": "https://twitter.com/FriendEden100/status/1429804661398286343/photo/1",
+                    "display_url": "pic.twitter.com/p8FhB1JAsd"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "JosephOConnell3",
+                    "id": "493585489"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 493585489,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429803851914350594"
+                },
+                "id": 1429803851914350594,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "3241707920",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "493585489",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T13:52:57.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1429803851914350594",
+            "text": "@FriendEden100 now for the excuses!",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1429803851914350594,
+        "text": "@FriendEden100 now for the excuses!",
+        "attachments": null,
+        "author_id": 493585489,
+        "context_annotations": [],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T13:52:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3241707920,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                },
+                "id": 1429802600531116032,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "3241707920",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "933483418238697472",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T13:49:44.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "id": "1429803044057665548",
+            "text": "@FriendEden100 So I can get the vaccine again? Good news. Now let's see what excuses the anti-vaxxers will come up with.",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1429803044057665548,
+        "text": "@FriendEden100 So I can get the vaccine again? Good news. Now let's see what excuses the anti-vaxxers will come up with.",
+        "attachments": null,
+        "author_id": 933483418238697472,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T13:49:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3241707920,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                },
+                "id": 1429802600531116032,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 64,
+                        "end": 87,
+                        "url": "https://t.co/JLga2tlzxn",
+                        "expanded_url": "https://www.businessinsider.com/fda-chief-approved-oxycontin-six-figure-gig-at-purdue-pharma-2021-5",
+                        "display_url": "businessinsider.com/fda-chief-appr\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486861356989091848/rhki3znk?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 600
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486861356989091848/rhki3znk?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "An FDA official who led the approval of OxyContin got a $400,000 gig at Purdue Pharma a year later, a new book reveals",
+                        "description": "The FDA approved OxyContin in 1995 believing it would result in \"less abuse potential.\" In 2001, the regulator said the drug has high abuse potential.",
+                        "unwound_url": "https://www.businessinsider.com/fda-chief-approved-oxycontin-six-figure-gig-at-purdue-pharma-2021-5"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "FriendEden100",
+                        "id": "3241707920"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "3241707920",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                }
+            ],
+            "reply_settings": "everyone",
+            "author_id": "2984843502",
+            "conversation_id": "1429802600531116032",
+            "created_at": "2021-08-23T13:48:54.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1429802833625374735",
+            "text": "@FriendEden100 Who got the envelope this time?  \n\nRemember this https://t.co/JLga2tlzxn",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1429802833625374735,
+        "text": "@FriendEden100 Who got the envelope this time?  \n\nRemember this https://t.co/JLga2tlzxn",
+        "attachments": null,
+        "author_id": 2984843502,
+        "context_annotations": [],
+        "conversation_id": 1429802600531116032,
+        "created_at": "2021-08-23T13:48:54+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/JLga2tlzxn",
+                    "expanded_url": "https://www.businessinsider.com/fda-chief-approved-oxycontin-six-figure-gig-at-purdue-pharma-2021-5",
+                    "display_url": "businessinsider.com/fda-chief-appr\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486861356989091848/rhki3znk?format=jpg&name=orig",
+                            "width": 1200,
+                            "height": 600
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486861356989091848/rhki3znk?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "An FDA official who led the approval of OxyContin got a $400,000 gig at Purdue Pharma a year later, a new book reveals",
+                    "description": "The FDA approved OxyContin in 1995 believing it would result in \"less abuse potential.\" In 2001, the regulator said the drug has high abuse potential.",
+                    "unwound_url": "https://www.businessinsider.com/fda-chief-approved-oxycontin-six-figure-gig-at-purdue-pharma-2021-5"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "FriendEden100",
+                    "id": "3241707920"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3241707920,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429802600531116032"
+                },
+                "id": 1429802600531116032,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

@@ -1,0 +1,4992 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 18,
+                        "probability": 0.9965,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 22,
+                        "end": 32,
+                        "probability": 0.4555,
+                        "type": "Organization",
+                        "normalized_text": "republicans"
+                    },
+                    {
+                        "start": 46,
+                        "end": 54,
+                        "probability": 0.7362,
+                        "type": "Person",
+                        "normalized_text": "Americans"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 98,
+                        "end": 108,
+                        "tag": "AGGarland"
+                    },
+                    {
+                        "start": 109,
+                        "end": 130,
+                        "tag": "HoldTrumpAccountable"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "704051242226462721",
+            "text": "@HoustonChron Trump &amp; republicans are killing Americans and putting children in the hospital. #AGGarland #HoldTrumpAccountable",
+            "possibly_sensitive": false,
+            "id": "1430045712591380481",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-24T05:54:01.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1363864845783683085",
+                        "name": "Merrick Garland"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1430045712591380481,
+        "text": "@HoustonChron Trump &amp; republicans are killing Americans and putting children in the hospital. #AGGarland #HoldTrumpAccountable",
+        "attachments": null,
+        "author_id": 704051242226462721,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1363864845783683085",
+                    "name": "Merrick Garland"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-24T05:54:01+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 18,
+                    "probability": 0.9965,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 22,
+                    "end": 32,
+                    "probability": 0.4555,
+                    "type": "Organization",
+                    "normalized_text": "republicans"
+                },
+                {
+                    "start": 46,
+                    "end": 54,
+                    "probability": 0.7362,
+                    "type": "Person",
+                    "normalized_text": "Americans"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 108,
+                    "tag": "AGGarland"
+                },
+                {
+                    "start": 109,
+                    "end": 130,
+                    "tag": "HoldTrumpAccountable"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 43,
+                        "end": 47,
+                        "probability": 0.9982,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 50,
+                        "end": 54,
+                        "probability": 0.9973,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 146,
+                        "end": 150,
+                        "probability": 0.9993,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "781080650",
+            "text": "@HoustonChron I\u2019m vaccinated and voted for Trump; Trump and team got vaccine developed by encouraging companies\u2019 research\u2026. Now you want to blame Trump supporters?",
+            "possibly_sensitive": false,
+            "id": "1430013502203236357",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-24T03:46:01.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "1412579054855671809",
+                        "name": "Google Innovation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1430013502203236357,
+        "text": "@HoustonChron I\u2019m vaccinated and voted for Trump; Trump and team got vaccine developed by encouraging companies\u2019 research\u2026. Now you want to blame Trump supporters?",
+        "attachments": null,
+        "author_id": 781080650,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "1412579054855671809",
+                    "name": "Google Innovation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-24T03:46:01+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 43,
+                    "end": 47,
+                    "probability": 0.9982,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 50,
+                    "end": 54,
+                    "probability": 0.9973,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 146,
+                    "end": 150,
+                    "probability": 0.9993,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "842730694044536833",
+            "text": "@HoustonChron So very wrong",
+            "possibly_sensitive": false,
+            "id": "1429996788384141316",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-24T02:39:37.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429996788384141316,
+        "text": "@HoustonChron So very wrong",
+        "attachments": null,
+        "author_id": 842730694044536833,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-24T02:39:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 109,
+                        "end": 114,
+                        "probability": 0.8975,
+                        "type": "Organization",
+                        "normalized_text": "Texans"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 38,
+                        "end": 48,
+                        "username": "GovAbbott",
+                        "id": "19291441"
+                    }
+                ]
+            },
+            "author_id": "836890308",
+            "text": "@HoustonChron And, sadly, this is all @GovAbbott cares about. Not illness, suffering, and potential death of Texans.",
+            "possibly_sensitive": false,
+            "id": "1429995046586171393",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-24T02:32:41.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "998665458063560704",
+                        "name": "Greg Abbott",
+                        "description": "US Governor of Texas, Greg Abbott"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "998665458063560704",
+                        "name": "Greg Abbott",
+                        "description": "US Governor of Texas, Greg Abbott"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429995046586171393,
+        "text": "@HoustonChron And, sadly, this is all @GovAbbott cares about. Not illness, suffering, and potential death of Texans.",
+        "attachments": null,
+        "author_id": 836890308,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "998665458063560704",
+                    "name": "Greg Abbott",
+                    "description": "US Governor of Texas, Greg Abbott"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "998665458063560704",
+                    "name": "Greg Abbott",
+                    "description": "US Governor of Texas, Greg Abbott"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-24T02:32:41+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 109,
+                    "end": 114,
+                    "probability": 0.8975,
+                    "type": "Organization",
+                    "normalized_text": "Texans"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 38,
+                    "end": 48,
+                    "username": "GovAbbott",
+                    "id": "19291441"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "421576345",
+            "attachments": {
+                "media_keys": [
+                    "16_1429993256876707850"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 14,
+                        "end": 37,
+                        "url": "https://t.co/1GtsuHJV6Y",
+                        "expanded_url": "https://twitter.com/LiftYourFist/status/1429993262710984708/photo/1",
+                        "display_url": "pic.twitter.com/1GtsuHJV6Y"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "text": "@HoustonChron https://t.co/1GtsuHJV6Y",
+            "possibly_sensitive": false,
+            "id": "1429993262710984708",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-24T02:25:36.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "und"
+        },
+        "id": 1429993262710984708,
+        "text": "@HoustonChron https://t.co/1GtsuHJV6Y",
+        "attachments": {
+            "media_keys": [
+                "16_1429993256876707850"
+            ]
+        },
+        "author_id": 421576345,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-24T02:25:36+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 14,
+                    "end": 37,
+                    "url": "https://t.co/1GtsuHJV6Y",
+                    "expanded_url": "https://twitter.com/LiftYourFist/status/1429993262710984708/photo/1",
+                    "display_url": "pic.twitter.com/1GtsuHJV6Y"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1112301636641267712",
+            "text": "@curtistcu @HoustonChron ie Dora and Sylvester.",
+            "possibly_sensitive": false,
+            "id": "1429950815947661315",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T23:36:56.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429800194506465291"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "2188849368",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "curtistcu",
+                        "id": "2188849368"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "ro"
+        },
+        "id": 1429950815947661315,
+        "text": "@curtistcu @HoustonChron ie Dora and Sylvester.",
+        "attachments": null,
+        "author_id": 1112301636641267712,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T23:36:56+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "curtistcu",
+                    "id": "2188849368"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2188849368,
+        "lang": "ro",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429800194506465291"
+                },
+                "id": 1429800194506465291,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 24,
+                        "probability": 0.7479,
+                        "type": "Person",
+                        "normalized_text": "Donald"
+                    },
+                    {
+                        "start": 76,
+                        "end": 78,
+                        "probability": 0.7256,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "324412313",
+            "text": "@HoustonChron Czar Donald just said again that the vaccine is ok as did the FDA - get the vaccine!",
+            "possibly_sensitive": false,
+            "id": "1429917959443648516",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T21:26:22.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429917959443648516,
+        "text": "@HoustonChron Czar Donald just said again that the vaccine is ok as did the FDA - get the vaccine!",
+        "attachments": null,
+        "author_id": 324412313,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T21:26:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 19,
+                    "end": 24,
+                    "probability": 0.7479,
+                    "type": "Person",
+                    "normalized_text": "Donald"
+                },
+                {
+                    "start": 76,
+                    "end": 78,
+                    "probability": 0.7256,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "737616924",
+            "attachments": {
+                "media_keys": [
+                    "16_1429888922121908235"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 142,
+                        "end": 165,
+                        "url": "https://t.co/CdwUoxvv42",
+                        "expanded_url": "https://twitter.com/HOUmanReporter/status/1429888927532568580/photo/1",
+                        "display_url": "pic.twitter.com/CdwUoxvv42"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "arity2020",
+                        "id": "1155547697589493760"
+                    },
+                    {
+                        "start": 11,
+                        "end": 22,
+                        "username": "BigWinInTx",
+                        "id": "30587753"
+                    },
+                    {
+                        "start": 23,
+                        "end": 36,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 37,
+                        "end": 51,
+                        "username": "ConroeCourier",
+                        "id": "52495310"
+                    }
+                ]
+            },
+            "text": "@arity2020 @BigWinInTx @HoustonChron @ConroeCourier Can\u2019t produce any evidence of even a cursory scientific literature review. Not surprised. https://t.co/CdwUoxvv42",
+            "possibly_sensitive": false,
+            "id": "1429888927532568580",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T19:31:01.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429846266066968578"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "1155547697589493760",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429888927532568580,
+        "text": "@arity2020 @BigWinInTx @HoustonChron @ConroeCourier Can\u2019t produce any evidence of even a cursory scientific literature review. Not surprised. https://t.co/CdwUoxvv42",
+        "attachments": {
+            "media_keys": [
+                "16_1429888922121908235"
+            ]
+        },
+        "author_id": 737616924,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T19:31:01+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 142,
+                    "end": 165,
+                    "url": "https://t.co/CdwUoxvv42",
+                    "expanded_url": "https://twitter.com/HOUmanReporter/status/1429888927532568580/photo/1",
+                    "display_url": "pic.twitter.com/CdwUoxvv42"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "arity2020",
+                    "id": "1155547697589493760"
+                },
+                {
+                    "start": 11,
+                    "end": 22,
+                    "username": "BigWinInTx",
+                    "id": "30587753"
+                },
+                {
+                    "start": 23,
+                    "end": 36,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 37,
+                    "end": 51,
+                    "username": "ConroeCourier",
+                    "id": "52495310"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1155547697589493760,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429846266066968578"
+                },
+                "id": 1429846266066968578,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "30587753",
+            "text": "@arity2020 @HOUmanReporter @HoustonChron @ConroeCourier No, but if you quote or reference an article, you should post the article in question.\nIt\u2019s a common courtesy and it validates your argument.",
+            "geo": {
+                "place_id": "343ecdd7da8dfae0"
+            },
+            "possibly_sensitive": false,
+            "id": "1429861195234877449",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T17:40:49.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429846266066968578"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "1155547697589493760",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "arity2020",
+                        "id": "1155547697589493760"
+                    },
+                    {
+                        "start": 11,
+                        "end": 26,
+                        "username": "HOUmanReporter",
+                        "id": "737616924"
+                    },
+                    {
+                        "start": 27,
+                        "end": 40,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 41,
+                        "end": 55,
+                        "username": "ConroeCourier",
+                        "id": "52495310"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429861195234877449,
+        "text": "@arity2020 @HOUmanReporter @HoustonChron @ConroeCourier No, but if you quote or reference an article, you should post the article in question.\nIt\u2019s a common courtesy and it validates your argument.",
+        "attachments": null,
+        "author_id": 30587753,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T17:40:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "arity2020",
+                    "id": "1155547697589493760"
+                },
+                {
+                    "start": 11,
+                    "end": 26,
+                    "username": "HOUmanReporter",
+                    "id": "737616924"
+                },
+                {
+                    "start": 27,
+                    "end": 40,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 41,
+                    "end": 55,
+                    "username": "ConroeCourier",
+                    "id": "52495310"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "343ecdd7da8dfae0"
+        },
+        "in_reply_to_user_id": 1155547697589493760,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429846266066968578"
+                },
+                "id": 1429846266066968578,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "71443910",
+            "text": "@stevectx1964 @chosen_wrong @HoustonChron Yes, that the point. He claims that people don\u2019t know what\u2019s in the vaccines, I\u2019m confident they also don\u2019t know what\u2019s in the horse dewormer.",
+            "possibly_sensitive": false,
+            "id": "1429860153562570782",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T17:36:40.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429855091406905344"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "1516350091",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "stevectx1964",
+                        "id": "1516350091"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "chosen_wrong",
+                        "id": "1221885205922881542"
+                    },
+                    {
+                        "start": 28,
+                        "end": 41,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429860153562570782,
+        "text": "@stevectx1964 @chosen_wrong @HoustonChron Yes, that the point. He claims that people don\u2019t know what\u2019s in the vaccines, I\u2019m confident they also don\u2019t know what\u2019s in the horse dewormer.",
+        "attachments": null,
+        "author_id": 71443910,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T17:36:40+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "stevectx1964",
+                    "id": "1516350091"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "chosen_wrong",
+                    "id": "1221885205922881542"
+                },
+                {
+                    "start": 28,
+                    "end": 41,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1516350091,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429855091406905344"
+                },
+                "id": 1429855091406905344,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 141,
+                        "end": 142,
+                        "probability": 0.8262,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "chosen_wrong",
+                        "id": "1221885205922881542"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "1516350091",
+            "text": "@chosen_wrong @HoustonChron Deplorables fancy themselves experts in everything from epidemiology and public health to constitutional law and US history.  In reality, it's their ignorance and gullibility that make them so easily manipulated,misled and used.",
+            "possibly_sensitive": false,
+            "id": "1429856251333300224",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T17:21:10.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429801669261463552"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "854692455005921281",
+                        "name": "Science",
+                        "description": "Science"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "847896837532995585",
+                        "name": "Biology",
+                        "description": "Biology"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "1221885205922881542",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429856251333300224,
+        "text": "@chosen_wrong @HoustonChron Deplorables fancy themselves experts in everything from epidemiology and public health to constitutional law and US history.  In reality, it's their ignorance and gullibility that make them so easily manipulated,misled and used.",
+        "attachments": null,
+        "author_id": 1516350091,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "854692455005921281",
+                    "name": "Science",
+                    "description": "Science"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "847896837532995585",
+                    "name": "Biology",
+                    "description": "Biology"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T17:21:10+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 141,
+                    "end": 142,
+                    "probability": 0.8262,
+                    "type": "Place",
+                    "normalized_text": "US"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "chosen_wrong",
+                    "id": "1221885205922881542"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1221885205922881542,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429801669261463552"
+                },
+                "id": 1429801669261463552,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 108,
+                        "end": 110,
+                        "probability": 0.8441,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 266,
+                        "end": 289,
+                        "url": "https://t.co/uIbL3Nep8i",
+                        "expanded_url": "https://twitter.com/stevectx1964/status/1429855091406905344/photo/1",
+                        "display_url": "pic.twitter.com/uIbL3Nep8i"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "username": "dcffk",
+                        "id": "71443910"
+                    },
+                    {
+                        "start": 7,
+                        "end": 20,
+                        "username": "chosen_wrong",
+                        "id": "1221885205922881542"
+                    },
+                    {
+                        "start": 21,
+                        "end": 34,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "1516350091",
+            "attachments": {
+                "media_keys": [
+                    "3_1429855083383205895"
+                ]
+            },
+            "text": "@dcffk @chosen_wrong @HoustonChron I am not an expert in veterinary medicine.   Suffice it to say  it's not FDA approved for humans or to treat or prevent covid. \nThis guy spread dangerous disinformation,  refused vaccination and took ivermectin.  He died Thursday. https://t.co/uIbL3Nep8i",
+            "possibly_sensitive": false,
+            "id": "1429855091406905344",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T17:16:33.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429853782947504128"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "71443910",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429855091406905344,
+        "text": "@dcffk @chosen_wrong @HoustonChron I am not an expert in veterinary medicine.   Suffice it to say  it's not FDA approved for humans or to treat or prevent covid. \nThis guy spread dangerous disinformation,  refused vaccination and took ivermectin.  He died Thursday. https://t.co/uIbL3Nep8i",
+        "attachments": {
+            "media_keys": [
+                "3_1429855083383205895"
+            ]
+        },
+        "author_id": 1516350091,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T17:16:33+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 108,
+                    "end": 110,
+                    "probability": 0.8441,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 266,
+                    "end": 289,
+                    "url": "https://t.co/uIbL3Nep8i",
+                    "expanded_url": "https://twitter.com/stevectx1964/status/1429855091406905344/photo/1",
+                    "display_url": "pic.twitter.com/uIbL3Nep8i"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "username": "dcffk",
+                    "id": "71443910"
+                },
+                {
+                    "start": 7,
+                    "end": 20,
+                    "username": "chosen_wrong",
+                    "id": "1221885205922881542"
+                },
+                {
+                    "start": 21,
+                    "end": 34,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 71443910,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429853782947504128"
+                },
+                "id": 1429853782947504128,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "71443910",
+            "text": "@chosen_wrong @stevectx1964 @HoustonChron Name the ingredients in the horse dewormer.",
+            "possibly_sensitive": false,
+            "id": "1429853782947504128",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T17:11:21.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429801669261463552"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "1221885205922881542",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "chosen_wrong",
+                        "id": "1221885205922881542"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "stevectx1964",
+                        "id": "1516350091"
+                    },
+                    {
+                        "start": 28,
+                        "end": 41,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429853782947504128,
+        "text": "@chosen_wrong @stevectx1964 @HoustonChron Name the ingredients in the horse dewormer.",
+        "attachments": null,
+        "author_id": 71443910,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T17:11:21+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "chosen_wrong",
+                    "id": "1221885205922881542"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "stevectx1964",
+                    "id": "1516350091"
+                },
+                {
+                    "start": 28,
+                    "end": 41,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1221885205922881542,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429801669261463552"
+                },
+                "id": 1429801669261463552,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1155547697589493760",
+            "text": "@HOUmanReporter @BigWinInTx @HoustonChron @ConroeCourier I'm not your search engine my dude.",
+            "possibly_sensitive": false,
+            "id": "1429846266066968578",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T16:41:29.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429845890487959552"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "737616924",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "HOUmanReporter",
+                        "id": "737616924"
+                    },
+                    {
+                        "start": 16,
+                        "end": 27,
+                        "username": "BigWinInTx",
+                        "id": "30587753"
+                    },
+                    {
+                        "start": 28,
+                        "end": 41,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 42,
+                        "end": 56,
+                        "username": "ConroeCourier",
+                        "id": "52495310"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429846266066968578,
+        "text": "@HOUmanReporter @BigWinInTx @HoustonChron @ConroeCourier I'm not your search engine my dude.",
+        "attachments": null,
+        "author_id": 1155547697589493760,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T16:41:29+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "HOUmanReporter",
+                    "id": "737616924"
+                },
+                {
+                    "start": 16,
+                    "end": 27,
+                    "username": "BigWinInTx",
+                    "id": "30587753"
+                },
+                {
+                    "start": 28,
+                    "end": 41,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 42,
+                    "end": 56,
+                    "username": "ConroeCourier",
+                    "id": "52495310"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 737616924,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429845890487959552"
+                },
+                "id": 1429845890487959552,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "737616924",
+            "text": "@arity2020 @BigWinInTx @HoustonChron @ConroeCourier So you can pull that out of your \ud83c\udf51 but still not provide a link to it? Typical.",
+            "possibly_sensitive": false,
+            "id": "1429845890487959552",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T16:40:00.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429840595917459462"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "1155547697589493760",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "arity2020",
+                        "id": "1155547697589493760"
+                    },
+                    {
+                        "start": 11,
+                        "end": 22,
+                        "username": "BigWinInTx",
+                        "id": "30587753"
+                    },
+                    {
+                        "start": 23,
+                        "end": 36,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 37,
+                        "end": 51,
+                        "username": "ConroeCourier",
+                        "id": "52495310"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429845890487959552,
+        "text": "@arity2020 @BigWinInTx @HoustonChron @ConroeCourier So you can pull that out of your \ud83c\udf51 but still not provide a link to it? Typical.",
+        "attachments": null,
+        "author_id": 737616924,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T16:40:00+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "arity2020",
+                    "id": "1155547697589493760"
+                },
+                {
+                    "start": 11,
+                    "end": 22,
+                    "username": "BigWinInTx",
+                    "id": "30587753"
+                },
+                {
+                    "start": 23,
+                    "end": 36,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 37,
+                    "end": 51,
+                    "username": "ConroeCourier",
+                    "id": "52495310"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1155547697589493760,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429840595917459462"
+                },
+                "id": 1429840595917459462,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1155547697589493760",
+            "text": "@BigWinInTx @HOUmanReporter @HoustonChron @ConroeCourier Okay, but my point is that there is little evidence that mask mandates for small children make any statistical difference. I mean hell, NyMag, definitely not a MAGA leaning paper, even ran a story on all of the evidence that it's not effective over the weekend.",
+            "possibly_sensitive": false,
+            "id": "1429840595917459462",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T16:18:57.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429839904259940363"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "30587753",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "BigWinInTx",
+                        "id": "30587753"
+                    },
+                    {
+                        "start": 12,
+                        "end": 27,
+                        "username": "HOUmanReporter",
+                        "id": "737616924"
+                    },
+                    {
+                        "start": 28,
+                        "end": 41,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 42,
+                        "end": 56,
+                        "username": "ConroeCourier",
+                        "id": "52495310"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429840595917459462,
+        "text": "@BigWinInTx @HOUmanReporter @HoustonChron @ConroeCourier Okay, but my point is that there is little evidence that mask mandates for small children make any statistical difference. I mean hell, NyMag, definitely not a MAGA leaning paper, even ran a story on all of the evidence that it's not effective over the weekend.",
+        "attachments": null,
+        "author_id": 1155547697589493760,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T16:18:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "BigWinInTx",
+                    "id": "30587753"
+                },
+                {
+                    "start": 12,
+                    "end": 27,
+                    "username": "HOUmanReporter",
+                    "id": "737616924"
+                },
+                {
+                    "start": 28,
+                    "end": 41,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 42,
+                    "end": 56,
+                    "username": "ConroeCourier",
+                    "id": "52495310"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 30587753,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429839904259940363"
+                },
+                "id": 1429839904259940363,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 69,
+                        "end": 78,
+                        "probability": 0.5223,
+                        "type": "Place",
+                        "normalized_text": "Conroe ISD"
+                    },
+                    {
+                        "start": 82,
+                        "end": 91,
+                        "probability": 0.2673,
+                        "type": "Organization",
+                        "normalized_text": "Conroe ISD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 142,
+                        "end": 165,
+                        "url": "https://t.co/LTrYlUl1vx",
+                        "expanded_url": "https://www.yourconroenews.com/neighborhood/moco/news/article/Conroe-ISD-one-COVID-threat-level-from-closing-16402667.php?utm_campaign=CMS%20Sharing%20Tools%20(Mobile)&utm_source=t.co&utm_medium=referral",
+                        "display_url": "yourconroenews.com/neighborhood/m\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1429118612707495937/6gvhTFW-?format=jpg&name=orig",
+                                "width": 2048,
+                                "height": 1405
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1429118612707495937/6gvhTFW-?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Conroe ISD one COVID threat level from closing campuses",
+                        "description": "The Conroe Independent School District increased its COVID-19 threat level to four the...",
+                        "unwound_url": "https://www.yourconroenews.com/neighborhood/moco/news/article/Conroe-ISD-one-COVID-threat-level-from-closing-16402667.php?utm_campaign=CMS%20Sharing%20Tools%20(Mobile)&utm_source=t.co&utm_medium=referral"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "arity2020",
+                        "id": "1155547697589493760"
+                    },
+                    {
+                        "start": 11,
+                        "end": 26,
+                        "username": "HOUmanReporter",
+                        "id": "737616924"
+                    },
+                    {
+                        "start": 27,
+                        "end": 40,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 170,
+                        "end": 184,
+                        "username": "ConroeCourier",
+                        "id": "52495310"
+                    }
+                ]
+            },
+            "author_id": "30587753",
+            "text": "@arity2020 @HOUmanReporter @HoustonChron Tell that to the parents in Conroe ISD\u2026\n\nConroe ISD now one COVID threat level from closing campuses https://t.co/LTrYlUl1vx via @ConroeCourier",
+            "geo": {
+                "place_id": "343ecdd7da8dfae0"
+            },
+            "possibly_sensitive": false,
+            "id": "1429839904259940363",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T16:16:12.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429779272835678208"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "1155547697589493760",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429839904259940363,
+        "text": "@arity2020 @HOUmanReporter @HoustonChron Tell that to the parents in Conroe ISD\u2026\n\nConroe ISD now one COVID threat level from closing campuses https://t.co/LTrYlUl1vx via @ConroeCourier",
+        "attachments": null,
+        "author_id": 30587753,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T16:16:12+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 69,
+                    "end": 78,
+                    "probability": 0.5223,
+                    "type": "Place",
+                    "normalized_text": "Conroe ISD"
+                },
+                {
+                    "start": 82,
+                    "end": 91,
+                    "probability": 0.2673,
+                    "type": "Organization",
+                    "normalized_text": "Conroe ISD"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 142,
+                    "end": 165,
+                    "url": "https://t.co/LTrYlUl1vx",
+                    "expanded_url": "https://www.yourconroenews.com/neighborhood/moco/news/article/Conroe-ISD-one-COVID-threat-level-from-closing-16402667.php?utm_campaign=CMS%20Sharing%20Tools%20(Mobile)&utm_source=t.co&utm_medium=referral",
+                    "display_url": "yourconroenews.com/neighborhood/m\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1429118612707495937/6gvhTFW-?format=jpg&name=orig",
+                            "width": 2048,
+                            "height": 1405
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1429118612707495937/6gvhTFW-?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Conroe ISD one COVID threat level from closing campuses",
+                    "description": "The Conroe Independent School District increased its COVID-19 threat level to four the...",
+                    "unwound_url": "https://www.yourconroenews.com/neighborhood/moco/news/article/Conroe-ISD-one-COVID-threat-level-from-closing-16402667.php?utm_campaign=CMS%20Sharing%20Tools%20(Mobile)&utm_source=t.co&utm_medium=referral"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "arity2020",
+                    "id": "1155547697589493760"
+                },
+                {
+                    "start": 11,
+                    "end": 26,
+                    "username": "HOUmanReporter",
+                    "id": "737616924"
+                },
+                {
+                    "start": 27,
+                    "end": 40,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 170,
+                    "end": 184,
+                    "username": "ConroeCourier",
+                    "id": "52495310"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "343ecdd7da8dfae0"
+        },
+        "in_reply_to_user_id": 1155547697589493760,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429779272835678208"
+                },
+                "id": 1429779272835678208,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1121939824674525184",
+            "text": "@HoustonChron @McClain_on_NFL My analysis shows a strong correlation in counties with Woke policies that voted for radical left democrats",
+            "possibly_sensitive": false,
+            "id": "1429825223801643009",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T15:17:52.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 14,
+                        "end": 29,
+                        "username": "McClain_on_NFL",
+                        "id": "63227257"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429825223801643009,
+        "text": "@HoustonChron @McClain_on_NFL My analysis shows a strong correlation in counties with Woke policies that voted for radical left democrats",
+        "attachments": null,
+        "author_id": 1121939824674525184,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T15:17:52+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 14,
+                    "end": 29,
+                    "username": "McClain_on_NFL",
+                    "id": "63227257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "21997211",
+            "text": "@HoustonChron Dumb people. \nGot it.",
+            "possibly_sensitive": false,
+            "id": "1429821695863500808",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T15:03:51.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429821695863500808,
+        "text": "@HoustonChron Dumb people. \nGot it.",
+        "attachments": null,
+        "author_id": 21997211,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T15:03:51+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "28654816",
+            "text": "@HoustonChron @MamaTree79 Killing one's own constituency is a strange political strategy, eh .@GovAbbott?",
+            "possibly_sensitive": false,
+            "id": "1429821622777647110",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T15:03:34.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "998665458063560704",
+                        "name": "Greg Abbott",
+                        "description": "US Governor of Texas, Greg Abbott"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "998665458063560704",
+                        "name": "Greg Abbott",
+                        "description": "US Governor of Texas, Greg Abbott"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 14,
+                        "end": 25,
+                        "username": "MamaTree79",
+                        "id": "2955555394"
+                    },
+                    {
+                        "start": 94,
+                        "end": 104,
+                        "username": "GovAbbott",
+                        "id": "19291441"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429821622777647110,
+        "text": "@HoustonChron @MamaTree79 Killing one's own constituency is a strange political strategy, eh .@GovAbbott?",
+        "attachments": null,
+        "author_id": 28654816,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "998665458063560704",
+                    "name": "Greg Abbott",
+                    "description": "US Governor of Texas, Greg Abbott"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "998665458063560704",
+                    "name": "Greg Abbott",
+                    "description": "US Governor of Texas, Greg Abbott"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T15:03:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 14,
+                    "end": 25,
+                    "username": "MamaTree79",
+                    "id": "2955555394"
+                },
+                {
+                    "start": 94,
+                    "end": 104,
+                    "username": "GovAbbott",
+                    "id": "19291441"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1221885205922881542",
+            "text": "@stevectx1964 @HoustonChron Please tell us 3 ingredients of the injectable health juice...",
+            "possibly_sensitive": false,
+            "id": "1429801669261463552",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:44:17.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429781478808956928"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850147694358036480",
+                        "name": "Juice",
+                        "description": "Juice"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "1516350091",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "stevectx1964",
+                        "id": "1516350091"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429801669261463552,
+        "text": "@stevectx1964 @HoustonChron Please tell us 3 ingredients of the injectable health juice...",
+        "attachments": null,
+        "author_id": 1221885205922881542,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850147694358036480",
+                    "name": "Juice",
+                    "description": "Juice"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T13:44:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "stevectx1964",
+                    "id": "1516350091"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1516350091,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429781478808956928"
+                },
+                "id": 1429781478808956928,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "probability": 0.7465,
+                        "type": "Person",
+                        "normalized_text": "Abbott"
+                    },
+                    {
+                        "start": 98,
+                        "end": 102,
+                        "probability": 0.2851,
+                        "type": "Place",
+                        "normalized_text": "Texas"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 105,
+                        "end": 121,
+                        "tag": "AbbotIsAFailure"
+                    },
+                    {
+                        "start": 122,
+                        "end": 138,
+                        "tag": "AbbottIsACoward"
+                    },
+                    {
+                        "start": 139,
+                        "end": 159,
+                        "tag": "TexasDeservesBetter"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "798631103502368768",
+            "text": "@HoustonChron Abbott is anti science, anti democracy, anti common sense, anti government and Anti Texas! #AbbotIsAFailure #AbbottIsACoward #TexasDeservesBetter",
+            "possibly_sensitive": false,
+            "id": "1429800668525629449",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:40:18.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429800668525629449,
+        "text": "@HoustonChron Abbott is anti science, anti democracy, anti common sense, anti government and Anti Texas! #AbbotIsAFailure #AbbottIsACoward #TexasDeservesBetter",
+        "attachments": null,
+        "author_id": 798631103502368768,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T13:40:18+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 19,
+                    "probability": 0.7465,
+                    "type": "Person",
+                    "normalized_text": "Abbott"
+                },
+                {
+                    "start": 98,
+                    "end": 102,
+                    "probability": 0.2851,
+                    "type": "Place",
+                    "normalized_text": "Texas"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 105,
+                    "end": 121,
+                    "tag": "AbbotIsAFailure"
+                },
+                {
+                    "start": 122,
+                    "end": 138,
+                    "tag": "AbbottIsACoward"
+                },
+                {
+                    "start": 139,
+                    "end": 159,
+                    "tag": "TexasDeservesBetter"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2188849368",
+            "text": "@HoustonChron When a politician cares more about his reelection than doing what's right for his district/state/country it's time to run that person out of office.",
+            "possibly_sensitive": false,
+            "id": "1429800194506465291",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:38:25.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429800194506465291,
+        "text": "@HoustonChron When a politician cares more about his reelection than doing what's right for his district/state/country it's time to run that person out of office.",
+        "attachments": null,
+        "author_id": 2188849368,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T13:38:25+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 18,
+                        "probability": 0.8305,
+                        "type": "Person",
+                        "normalized_text": "Jesus"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 20,
+                        "end": 33,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "1368213355559796736",
+            "text": "@HoustonChron Jesus @HoustonChron , can ya try to pick a fight any harder ?  No wonder nobody buys your newspaper.  Cheap ole stunts like that",
+            "possibly_sensitive": false,
+            "id": "1429796479502364673",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:23:39.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429796479502364673,
+        "text": "@HoustonChron Jesus @HoustonChron , can ya try to pick a fight any harder ?  No wonder nobody buys your newspaper.  Cheap ole stunts like that",
+        "attachments": null,
+        "author_id": 1368213355559796736,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T13:23:39+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 18,
+                    "probability": 0.8305,
+                    "type": "Person",
+                    "normalized_text": "Jesus"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 20,
+                    "end": 33,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 25,
+                        "probability": 0.9884,
+                        "type": "Person",
+                        "normalized_text": "donald trump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 56,
+                        "end": 79,
+                        "url": "https://t.co/Eg5XFtVfWU",
+                        "expanded_url": "https://www.usatoday.com/story/news/politics/onpolitics/2016/02/24/donald-trump-nevada-poorly-educated/80860078/",
+                        "display_url": "usatoday.com/story/news/pol\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486899126495232001/vmMqMddX?format=jpg&name=orig",
+                                "width": 1600,
+                                "height": 800
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486899126495232001/vmMqMddX?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Donald Trump loves the 'poorly educated' \u2014 and they love him",
+                        "description": "He may have meant meant \"less educated,\" but the numbers say they love him, too.",
+                        "unwound_url": "https://www.usatoday.com/story/news/politics/onpolitics/2016/02/24/donald-trump-nevada-poorly-educated/80860078/"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "28387347",
+            "text": "@HoustonChron donald trump loves the \u201cpoorly educated.\u201d https://t.co/Eg5XFtVfWU",
+            "possibly_sensitive": false,
+            "id": "1429792948447858689",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:09:37.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429792948447858689,
+        "text": "@HoustonChron donald trump loves the \u201cpoorly educated.\u201d https://t.co/Eg5XFtVfWU",
+        "attachments": null,
+        "author_id": 28387347,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T13:09:37+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 25,
+                    "probability": 0.9884,
+                    "type": "Person",
+                    "normalized_text": "donald trump"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 56,
+                    "end": 79,
+                    "url": "https://t.co/Eg5XFtVfWU",
+                    "expanded_url": "https://www.usatoday.com/story/news/politics/onpolitics/2016/02/24/donald-trump-nevada-poorly-educated/80860078/",
+                    "display_url": "usatoday.com/story/news/pol\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486899126495232001/vmMqMddX?format=jpg&name=orig",
+                            "width": 1600,
+                            "height": 800
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486899126495232001/vmMqMddX?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Donald Trump loves the 'poorly educated' \u2014 and they love him",
+                    "description": "He may have meant meant \"less educated,\" but the numbers say they love him, too.",
+                    "unwound_url": "https://www.usatoday.com/story/news/politics/onpolitics/2016/02/24/donald-trump-nevada-poorly-educated/80860078/"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1320755912945053698",
+            "text": "@HoustonChron In other news. Water is wet.",
+            "possibly_sensitive": false,
+            "id": "1429791996894490628",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:05:50.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429791996894490628,
+        "text": "@HoustonChron In other news. Water is wet.",
+        "attachments": null,
+        "author_id": 1320755912945053698,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T13:05:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2466344960",
+            "text": "@HoustonChron Maybe not the best idea to reward stupidity with sickness and death if you need the votes.",
+            "possibly_sensitive": false,
+            "id": "1429784625539338240",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:36:33.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429784625539338240,
+        "text": "@HoustonChron Maybe not the best idea to reward stupidity with sickness and death if you need the votes.",
+        "attachments": null,
+        "author_id": 2466344960,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:36:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "15866959",
+            "text": "@HoustonChron All it costs is our collective health. Him excluded of course because he got that VIP treatment.",
+            "possibly_sensitive": false,
+            "id": "1429784368256622593",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:35:32.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429784368256622593,
+        "text": "@HoustonChron All it costs is our collective health. Him excluded of course because he got that VIP treatment.",
+        "attachments": null,
+        "author_id": 15866959,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:35:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 31,
+                        "end": 36,
+                        "probability": 0.9077,
+                        "type": "Person",
+                        "normalized_text": "Abbott"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "docrocktex26",
+                        "id": "16582131"
+                    }
+                ]
+            },
+            "author_id": "3007181826",
+            "text": "@HoustonChron @docrocktex26 So Abbott is pandering to the most hateful and ignorant, with the rest of us and our kids paying the price in COVID risk...",
+            "possibly_sensitive": false,
+            "id": "1429783153976221697",
+            "public_metrics": {
+                "retweet_count": 4,
+                "reply_count": 0,
+                "like_count": 21,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:30:42.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429783153976221697,
+        "text": "@HoustonChron @docrocktex26 So Abbott is pandering to the most hateful and ignorant, with the rest of us and our kids paying the price in COVID risk...",
+        "attachments": null,
+        "author_id": 3007181826,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:30:42+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 31,
+                    "end": 36,
+                    "probability": 0.9077,
+                    "type": "Person",
+                    "normalized_text": "Abbott"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "docrocktex26",
+                    "id": "16582131"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 21,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 102,
+                        "end": 110,
+                        "probability": 0.5342,
+                        "type": "Person",
+                        "normalized_text": "DeSantis"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "docrocktex26",
+                        "id": "16582131"
+                    }
+                ]
+            },
+            "author_id": "1216323385258663937",
+            "text": "@HoustonChron @docrocktex26 These Governor's are killing their base, so who is going to vote for them?\nDeSantis won by the slimmest margin, now with over 45,000 deaths, he's lost his margin....",
+            "possibly_sensitive": false,
+            "id": "1429781778038935552",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:25:14.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429781778038935552,
+        "text": "@HoustonChron @docrocktex26 These Governor's are killing their base, so who is going to vote for them?\nDeSantis won by the slimmest margin, now with over 45,000 deaths, he's lost his margin....",
+        "attachments": null,
+        "author_id": 1216323385258663937,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:25:14+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 102,
+                    "end": 110,
+                    "probability": 0.5342,
+                    "type": "Person",
+                    "normalized_text": "DeSantis"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "docrocktex26",
+                    "id": "16582131"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1516350091",
+            "text": "@HoustonChron The gullible cult of dumbasses believe vaccines are dangerous but will take horse de-worming medication.   They actually believe the big lie about the election being stolen and constantly struggle to differentiate fact from lies and reality from delusions.  It's pathetic really.",
+            "possibly_sensitive": false,
+            "id": "1429781478808956928",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:24:03.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429781478808956928,
+        "text": "@HoustonChron The gullible cult of dumbasses believe vaccines are dangerous but will take horse de-worming medication.   They actually believe the big lie about the election being stolen and constantly struggle to differentiate fact from lies and reality from delusions.  It's pathetic really.",
+        "attachments": null,
+        "author_id": 1516350091,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:24:03+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "probability": 0.91,
+                        "type": "Person",
+                        "normalized_text": "Abbott"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "778060530669846528",
+            "text": "@HoustonChron It\u2019s no surprise that Abbott\u2019s trying to prevent school children from mandatory masking, (which is their only protection) in school has ZERO to do with anything health related, it\u2019s all about his political ambitions.\n\nHe\u2019s happy to sacrifice CHILDREN for his self interest.",
+            "possibly_sensitive": false,
+            "id": "1429781447703945228",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:23:55.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429781447703945228,
+        "text": "@HoustonChron It\u2019s no surprise that Abbott\u2019s trying to prevent school children from mandatory masking, (which is their only protection) in school has ZERO to do with anything health related, it\u2019s all about his political ambitions.\n\nHe\u2019s happy to sacrifice CHILDREN for his self interest.",
+        "attachments": null,
+        "author_id": 778060530669846528,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:23:55+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 41,
+                    "probability": 0.91,
+                    "type": "Person",
+                    "normalized_text": "Abbott"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "737616924",
+            "text": "@arity2020 @HoustonChron No link to your dubious claim. Why am I not surprised?",
+            "possibly_sensitive": false,
+            "id": "1429781306922110976",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:23:22.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429779272835678208"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "1155547697589493760",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "arity2020",
+                        "id": "1155547697589493760"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429781306922110976,
+        "text": "@arity2020 @HoustonChron No link to your dubious claim. Why am I not surprised?",
+        "attachments": null,
+        "author_id": 737616924,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:23:22+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "arity2020",
+                    "id": "1155547697589493760"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1155547697589493760,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429779272835678208"
+                },
+                "id": 1429779272835678208,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 20,
+                        "probability": 0.9206,
+                        "type": "Place",
+                        "normalized_text": "America"
+                    },
+                    {
+                        "start": 46,
+                        "end": 51,
+                        "probability": 0.8501,
+                        "type": "Person",
+                        "normalized_text": "Abbott"
+                    },
+                    {
+                        "start": 55,
+                        "end": 59,
+                        "probability": 0.923,
+                        "type": "Place",
+                        "normalized_text": "Texas"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "1381083324173664258",
+            "text": "@HoustonChron America First will not vote for Abbott.  Texas needs a true constitutional conservative.  Not someone who rules by mandate.",
+            "possibly_sensitive": false,
+            "id": "1429781061651910657",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:22:23.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429781061651910657,
+        "text": "@HoustonChron America First will not vote for Abbott.  Texas needs a true constitutional conservative.  Not someone who rules by mandate.",
+        "attachments": null,
+        "author_id": 1381083324173664258,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:22:23+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 20,
+                    "probability": 0.9206,
+                    "type": "Place",
+                    "normalized_text": "America"
+                },
+                {
+                    "start": 46,
+                    "end": 51,
+                    "probability": 0.8501,
+                    "type": "Person",
+                    "normalized_text": "Abbott"
+                },
+                {
+                    "start": 55,
+                    "end": 59,
+                    "probability": 0.923,
+                    "type": "Place",
+                    "normalized_text": "Texas"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "4665506956",
+            "text": "@HoustonChron What is dominant media in the couties?",
+            "possibly_sensitive": false,
+            "id": "1429780737822167043",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:21:06.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429780737822167043,
+        "text": "@HoustonChron What is dominant media in the couties?",
+        "attachments": null,
+        "author_id": 4665506956,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:21:06+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1155547697589493760",
+            "text": "@HoustonChron Lmao",
+            "possibly_sensitive": false,
+            "id": "1429779381791203328",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:15:43.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "lang": "ht"
+        },
+        "id": 1429779381791203328,
+        "text": "@HoustonChron Lmao",
+        "attachments": null,
+        "author_id": 1155547697589493760,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:15:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "ht",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 33,
+                        "end": 39,
+                        "probability": 0.9948,
+                        "type": "Place",
+                        "normalized_text": "Florida"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "HOUmanReporter",
+                        "id": "737616924"
+                    },
+                    {
+                        "start": 16,
+                        "end": 29,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "author_id": "1155547697589493760",
+            "text": "@HOUmanReporter @HoustonChron In Florida, which was in school all of last year, the 27 districts that did not have mask mandates showed no statistical difference in the # of covid cases as the 50 something districts that did have mask mandates. There is little evidence that mask mandates in schools work.",
+            "possibly_sensitive": false,
+            "id": "1429779272835678208",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:15:17.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429776627471372291"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "737616924",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429779272835678208,
+        "text": "@HOUmanReporter @HoustonChron In Florida, which was in school all of last year, the 27 districts that did not have mask mandates showed no statistical difference in the # of covid cases as the 50 something districts that did have mask mandates. There is little evidence that mask mandates in schools work.",
+        "attachments": null,
+        "author_id": 1155547697589493760,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:15:17+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 33,
+                    "end": 39,
+                    "probability": 0.9948,
+                    "type": "Place",
+                    "normalized_text": "Florida"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "HOUmanReporter",
+                    "id": "737616924"
+                },
+                {
+                    "start": 16,
+                    "end": 29,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 737616924,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429776627471372291"
+                },
+                "id": 1429776627471372291,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "737616924",
+            "attachments": {
+                "media_keys": [
+                    "3_1429776618600505349"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 70,
+                        "end": 93,
+                        "url": "https://t.co/mnERTtSTyx",
+                        "expanded_url": "https://twitter.com/HOUmanReporter/status/1429776627471372291/photo/1",
+                        "display_url": "pic.twitter.com/mnERTtSTyx"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "HoustonChron",
+                        "id": "8940342"
+                    }
+                ]
+            },
+            "text": "@HoustonChron Next map where the school outbreaks are most prevalent. https://t.co/mnERTtSTyx",
+            "possibly_sensitive": false,
+            "id": "1429776627471372291",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T12:04:46.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "8940342",
+            "conversation_id": "1429775440118435847",
+            "lang": "en"
+        },
+        "id": 1429776627471372291,
+        "text": "@HoustonChron Next map where the school outbreaks are most prevalent. https://t.co/mnERTtSTyx",
+        "attachments": {
+            "media_keys": [
+                "3_1429776618600505349"
+            ]
+        },
+        "author_id": 737616924,
+        "context_annotations": [],
+        "conversation_id": 1429775440118435847,
+        "created_at": "2021-08-23T12:04:46+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/mnERTtSTyx",
+                    "expanded_url": "https://twitter.com/HOUmanReporter/status/1429776627471372291/photo/1",
+                    "display_url": "pic.twitter.com/mnERTtSTyx"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "HoustonChron",
+                    "id": "8940342"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 8940342,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429775440118435847"
+                },
+                "id": 1429775440118435847,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

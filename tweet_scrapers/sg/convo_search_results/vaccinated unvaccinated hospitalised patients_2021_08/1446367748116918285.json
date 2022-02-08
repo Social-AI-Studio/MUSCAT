@@ -1,0 +1,106 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "257958883",
+            "conversation_id": "1446367748116918285",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1446367748116918285"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "@HeidiGiokos Since just less than 20% of pop are vaccinated it represents the general population indicating no benefit to being vaccinated.  Most other centers indicate over 95% are not vaccinated or &lt; 5% are vaccinated . Something not correct with that stat",
+            "id": "1446371226386116624",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "HeidiGiokos",
+                        "id": "257958883"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-10-08T07:05:47.000Z",
+            "author_id": "2911140202"
+        },
+        "id": 1446371226386116624,
+        "text": "@HeidiGiokos Since just less than 20% of pop are vaccinated it represents the general population indicating no benefit to being vaccinated.  Most other centers indicate over 95% are not vaccinated or &lt; 5% are vaccinated . Something not correct with that stat",
+        "attachments": null,
+        "author_id": 2911140202,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1446367748116918285,
+        "created_at": "2021-10-08T07:05:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "HeidiGiokos",
+                    "id": "257958883"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 257958883,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1446367748116918285"
+                },
+                "id": 1446367748116918285,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

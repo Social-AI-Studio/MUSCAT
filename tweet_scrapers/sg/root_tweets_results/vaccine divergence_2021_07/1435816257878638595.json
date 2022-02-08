@@ -1,0 +1,334 @@
+[
+    {
+        "data": {
+            "author_id": "273031495",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 184,
+                        "end": 187,
+                        "probability": 0.9318,
+                        "type": "Person",
+                        "normalized_text": "Greg"
+                    },
+                    {
+                        "start": 228,
+                        "end": 231,
+                        "probability": 0.98,
+                        "type": "Person",
+                        "normalized_text": "Andy"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 233,
+                        "end": 256,
+                        "url": "https://t.co/m931kkZrJ4",
+                        "expanded_url": "https://twitter.com/GDNPearson/status/1435816257878638595",
+                        "display_url": "twitter.com/GDNPearson/sta\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1435862264398106625",
+            "text": "Yes! I highly recommend this pod cast if you want to hear a good update on current status of vaccines, boosters, mechanism of vaccine protection, and even new pharmaceutical research. Greg beat me to posting this! \ud83d\ude09 Good show, Andy! https://t.co/m931kkZrJ4",
+            "created_at": "2021-09-09T07:06:55.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1435862264398106625",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1435816257878638595"
+                }
+            ]
+        },
+        "id": 1435862264398106625,
+        "text": "Yes! I highly recommend this pod cast if you want to hear a good update on current status of vaccines, boosters, mechanism of vaccine protection, and even new pharmaceutical research. Greg beat me to posting this! \ud83d\ude09 Good show, Andy! https://t.co/m931kkZrJ4",
+        "attachments": null,
+        "author_id": 273031495,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435862264398106625,
+        "created_at": "2021-09-09T07:06:55+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 184,
+                    "end": 187,
+                    "probability": 0.9318,
+                    "type": "Person",
+                    "normalized_text": "Greg"
+                },
+                {
+                    "start": 228,
+                    "end": 231,
+                    "probability": 0.98,
+                    "type": "Person",
+                    "normalized_text": "Andy"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 233,
+                    "end": 256,
+                    "url": "https://t.co/m931kkZrJ4",
+                    "expanded_url": "https://twitter.com/GDNPearson/status/1435816257878638595",
+                    "display_url": "twitter.com/GDNPearson/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "200348319",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 10,
+                        "end": 22,
+                        "probability": 0.6319,
+                        "type": "Product",
+                        "normalized_text": "Hep B booster"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 125,
+                        "end": 148,
+                        "url": "https://t.co/UB52g7RxW8",
+                        "expanded_url": "https://twitter.com/GDNPearson/status/1435816257878638595",
+                        "display_url": "twitter.com/GDNPearson/sta\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1435830383564705792",
+            "text": "I have my Hep B booster coming up; and I had booster shots as a kid.\nI\u2019ll get the Covid vaccine booster when it\u2019s available. https://t.co/UB52g7RxW8",
+            "created_at": "2021-09-09T05:00:14.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "conversation_id": "1435830383564705792",
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1435816257878638595"
+                }
+            ]
+        },
+        "id": 1435830383564705792,
+        "text": "I have my Hep B booster coming up; and I had booster shots as a kid.\nI\u2019ll get the Covid vaccine booster when it\u2019s available. https://t.co/UB52g7RxW8",
+        "attachments": null,
+        "author_id": 200348319,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435830383564705792,
+        "created_at": "2021-09-09T05:00:14+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 10,
+                    "end": 22,
+                    "probability": 0.6319,
+                    "type": "Product",
+                    "normalized_text": "Hep B booster"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 125,
+                    "end": 148,
+                    "url": "https://t.co/UB52g7RxW8",
+                    "expanded_url": "https://twitter.com/GDNPearson/status/1435816257878638595",
+                    "display_url": "twitter.com/GDNPearson/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

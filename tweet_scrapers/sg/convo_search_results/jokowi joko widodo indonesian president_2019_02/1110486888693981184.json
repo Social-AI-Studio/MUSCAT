@@ -1,0 +1,1281 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                }
+            ],
+            "created_at": "2019-03-26T11:56:56.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 152,
+                        "end": 175,
+                        "url": "https://t.co/Ik7mJNWvXK",
+                        "expanded_url": "https://twitter.com/jkmccrann/status/1110510946600910851/video/1",
+                        "display_url": "pic.twitter.com/Ik7mJNWvXK"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "BuffBendy",
+                        "id": "830427164"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "LindaMottram",
+                        "id": "82790149"
+                    },
+                    {
+                        "start": 25,
+                        "end": 39,
+                        "username": "LowyInstitute",
+                        "id": "83521919"
+                    },
+                    {
+                        "start": 40,
+                        "end": 48,
+                        "username": "abcnews",
+                        "id": "2768501"
+                    },
+                    {
+                        "start": 49,
+                        "end": 56,
+                        "username": "jokowi",
+                        "id": "366987179"
+                    }
+                ]
+            },
+            "author_id": "27573850",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1110510946600910851",
+            "text": "@BuffBendy @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Lol. Picks up everything doesn't it. Maybe I should run this video through it https://t.co/Ik7mJNWvXK",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1110510453237571584"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1110486888693981184",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "830427164",
+            "attachments": {
+                "media_keys": [
+                    "7_1110510726311886848"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1110510946600910851,
+        "text": "@BuffBendy @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Lol. Picks up everything doesn't it. Maybe I should run this video through it https://t.co/Ik7mJNWvXK",
+        "attachments": {
+            "media_keys": [
+                "7_1110510726311886848"
+            ]
+        },
+        "author_id": 27573850,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            }
+        ],
+        "conversation_id": 1110486888693981184,
+        "created_at": "2019-03-26T11:56:56+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 152,
+                    "end": 175,
+                    "url": "https://t.co/Ik7mJNWvXK",
+                    "expanded_url": "https://twitter.com/jkmccrann/status/1110510946600910851/video/1",
+                    "display_url": "pic.twitter.com/Ik7mJNWvXK"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "BuffBendy",
+                    "id": "830427164"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "LindaMottram",
+                    "id": "82790149"
+                },
+                {
+                    "start": 25,
+                    "end": 39,
+                    "username": "LowyInstitute",
+                    "id": "83521919"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "username": "abcnews",
+                    "id": "2768501"
+                },
+                {
+                    "start": 49,
+                    "end": 56,
+                    "username": "jokowi",
+                    "id": "366987179"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 830427164,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1110510453237571584"
+                },
+                "id": 1110510453237571584,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                }
+            ],
+            "created_at": "2019-03-26T11:55:48.000Z",
+            "author_id": "830427164",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1110510661484699648",
+            "text": "@jkmccrann @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Linda Lovelace?",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1110510320244547584"
+                }
+            ],
+            "source": "Twitter for iPad",
+            "conversation_id": "1110486888693981184",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "jkmccrann",
+                        "id": "27573850"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "LindaMottram",
+                        "id": "82790149"
+                    },
+                    {
+                        "start": 25,
+                        "end": 39,
+                        "username": "LowyInstitute",
+                        "id": "83521919"
+                    },
+                    {
+                        "start": 40,
+                        "end": 48,
+                        "username": "abcnews",
+                        "id": "2768501"
+                    },
+                    {
+                        "start": 49,
+                        "end": 56,
+                        "username": "jokowi",
+                        "id": "366987179"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 74,
+                        "end": 87,
+                        "probability": 0.8755,
+                        "type": "Person",
+                        "normalized_text": "Linda Lovelace"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "27573850",
+            "reply_settings": "everyone"
+        },
+        "id": 1110510661484699648,
+        "text": "@jkmccrann @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Linda Lovelace?",
+        "attachments": null,
+        "author_id": 830427164,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            }
+        ],
+        "conversation_id": 1110486888693981184,
+        "created_at": "2019-03-26T11:55:48+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "jkmccrann",
+                    "id": "27573850"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "LindaMottram",
+                    "id": "82790149"
+                },
+                {
+                    "start": 25,
+                    "end": 39,
+                    "username": "LowyInstitute",
+                    "id": "83521919"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "username": "abcnews",
+                    "id": "2768501"
+                },
+                {
+                    "start": 49,
+                    "end": 56,
+                    "username": "jokowi",
+                    "id": "366987179"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 74,
+                    "end": 87,
+                    "probability": 0.8755,
+                    "type": "Person",
+                    "normalized_text": "Linda Lovelace"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 27573850,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1110510320244547584"
+                },
+                "id": 1110510320244547584,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                }
+            ],
+            "created_at": "2019-03-26T11:54:58.000Z",
+            "author_id": "830427164",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1110510453237571584",
+            "text": "@jkmccrann @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Oh man! #meltinyamouthwater gonna explode",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1110506843841814534"
+                }
+            ],
+            "source": "Twitter for iPad",
+            "conversation_id": "1110486888693981184",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 82,
+                        "end": 101,
+                        "tag": "meltinyamouthwater"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "jkmccrann",
+                        "id": "27573850"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "LindaMottram",
+                        "id": "82790149"
+                    },
+                    {
+                        "start": 25,
+                        "end": 39,
+                        "username": "LowyInstitute",
+                        "id": "83521919"
+                    },
+                    {
+                        "start": 40,
+                        "end": 48,
+                        "username": "abcnews",
+                        "id": "2768501"
+                    },
+                    {
+                        "start": 49,
+                        "end": 56,
+                        "username": "jokowi",
+                        "id": "366987179"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "27573850",
+            "reply_settings": "everyone"
+        },
+        "id": 1110510453237571584,
+        "text": "@jkmccrann @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Oh man! #meltinyamouthwater gonna explode",
+        "attachments": null,
+        "author_id": 830427164,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            }
+        ],
+        "conversation_id": 1110486888693981184,
+        "created_at": "2019-03-26T11:54:58+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 82,
+                    "end": 101,
+                    "tag": "meltinyamouthwater"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "jkmccrann",
+                    "id": "27573850"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "LindaMottram",
+                    "id": "82790149"
+                },
+                {
+                    "start": 25,
+                    "end": 39,
+                    "username": "LowyInstitute",
+                    "id": "83521919"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "username": "abcnews",
+                    "id": "2768501"
+                },
+                {
+                    "start": 49,
+                    "end": 56,
+                    "username": "jokowi",
+                    "id": "366987179"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 27573850,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1110506843841814534"
+                },
+                "id": 1110506843841814534,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                }
+            ],
+            "created_at": "2019-03-26T11:54:27.000Z",
+            "author_id": "27573850",
+            "lang": "ca",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1110510320244547584",
+            "text": "@BuffBendy @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline In Portuguese Linda is a huge compliment.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1110510203454119936"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1110486888693981184",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "BuffBendy",
+                        "id": "830427164"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "LindaMottram",
+                        "id": "82790149"
+                    },
+                    {
+                        "start": 25,
+                        "end": 39,
+                        "username": "LowyInstitute",
+                        "id": "83521919"
+                    },
+                    {
+                        "start": 40,
+                        "end": 48,
+                        "username": "abcnews",
+                        "id": "2768501"
+                    },
+                    {
+                        "start": 49,
+                        "end": 56,
+                        "username": "jokowi",
+                        "id": "366987179"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "830427164",
+            "reply_settings": "everyone"
+        },
+        "id": 1110510320244547584,
+        "text": "@BuffBendy @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline In Portuguese Linda is a huge compliment.",
+        "attachments": null,
+        "author_id": 27573850,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            }
+        ],
+        "conversation_id": 1110486888693981184,
+        "created_at": "2019-03-26T11:54:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "BuffBendy",
+                    "id": "830427164"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "LindaMottram",
+                    "id": "82790149"
+                },
+                {
+                    "start": 25,
+                    "end": 39,
+                    "username": "LowyInstitute",
+                    "id": "83521919"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "username": "abcnews",
+                    "id": "2768501"
+                },
+                {
+                    "start": 49,
+                    "end": 56,
+                    "username": "jokowi",
+                    "id": "366987179"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 830427164,
+        "lang": "ca",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1110510203454119936"
+                },
+                "id": 1110510203454119936,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                }
+            ],
+            "created_at": "2019-03-26T11:53:59.000Z",
+            "author_id": "830427164",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1110510203454119936",
+            "text": "@jkmccrann @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Who\u2019s Linda? Isn\u2019t @jokowi a #headbanger?",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1110506843841814534"
+                }
+            ],
+            "source": "Twitter for iPad",
+            "conversation_id": "1110486888693981184",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 103,
+                        "end": 114,
+                        "tag": "headbanger"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "jkmccrann",
+                        "id": "27573850"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "LindaMottram",
+                        "id": "82790149"
+                    },
+                    {
+                        "start": 25,
+                        "end": 39,
+                        "username": "LowyInstitute",
+                        "id": "83521919"
+                    },
+                    {
+                        "start": 40,
+                        "end": 48,
+                        "username": "abcnews",
+                        "id": "2768501"
+                    },
+                    {
+                        "start": 49,
+                        "end": 56,
+                        "username": "jokowi",
+                        "id": "366987179"
+                    },
+                    {
+                        "start": 93,
+                        "end": 100,
+                        "username": "jokowi",
+                        "id": "366987179"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 80,
+                        "end": 84,
+                        "probability": 0.4812,
+                        "type": "Person",
+                        "normalized_text": "Linda"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "27573850",
+            "reply_settings": "everyone"
+        },
+        "id": 1110510203454119936,
+        "text": "@jkmccrann @LindaMottram @LowyInstitute @abcnews @jokowi @roymorganonline Who\u2019s Linda? Isn\u2019t @jokowi a #headbanger?",
+        "attachments": null,
+        "author_id": 830427164,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            }
+        ],
+        "conversation_id": 1110486888693981184,
+        "created_at": "2019-03-26T11:53:59+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 103,
+                    "end": 114,
+                    "tag": "headbanger"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "jkmccrann",
+                    "id": "27573850"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "LindaMottram",
+                    "id": "82790149"
+                },
+                {
+                    "start": 25,
+                    "end": 39,
+                    "username": "LowyInstitute",
+                    "id": "83521919"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "username": "abcnews",
+                    "id": "2768501"
+                },
+                {
+                    "start": 49,
+                    "end": 56,
+                    "username": "jokowi",
+                    "id": "366987179"
+                },
+                {
+                    "start": 93,
+                    "end": 100,
+                    "username": "jokowi",
+                    "id": "366987179"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 80,
+                    "end": 84,
+                    "probability": 0.4812,
+                    "type": "Person",
+                    "normalized_text": "Linda"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 27573850,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1110506843841814534"
+                },
+                "id": 1110506843841814534,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "897321707639152640",
+                        "name": "Joko Widodo",
+                        "description": "President of Indonesia Joko Widodo"
+                    }
+                }
+            ],
+            "created_at": "2019-03-26T11:40:38.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 213,
+                        "end": 236,
+                        "url": "https://t.co/iryj4xFfgy",
+                        "expanded_url": "http://www.roymorgan.com/findings/7914-indonesian-vote-march-2019-201903220540",
+                        "display_url": "roymorgan.com/findings/7914-\u2026",
+                        "status": 200,
+                        "unwound_url": "http://www.roymorgan.com/findings/7914-indonesian-vote-march-2019-201903220540"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 155,
+                        "end": 163,
+                        "tag": "prabowo"
+                    },
+                    {
+                        "start": 164,
+                        "end": 171,
+                        "tag": "jokowi"
+                    },
+                    {
+                        "start": 172,
+                        "end": 177,
+                        "tag": "joko"
+                    },
+                    {
+                        "start": 178,
+                        "end": 185,
+                        "tag": "widodo"
+                    },
+                    {
+                        "start": 186,
+                        "end": 195,
+                        "tag": "subianto"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "LindaMottram",
+                        "id": "82790149"
+                    },
+                    {
+                        "start": 14,
+                        "end": 28,
+                        "username": "LowyInstitute",
+                        "id": "83521919"
+                    },
+                    {
+                        "start": 29,
+                        "end": 37,
+                        "username": "abcnews",
+                        "id": "2768501"
+                    },
+                    {
+                        "start": 48,
+                        "end": 55,
+                        "username": "jokowi",
+                        "id": "366987179"
+                    },
+                    {
+                        "start": 142,
+                        "end": 152,
+                        "username": "BuffBendy",
+                        "id": "830427164"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 76,
+                        "end": 80,
+                        "probability": 0.7079,
+                        "type": "Person",
+                        "normalized_text": "Linda"
+                    },
+                    {
+                        "start": 109,
+                        "end": 115,
+                        "probability": 0.8869,
+                        "type": "Place",
+                        "normalized_text": "Jakarta"
+                    }
+                ]
+            },
+            "author_id": "27573850",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1110506843841814534",
+            "text": "@LindaMottram @LowyInstitute @abcnews President @jokowi cruising to victory Linda. Jokowi's strength outside Jakarta is immense. Do you agree @BuffBendy ? #prabowo #jokowi #joko #widodo #subianto @roymorganonline https://t.co/iryj4xFfgy",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1110486888693981184"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1110486888693981184",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "82790149",
+            "reply_settings": "everyone"
+        },
+        "id": 1110506843841814534,
+        "text": "@LindaMottram @LowyInstitute @abcnews President @jokowi cruising to victory Linda. Jokowi's strength outside Jakarta is immense. Do you agree @BuffBendy ? #prabowo #jokowi #joko #widodo #subianto @roymorganonline https://t.co/iryj4xFfgy",
+        "attachments": null,
+        "author_id": 27573850,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "897321707639152640",
+                    "name": "Joko Widodo",
+                    "description": "President of Indonesia Joko Widodo"
+                }
+            }
+        ],
+        "conversation_id": 1110486888693981184,
+        "created_at": "2019-03-26T11:40:38+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 213,
+                    "end": 236,
+                    "url": "https://t.co/iryj4xFfgy",
+                    "expanded_url": "http://www.roymorgan.com/findings/7914-indonesian-vote-march-2019-201903220540",
+                    "display_url": "roymorgan.com/findings/7914-\u2026",
+                    "status": 200,
+                    "unwound_url": "http://www.roymorgan.com/findings/7914-indonesian-vote-march-2019-201903220540"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 155,
+                    "end": 163,
+                    "tag": "prabowo"
+                },
+                {
+                    "start": 164,
+                    "end": 171,
+                    "tag": "jokowi"
+                },
+                {
+                    "start": 172,
+                    "end": 177,
+                    "tag": "joko"
+                },
+                {
+                    "start": 178,
+                    "end": 185,
+                    "tag": "widodo"
+                },
+                {
+                    "start": 186,
+                    "end": 195,
+                    "tag": "subianto"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "LindaMottram",
+                    "id": "82790149"
+                },
+                {
+                    "start": 14,
+                    "end": 28,
+                    "username": "LowyInstitute",
+                    "id": "83521919"
+                },
+                {
+                    "start": 29,
+                    "end": 37,
+                    "username": "abcnews",
+                    "id": "2768501"
+                },
+                {
+                    "start": 48,
+                    "end": 55,
+                    "username": "jokowi",
+                    "id": "366987179"
+                },
+                {
+                    "start": 142,
+                    "end": 152,
+                    "username": "BuffBendy",
+                    "id": "830427164"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 76,
+                    "end": 80,
+                    "probability": 0.7079,
+                    "type": "Person",
+                    "normalized_text": "Linda"
+                },
+                {
+                    "start": 109,
+                    "end": 115,
+                    "probability": 0.8869,
+                    "type": "Place",
+                    "normalized_text": "Jakarta"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 82790149,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1110486888693981184"
+                },
+                "id": 1110486888693981184,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

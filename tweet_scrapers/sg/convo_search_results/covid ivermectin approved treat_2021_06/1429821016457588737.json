@@ -1,0 +1,765 @@
+[
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1429821016457588737",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429821016457588737"
+                }
+            ],
+            "in_reply_to_user_id": "141682204",
+            "author_id": "1225801015397453824",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1155921139824132096",
+                        "name": "Kurt Schlichter"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1155921139824132096",
+                        "name": "Kurt Schlichter"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-08-24T14:58:44.000Z",
+            "source": "Twitter for Android",
+            "text": "@AaronWorthing @KurtSchlichter @PolitiBunny How do these people not question what they're seeing? No critical thinking at all.",
+            "id": "1430182794869755927",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "AaronWorthing",
+                        "id": "141682204"
+                    },
+                    {
+                        "start": 15,
+                        "end": 30,
+                        "username": "KurtSchlichter",
+                        "id": "18089606"
+                    },
+                    {
+                        "start": 31,
+                        "end": 43,
+                        "username": "PolitiBunny",
+                        "id": "35051304"
+                    }
+                ]
+            },
+            "possibly_sensitive": false
+        },
+        "id": 1430182794869755927,
+        "text": "@AaronWorthing @KurtSchlichter @PolitiBunny How do these people not question what they're seeing? No critical thinking at all.",
+        "attachments": null,
+        "author_id": 1225801015397453824,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1155921139824132096",
+                    "name": "Kurt Schlichter"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1155921139824132096",
+                    "name": "Kurt Schlichter"
+                }
+            }
+        ],
+        "conversation_id": 1429821016457588737,
+        "created_at": "2021-08-24T14:58:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "AaronWorthing",
+                    "id": "141682204"
+                },
+                {
+                    "start": 15,
+                    "end": 30,
+                    "username": "KurtSchlichter",
+                    "id": "18089606"
+                },
+                {
+                    "start": 31,
+                    "end": 43,
+                    "username": "PolitiBunny",
+                    "id": "35051304"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 141682204,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429821016457588737"
+                },
+                "id": 1429821016457588737,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 114,
+                        "end": 137,
+                        "url": "https://t.co/aK8lUjbmmY",
+                        "expanded_url": "https://threadreaderapp.com/thread/1429821016457588737.html",
+                        "display_url": "threadreaderapp.com/thread/1429821\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1430027821909413888/Pg96eWNy?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 628
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1430027821909413888/Pg96eWNy?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Thread by @AaronWorthing on Thread Reader App",
+                        "description": "Thread by @AaronWorthing: Your little meme is directly contradicted by the FDA\u2019s website fda.gov/consumers/cons\u2026 Relevant passage is in the pic. According to the FDA, humans are approved to use it, just not for COV...\u2026",
+                        "unwound_url": "https://threadreaderapp.com/thread/1429821016457588737.html"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 99,
+                        "end": 101,
+                        "probability": 0.9368,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "Tiberiu75295479",
+                        "id": "1082317884120981505"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1429821016457588737",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1430027780037566468"
+                }
+            ],
+            "in_reply_to_user_id": "1082317884120981505",
+            "author_id": "895814938995957760",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-08-24T04:42:52.000Z",
+            "source": "ThreadReaderApp",
+            "text": "@Tiberiu75295479 Hi! please find the unroll here: Your little meme is directly contradicted by the FDA\u2019s website\u2026 https://t.co/aK8lUjbmmY Have a good day. \ud83e\udd16",
+            "id": "1430027806898102275",
+            "possibly_sensitive": false
+        },
+        "id": 1430027806898102275,
+        "text": "@Tiberiu75295479 Hi! please find the unroll here: Your little meme is directly contradicted by the FDA\u2019s website\u2026 https://t.co/aK8lUjbmmY Have a good day. \ud83e\udd16",
+        "attachments": null,
+        "author_id": 895814938995957760,
+        "context_annotations": [],
+        "conversation_id": 1429821016457588737,
+        "created_at": "2021-08-24T04:42:52+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/aK8lUjbmmY",
+                    "expanded_url": "https://threadreaderapp.com/thread/1429821016457588737.html",
+                    "display_url": "threadreaderapp.com/thread/1429821\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1430027821909413888/Pg96eWNy?format=jpg&name=orig",
+                            "width": 1200,
+                            "height": 628
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1430027821909413888/Pg96eWNy?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Thread by @AaronWorthing on Thread Reader App",
+                    "description": "Thread by @AaronWorthing: Your little meme is directly contradicted by the FDA\u2019s website fda.gov/consumers/cons\u2026 Relevant passage is in the pic. According to the FDA, humans are approved to use it, just not for COV...\u2026",
+                    "unwound_url": "https://threadreaderapp.com/thread/1429821016457588737.html"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 99,
+                    "end": 101,
+                    "probability": 0.9368,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "Tiberiu75295479",
+                    "id": "1082317884120981505"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1082317884120981505,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1430027780037566468"
+                },
+                "id": 1430027780037566468,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "ThreadReaderApp",
+        "withheld": null
+    },
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1429821016457588737",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429821016457588737"
+                }
+            ],
+            "in_reply_to_user_id": "141682204",
+            "author_id": "1082317884120981505",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1155921139824132096",
+                        "name": "Kurt Schlichter"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1155921139824132096",
+                        "name": "Kurt Schlichter"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-08-24T04:42:46.000Z",
+            "source": "Twitter for Android",
+            "text": "@AaronWorthing @KurtSchlichter @PolitiBunny @threadreaderapp please unroll",
+            "id": "1430027780037566468",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "AaronWorthing",
+                        "id": "141682204"
+                    },
+                    {
+                        "start": 15,
+                        "end": 30,
+                        "username": "KurtSchlichter",
+                        "id": "18089606"
+                    },
+                    {
+                        "start": 31,
+                        "end": 43,
+                        "username": "PolitiBunny",
+                        "id": "35051304"
+                    },
+                    {
+                        "start": 44,
+                        "end": 60,
+                        "username": "threadreaderapp",
+                        "id": "895814938995957760"
+                    }
+                ]
+            },
+            "possibly_sensitive": false
+        },
+        "id": 1430027780037566468,
+        "text": "@AaronWorthing @KurtSchlichter @PolitiBunny @threadreaderapp please unroll",
+        "attachments": null,
+        "author_id": 1082317884120981505,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1155921139824132096",
+                    "name": "Kurt Schlichter"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1155921139824132096",
+                    "name": "Kurt Schlichter"
+                }
+            }
+        ],
+        "conversation_id": 1429821016457588737,
+        "created_at": "2021-08-24T04:42:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "AaronWorthing",
+                    "id": "141682204"
+                },
+                {
+                    "start": 15,
+                    "end": 30,
+                    "username": "KurtSchlichter",
+                    "id": "18089606"
+                },
+                {
+                    "start": 31,
+                    "end": 43,
+                    "username": "PolitiBunny",
+                    "id": "35051304"
+                },
+                {
+                    "start": 44,
+                    "end": 60,
+                    "username": "threadreaderapp",
+                    "id": "895814938995957760"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 141682204,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429821016457588737"
+                },
+                "id": 1429821016457588737,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1429821016457588737",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429821018755973127"
+                }
+            ],
+            "in_reply_to_user_id": "141682204",
+            "author_id": "141682204",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-08-23T15:01:10.000Z",
+            "source": "Twitter for iPhone",
+            "text": "3/? And I\u2019ve taken the vax. But I understand perfectly why they are skeptical. /end",
+            "id": "1429821019888496644",
+            "possibly_sensitive": false
+        },
+        "id": 1429821019888496644,
+        "text": "3/? And I\u2019ve taken the vax. But I understand perfectly why they are skeptical. /end",
+        "attachments": null,
+        "author_id": 141682204,
+        "context_annotations": [],
+        "conversation_id": 1429821016457588737,
+        "created_at": "2021-08-23T15:01:10+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 141682204,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429821018755973127"
+                },
+                "id": 1429821018755973127,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1429821016457588737",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429821016457588737"
+                }
+            ],
+            "in_reply_to_user_id": "141682204",
+            "author_id": "141682204",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026378521",
+                        "name": "Google "
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "1395474411180892160",
+                        "name": "Google brand conversation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-08-23T15:01:10.000Z",
+            "source": "Twitter for iPhone",
+            "text": "2/? Seriously, you want to know why ppl are so hesitant about the vaccine? Maybe look in the mirror. It took me five seconds on google to debunk your suggestion that no human should take the drug for any reason. We see you lying about science all the time.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 128,
+                        "end": 133,
+                        "probability": 0.5754,
+                        "type": "Product",
+                        "normalized_text": "google"
+                    }
+                ]
+            },
+            "id": "1429821018755973127",
+            "possibly_sensitive": false
+        },
+        "id": 1429821018755973127,
+        "text": "2/? Seriously, you want to know why ppl are so hesitant about the vaccine? Maybe look in the mirror. It took me five seconds on google to debunk your suggestion that no human should take the drug for any reason. We see you lying about science all the time.",
+        "attachments": null,
+        "author_id": 141682204,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026378521",
+                    "name": "Google "
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "1395474411180892160",
+                    "name": "Google brand conversation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429821016457588737,
+        "created_at": "2021-08-23T15:01:10+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 128,
+                    "end": 133,
+                    "probability": 0.5754,
+                    "type": "Product",
+                    "normalized_text": "google"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 141682204,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429821016457588737"
+                },
+                "id": 1429821016457588737,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

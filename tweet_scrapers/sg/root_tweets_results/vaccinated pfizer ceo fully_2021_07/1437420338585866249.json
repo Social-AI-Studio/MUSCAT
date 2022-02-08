@@ -1,0 +1,107 @@
+[
+    {
+        "data": {
+            "created_at": "2021-09-13T14:18:47.000Z",
+            "reply_settings": "everyone",
+            "text": "The top 2 for sure https://t.co/Y4wKGYUhTl",
+            "id": "1437420498397241345",
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 19,
+                        "end": 42,
+                        "url": "https://t.co/Y4wKGYUhTl",
+                        "expanded_url": "https://twitter.com/LegendaryEnergy/status/1437420338585866249",
+                        "display_url": "twitter.com/LegendaryEnerg\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437420338585866249"
+                }
+            ],
+            "author_id": "1295589917305614336",
+            "conversation_id": "1437420498397241345",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ]
+        },
+        "id": 1437420498397241345,
+        "text": "The top 2 for sure https://t.co/Y4wKGYUhTl",
+        "attachments": null,
+        "author_id": 1295589917305614336,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437420498397241345,
+        "created_at": "2021-09-13T14:18:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 42,
+                    "url": "https://t.co/Y4wKGYUhTl",
+                    "expanded_url": "https://twitter.com/LegendaryEnergy/status/1437420338585866249",
+                    "display_url": "twitter.com/LegendaryEnerg\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437420338585866249"
+                },
+                "id": 1437420338585866249,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

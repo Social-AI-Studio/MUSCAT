@@ -1,0 +1,248 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1256242055602475009"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 17,
+                        "probability": 0.9974,
+                        "type": "Place",
+                        "normalized_text": "London"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 49,
+                        "end": 72,
+                        "url": "https://t.co/E1uLCVg2kT",
+                        "expanded_url": "https://twitter.com/Lawrencekingfba/status/1256242055602475009",
+                        "display_url": "twitter.com/Lawrencekingfb\u2026"
+                    }
+                ]
+            },
+            "id": "1256269208138256386",
+            "conversation_id": "1256269208138256386",
+            "created_at": "2020-05-01T17:08:14.000Z",
+            "reply_settings": "everyone",
+            "text": "Lockdown in London is nothing compared to this \ud83d\ude31 https://t.co/E1uLCVg2kT",
+            "author_id": "21648402"
+        },
+        "id": 1256269208138256386,
+        "text": "Lockdown in London is nothing compared to this \ud83d\ude31 https://t.co/E1uLCVg2kT",
+        "attachments": null,
+        "author_id": 21648402,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1256269208138256386,
+        "created_at": "2020-05-01T17:08:14+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 17,
+                    "probability": 0.9974,
+                    "type": "Place",
+                    "normalized_text": "London"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/E1uLCVg2kT",
+                    "expanded_url": "https://twitter.com/Lawrencekingfba/status/1256242055602475009",
+                    "display_url": "twitter.com/Lawrencekingfb\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1256242055602475009"
+                },
+                "id": 1256242055602475009,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1256242055602475009"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "probability": 0.7712,
+                        "type": "Person",
+                        "normalized_text": "Lawrence"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 238,
+                        "end": 261,
+                        "url": "https://t.co/vZ0r7RkVoU",
+                        "expanded_url": "https://twitter.com/Lawrencekingfba/status/1256242055602475009",
+                        "display_url": "twitter.com/Lawrencekingfb\u2026"
+                    }
+                ]
+            },
+            "id": "1256264237888012293",
+            "conversation_id": "1256264237888012293",
+            "created_at": "2020-05-01T16:48:29.000Z",
+            "reply_settings": "everyone",
+            "text": "Lawrence is right!\n\nI have to clarify though, this is NOT the case in my area. \n\nI drive around and can walk wherever I want.\n\nBut, incredibly, one cannot train outdoors, as police will come and send you home...\n\nIt's insane nonetheless. https://t.co/vZ0r7RkVoU",
+            "author_id": "761694552382140416"
+        },
+        "id": 1256264237888012293,
+        "text": "Lawrence is right!\n\nI have to clarify though, this is NOT the case in my area. \n\nI drive around and can walk wherever I want.\n\nBut, incredibly, one cannot train outdoors, as police will come and send you home...\n\nIt's insane nonetheless. https://t.co/vZ0r7RkVoU",
+        "attachments": null,
+        "author_id": 761694552382140416,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1256264237888012293,
+        "created_at": "2020-05-01T16:48:29+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "probability": 0.7712,
+                    "type": "Person",
+                    "normalized_text": "Lawrence"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 238,
+                    "end": 261,
+                    "url": "https://t.co/vZ0r7RkVoU",
+                    "expanded_url": "https://twitter.com/Lawrencekingfba/status/1256242055602475009",
+                    "display_url": "twitter.com/Lawrencekingfb\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1256242055602475009"
+                },
+                "id": 1256242055602475009,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

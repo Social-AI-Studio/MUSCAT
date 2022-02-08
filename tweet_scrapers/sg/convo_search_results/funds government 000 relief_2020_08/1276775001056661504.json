@@ -1,0 +1,4158 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111322305232134145",
+                        "name": "Devendra Fadnavis",
+                        "description": "Chief Minister of Maharashtra"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111648907459649537",
+                        "name": "Jagat Prakash Nadda",
+                        "description": "Jagat Prakash Nadda"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111322305232134145",
+                        "name": "Devendra Fadnavis",
+                        "description": "Chief Minister of Maharashtra"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111648907459649537",
+                        "name": "Jagat Prakash Nadda",
+                        "description": "Jagat Prakash Nadda"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    },
+                    {
+                        "start": 15,
+                        "end": 26,
+                        "username": "BJP4Nagpur",
+                        "id": "1345329775099961344"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 27,
+                        "end": 50,
+                        "url": "https://t.co/QFeW8uZofG",
+                        "expanded_url": "https://twitter.com/SanjuSa36250289/status/1324031098842619911?s=19",
+                        "display_url": "twitter.com/SanjuSa3625028\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1324031098842619911"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-11-04T17:00:37.000Z",
+            "author_id": "1305567857099436034",
+            "lang": "und",
+            "id": "1324033821721812992",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari @BJP4Nagpur https://t.co/QFeW8uZofG",
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "70957ac3123b3249"
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1324033821721812992,
+        "text": "@nitin_gadkari @BJP4Nagpur https://t.co/QFeW8uZofG",
+        "attachments": null,
+        "author_id": 1305567857099436034,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111322305232134145",
+                    "name": "Devendra Fadnavis",
+                    "description": "Chief Minister of Maharashtra"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111648907459649537",
+                    "name": "Jagat Prakash Nadda",
+                    "description": "Jagat Prakash Nadda"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111322305232134145",
+                    "name": "Devendra Fadnavis",
+                    "description": "Chief Minister of Maharashtra"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111648907459649537",
+                    "name": "Jagat Prakash Nadda",
+                    "description": "Jagat Prakash Nadda"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-11-04T17:00:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                },
+                {
+                    "start": 15,
+                    "end": 26,
+                    "username": "BJP4Nagpur",
+                    "id": "1345329775099961344"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 27,
+                    "end": 50,
+                    "url": "https://t.co/QFeW8uZofG",
+                    "expanded_url": "https://twitter.com/SanjuSa36250289/status/1324031098842619911?s=19",
+                    "display_url": "twitter.com/SanjuSa3625028\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "70957ac3123b3249"
+        },
+        "in_reply_to_user_id": 97217966,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1324031098842619911"
+                },
+                "id": 1324031098842619911,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    },
+                    {
+                        "start": 15,
+                        "end": 26,
+                        "username": "BJP4Nagpur",
+                        "id": "1345329775099961344"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 217,
+                        "end": 240,
+                        "url": "https://t.co/AMy88iCbIL",
+                        "expanded_url": "https://fundzforcovid19.com/",
+                        "display_url": "fundzforcovid19.com",
+                        "unwound_url": "https://fundzforcovid19.com/"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-08-17T04:04:24.000Z",
+            "author_id": "1147405486326575104",
+            "lang": "en",
+            "id": "1295209838788583424",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari @BJP4Nagpur *The Government* has finally approved and have started giving out free _Rs.5,000_ Relief Funds to each citizen\ud83d\ude0d\n\nBelow is how to claim and get yours credit Instantly as I have just did now\n\nhttps://t.co/AMy88iCbIL\n\n*Note* : You can only claim and get credited once,\nIS IT TRUE?",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1295209838788583424,
+        "text": "@nitin_gadkari @BJP4Nagpur *The Government* has finally approved and have started giving out free _Rs.5,000_ Relief Funds to each citizen\ud83d\ude0d\n\nBelow is how to claim and get yours credit Instantly as I have just did now\n\nhttps://t.co/AMy88iCbIL\n\n*Note* : You can only claim and get credited once,\nIS IT TRUE?",
+        "attachments": null,
+        "author_id": 1147405486326575104,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-08-17T04:04:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                },
+                {
+                    "start": 15,
+                    "end": 26,
+                    "username": "BJP4Nagpur",
+                    "id": "1345329775099961344"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 217,
+                    "end": 240,
+                    "url": "https://t.co/AMy88iCbIL",
+                    "expanded_url": "https://fundzforcovid19.com/",
+                    "display_url": "fundzforcovid19.com",
+                    "unwound_url": "https://fundzforcovid19.com/"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    },
+                    {
+                        "start": 144,
+                        "end": 157,
+                        "username": "PiramalGroup",
+                        "id": "244499631"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-07-03T14:50:44.000Z",
+            "author_id": "1386881612",
+            "lang": "hi",
+            "id": "1279065042709819392",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari \u092e\u093e\u0928\u0928\u0940\u092f \u0935\u093f\u0915\u093e\u0938 \u092a\u0941\u0930\u0941\u0937 \u0928\u093f\u0924\u093f\u0928 \u091c\u0940 \u092f\u0942\u092a\u0940 \u092c\u0932\u093f\u092f\u093e \u092e\u0947\u0902 \u092a\u093e\u0928\u0940 \u0915\u093e \u092a\u094d\u0932\u093e\u0928\u094d\u091f \u0932\u0917\u093e\u0928\u093e \u0939\u0948 \u0915\u094b\u0908 \u092c\u0948\u0902\u0915 \u0932\u094b\u0928 \u0928\u0939\u0940\u0902 \u0926\u0947 \u0930\u0939\u093e \u0939\u0948 \u0935\u093e\u091f\u0930 ATM \u0932\u0917\u0935\u093e\u0928\u093e \u0939\u0948 \u092a\u0942\u0930\u0947 \u0936\u0939\u0930 \u092e\u0947\u0902  @PiramalGroup \n\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0932\u0940 \u0939\u0948 \u092a\u094d\u0930\u094b\u091c\u0947\u0915\u094d\u091f \u092c\u0928\u093e \u0932\u093f\u092f\u093e \u0939\u0948 \u091c\u092e\u0940\u0928 \u0905\u092a\u0928\u0940 \u0939\u0948 \u092a\u0930 \u092a\u093f\u0924\u093e \u091c\u0940 \u0915\u0947 \u0928\u093e\u092e \u0939\u0948\u0964 \u0915\u0948\u0938\u0947 \u0906\u0924\u094d\u092e \u0928\u093f\u0930\u094d\u092d\u0930 \u092c\u0928\u093e \u091c\u093e\u092f \u092e\u093e\u0930\u094d\u0917\u0926\u0930\u094d\u0936\u0928 \u0915\u0940\u091c\u093f\u090f\u0964 9953499499",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1279065042709819392,
+        "text": "@nitin_gadkari \u092e\u093e\u0928\u0928\u0940\u092f \u0935\u093f\u0915\u093e\u0938 \u092a\u0941\u0930\u0941\u0937 \u0928\u093f\u0924\u093f\u0928 \u091c\u0940 \u092f\u0942\u092a\u0940 \u092c\u0932\u093f\u092f\u093e \u092e\u0947\u0902 \u092a\u093e\u0928\u0940 \u0915\u093e \u092a\u094d\u0932\u093e\u0928\u094d\u091f \u0932\u0917\u093e\u0928\u093e \u0939\u0948 \u0915\u094b\u0908 \u092c\u0948\u0902\u0915 \u0932\u094b\u0928 \u0928\u0939\u0940\u0902 \u0926\u0947 \u0930\u0939\u093e \u0939\u0948 \u0935\u093e\u091f\u0930 ATM \u0932\u0917\u0935\u093e\u0928\u093e \u0939\u0948 \u092a\u0942\u0930\u0947 \u0936\u0939\u0930 \u092e\u0947\u0902  @PiramalGroup \n\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930 \u0932\u0940 \u0939\u0948 \u092a\u094d\u0930\u094b\u091c\u0947\u0915\u094d\u091f \u092c\u0928\u093e \u0932\u093f\u092f\u093e \u0939\u0948 \u091c\u092e\u0940\u0928 \u0905\u092a\u0928\u0940 \u0939\u0948 \u092a\u0930 \u092a\u093f\u0924\u093e \u091c\u0940 \u0915\u0947 \u0928\u093e\u092e \u0939\u0948\u0964 \u0915\u0948\u0938\u0947 \u0906\u0924\u094d\u092e \u0928\u093f\u0930\u094d\u092d\u0930 \u092c\u0928\u093e \u091c\u093e\u092f \u092e\u093e\u0930\u094d\u0917\u0926\u0930\u094d\u0936\u0928 \u0915\u0940\u091c\u093f\u090f\u0964 9953499499",
+        "attachments": null,
+        "author_id": 1386881612,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-07-03T14:50:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                },
+                {
+                    "start": 144,
+                    "end": 157,
+                    "username": "PiramalGroup",
+                    "id": "244499631"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 67,
+                        "end": 71,
+                        "probability": 0.9789,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 38,
+                        "end": 47,
+                        "tag": "Graphine"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-29T09:39:06.000Z",
+            "author_id": "739416324007288836",
+            "lang": "en",
+            "id": "1277537064318353408",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Sir u might know about #Graphine a wonder material. India should work upon this future material to Change it's economy.",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1277537064318353408,
+        "text": "@nitin_gadkari Sir u might know about #Graphine a wonder material. India should work upon this future material to Change it's economy.",
+        "attachments": null,
+        "author_id": 739416324007288836,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-29T09:39:06+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 67,
+                    "end": 71,
+                    "probability": 0.9789,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 38,
+                    "end": 47,
+                    "tag": "Graphine"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-29T04:09:49.000Z",
+            "author_id": "1245058923519975425",
+            "lang": "hi",
+            "id": "1277454197429067783",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari \u091c\u092f \u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1277454197429067783,
+        "text": "@nitin_gadkari \u091c\u092f \u0936\u094d\u0930\u0940 \u0930\u093e\u092e",
+        "attachments": null,
+        "author_id": 1245058923519975425,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-29T04:09:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-28T04:33:06.000Z",
+            "author_id": "1256894658883379200",
+            "lang": "en",
+            "id": "1277097671782567936",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Sir, pls stop protecting lacs of crores of liquidation assets fraud being committed jointly by defrauding promotors, bankers, liquidators &amp; judiciary by pre-scripted failure of CIRP &amp; Liquidation of 1000s Cr NPA Co's to finally sell back to promotor's proxies at scrap price.",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1277097671782567936,
+        "text": "@nitin_gadkari Sir, pls stop protecting lacs of crores of liquidation assets fraud being committed jointly by defrauding promotors, bankers, liquidators &amp; judiciary by pre-scripted failure of CIRP &amp; Liquidation of 1000s Cr NPA Co's to finally sell back to promotor's proxies at scrap price.",
+        "attachments": null,
+        "author_id": 1256894658883379200,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-28T04:33:06+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 31,
+                        "end": 53,
+                        "tag": "PetrolDieselPriceHike"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T15:25:36.000Z",
+            "author_id": "924850165382504448",
+            "lang": "en",
+            "id": "1276899490134241280",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Please speak on #PetrolDieselPriceHike",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276899490134241280,
+        "text": "@nitin_gadkari Please speak on #PetrolDieselPriceHike",
+        "attachments": null,
+        "author_id": 924850165382504448,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T15:25:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 31,
+                    "end": 53,
+                    "tag": "PetrolDieselPriceHike"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T10:14:16.000Z",
+            "author_id": "274926562",
+            "lang": "ne",
+            "id": "1276821139470213120",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari || \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092a\u094d\u0930\u0939\u0930\u0940 -\u0928\u093f\u0924\u093f\u0928\u091c\u0940 \u0917\u0921\u0915\u0930\u0940 ||\ud83d\ude4f",
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "317fcc4b21a604d5"
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1276821139470213120,
+        "text": "@nitin_gadkari || \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092a\u094d\u0930\u0939\u0930\u0940 -\u0928\u093f\u0924\u093f\u0928\u091c\u0940 \u0917\u0921\u0915\u0930\u0940 ||\ud83d\ude4f",
+        "attachments": null,
+        "author_id": 274926562,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T10:14:16+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "317fcc4b21a604d5"
+        },
+        "in_reply_to_user_id": 97217966,
+        "lang": "ne",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 64,
+                        "end": 89,
+                        "tag": "mumbaiofficialliquidator"
+                    },
+                    {
+                        "start": 135,
+                        "end": 150,
+                        "tag": "indagevintners"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T08:38:15.000Z",
+            "author_id": "1265465197864587273",
+            "lang": "hi",
+            "id": "1276796976328110082",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari \u0907\u0938 \u0938\u0902\u0915\u091f \u0915\u0940 \u0918\u0921\u093c\u0940 \u092e\u0947\u0902 \u0906\u092a \u0905\u0917\u0930 \u0915\u0941\u091b \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948 \u0924\u094b #mumbaiofficialliquidator \u0938\u0947 \u0939\u092e\u093e\u0930\u0947 34 \u0932\u093e\u0916 \u20b9 \u0926\u093f\u0932\u0935\u093e \u0926\u0940\u091c\u093f\u092f\u0947,\u091c\u094b \u0915\u093f 2011 \u0938\u0947 #indagevintners \u0915\u0947 \u0915\u0947\u0938 \u092a\u0930 \u0922\u093f\u0932\u093e\u0908 \u092c\u0930\u0924\u0940 \u0930\u0939\u0947 \u0939\u0948,2011\u0938\u0947 \u0905\u092c \u0924\u0915 \u0939\u092e \u092c\u0948\u0902\u0915\u094b,\u0932\u0947\u0928\u0926\u093e\u0930\u094b\u0902 \u0915\u094b \u092c\u094d\u092f\u093e\u091c \u0926\u0947\u0924\u0947 \u0906 \u0930\u0939\u0947 \u0939\u0948\n\u0915\u094b\u0908 \u0938\u0941\u0928\u0935\u093e\u0908 \u0928\u0939\u0940, \u0915\u094b\u0908 \u0938\u0902\u091c\u094d\u091e\u093e\u0928 \u0928\u0939\u0940 \u0905\u092d\u0940 \u0924\u0915",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276796976328110082,
+        "text": "@nitin_gadkari \u0907\u0938 \u0938\u0902\u0915\u091f \u0915\u0940 \u0918\u0921\u093c\u0940 \u092e\u0947\u0902 \u0906\u092a \u0905\u0917\u0930 \u0915\u0941\u091b \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948 \u0924\u094b #mumbaiofficialliquidator \u0938\u0947 \u0939\u092e\u093e\u0930\u0947 34 \u0932\u093e\u0916 \u20b9 \u0926\u093f\u0932\u0935\u093e \u0926\u0940\u091c\u093f\u092f\u0947,\u091c\u094b \u0915\u093f 2011 \u0938\u0947 #indagevintners \u0915\u0947 \u0915\u0947\u0938 \u092a\u0930 \u0922\u093f\u0932\u093e\u0908 \u092c\u0930\u0924\u0940 \u0930\u0939\u0947 \u0939\u0948,2011\u0938\u0947 \u0905\u092c \u0924\u0915 \u0939\u092e \u092c\u0948\u0902\u0915\u094b,\u0932\u0947\u0928\u0926\u093e\u0930\u094b\u0902 \u0915\u094b \u092c\u094d\u092f\u093e\u091c \u0926\u0947\u0924\u0947 \u0906 \u0930\u0939\u0947 \u0939\u0948\n\u0915\u094b\u0908 \u0938\u0941\u0928\u0935\u093e\u0908 \u0928\u0939\u0940, \u0915\u094b\u0908 \u0938\u0902\u091c\u094d\u091e\u093e\u0928 \u0928\u0939\u0940 \u0905\u092d\u0940 \u0924\u0915",
+        "attachments": null,
+        "author_id": 1265465197864587273,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T08:38:15+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 64,
+                    "end": 89,
+                    "tag": "mumbaiofficialliquidator"
+                },
+                {
+                    "start": 135,
+                    "end": 150,
+                    "tag": "indagevintners"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T08:30:32.000Z",
+            "author_id": "949516981",
+            "lang": "en",
+            "id": "1276795032394063872",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari BorderAgressionsAlmostEveryDaySince1947ResoursesDrainLoadedOnBhaaratDelayingImportantAllroundDevelopmentsIncluding2SupercomputersEachDistrictAlloverWorldAadhaarDNAirisPANalsoAyushumaanForRichAlsoAboutINR10000perYearOr1percentOfITreturnGrossWhicheverLessMinimumAnnualMustDividend",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1276795032394063872,
+        "text": "@nitin_gadkari BorderAgressionsAlmostEveryDaySince1947ResoursesDrainLoadedOnBhaaratDelayingImportantAllroundDevelopmentsIncluding2SupercomputersEachDistrictAlloverWorldAadhaarDNAirisPANalsoAyushumaanForRichAlsoAboutINR10000perYearOr1percentOfITreturnGrossWhicheverLessMinimumAnnualMustDividend",
+        "attachments": null,
+        "author_id": 949516981,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T08:30:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 191,
+                        "end": 197,
+                        "probability": 0.5686,
+                        "type": "Product",
+                        "normalized_text": "YouTube"
+                    },
+                    {
+                        "start": 242,
+                        "end": 256,
+                        "probability": 0.9827,
+                        "type": "Person",
+                        "normalized_text": "Nitin Gadkariji"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T08:25:07.000Z",
+            "author_id": "367511983",
+            "lang": "en",
+            "id": "1276793672680390657",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari I like such webinars where everyone can listen to it and understand what is happening. In future also auch webinars or meetings should be put live on public domain and then on YouTube to take advantage. Very good initiative by Nitin Gadkariji. Keep it up. I love to follow you.",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276793672680390657,
+        "text": "@nitin_gadkari I like such webinars where everyone can listen to it and understand what is happening. In future also auch webinars or meetings should be put live on public domain and then on YouTube to take advantage. Very good initiative by Nitin Gadkariji. Keep it up. I love to follow you.",
+        "attachments": null,
+        "author_id": 367511983,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029382357",
+                    "name": "YouTube"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T08:25:07+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 191,
+                    "end": 197,
+                    "probability": 0.5686,
+                    "type": "Product",
+                    "normalized_text": "YouTube"
+                },
+                {
+                    "start": 242,
+                    "end": 256,
+                    "probability": 0.9827,
+                    "type": "Person",
+                    "normalized_text": "Nitin Gadkariji"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T08:10:51.000Z",
+            "author_id": "1734040861",
+            "lang": "en",
+            "id": "1276790078975512578",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Sir i need your help.",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276790078975512578,
+        "text": "@nitin_gadkari Sir i need your help.",
+        "attachments": null,
+        "author_id": 1734040861,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T08:10:51+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 15,
+                        "end": 38,
+                        "url": "https://t.co/PkHbEcpJPR",
+                        "expanded_url": "https://twitter.com/mansinghrathor/status/1276790046809448448/photo/1",
+                        "display_url": "pic.twitter.com/PkHbEcpJPR"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T08:10:43.000Z",
+            "author_id": "1734040861",
+            "lang": "und",
+            "id": "1276790046809448448",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari https://t.co/PkHbEcpJPR",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1276790032104210435"
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1276790046809448448,
+        "text": "@nitin_gadkari https://t.co/PkHbEcpJPR",
+        "attachments": {
+            "media_keys": [
+                "3_1276790032104210435"
+            ]
+        },
+        "author_id": 1734040861,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T08:10:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 15,
+                    "end": 38,
+                    "url": "https://t.co/PkHbEcpJPR",
+                    "expanded_url": "https://twitter.com/mansinghrathor/status/1276790046809448448/photo/1",
+                    "display_url": "pic.twitter.com/PkHbEcpJPR"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847888632711061504",
+                        "name": "Personal finance",
+                        "description": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "1046567715022856192",
+                        "name": "Venture capital",
+                        "description": "Venture Capital"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "847894353708068864",
+                        "name": "Investing",
+                        "description": "Investing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "849075881653846016",
+                        "name": "Startups",
+                        "description": "Startups"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 76,
+                        "end": 79,
+                        "probability": 0.5738,
+                        "type": "Organization",
+                        "normalized_text": "IFCI"
+                    },
+                    {
+                        "start": 274,
+                        "end": 278,
+                        "probability": 0.9678,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:50:23.000Z",
+            "author_id": "1133931522023575553",
+            "lang": "en",
+            "id": "1276784931809574915",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Sir 1st govt to utilise govt dfi IFCI started 1947 .Govt dfi IFCI helps msme startup manufacturing venture capital.Govt should not burden banks .Banks for Banking needs.Govt infuse low cost funds to IFCI which can lend longterm low cost funds to startup help India AATMANIRBHAR",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276784931809574915,
+        "text": "@nitin_gadkari Sir 1st govt to utilise govt dfi IFCI started 1947 .Govt dfi IFCI helps msme startup manufacturing venture capital.Govt should not burden banks .Banks for Banking needs.Govt infuse low cost funds to IFCI which can lend longterm low cost funds to startup help India AATMANIRBHAR",
+        "attachments": null,
+        "author_id": 1133931522023575553,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847888632711061504",
+                    "name": "Personal finance",
+                    "description": "Personal finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "1046567715022856192",
+                    "name": "Venture capital",
+                    "description": "Venture Capital"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "847894353708068864",
+                    "name": "Investing",
+                    "description": "Investing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "849075881653846016",
+                    "name": "Startups",
+                    "description": "Startups"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:50:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 76,
+                    "end": 79,
+                    "probability": 0.5738,
+                    "type": "Organization",
+                    "normalized_text": "IFCI"
+                },
+                {
+                    "start": 274,
+                    "end": 278,
+                    "probability": 0.9678,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 15,
+                        "end": 33,
+                        "tag": "SafeDriveLongLife"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:41:03.000Z",
+            "author_id": "2993286456",
+            "lang": "und",
+            "id": "1276782583297110018",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari #SafeDriveLongLife \u2764\ufe0f\u2764\ufe0f\ud83d\udc99\ud83d\udc99\ud83d\udc9a\ud83d\udc9a",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276782583297110018,
+        "text": "@nitin_gadkari #SafeDriveLongLife \u2764\ufe0f\u2764\ufe0f\ud83d\udc99\ud83d\udc99\ud83d\udc9a\ud83d\udc9a",
+        "attachments": null,
+        "author_id": 2993286456,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:41:03+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 33,
+                    "tag": "SafeDriveLongLife"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 15,
+                        "end": 33,
+                        "tag": "SafeDriveLongLife"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:40:41.000Z",
+            "author_id": "2993286456",
+            "lang": "und",
+            "id": "1276782490821128192",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari #SafeDriveLongLife \ud83d\udc99\ud83d\udc9a\ud83d\udc99\ud83d\udc9a\ud83d\udc99\ud83d\udc9a",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276782490821128192,
+        "text": "@nitin_gadkari #SafeDriveLongLife \ud83d\udc99\ud83d\udc9a\ud83d\udc99\ud83d\udc9a\ud83d\udc99\ud83d\udc9a",
+        "attachments": null,
+        "author_id": 2993286456,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:40:41+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 33,
+                    "tag": "SafeDriveLongLife"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 44,
+                        "end": 55,
+                        "probability": 0.9173,
+                        "type": "Person",
+                        "normalized_text": "Sir Namaskar"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 15,
+                        "end": 33,
+                        "tag": "SafeDriveLongLife"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:40:22.000Z",
+            "author_id": "2993286456",
+            "lang": "en",
+            "id": "1276782411116711936",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari #SafeDriveLongLife Respected Sir Namaskar \u2764\ufe0f\u2764\ufe0f\ud83d\udc9a\ud83d\udc9a\ud83d\udc99\ud83d\udc99",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276782411116711936,
+        "text": "@nitin_gadkari #SafeDriveLongLife Respected Sir Namaskar \u2764\ufe0f\u2764\ufe0f\ud83d\udc9a\ud83d\udc9a\ud83d\udc99\ud83d\udc99",
+        "attachments": null,
+        "author_id": 2993286456,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:40:22+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 44,
+                    "end": 55,
+                    "probability": 0.9173,
+                    "type": "Person",
+                    "normalized_text": "Sir Namaskar"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 33,
+                    "tag": "SafeDriveLongLife"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 15,
+                        "end": 33,
+                        "tag": "SafeDriveLongLife"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:40:04.000Z",
+            "author_id": "2993286456",
+            "lang": "und",
+            "id": "1276782334952345600",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari #SafeDriveLongLife \u2764\ufe0f\ud83d\udc9a\ud83d\udc99\ud83d\udc99\ud83d\udc9a\u2764\ufe0f",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276782334952345600,
+        "text": "@nitin_gadkari #SafeDriveLongLife \u2764\ufe0f\ud83d\udc9a\ud83d\udc99\ud83d\udc99\ud83d\udc9a\u2764\ufe0f",
+        "attachments": null,
+        "author_id": 2993286456,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:40:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 33,
+                    "tag": "SafeDriveLongLife"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:36:37.000Z",
+            "author_id": "1253002736850747392",
+            "lang": "hi",
+            "id": "1276781465791946752",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Uttarakhand Haridwar NH58 ka Work bhi complite kera do",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1276781465791946752,
+        "text": "@nitin_gadkari Uttarakhand Haridwar NH58 ka Work bhi complite kera do",
+        "attachments": null,
+        "author_id": 1253002736850747392,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:36:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111680449338707968",
+                        "name": "Babul Supriyo",
+                        "description": "Babul Supriyo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111680449338707968",
+                        "name": "Babul Supriyo",
+                        "description": "Babul Supriyo"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    },
+                    {
+                        "start": 133,
+                        "end": 145,
+                        "username": "makeinindia",
+                        "id": "2785480981"
+                    },
+                    {
+                        "start": 147,
+                        "end": 154,
+                        "username": "moefcc",
+                        "id": "2615251201"
+                    },
+                    {
+                        "start": 156,
+                        "end": 169,
+                        "username": "SuPriyoBabul",
+                        "id": "120293182"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 89,
+                        "end": 106,
+                        "tag": "DRIfromMillScale"
+                    },
+                    {
+                        "start": 107,
+                        "end": 131,
+                        "tag": "FuelOilfromPlasticWaste"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:32:04.000Z",
+            "author_id": "755475440052031488",
+            "lang": "en",
+            "id": "1276780319111331840",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari New indigenous green technologies of waste utilization to be encouraged. \n#DRIfromMillScale\n#FuelOilfromPlasticWaste \n@makeinindia \n@moefcc \n@SuPriyoBabul",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276780319111331840,
+        "text": "@nitin_gadkari New indigenous green technologies of waste utilization to be encouraged. \n#DRIfromMillScale\n#FuelOilfromPlasticWaste \n@makeinindia \n@moefcc \n@SuPriyoBabul",
+        "attachments": null,
+        "author_id": 755475440052031488,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111680449338707968",
+                    "name": "Babul Supriyo",
+                    "description": "Babul Supriyo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111680449338707968",
+                    "name": "Babul Supriyo",
+                    "description": "Babul Supriyo"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:32:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                },
+                {
+                    "start": 133,
+                    "end": 145,
+                    "username": "makeinindia",
+                    "id": "2785480981"
+                },
+                {
+                    "start": 147,
+                    "end": 154,
+                    "username": "moefcc",
+                    "id": "2615251201"
+                },
+                {
+                    "start": 156,
+                    "end": 169,
+                    "username": "SuPriyoBabul",
+                    "id": "120293182"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 89,
+                    "end": 106,
+                    "tag": "DRIfromMillScale"
+                },
+                {
+                    "start": 107,
+                    "end": 131,
+                    "tag": "FuelOilfromPlasticWaste"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1223275530897592320",
+                        "name": "Nirmala Sitharaman"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1223275530897592320",
+                        "name": "Nirmala Sitharaman"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "1137025566706561027",
+                        "name": "PMO India"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    },
+                    {
+                        "start": 21,
+                        "end": 30,
+                        "username": "PMOIndia",
+                        "id": "471741741"
+                    },
+                    {
+                        "start": 31,
+                        "end": 44,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 45,
+                        "end": 57,
+                        "username": "nsitharaman",
+                        "id": "58243368"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:29:54.000Z",
+            "author_id": "1238457671398744064",
+            "lang": "es",
+            "id": "1276779774283669504",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Sir \n\n@PMOIndia @narendramodi @nsitharaman \n\nKo humare paise wapas dene ko bolo#PMCBankcrisis",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1276779774283669504,
+        "text": "@nitin_gadkari Sir \n\n@PMOIndia @narendramodi @nsitharaman \n\nKo humare paise wapas dene ko bolo#PMCBankcrisis",
+        "attachments": null,
+        "author_id": 1238457671398744064,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1223275530897592320",
+                    "name": "Nirmala Sitharaman"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1223275530897592320",
+                    "name": "Nirmala Sitharaman"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "1137025566706561027",
+                    "name": "PMO India"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:29:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                },
+                {
+                    "start": 21,
+                    "end": 30,
+                    "username": "PMOIndia",
+                    "id": "471741741"
+                },
+                {
+                    "start": 31,
+                    "end": 44,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 45,
+                    "end": 57,
+                    "username": "nsitharaman",
+                    "id": "58243368"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:20:56.000Z",
+            "author_id": "1247399914843201537",
+            "lang": "und",
+            "id": "1276777517827919872",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1276777517827919872,
+        "text": "@nitin_gadkari \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+        "attachments": null,
+        "author_id": 1247399914843201537,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:20:56+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:15:46.000Z",
+            "author_id": "1276578793801412608",
+            "lang": "en",
+            "id": "1276776216641576963",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari Please help sir",
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "61b6540772a96ebb"
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1276776216641576963,
+        "text": "@nitin_gadkari Please help sir",
+        "attachments": null,
+        "author_id": 1276578793801412608,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:15:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "61b6540772a96ebb"
+        },
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 141,
+                        "end": 164,
+                        "url": "https://t.co/jsHlDSazPF",
+                        "expanded_url": "https://twitter.com/santoshdash24/status/1276776129840451587/photo/1",
+                        "display_url": "pic.twitter.com/jsHlDSazPF"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:15:25.000Z",
+            "author_id": "2839349533",
+            "lang": "en",
+            "id": "1276776129840451587",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari No loan. \nBESARAM HAI MERA PRIME MINISTER or Bjp.\nRabi sankar bjp time comes to end shortly.\nJhhut ka time bahut kam hotahe.. https://t.co/jsHlDSazPF",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1276776111079383040"
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1276776129840451587,
+        "text": "@nitin_gadkari No loan. \nBESARAM HAI MERA PRIME MINISTER or Bjp.\nRabi sankar bjp time comes to end shortly.\nJhhut ka time bahut kam hotahe.. https://t.co/jsHlDSazPF",
+        "attachments": {
+            "media_keys": [
+                "3_1276776111079383040"
+            ]
+        },
+        "author_id": 2839349533,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:15:25+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 141,
+                    "end": 164,
+                    "url": "https://t.co/jsHlDSazPF",
+                    "expanded_url": "https://twitter.com/santoshdash24/status/1276776129840451587/photo/1",
+                    "display_url": "pic.twitter.com/jsHlDSazPF"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 97217966,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111319554385301504",
+                        "name": "Nitin Gadkari",
+                        "description": "Nitin Gadkari"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "nitin_gadkari",
+                        "id": "97217966"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                }
+            ],
+            "created_at": "2020-06-27T07:11:18.000Z",
+            "author_id": "1049556921378734080",
+            "lang": "und",
+            "id": "1276775093599780864",
+            "in_reply_to_user_id": "97217966",
+            "conversation_id": "1276775001056661504",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nitin_gadkari \ud83d\ude4f\ud83d\ude4f",
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "7523f08e0faf016a"
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1276775093599780864,
+        "text": "@nitin_gadkari \ud83d\ude4f\ud83d\ude4f",
+        "attachments": null,
+        "author_id": 1049556921378734080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111319554385301504",
+                    "name": "Nitin Gadkari",
+                    "description": "Nitin Gadkari"
+                }
+            }
+        ],
+        "conversation_id": 1276775001056661504,
+        "created_at": "2020-06-27T07:11:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "nitin_gadkari",
+                    "id": "97217966"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "7523f08e0faf016a"
+        },
+        "in_reply_to_user_id": 97217966,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1276775001056661504"
+                },
+                "id": 1276775001056661504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

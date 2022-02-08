@@ -1,0 +1,520 @@
+[
+    {
+        "data": {
+            "created_at": "2019-08-31T18:21:22.000Z",
+            "possibly_sensitive": false,
+            "id": "1167864974661652481",
+            "author_id": "136040782",
+            "source": "Twitter for iPhone",
+            "text": "RT @agimediata: Infelizmente, o contexto pol\u00edtico dos ataques de Bolsonaro \u00e0 Amaz\u00f4nia tem sido amplamente negligenciado pela an\u00e1lise da m\u00edd\u2026",
+            "reply_settings": "everyone",
+            "conversation_id": "1167864974661652481",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "862070591737675776",
+                        "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                        "description": "Brazilian 35th president."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "862070591737675776",
+                        "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                        "description": "Brazilian 35th president."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10050907867",
+                        "name": "Amazon - AI",
+                        "description": "Amazon - AI"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 65,
+                        "end": 73,
+                        "probability": 0.9985,
+                        "type": "Person",
+                        "normalized_text": "Bolsonaro"
+                    },
+                    {
+                        "start": 77,
+                        "end": 84,
+                        "probability": 0.8381,
+                        "type": "Place",
+                        "normalized_text": "Amaz\u00f4nia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "agimediata",
+                        "id": "136040782"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "pt",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1166843596965896192"
+                }
+            ]
+        },
+        "id": 1167864974661652481,
+        "text": "RT @agimediata: Infelizmente, o contexto pol\u00edtico dos ataques de Bolsonaro \u00e0 Amaz\u00f4nia tem sido amplamente negligenciado pela an\u00e1lise da m\u00edd\u2026",
+        "attachments": null,
+        "author_id": 136040782,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "862070591737675776",
+                    "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                    "description": "Brazilian 35th president."
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "862070591737675776",
+                    "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                    "description": "Brazilian 35th president."
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "783335558466506752",
+                    "name": "Online"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026792024",
+                    "name": "Amazon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10050907867",
+                    "name": "Amazon - AI",
+                    "description": "Amazon - AI"
+                }
+            }
+        ],
+        "conversation_id": 1167864974661652481,
+        "created_at": "2019-08-31T18:21:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 65,
+                    "end": 73,
+                    "probability": 0.9985,
+                    "type": "Person",
+                    "normalized_text": "Bolsonaro"
+                },
+                {
+                    "start": 77,
+                    "end": 84,
+                    "probability": 0.8381,
+                    "type": "Place",
+                    "normalized_text": "Amaz\u00f4nia"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "agimediata",
+                    "id": "136040782"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1166843596965896192"
+                },
+                "id": 1166843596965896192,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-08-28T22:42:47.000Z",
+            "possibly_sensitive": false,
+            "id": "1166843596965896192",
+            "author_id": "136040782",
+            "source": "Twitter Web App",
+            "text": "Infelizmente, o contexto pol\u00edtico dos ataques de Bolsonaro \u00e0 Amaz\u00f4nia tem sido amplamente negligenciado pela an\u00e1lise da m\u00eddia.\n\nSem o golpe de 2016 e a persegui\u00e7\u00e3o de Lula, n\u00e3o estar\u00edamos testemunhando n\u00edveis recordes de desmatamento. https://t.co/rCUZYdqYBF",
+            "reply_settings": "everyone",
+            "conversation_id": "1166843596965896192",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "862070591737675776",
+                        "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                        "description": "Brazilian 35th president."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "862070591737675776",
+                        "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                        "description": "Brazilian 35th president."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10050907867",
+                        "name": "Amazon - AI",
+                        "description": "Amazon - AI"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 57,
+                        "probability": 0.9988,
+                        "type": "Person",
+                        "normalized_text": "Bolsonaro"
+                    },
+                    {
+                        "start": 61,
+                        "end": 68,
+                        "probability": 0.8069,
+                        "type": "Place",
+                        "normalized_text": "Amaz\u00f4nia"
+                    },
+                    {
+                        "start": 167,
+                        "end": 170,
+                        "probability": 0.9403,
+                        "type": "Person",
+                        "normalized_text": "Lula"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 235,
+                        "end": 258,
+                        "url": "https://t.co/rCUZYdqYBF",
+                        "expanded_url": "https://twitter.com/BSI_Updates/status/1166605080100884480",
+                        "display_url": "twitter.com/BSI_Updates/st\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "pt",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1166605080100884480"
+                }
+            ]
+        },
+        "id": 1166843596965896192,
+        "text": "Infelizmente, o contexto pol\u00edtico dos ataques de Bolsonaro \u00e0 Amaz\u00f4nia tem sido amplamente negligenciado pela an\u00e1lise da m\u00eddia.\n\nSem o golpe de 2016 e a persegui\u00e7\u00e3o de Lula, n\u00e3o estar\u00edamos testemunhando n\u00edveis recordes de desmatamento. https://t.co/rCUZYdqYBF",
+        "attachments": null,
+        "author_id": 136040782,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "862070591737675776",
+                    "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                    "description": "Brazilian 35th president."
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "862070591737675776",
+                    "name": "Luis In\u00e1cio \"Lula\" da Silva",
+                    "description": "Brazilian 35th president."
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "783335558466506752",
+                    "name": "Online"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026792024",
+                    "name": "Amazon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10050907867",
+                    "name": "Amazon - AI",
+                    "description": "Amazon - AI"
+                }
+            }
+        ],
+        "conversation_id": 1166843596965896192,
+        "created_at": "2019-08-28T22:42:47+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 49,
+                    "end": 57,
+                    "probability": 0.9988,
+                    "type": "Person",
+                    "normalized_text": "Bolsonaro"
+                },
+                {
+                    "start": 61,
+                    "end": 68,
+                    "probability": 0.8069,
+                    "type": "Place",
+                    "normalized_text": "Amaz\u00f4nia"
+                },
+                {
+                    "start": 167,
+                    "end": 170,
+                    "probability": 0.9403,
+                    "type": "Person",
+                    "normalized_text": "Lula"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 235,
+                    "end": 258,
+                    "url": "https://t.co/rCUZYdqYBF",
+                    "expanded_url": "https://twitter.com/BSI_Updates/status/1166605080100884480",
+                    "display_url": "twitter.com/BSI_Updates/st\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1166605080100884480"
+                },
+                "id": 1166605080100884480,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

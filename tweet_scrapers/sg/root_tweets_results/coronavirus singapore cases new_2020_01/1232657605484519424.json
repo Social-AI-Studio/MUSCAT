@@ -1,0 +1,119 @@
+[
+    {
+        "data": {
+            "text": "The Centers for Disease Control and Prevention are now warning the United States that the coronavirus crisis may be a significant disruption to everday life. https://t.co/kDHE54jKQM",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "created_at": "2020-02-26T13:24:09.000Z",
+            "possibly_sensitive": true,
+            "author_id": "1107586930156466177",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 67,
+                        "end": 79,
+                        "probability": 0.8678,
+                        "type": "Place",
+                        "normalized_text": "United States"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 158,
+                        "end": 181,
+                        "url": "https://t.co/kDHE54jKQM",
+                        "expanded_url": "https://twitter.com/TMCV103/status/1232657605484519424/photo/1",
+                        "display_url": "pic.twitter.com/kDHE54jKQM"
+                    }
+                ]
+            },
+            "source": "Twitter Web App",
+            "id": "1232657605484519424",
+            "attachments": {
+                "media_keys": [
+                    "3_1232654662358179840"
+                ]
+            },
+            "conversation_id": "1232657605484519424"
+        },
+        "id": 1232657605484519424,
+        "text": "The Centers for Disease Control and Prevention are now warning the United States that the coronavirus crisis may be a significant disruption to everday life. https://t.co/kDHE54jKQM",
+        "attachments": {
+            "media_keys": [
+                "3_1232654662358179840"
+            ]
+        },
+        "author_id": 1107586930156466177,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1232657605484519424,
+        "created_at": "2020-02-26T13:24:09+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 67,
+                    "end": 79,
+                    "probability": 0.8678,
+                    "type": "Place",
+                    "normalized_text": "United States"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/kDHE54jKQM",
+                    "expanded_url": "https://twitter.com/TMCV103/status/1232657605484519424/photo/1",
+                    "display_url": "pic.twitter.com/kDHE54jKQM"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": true,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

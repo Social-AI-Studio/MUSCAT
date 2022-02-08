@@ -1,0 +1,859 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 68,
+                        "end": 75,
+                        "probability": 0.2768,
+                        "type": "Person",
+                        "normalized_text": "Repustar"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 78,
+                        "end": 101,
+                        "url": "https://t.co/mAr1J1NcVc",
+                        "expanded_url": "https://repustar.com/",
+                        "display_url": "repustar.com",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=orig",
+                                "width": 1200,
+                                "height": 630
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "New tools to help you check the facts in the news | Repustar",
+                        "description": "Fact Briefs and other resources from Repustar and its content partners use the best of data science and journalism to help you assess claims in the news.",
+                        "unwound_url": "https://repustar.com/"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "ToryRepustar",
+                        "id": "1334427492728283137"
+                    },
+                    {
+                        "start": 14,
+                        "end": 29,
+                        "username": "strawbrrywhine",
+                        "id": "2565552902"
+                    }
+                ]
+            },
+            "author_id": "1293602820185235456",
+            "text": "@ToryRepustar @strawbrrywhine Good! See more facts like this one on Repustar. https://t.co/mAr1J1NcVc",
+            "possibly_sensitive": false,
+            "id": "1344414613820108806",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:46:36.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344414609826988034"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "FactSparrow",
+            "in_reply_to_user_id": "1334427492728283137",
+            "conversation_id": "1344343441833127938",
+            "lang": "en"
+        },
+        "id": 1344414613820108806,
+        "text": "@ToryRepustar @strawbrrywhine Good! See more facts like this one on Repustar. https://t.co/mAr1J1NcVc",
+        "attachments": null,
+        "author_id": 1293602820185235456,
+        "context_annotations": [],
+        "conversation_id": 1344343441833127938,
+        "created_at": "2020-12-30T22:46:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 68,
+                    "end": 75,
+                    "probability": 0.2768,
+                    "type": "Person",
+                    "normalized_text": "Repustar"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/mAr1J1NcVc",
+                    "expanded_url": "https://repustar.com/",
+                    "display_url": "repustar.com",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=orig",
+                            "width": 1200,
+                            "height": 630
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "New tools to help you check the facts in the news | Repustar",
+                    "description": "Fact Briefs and other resources from Repustar and its content partners use the best of data science and journalism to help you assess claims in the news.",
+                    "unwound_url": "https://repustar.com/"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "ToryRepustar",
+                    "id": "1334427492728283137"
+                },
+                {
+                    "start": 14,
+                    "end": 29,
+                    "username": "strawbrrywhine",
+                    "id": "2565552902"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1334427492728283137,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344414609826988034"
+                },
+                "id": 1344414609826988034,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "FactSparrow",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1334427492728283137",
+            "text": "@FactSparrow @strawbrrywhine yes, thank you",
+            "possibly_sensitive": false,
+            "id": "1344414609826988034",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:46:35.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344414364741341185"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "in_reply_to_user_id": "1293602820185235456",
+            "conversation_id": "1344343441833127938",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "FactSparrow",
+                        "id": "1293602820185235456"
+                    },
+                    {
+                        "start": 13,
+                        "end": 28,
+                        "username": "strawbrrywhine",
+                        "id": "2565552902"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1344414609826988034,
+        "text": "@FactSparrow @strawbrrywhine yes, thank you",
+        "attachments": null,
+        "author_id": 1334427492728283137,
+        "context_annotations": [],
+        "conversation_id": 1344343441833127938,
+        "created_at": "2020-12-30T22:46:35+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "FactSparrow",
+                    "id": "1293602820185235456"
+                },
+                {
+                    "start": 13,
+                    "end": 28,
+                    "username": "strawbrrywhine",
+                    "id": "2565552902"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1293602820185235456,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344414364741341185"
+                },
+                "id": 1344414364741341185,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1293602820185235456",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 131,
+                        "end": 154,
+                        "url": "https://t.co/xzgDAsykcU",
+                        "expanded_url": "https://repustar.com/review/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter",
+                        "display_url": "repustar.com/review/tempora\u2026",
+                        "status": 200,
+                        "unwound_url": "https://repustar.com/fact-briefs/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "ToryRepustar",
+                        "id": "1334427492728283137"
+                    },
+                    {
+                        "start": 14,
+                        "end": 29,
+                        "username": "strawbrrywhine",
+                        "id": "2565552902"
+                    }
+                ]
+            },
+            "text": "@ToryRepustar @strawbrrywhine Welcome to Repustar\u2019s fact delivery service. Does this fact help you? Please answer (\u201cYes\u201d or \u201cNo\u201d)  https://t.co/xzgDAsykcU",
+            "possibly_sensitive": false,
+            "id": "1344414364741341185",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:45:37.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344414357979971584"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "FactSparrow",
+            "in_reply_to_user_id": "1334427492728283137",
+            "conversation_id": "1344343441833127938",
+            "lang": "en"
+        },
+        "id": 1344414364741341185,
+        "text": "@ToryRepustar @strawbrrywhine Welcome to Repustar\u2019s fact delivery service. Does this fact help you? Please answer (\u201cYes\u201d or \u201cNo\u201d)  https://t.co/xzgDAsykcU",
+        "attachments": null,
+        "author_id": 1293602820185235456,
+        "context_annotations": [],
+        "conversation_id": 1344343441833127938,
+        "created_at": "2020-12-30T22:45:37+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 131,
+                    "end": 154,
+                    "url": "https://t.co/xzgDAsykcU",
+                    "expanded_url": "https://repustar.com/review/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter",
+                    "display_url": "repustar.com/review/tempora\u2026",
+                    "status": 200,
+                    "unwound_url": "https://repustar.com/fact-briefs/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "ToryRepustar",
+                    "id": "1334427492728283137"
+                },
+                {
+                    "start": 14,
+                    "end": 29,
+                    "username": "strawbrrywhine",
+                    "id": "2565552902"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1334427492728283137,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344414357979971584"
+                },
+                "id": 1344414357979971584,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "FactSparrow",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 87,
+                        "end": 90,
+                        "probability": 0.3279,
+                        "type": "Organization",
+                        "normalized_text": "Bell"
+                    },
+                    {
+                        "start": 124,
+                        "end": 129,
+                        "probability": 0.3683,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "strawbrrywhine",
+                        "id": "2565552902"
+                    },
+                    {
+                        "start": 39,
+                        "end": 51,
+                        "username": "FactSparrow",
+                        "id": "1293602820185235456"
+                    }
+                ]
+            },
+            "author_id": "1334427492728283137",
+            "text": "@strawbrrywhine This might be helpful: @FactSparrow Is temporary facial paralysis from Bell's palsy a common side effect of Pfizer's COVID-19 vaccine?",
+            "possibly_sensitive": false,
+            "id": "1344414357979971584",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:45:35.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344343441833127938"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "TweetDeck",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "2565552902",
+            "conversation_id": "1344343441833127938",
+            "lang": "en"
+        },
+        "id": 1344414357979971584,
+        "text": "@strawbrrywhine This might be helpful: @FactSparrow Is temporary facial paralysis from Bell's palsy a common side effect of Pfizer's COVID-19 vaccine?",
+        "attachments": null,
+        "author_id": 1334427492728283137,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344343441833127938,
+        "created_at": "2020-12-30T22:45:35+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 87,
+                    "end": 90,
+                    "probability": 0.3279,
+                    "type": "Organization",
+                    "normalized_text": "Bell"
+                },
+                {
+                    "start": 124,
+                    "end": 129,
+                    "probability": 0.3683,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "strawbrrywhine",
+                    "id": "2565552902"
+                },
+                {
+                    "start": 39,
+                    "end": 51,
+                    "username": "FactSparrow",
+                    "id": "1293602820185235456"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2565552902,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344343441833127938"
+                },
+                "id": 1344343441833127938,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "110926639",
+            "text": "@strawbrrywhine They were! But I heard it\u2019s a common side effect and it wasn\u2019t permanent.",
+            "possibly_sensitive": false,
+            "id": "1344355360438706184",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T18:51:09.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344343441833127938"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "2565552902",
+            "conversation_id": "1344343441833127938",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "strawbrrywhine",
+                        "id": "2565552902"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1344355360438706184,
+        "text": "@strawbrrywhine They were! But I heard it\u2019s a common side effect and it wasn\u2019t permanent.",
+        "attachments": null,
+        "author_id": 110926639,
+        "context_annotations": [],
+        "conversation_id": 1344343441833127938,
+        "created_at": "2020-12-30T18:51:09+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "strawbrrywhine",
+                    "id": "2565552902"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2565552902,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344343441833127938"
+                },
+                "id": 1344343441833127938,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "888206520663457792",
+            "text": "@strawbrrywhine My mom is a nurse that\u2019s why I listen to her. \ud83d\ude02 I forgot to add why her knowledge is relevant.",
+            "possibly_sensitive": false,
+            "id": "1344350725824921600",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T18:32:44.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344350043285798913"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "888206520663457792",
+            "conversation_id": "1344343441833127938",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "strawbrrywhine",
+                        "id": "2565552902"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1344350725824921600,
+        "text": "@strawbrrywhine My mom is a nurse that\u2019s why I listen to her. \ud83d\ude02 I forgot to add why her knowledge is relevant.",
+        "attachments": null,
+        "author_id": 888206520663457792,
+        "context_annotations": [],
+        "conversation_id": 1344343441833127938,
+        "created_at": "2020-12-30T18:32:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "strawbrrywhine",
+                    "id": "2565552902"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 888206520663457792,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344350043285798913"
+                },
+                "id": 1344350043285798913,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 52,
+                        "probability": 0.4463,
+                        "type": "Person",
+                        "normalized_text": "Bell"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "strawbrrywhine",
+                        "id": "2565552902"
+                    }
+                ]
+            },
+            "author_id": "888206520663457792",
+            "text": "@strawbrrywhine My mom talked to me about it and Bell\u2019s palsy is a side effect of a lot of vaccines for a lot of people! And the occurrence is extremely low from what I understand.",
+            "possibly_sensitive": false,
+            "id": "1344350043285798913",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T18:30:01.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344343441833127938"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "2565552902",
+            "conversation_id": "1344343441833127938",
+            "lang": "en"
+        },
+        "id": 1344350043285798913,
+        "text": "@strawbrrywhine My mom talked to me about it and Bell\u2019s palsy is a side effect of a lot of vaccines for a lot of people! And the occurrence is extremely low from what I understand.",
+        "attachments": null,
+        "author_id": 888206520663457792,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1344343441833127938,
+        "created_at": "2020-12-30T18:30:01+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 49,
+                    "end": 52,
+                    "probability": 0.4463,
+                    "type": "Person",
+                    "normalized_text": "Bell"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "strawbrrywhine",
+                    "id": "2565552902"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2565552902,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344343441833127938"
+                },
+                "id": 1344343441833127938,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

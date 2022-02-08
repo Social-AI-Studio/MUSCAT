@@ -1,0 +1,149 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 120,
+                        "end": 143,
+                        "url": "https://t.co/H0wuYiiloo",
+                        "expanded_url": "https://twitter.com/theheraldsun/status/1444089849485541377",
+                        "display_url": "twitter.com/theheraldsun/s\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 95,
+                        "end": 103,
+                        "tag": "DanNext"
+                    },
+                    {
+                        "start": 104,
+                        "end": 119,
+                        "tag": "sackdanandrews"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 7,
+                        "end": 9,
+                        "probability": 0.6337,
+                        "type": "Person",
+                        "normalized_text": "Dan"
+                    }
+                ]
+            },
+            "id": "1444112075123400704",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-10-02T01:28:43.000Z",
+            "reply_settings": "mentionedUsers",
+            "author_id": "1306733054552018944",
+            "source": "Twitter Web App",
+            "text": "So now Dan is going for a 100% vaccination rate?  Nothing like a realistic, practical policy!\n\n#DanNext #sackdanandrews https://t.co/H0wuYiiloo",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1444089849485541377"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1444112075123400704"
+        },
+        "id": 1444112075123400704,
+        "text": "So now Dan is going for a 100% vaccination rate?  Nothing like a realistic, practical policy!\n\n#DanNext #sackdanandrews https://t.co/H0wuYiiloo",
+        "attachments": null,
+        "author_id": 1306733054552018944,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1444112075123400704,
+        "created_at": "2021-10-02T01:28:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 120,
+                    "end": 143,
+                    "url": "https://t.co/H0wuYiiloo",
+                    "expanded_url": "https://twitter.com/theheraldsun/status/1444089849485541377",
+                    "display_url": "twitter.com/theheraldsun/s\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 95,
+                    "end": 103,
+                    "tag": "DanNext"
+                },
+                {
+                    "start": 104,
+                    "end": 119,
+                    "tag": "sackdanandrews"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 7,
+                    "end": 9,
+                    "probability": 0.6337,
+                    "type": "Person",
+                    "normalized_text": "Dan"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1444089849485541377"
+                },
+                "id": 1444089849485541377,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "mentionedUsers",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "data": {
+            "conversation_id": "1334389350390349824",
+            "reply_settings": "everyone",
+            "author_id": "940745523262382085",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "941041031239237632",
+                        "name": "Republican National Committee",
+                        "description": "US Republican National Committee"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "877326946253684737",
+                        "name": "United States Senate",
+                        "description": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "\"...and as part of a last swift kick in the butt to Republicans, he can take down the two Senate seats if he wants to,\u201d said Doug Heye, former Republican National Committee communications director.\"  The Hill",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1334389350390349824"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "940745523262382085",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 62,
+                        "probability": 0.7792,
+                        "type": "Organization",
+                        "normalized_text": "Republicans"
+                    },
+                    {
+                        "start": 90,
+                        "end": 95,
+                        "probability": 0.7547,
+                        "type": "Organization",
+                        "normalized_text": "Senate"
+                    },
+                    {
+                        "start": 125,
+                        "end": 133,
+                        "probability": 0.9962,
+                        "type": "Person",
+                        "normalized_text": "Doug Heye"
+                    },
+                    {
+                        "start": 143,
+                        "end": 171,
+                        "probability": 0.8539,
+                        "type": "Organization",
+                        "normalized_text": "Republican National Committee"
+                    },
+                    {
+                        "start": 200,
+                        "end": 207,
+                        "probability": 0.2675,
+                        "type": "Organization",
+                        "normalized_text": "The Hill"
+                    }
+                ]
+            },
+            "id": "1334389496138199041",
+            "created_at": "2020-12-03T06:50:22.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1334389496138199041,
+        "text": "\"...and as part of a last swift kick in the butt to Republicans, he can take down the two Senate seats if he wants to,\u201d said Doug Heye, former Republican National Committee communications director.\"  The Hill",
+        "attachments": null,
+        "author_id": 940745523262382085,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "941041031239237632",
+                    "name": "Republican National Committee",
+                    "description": "US Republican National Committee"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "877326946253684737",
+                    "name": "United States Senate",
+                    "description": "United States Senate"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            }
+        ],
+        "conversation_id": 1334389350390349824,
+        "created_at": "2020-12-03T06:50:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 62,
+                    "probability": 0.7792,
+                    "type": "Organization",
+                    "normalized_text": "Republicans"
+                },
+                {
+                    "start": 90,
+                    "end": 95,
+                    "probability": 0.7547,
+                    "type": "Organization",
+                    "normalized_text": "Senate"
+                },
+                {
+                    "start": 125,
+                    "end": 133,
+                    "probability": 0.9962,
+                    "type": "Person",
+                    "normalized_text": "Doug Heye"
+                },
+                {
+                    "start": 143,
+                    "end": 171,
+                    "probability": 0.8539,
+                    "type": "Organization",
+                    "normalized_text": "Republican National Committee"
+                },
+                {
+                    "start": 200,
+                    "end": 207,
+                    "probability": 0.2675,
+                    "type": "Organization",
+                    "normalized_text": "The Hill"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 940745523262382085,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1334389350390349824"
+                },
+                "id": 1334389350390349824,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

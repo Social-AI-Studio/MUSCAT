@@ -1,0 +1,266 @@
+[
+    {
+        "data": {
+            "conversation_id": "1274711647337267200",
+            "reply_settings": "everyone",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 42,
+                        "end": 55,
+                        "tag": "PublicHealth"
+                    },
+                    {
+                        "start": 83,
+                        "end": 93,
+                        "tag": "outbreaks"
+                    },
+                    {
+                        "start": 104,
+                        "end": 119,
+                        "tag": "ContactTracing"
+                    },
+                    {
+                        "start": 127,
+                        "end": 149,
+                        "tag": "ExposureNotifications"
+                    },
+                    {
+                        "start": 184,
+                        "end": 195,
+                        "tag": "technology"
+                    },
+                    {
+                        "start": 246,
+                        "end": 252,
+                        "tag": "virus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 256,
+                        "end": 279,
+                        "url": "https://t.co/GqdMM4GOUN",
+                        "expanded_url": "https://blog.google/inside-google/company-announcements/apple-google-exposure-notification-api-launches/",
+                        "display_url": "blog.google/inside-google/\u2026"
+                    }
+                ]
+            },
+            "author_id": "997159888106213376",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "898650876658634752",
+                        "name": "Cybersecurity",
+                        "description": "Cybersecurity"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "One of the most effective techniques that #PublicHealth officials have used during #outbreaks is called #ContactTracing.\u00a0[...] #ExposureNotifications: using privacy-preserving digital #technology to tell someone they may have been exposed to the #virus. \n\nhttps://t.co/GqdMM4GOUN",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274711647337267200"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "997159888106213376",
+            "id": "1274713006652502016",
+            "created_at": "2020-06-21T14:37:18.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1274713006652502016,
+        "text": "One of the most effective techniques that #PublicHealth officials have used during #outbreaks is called #ContactTracing.\u00a0[...] #ExposureNotifications: using privacy-preserving digital #technology to tell someone they may have been exposed to the #virus. \n\nhttps://t.co/GqdMM4GOUN",
+        "attachments": null,
+        "author_id": 997159888106213376,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "898650876658634752",
+                    "name": "Cybersecurity",
+                    "description": "Cybersecurity"
+                }
+            }
+        ],
+        "conversation_id": 1274711647337267200,
+        "created_at": "2020-06-21T14:37:18+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 42,
+                    "end": 55,
+                    "tag": "PublicHealth"
+                },
+                {
+                    "start": 83,
+                    "end": 93,
+                    "tag": "outbreaks"
+                },
+                {
+                    "start": 104,
+                    "end": 119,
+                    "tag": "ContactTracing"
+                },
+                {
+                    "start": 127,
+                    "end": 149,
+                    "tag": "ExposureNotifications"
+                },
+                {
+                    "start": 184,
+                    "end": 195,
+                    "tag": "technology"
+                },
+                {
+                    "start": 246,
+                    "end": 252,
+                    "tag": "virus"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 256,
+                    "end": 279,
+                    "url": "https://t.co/GqdMM4GOUN",
+                    "expanded_url": "https://blog.google/inside-google/company-announcements/apple-google-exposure-notification-api-launches/",
+                    "display_url": "blog.google/inside-google/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 997159888106213376,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274711647337267200"
+                },
+                "id": 1274711647337267200,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "23272457",
+            "created_at": "2019-04-16T08:41:42.000Z",
+            "possibly_sensitive": false,
+            "id": "1118071957470101504",
+            "author_id": "889021",
+            "source": "TweetDeck",
+            "text": "@SirSteven Even the Jaffa-in-chief hasn't done that. yet.",
+            "reply_settings": "everyone",
+            "conversation_id": "1118070910953463808",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1118070910953463808"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "SirSteven",
+                        "id": "23272457"
+                    }
+                ]
+            }
+        },
+        "id": 1118071957470101504,
+        "text": "@SirSteven Even the Jaffa-in-chief hasn't done that. yet.",
+        "attachments": null,
+        "author_id": 889021,
+        "context_annotations": [],
+        "conversation_id": 1118070910953463808,
+        "created_at": "2019-04-16T08:41:42+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "SirSteven",
+                    "id": "23272457"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 23272457,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1118070910953463808"
+                },
+                "id": 1118070910953463808,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    }
+]

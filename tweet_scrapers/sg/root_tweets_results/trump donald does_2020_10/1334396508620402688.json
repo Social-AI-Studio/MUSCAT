@@ -1,0 +1,221 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1136218369575739393",
+                        "name": "Jane Austen",
+                        "description": "Author"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 27,
+                        "probability": 0.8554,
+                        "type": "Person",
+                        "normalized_text": "Emma"
+                    },
+                    {
+                        "start": 32,
+                        "end": 42,
+                        "probability": 0.9967,
+                        "type": "Person",
+                        "normalized_text": "Jane Austen"
+                    },
+                    {
+                        "start": 73,
+                        "end": 78,
+                        "probability": 0.997,
+                        "type": "Person",
+                        "normalized_text": "Donald"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 112,
+                        "end": 135,
+                        "url": "https://t.co/xaU3uMUpM3",
+                        "expanded_url": "https://twitter.com/Cooke_EL/status/1334396508620402688/photo/1",
+                        "display_url": "pic.twitter.com/xaU3uMUpM3"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 80,
+                        "end": 86,
+                        "tag": "Trump"
+                    },
+                    {
+                        "start": 89,
+                        "end": 111,
+                        "tag": "ProfessionalEggBoiler"
+                    }
+                ]
+            },
+            "created_at": "2020-12-03T07:18:14.000Z",
+            "author_id": "459330476",
+            "lang": "en",
+            "id": "1334396508620402688",
+            "conversation_id": "1334396508620402688",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Why does this line from Emma by Jane Austen read exactly like a tweet by Donald #Trump \ud83d\ude06 #ProfessionalEggBoiler https://t.co/xaU3uMUpM3",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1334396503398494214"
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1334396508620402688,
+        "text": "Why does this line from Emma by Jane Austen read exactly like a tweet by Donald #Trump \ud83d\ude06 #ProfessionalEggBoiler https://t.co/xaU3uMUpM3",
+        "attachments": {
+            "media_keys": [
+                "3_1334396503398494214"
+            ]
+        },
+        "author_id": 459330476,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1136218369575739393",
+                    "name": "Jane Austen",
+                    "description": "Author"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1334396508620402688,
+        "created_at": "2020-12-03T07:18:14+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 24,
+                    "end": 27,
+                    "probability": 0.8554,
+                    "type": "Person",
+                    "normalized_text": "Emma"
+                },
+                {
+                    "start": 32,
+                    "end": 42,
+                    "probability": 0.9967,
+                    "type": "Person",
+                    "normalized_text": "Jane Austen"
+                },
+                {
+                    "start": 73,
+                    "end": 78,
+                    "probability": 0.997,
+                    "type": "Person",
+                    "normalized_text": "Donald"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/xaU3uMUpM3",
+                    "expanded_url": "https://twitter.com/Cooke_EL/status/1334396508620402688/photo/1",
+                    "display_url": "pic.twitter.com/xaU3uMUpM3"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 80,
+                    "end": 86,
+                    "tag": "Trump"
+                },
+                {
+                    "start": 89,
+                    "end": 111,
+                    "tag": "ProfessionalEggBoiler"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

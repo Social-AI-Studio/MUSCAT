@@ -1,0 +1,576 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "ntvkenya",
+                        "id": "25985333"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 41,
+                        "end": 45,
+                        "probability": 0.4455,
+                        "type": "Organization",
+                        "normalized_text": "Covid"
+                    },
+                    {
+                        "start": 63,
+                        "end": 65,
+                        "probability": 0.8912,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/xiMGWXLlv7",
+                        "expanded_url": "https://bit.ly/3qifRLQ",
+                        "display_url": "bit.ly/3qifRLQ"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1332564903538855938"
+                }
+            ],
+            "id": "1332694166049087490",
+            "conversation_id": "1332694166049087490",
+            "created_at": "2020-11-28T14:33:44.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @ntvkenya: Over 50 arrested with fake Covid certificates as UAE stops issuance of visas to Kenyans \n\nhttps://t.co/xiMGWXLlv7 https://t.c\u2026",
+            "author_id": "800406727162114048"
+        },
+        "id": 1332694166049087490,
+        "text": "RT @ntvkenya: Over 50 arrested with fake Covid certificates as UAE stops issuance of visas to Kenyans \n\nhttps://t.co/xiMGWXLlv7 https://t.c\u2026",
+        "attachments": null,
+        "author_id": 800406727162114048,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332694166049087490,
+        "created_at": "2020-11-28T14:33:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "ntvkenya",
+                    "id": "25985333"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 45,
+                    "probability": 0.4455,
+                    "type": "Organization",
+                    "normalized_text": "Covid"
+                },
+                {
+                    "start": 63,
+                    "end": 65,
+                    "probability": 0.8912,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/xiMGWXLlv7",
+                    "expanded_url": "https://bit.ly/3qifRLQ",
+                    "display_url": "bit.ly/3qifRLQ"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1332564903538855938"
+                },
+                "id": 1332564903538855938,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1332564903538855938"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 18,
+                        "probability": 0.9896,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 58,
+                        "end": 81,
+                        "url": "https://t.co/O4HGy9kRRX",
+                        "expanded_url": "https://twitter.com/ntvkenya/status/1332564903538855938",
+                        "display_url": "twitter.com/ntvkenya/statu\u2026"
+                    }
+                ]
+            },
+            "id": "1332570580974006272",
+            "conversation_id": "1332570580974006272",
+            "created_at": "2020-11-28T06:22:39.000Z",
+            "reply_settings": "everyone",
+            "text": "Everything in Kenya is fake.Why should this surprise you? https://t.co/O4HGy9kRRX",
+            "author_id": "1536293179"
+        },
+        "id": 1332570580974006272,
+        "text": "Everything in Kenya is fake.Why should this surprise you? https://t.co/O4HGy9kRRX",
+        "attachments": null,
+        "author_id": 1536293179,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332570580974006272,
+        "created_at": "2020-11-28T06:22:39+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 18,
+                    "probability": 0.9896,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "url": "https://t.co/O4HGy9kRRX",
+                    "expanded_url": "https://twitter.com/ntvkenya/status/1332564903538855938",
+                    "display_url": "twitter.com/ntvkenya/statu\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1332564903538855938"
+                },
+                "id": 1332564903538855938,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "ntvkenya",
+                        "id": "25985333"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 41,
+                        "end": 45,
+                        "probability": 0.4455,
+                        "type": "Organization",
+                        "normalized_text": "Covid"
+                    },
+                    {
+                        "start": 63,
+                        "end": 65,
+                        "probability": 0.8912,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/xiMGWXLlv7",
+                        "expanded_url": "https://bit.ly/3qifRLQ",
+                        "display_url": "bit.ly/3qifRLQ"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1332564903538855938"
+                }
+            ],
+            "id": "1332565226764505088",
+            "conversation_id": "1332565226764505088",
+            "created_at": "2020-11-28T06:01:22.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @ntvkenya: Over 50 arrested with fake Covid certificates as UAE stops issuance of visas to Kenyans \n\nhttps://t.co/xiMGWXLlv7 https://t.c\u2026",
+            "author_id": "206824189"
+        },
+        "id": 1332565226764505088,
+        "text": "RT @ntvkenya: Over 50 arrested with fake Covid certificates as UAE stops issuance of visas to Kenyans \n\nhttps://t.co/xiMGWXLlv7 https://t.c\u2026",
+        "attachments": null,
+        "author_id": 206824189,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332565226764505088,
+        "created_at": "2020-11-28T06:01:22+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "ntvkenya",
+                    "id": "25985333"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 41,
+                    "end": 45,
+                    "probability": 0.4455,
+                    "type": "Organization",
+                    "normalized_text": "Covid"
+                },
+                {
+                    "start": 63,
+                    "end": 65,
+                    "probability": 0.8912,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/xiMGWXLlv7",
+                    "expanded_url": "https://bit.ly/3qifRLQ",
+                    "display_url": "bit.ly/3qifRLQ"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1332564903538855938"
+                },
+                "id": 1332564903538855938,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 7,
+                "like_count": 33,
+                "quote_count": 1
+            },
+            "source": "Hootsuite Inc.",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1332564902209335299"
+                ]
+            },
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 27,
+                        "end": 31,
+                        "probability": 0.548,
+                        "type": "Organization",
+                        "normalized_text": "Covid"
+                    },
+                    {
+                        "start": 49,
+                        "end": 51,
+                        "probability": 0.8901,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "url": "https://t.co/xiMGWXLlv7",
+                        "expanded_url": "https://bit.ly/3qifRLQ",
+                        "display_url": "bit.ly/3qifRLQ"
+                    },
+                    {
+                        "start": 114,
+                        "end": 137,
+                        "url": "https://t.co/SjiOvoPvCC",
+                        "expanded_url": "https://twitter.com/ntvkenya/status/1332564903538855938/photo/1",
+                        "display_url": "pic.twitter.com/SjiOvoPvCC"
+                    }
+                ]
+            },
+            "id": "1332564903538855938",
+            "conversation_id": "1332564903538855938",
+            "created_at": "2020-11-28T06:00:05.000Z",
+            "reply_settings": "everyone",
+            "text": "Over 50 arrested with fake Covid certificates as UAE stops issuance of visas to Kenyans \n\nhttps://t.co/xiMGWXLlv7 https://t.co/SjiOvoPvCC",
+            "author_id": "25985333"
+        },
+        "id": 1332564903538855938,
+        "text": "Over 50 arrested with fake Covid certificates as UAE stops issuance of visas to Kenyans \n\nhttps://t.co/xiMGWXLlv7 https://t.co/SjiOvoPvCC",
+        "attachments": {
+            "media_keys": [
+                "3_1332564902209335299"
+            ]
+        },
+        "author_id": 25985333,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332564903538855938,
+        "created_at": "2020-11-28T06:00:05+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 27,
+                    "end": 31,
+                    "probability": 0.548,
+                    "type": "Organization",
+                    "normalized_text": "Covid"
+                },
+                {
+                    "start": 49,
+                    "end": 51,
+                    "probability": 0.8901,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/xiMGWXLlv7",
+                    "expanded_url": "https://bit.ly/3qifRLQ",
+                    "display_url": "bit.ly/3qifRLQ"
+                },
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/SjiOvoPvCC",
+                    "expanded_url": "https://twitter.com/ntvkenya/status/1332564903538855938/photo/1",
+                    "display_url": "pic.twitter.com/SjiOvoPvCC"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 7,
+            "like_count": 33,
+            "quote_count": 1
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Hootsuite Inc.",
+        "withheld": null
+    }
+]

@@ -1,0 +1,1421 @@
+[
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "259645736",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@j_mcelroy Yeah, agreed. Overwhelming is probably an understatement.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405679365464104961"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "121881752",
+            "id": "1405707262807744513",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "j_mcelroy",
+                        "id": "121881752"
+                    }
+                ]
+            },
+            "created_at": "2021-06-18T02:01:42.000Z",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1405707262807744513,
+        "text": "@j_mcelroy Yeah, agreed. Overwhelming is probably an understatement.",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-18T02:01:42+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "j_mcelroy",
+                    "id": "121881752"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 121881752,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405679365464104961"
+                },
+                "id": 1405679365464104961,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "121881752",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "text": "@mariasundaram I think the issue I'm seeing (at least out here, where AZ was the pharmacy option and Pfizer/Moderna have been in a relatively smooth age-based rollout) is just the constant tweaks, week after week, to best AZ practices and how the rollout will work, which gets overwhelming",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675232384503809"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 70,
+                        "end": 71,
+                        "probability": 0.5827,
+                        "type": "Place",
+                        "normalized_text": "AZ"
+                    },
+                    {
+                        "start": 101,
+                        "end": 106,
+                        "probability": 0.7299,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 108,
+                        "end": 114,
+                        "probability": 0.542,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    },
+                    {
+                        "start": 222,
+                        "end": 223,
+                        "probability": 0.4557,
+                        "type": "Organization",
+                        "normalized_text": "AZ"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "mariasundaram",
+                        "id": "259645736"
+                    }
+                ]
+            },
+            "id": "1405679365464104961",
+            "created_at": "2021-06-18T00:10:51.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405679365464104961,
+        "text": "@mariasundaram I think the issue I'm seeing (at least out here, where AZ was the pharmacy option and Pfizer/Moderna have been in a relatively smooth age-based rollout) is just the constant tweaks, week after week, to best AZ practices and how the rollout will work, which gets overwhelming",
+        "attachments": null,
+        "author_id": 121881752,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-18T00:10:51+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 70,
+                    "end": 71,
+                    "probability": 0.5827,
+                    "type": "Place",
+                    "normalized_text": "AZ"
+                },
+                {
+                    "start": 101,
+                    "end": 106,
+                    "probability": 0.7299,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 108,
+                    "end": 114,
+                    "probability": 0.542,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                },
+                {
+                    "start": 222,
+                    "end": 223,
+                    "probability": 0.4557,
+                    "type": "Organization",
+                    "normalized_text": "AZ"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "mariasundaram",
+                    "id": "259645736"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675232384503809"
+                },
+                "id": 1405675232384503809,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "259645736",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "text": "I get why ppl might feel frustrated by this. And I get why hearing \"you did the right thing!\" could sound paternalistic or condescending. I think this is a hard thing to communicate, but I hope the extra detail illustrates why I truly believe that to be the case.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675231226834945"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675232384503809",
+            "created_at": "2021-06-17T23:54:26.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675232384503809,
+        "text": "I get why ppl might feel frustrated by this. And I get why hearing \"you did the right thing!\" could sound paternalistic or condescending. I think this is a hard thing to communicate, but I hope the extra detail illustrates why I truly believe that to be the case.",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:26+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675231226834945"
+                },
+                "id": 1405675231226834945,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "259645736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 11,
+                "quote_count": 1
+            },
+            "text": "So, combine all this with decreased demand for AZ vaccine, increased mRNA vax availability, and concerns about VITT especially in younger women, and hopefully you can now see why NACI issued a preference. But hopefully you can also see why getting 2 AZ vaccines isn't a bad thing.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675230035689476"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675231226834945",
+            "created_at": "2021-06-17T23:54:25.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675231226834945,
+        "text": "So, combine all this with decreased demand for AZ vaccine, increased mRNA vax availability, and concerns about VITT especially in younger women, and hopefully you can now see why NACI issued a preference. But hopefully you can also see why getting 2 AZ vaccines isn't a bad thing.",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:25+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 11,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675230035689476"
+                },
+                "id": 1405675230035689476,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "259645736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1047123725525479425",
+                        "name": "Information security",
+                        "description": "Information Security"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "text": "So a picture is now forming where it's probably not *worse* to mix&amp;match, and prelim data from a small study in a pre-print suggests it could potentially provide better immune protection--though this doesn't take away the fact that AZ+AZ still provides great protection.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675228928393217"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 232,
+                        "end": 233,
+                        "probability": 0.4521,
+                        "type": "Place",
+                        "normalized_text": "AZ"
+                    }
+                ]
+            },
+            "id": "1405675230035689476",
+            "created_at": "2021-06-17T23:54:25.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675230035689476,
+        "text": "So a picture is now forming where it's probably not *worse* to mix&amp;match, and prelim data from a small study in a pre-print suggests it could potentially provide better immune protection--though this doesn't take away the fact that AZ+AZ still provides great protection.",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1047123725525479425",
+                    "name": "Information security",
+                    "description": "Information Security"
+                }
+            }
+        ],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:25+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 232,
+                    "end": 233,
+                    "probability": 0.4521,
+                    "type": "Place",
+                    "normalized_text": "AZ"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675228928393217"
+                },
+                "id": 1405675228928393217,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "259645736",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "text": "What is also interesting here is that folks with mix&amp;match seemed to have stronger \"cell-mediated\" (i.e., B and T cell) responses compared to those who got AZ + AZ.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675227657519107"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675228928393217",
+            "created_at": "2021-06-17T23:54:25.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675228928393217,
+        "text": "What is also interesting here is that folks with mix&amp;match seemed to have stronger \"cell-mediated\" (i.e., B and T cell) responses compared to those who got AZ + AZ.",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:25+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675227657519107"
+                },
+                "id": 1405675227657519107,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 263,
+                        "end": 286,
+                        "url": "https://t.co/Q0CUpfr8wg",
+                        "expanded_url": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258172v1.full.pdf",
+                        "display_url": "medrxiv.org/content/10.110\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258172v1.full.pdf"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 32,
+                        "end": 38,
+                        "probability": 0.9973,
+                        "type": "Place",
+                        "normalized_text": "Germany"
+                    }
+                ]
+            },
+            "author_id": "259645736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "text": "And then, in a smaller study in Germany (n &lt; 100, reported in a pre-print), researchers found increased antibody for 2nd dose, for BOTH those who chose mix&amp;match AND those w/ \"homologous\" vaccine regimens. But the mix&amp;match folks had higher increases: https://t.co/Q0CUpfr8wg",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675226424348674"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675227657519107",
+            "created_at": "2021-06-17T23:54:25.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675227657519107,
+        "text": "And then, in a smaller study in Germany (n &lt; 100, reported in a pre-print), researchers found increased antibody for 2nd dose, for BOTH those who chose mix&amp;match AND those w/ \"homologous\" vaccine regimens. But the mix&amp;match folks had higher increases: https://t.co/Q0CUpfr8wg",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:25+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 263,
+                    "end": 286,
+                    "url": "https://t.co/Q0CUpfr8wg",
+                    "expanded_url": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258172v1.full.pdf",
+                    "display_url": "medrxiv.org/content/10.110\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258172v1.full.pdf"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 32,
+                    "end": 38,
+                    "probability": 0.9973,
+                    "type": "Place",
+                    "normalized_text": "Germany"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675226424348674"
+                },
+                "id": 1405675226424348674,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 142,
+                        "end": 165,
+                        "url": "https://t.co/szR4mI0WPR",
+                        "expanded_url": "https://www.isciii.es/Noticias/Noticias/Paginas/Noticias/Presentaci\u00f3n-resultados-preliminares-CombivacS.aspx",
+                        "display_url": "isciii.es/Noticias/Notic\u2026"
+                    }
+                ]
+            },
+            "author_id": "259645736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "However, and maybe I missed this, I don't see a direct comparison to antibody responses from *homologous* (i.e., same-dose) vaccine regimens. https://t.co/szR4mI0WPR",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675225140940806"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675226424348674",
+            "created_at": "2021-06-17T23:54:24.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675226424348674,
+        "text": "However, and maybe I missed this, I don't see a direct comparison to antibody responses from *homologous* (i.e., same-dose) vaccine regimens. https://t.co/szR4mI0WPR",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 142,
+                    "end": 165,
+                    "url": "https://t.co/szR4mI0WPR",
+                    "expanded_url": "https://www.isciii.es/Noticias/Noticias/Paginas/Noticias/Presentaci\u00f3n-resultados-preliminares-CombivacS.aspx",
+                    "display_url": "isciii.es/Noticias/Notic\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675225140940806"
+                },
+                "id": 1405675225140940806,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 250,
+                        "end": 273,
+                        "url": "https://t.co/9Q3sheUuHa",
+                        "expanded_url": "https://www.nature.com/articles/d41586-021-01359-3",
+                        "display_url": "nature.com/articles/d4158\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 78,
+                        "end": 82,
+                        "probability": 0.9981,
+                        "type": "Place",
+                        "normalized_text": "Spain"
+                    }
+                ]
+            },
+            "author_id": "259645736",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 1
+            },
+            "text": "There are other studies that have also looked into this, including a study in Spain that reported results in a recent online presentation. This study found milder reactogenicity for mix&amp;match than the Com-COV trial, + a strong antibody response. https://t.co/9Q3sheUuHa",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675224004243457"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675225140940806",
+            "created_at": "2021-06-17T23:54:24.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675225140940806,
+        "text": "There are other studies that have also looked into this, including a study in Spain that reported results in a recent online presentation. This study found milder reactogenicity for mix&amp;match than the Com-COV trial, + a strong antibody response. https://t.co/9Q3sheUuHa",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 250,
+                    "end": 273,
+                    "url": "https://t.co/9Q3sheUuHa",
+                    "expanded_url": "https://www.nature.com/articles/d41586-021-01359-3",
+                    "display_url": "nature.com/articles/d4158\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 78,
+                    "end": 82,
+                    "probability": 0.9981,
+                    "type": "Place",
+                    "normalized_text": "Spain"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675224004243457"
+                },
+                "id": 1405675224004243457,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "259645736",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "text": "Now, the primary outcome of this study is to find out what benefit this might have for our immune systems. This data is projected to come out this month, but I haven't seen it yet (epi folks, please chime in if I missed it).",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675222745952256"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675224004243457",
+            "created_at": "2021-06-17T23:54:24.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675224004243457,
+        "text": "Now, the primary outcome of this study is to find out what benefit this might have for our immune systems. This data is projected to come out this month, but I haven't seen it yet (epi folks, please chime in if I missed it).",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:24+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675222745952256"
+                },
+                "id": 1405675222745952256,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 251,
+                        "end": 274,
+                        "url": "https://t.co/t7UrmbTFMb",
+                        "expanded_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01115-6/fulltext",
+                        "display_url": "thelancet.com/journals/lance\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 13,
+                        "end": 19,
+                        "probability": 0.2537,
+                        "type": "Organization",
+                        "normalized_text": "Com-COV"
+                    }
+                ]
+            },
+            "author_id": "259645736",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "text": "Results from Com-COV reported in May suggested that there was a mild increase in \"reactogenicity\" (that's what my mom would call \"feeling junky\" side effects--headache, fever, muscle pains, fatigue) when mix&amp;match is used, but still safe overall. https://t.co/t7UrmbTFMb",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675221592518656"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675222745952256",
+            "created_at": "2021-06-17T23:54:23.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675222745952256,
+        "text": "Results from Com-COV reported in May suggested that there was a mild increase in \"reactogenicity\" (that's what my mom would call \"feeling junky\" side effects--headache, fever, muscle pains, fatigue) when mix&amp;match is used, but still safe overall. https://t.co/t7UrmbTFMb",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 251,
+                    "end": 274,
+                    "url": "https://t.co/t7UrmbTFMb",
+                    "expanded_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01115-6/fulltext",
+                    "display_url": "thelancet.com/journals/lance\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 13,
+                    "end": 19,
+                    "probability": 0.2537,
+                    "type": "Organization",
+                    "normalized_text": "Com-COV"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675221592518656"
+                },
+                "id": 1405675221592518656,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "author_id": "259645736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "text": "BTW, you'll see this phrase often, \"heterologous prime-boost\", basically meaning \"mix and match\". The idea is that we use one type of vaccine to \"prime\" the immune system and a different type to \"boost\" the response after the first dose.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675220313198593"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675221592518656",
+            "created_at": "2021-06-17T23:54:23.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675221592518656,
+        "text": "BTW, you'll see this phrase often, \"heterologous prime-boost\", basically meaning \"mix and match\". The idea is that we use one type of vaccine to \"prime\" the immune system and a different type to \"boost\" the response after the first dose.",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:23+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675220313198593"
+                },
+                "id": 1405675220313198593,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1405675218593533955",
+            "reply_settings": "following",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 149,
+                        "end": 172,
+                        "url": "https://t.co/lPi78KPVhI",
+                        "expanded_url": "https://comcovstudy.org.uk/about-com-cov2",
+                        "display_url": "comcovstudy.org.uk/about-com-cov2"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 104,
+                        "end": 105,
+                        "probability": 0.8965,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ]
+            },
+            "author_id": "259645736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 1
+            },
+            "text": "One big piece of info we have about mixing &amp; matching vaccines comes from a large clinical trial in the UK called Com-COV analyzing mRNA and AZ: https://t.co/lPi78KPVhI The idea was to learn if it is 1) safe and 2) effective to give people more than 1 type of vaccine.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1405675218593533955"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "259645736",
+            "id": "1405675220313198593",
+            "created_at": "2021-06-17T23:54:23.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1405675220313198593,
+        "text": "One big piece of info we have about mixing &amp; matching vaccines comes from a large clinical trial in the UK called Com-COV analyzing mRNA and AZ: https://t.co/lPi78KPVhI The idea was to learn if it is 1) safe and 2) effective to give people more than 1 type of vaccine.",
+        "attachments": null,
+        "author_id": 259645736,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405675218593533955,
+        "created_at": "2021-06-17T23:54:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 149,
+                    "end": 172,
+                    "url": "https://t.co/lPi78KPVhI",
+                    "expanded_url": "https://comcovstudy.org.uk/about-com-cov2",
+                    "display_url": "comcovstudy.org.uk/about-com-cov2"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 105,
+                    "probability": 0.8965,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 259645736,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1405675218593533955"
+                },
+                "id": 1405675218593533955,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "data": {
+            "text": "Donald Trump on Jan. 14 froze $27.4 billion worth of government programs in the last week of his presidency using a budget maneuver called rescission. These were swath on critical programs that help make life better for Americans and sustain our leadership around the world. https://t.co/9D6OSx93Cq",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "in_reply_to_user_id": "1328726355362529281",
+            "lang": "en",
+            "created_at": "2021-02-01T01:31:21.000Z",
+            "possibly_sensitive": false,
+            "author_id": "1328726355362529281",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "probability": 0.9948,
+                        "type": "Person",
+                        "normalized_text": "Donald Trump"
+                    },
+                    {
+                        "start": 220,
+                        "end": 228,
+                        "probability": 0.7466,
+                        "type": "Person",
+                        "normalized_text": "Americans"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/9D6OSx93Cq",
+                        "expanded_url": "https://twitter.com/MohitKopinion/status/1356052487069859840/photo/1",
+                        "display_url": "pic.twitter.com/9D6OSx93Cq"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "id": "1356052487069859840",
+            "attachments": {
+                "media_keys": [
+                    "3_1356052484016357377"
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1356052467851513856"
+                }
+            ],
+            "conversation_id": "1356052467851513856"
+        },
+        "id": 1356052487069859840,
+        "text": "Donald Trump on Jan. 14 froze $27.4 billion worth of government programs in the last week of his presidency using a budget maneuver called rescission. These were swath on critical programs that help make life better for Americans and sustain our leadership around the world. https://t.co/9D6OSx93Cq",
+        "attachments": {
+            "media_keys": [
+                "3_1356052484016357377"
+            ]
+        },
+        "author_id": 1328726355362529281,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1356052467851513856,
+        "created_at": "2021-02-01T01:31:21+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "probability": 0.9948,
+                    "type": "Person",
+                    "normalized_text": "Donald Trump"
+                },
+                {
+                    "start": 220,
+                    "end": 228,
+                    "probability": 0.7466,
+                    "type": "Person",
+                    "normalized_text": "Americans"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 275,
+                    "end": 298,
+                    "url": "https://t.co/9D6OSx93Cq",
+                    "expanded_url": "https://twitter.com/MohitKopinion/status/1356052487069859840/photo/1",
+                    "display_url": "pic.twitter.com/9D6OSx93Cq"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1328726355362529281,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1356052467851513856"
+                },
+                "id": 1356052467851513856,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

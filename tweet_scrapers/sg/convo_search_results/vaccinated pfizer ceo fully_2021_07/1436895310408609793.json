@@ -1,0 +1,229 @@
+[
+    {
+        "data": {
+            "conversation_id": "1436895310408609793",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1436905868684111874"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 111,
+                        "end": 134,
+                        "url": "https://t.co/4fDhrCZNtb",
+                        "expanded_url": "https://twitter.com/bacchaus351/status/1436905871292915722/photo/1",
+                        "display_url": "pic.twitter.com/4fDhrCZNtb"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 64,
+                        "end": 73,
+                        "probability": 0.6451,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer CEO"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "fred_l_c",
+                        "id": "384664670"
+                    },
+                    {
+                        "start": 10,
+                        "end": 24,
+                        "username": "Dixie4Alberta",
+                        "id": "2802606283"
+                    }
+                ]
+            },
+            "author_id": "3307309744",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@fred_l_c @Dixie4Alberta Where did you hear that? Asking as the Pfizer CEO has been fully vaccinated 6 months. https://t.co/4fDhrCZNtb",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1436897866048442368"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "384664670",
+            "id": "1436905871292915722",
+            "created_at": "2021-09-12T04:13:50.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1436905871292915722,
+        "text": "@fred_l_c @Dixie4Alberta Where did you hear that? Asking as the Pfizer CEO has been fully vaccinated 6 months. https://t.co/4fDhrCZNtb",
+        "attachments": {
+            "media_keys": [
+                "3_1436905868684111874"
+            ]
+        },
+        "author_id": 3307309744,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436895310408609793,
+        "created_at": "2021-09-12T04:13:50+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/4fDhrCZNtb",
+                    "expanded_url": "https://twitter.com/bacchaus351/status/1436905871292915722/photo/1",
+                    "display_url": "pic.twitter.com/4fDhrCZNtb"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 64,
+                    "end": 73,
+                    "probability": 0.6451,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer CEO"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "fred_l_c",
+                    "id": "384664670"
+                },
+                {
+                    "start": 10,
+                    "end": 24,
+                    "username": "Dixie4Alberta",
+                    "id": "2802606283"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 384664670,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1436897866048442368"
+                },
+                "id": 1436897866048442368,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

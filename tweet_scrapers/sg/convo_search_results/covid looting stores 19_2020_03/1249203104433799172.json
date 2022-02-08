@@ -1,0 +1,318 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1100409026628640768",
+                        "name": "NDTV",
+                        "description": "NDTV"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026820777",
+                        "name": "Android"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10024011738",
+                        "name": "Apple - iPhone"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "848920700073123840",
+                        "name": "Cell Phones",
+                        "description": "Cell phones"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "848985956778561538",
+                        "name": "Mobile",
+                        "description": "Mobile"
+                    }
+                }
+            ],
+            "created_at": "2020-04-12T05:42:15.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 153,
+                        "end": 176,
+                        "url": "https://t.co/1HfFJxSE6V",
+                        "expanded_url": "https://www.ndtv.com/news/view/ndtv/2210329/site=classic/?device=androidv2&showads=no",
+                        "display_url": "ndtv.com/news/view/ndtv\u2026"
+                    },
+                    {
+                        "start": 214,
+                        "end": 237,
+                        "url": "https://t.co/Z7BhGm0Wlq",
+                        "expanded_url": "http://ndtv.com/android",
+                        "display_url": "ndtv.com/android"
+                    },
+                    {
+                        "start": 249,
+                        "end": 272,
+                        "url": "https://t.co/WdClYj7zS3",
+                        "expanded_url": "http://ndtv.com/iPhone",
+                        "display_url": "ndtv.com/iPhone",
+                        "unwound_url": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fNDTV"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 204,
+                        "end": 210,
+                        "probability": 0.6093,
+                        "type": "Product",
+                        "normalized_text": "Android"
+                    }
+                ]
+            },
+            "author_id": "88408866",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 1
+            },
+            "id": "1249211205086044162",
+            "text": "This is what I m talking about. Reasons can be any.\nPunjab policeman's hand chopped, two others injured in attack by group defying coronavirus lockdown\n\nhttps://t.co/1HfFJxSE6V\n\nShared via NDTV News App (Android - https://t.co/Z7BhGm0Wlq | iPhone - https://t.co/WdClYj7zS3 )",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249203104433799172"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1249203104433799172",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "88408866",
+            "reply_settings": "everyone"
+        },
+        "id": 1249211205086044162,
+        "text": "This is what I m talking about. Reasons can be any.\nPunjab policeman's hand chopped, two others injured in attack by group defying coronavirus lockdown\n\nhttps://t.co/1HfFJxSE6V\n\nShared via NDTV News App (Android - https://t.co/Z7BhGm0Wlq | iPhone - https://t.co/WdClYj7zS3 )",
+        "attachments": null,
+        "author_id": 88408866,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1100409026628640768",
+                    "name": "NDTV",
+                    "description": "NDTV"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026820777",
+                    "name": "Android"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10024011738",
+                    "name": "Apple - iPhone"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "848920700073123840",
+                    "name": "Cell Phones",
+                    "description": "Cell phones"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "848985956778561538",
+                    "name": "Mobile",
+                    "description": "Mobile"
+                }
+            }
+        ],
+        "conversation_id": 1249203104433799172,
+        "created_at": "2020-04-12T05:42:15+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 153,
+                    "end": 176,
+                    "url": "https://t.co/1HfFJxSE6V",
+                    "expanded_url": "https://www.ndtv.com/news/view/ndtv/2210329/site=classic/?device=androidv2&showads=no",
+                    "display_url": "ndtv.com/news/view/ndtv\u2026"
+                },
+                {
+                    "start": 214,
+                    "end": 237,
+                    "url": "https://t.co/Z7BhGm0Wlq",
+                    "expanded_url": "http://ndtv.com/android",
+                    "display_url": "ndtv.com/android"
+                },
+                {
+                    "start": 249,
+                    "end": 272,
+                    "url": "https://t.co/WdClYj7zS3",
+                    "expanded_url": "http://ndtv.com/iPhone",
+                    "display_url": "ndtv.com/iPhone",
+                    "unwound_url": "https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fNDTV"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 204,
+                    "end": 210,
+                    "probability": 0.6093,
+                    "type": "Product",
+                    "normalized_text": "Android"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 88408866,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249203104433799172"
+                },
+                "id": 1249203104433799172,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

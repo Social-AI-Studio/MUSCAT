@@ -1,0 +1,165 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2020-02-26T20:48:21.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 113,
+                        "end": 136,
+                        "url": "https://t.co/NQXS2T6uRl",
+                        "expanded_url": "http://2wsb.tv/380UIv2",
+                        "display_url": "2wsb.tv/380UIv2"
+                    },
+                    {
+                        "start": 144,
+                        "end": 167,
+                        "url": "https://t.co/DfQ9JIzu6s",
+                        "expanded_url": "https://twitter.com/LindaWSB/status/1232769391927885825/photo/1",
+                        "display_url": "pic.twitter.com/DfQ9JIzu6s"
+                    },
+                    {
+                        "start": 144,
+                        "end": 167,
+                        "url": "https://t.co/DfQ9JIzu6s",
+                        "expanded_url": "https://twitter.com/LindaWSB/status/1232769391927885825/photo/1",
+                        "display_url": "pic.twitter.com/DfQ9JIzu6s"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 137,
+                        "end": 143,
+                        "username": "wsbtv",
+                        "id": "21094888"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 104,
+                        "end": 110,
+                        "probability": 0.9946,
+                        "type": "Place",
+                        "normalized_text": "America"
+                    }
+                ]
+            },
+            "author_id": "417003912",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1232769391927885825",
+            "text": "Fever, cough. Coronavirus could be severe or you might not even notice you have it. NEW- 60 patients in America: https://t.co/NQXS2T6uRl @wsbtv https://t.co/DfQ9JIzu6s",
+            "source": "Twitter for iPhone",
+            "conversation_id": "1232769391927885825",
+            "possibly_sensitive": false,
+            "attachments": {
+                "media_keys": [
+                    "3_1232769387695919104",
+                    "3_1232769387700084736"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1232769391927885825,
+        "text": "Fever, cough. Coronavirus could be severe or you might not even notice you have it. NEW- 60 patients in America: https://t.co/NQXS2T6uRl @wsbtv https://t.co/DfQ9JIzu6s",
+        "attachments": {
+            "media_keys": [
+                "3_1232769387695919104",
+                "3_1232769387700084736"
+            ]
+        },
+        "author_id": 417003912,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1232769391927885825,
+        "created_at": "2020-02-26T20:48:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/NQXS2T6uRl",
+                    "expanded_url": "http://2wsb.tv/380UIv2",
+                    "display_url": "2wsb.tv/380UIv2"
+                },
+                {
+                    "start": 144,
+                    "end": 167,
+                    "url": "https://t.co/DfQ9JIzu6s",
+                    "expanded_url": "https://twitter.com/LindaWSB/status/1232769391927885825/photo/1",
+                    "display_url": "pic.twitter.com/DfQ9JIzu6s"
+                },
+                {
+                    "start": 144,
+                    "end": 167,
+                    "url": "https://t.co/DfQ9JIzu6s",
+                    "expanded_url": "https://twitter.com/LindaWSB/status/1232769391927885825/photo/1",
+                    "display_url": "pic.twitter.com/DfQ9JIzu6s"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 137,
+                    "end": 143,
+                    "username": "wsbtv",
+                    "id": "21094888"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 110,
+                    "probability": 0.9946,
+                    "type": "Place",
+                    "normalized_text": "America"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

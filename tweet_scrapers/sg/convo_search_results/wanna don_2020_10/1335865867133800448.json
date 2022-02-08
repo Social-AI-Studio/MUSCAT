@@ -1,0 +1,485 @@
+[
+    {
+        "data": {
+            "conversation_id": "1335865867133800448",
+            "reply_settings": "everyone",
+            "author_id": "50419170",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10053298770",
+                        "name": "Apple App Store",
+                        "description": "Apple App Store"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10046487168",
+                        "name": "App Store"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@Trashpan_XD like i love mine for reading til I fall asleep &amp; looking at the news in the morning but dear lord amazon's app store leaves much to be desired",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1335879288399204352"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1266095369877884930",
+            "id": "1335998845000380418",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "Trashpan_XD",
+                        "id": "1266095369877884930"
+                    }
+                ]
+            },
+            "created_at": "2020-12-07T17:25:20.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1335998845000380418,
+        "text": "@Trashpan_XD like i love mine for reading til I fall asleep &amp; looking at the news in the morning but dear lord amazon's app store leaves much to be desired",
+        "attachments": null,
+        "author_id": 50419170,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10053298770",
+                    "name": "Apple App Store",
+                    "description": "Apple App Store"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "783335558466506752",
+                    "name": "Online"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026792024",
+                    "name": "Amazon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10046487168",
+                    "name": "App Store"
+                }
+            }
+        ],
+        "conversation_id": 1335865867133800448,
+        "created_at": "2020-12-07T17:25:20+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "Trashpan_XD",
+                    "id": "1266095369877884930"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1266095369877884930,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1335879288399204352"
+                },
+                "id": 1335879288399204352,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1335865867133800448",
+            "reply_settings": "everyone",
+            "author_id": "2488389776",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nikinapalm Finish some months ago. Really, really good. he gives me a lot of cold sweat",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1335865867133800448"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "50419170",
+            "id": "1335870432977809412",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "nikinapalm",
+                        "id": "50419170"
+                    }
+                ]
+            },
+            "created_at": "2020-12-07T08:55:05.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1335870432977809412,
+        "text": "@nikinapalm Finish some months ago. Really, really good. he gives me a lot of cold sweat",
+        "attachments": null,
+        "author_id": 2488389776,
+        "context_annotations": [],
+        "conversation_id": 1335865867133800448,
+        "created_at": "2020-12-07T08:55:05+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "nikinapalm",
+                    "id": "50419170"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 50419170,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1335865867133800448"
+                },
+                "id": 1335865867133800448,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1335865867133800448",
+            "reply_settings": "everyone",
+            "author_id": "50419170",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 10,
+                "quote_count": 0
+            },
+            "text": "im mostly rting my misery so i don't forget i wanna finish it at some point",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1335865867133800448"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "50419170",
+            "id": "1335866550759243776",
+            "created_at": "2020-12-07T08:39:39.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1335866550759243776,
+        "text": "im mostly rting my misery so i don't forget i wanna finish it at some point",
+        "attachments": null,
+        "author_id": 50419170,
+        "context_annotations": [],
+        "conversation_id": 1335865867133800448,
+        "created_at": "2020-12-07T08:39:39+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 50419170,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1335865867133800448"
+                },
+                "id": 1335865867133800448,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1335865867133800448",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "16_1335866036743270400"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 12,
+                        "end": 35,
+                        "url": "https://t.co/dda6jN3uya",
+                        "expanded_url": "https://twitter.com/gavlar87/status/1335866044381097985/photo/1",
+                        "display_url": "pic.twitter.com/dda6jN3uya"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "nikinapalm",
+                        "id": "50419170"
+                    }
+                ]
+            },
+            "author_id": "321879517",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@nikinapalm https://t.co/dda6jN3uya",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1335865867133800448"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "50419170",
+            "id": "1335866044381097985",
+            "created_at": "2020-12-07T08:37:38.000Z",
+            "lang": "und",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1335866044381097985,
+        "text": "@nikinapalm https://t.co/dda6jN3uya",
+        "attachments": {
+            "media_keys": [
+                "16_1335866036743270400"
+            ]
+        },
+        "author_id": 321879517,
+        "context_annotations": [],
+        "conversation_id": 1335865867133800448,
+        "created_at": "2020-12-07T08:37:38+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 12,
+                    "end": 35,
+                    "url": "https://t.co/dda6jN3uya",
+                    "expanded_url": "https://twitter.com/gavlar87/status/1335866044381097985/photo/1",
+                    "display_url": "pic.twitter.com/dda6jN3uya"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "nikinapalm",
+                    "id": "50419170"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 50419170,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1335865867133800448"
+                },
+                "id": 1335865867133800448,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

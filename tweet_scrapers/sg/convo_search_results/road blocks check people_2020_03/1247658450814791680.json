@@ -1,0 +1,2655 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "59986333",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "mattdanaher",
+                        "id": "59986333"
+                    },
+                    {
+                        "start": 13,
+                        "end": 29,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency",
+                        "description": "Bitcoin Cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1001503516555337728",
+                        "name": "Blockchain",
+                        "description": "Blockchain"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847888632711061504",
+                        "name": "Personal finance",
+                        "description": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies",
+                        "description": "Cryptocurrency"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247666793512132610"
+                }
+            ],
+            "id": "1247703069586083840",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-08T01:49:27.000Z",
+            "reply_settings": "everyone",
+            "text": "@mattdanaher @ThatCroatianGuy once people figure out blockchain is more than bitcoin, maybe we can start to utilize it properly!",
+            "author_id": "4892992786"
+        },
+        "id": 1247703069586083840,
+        "text": "@mattdanaher @ThatCroatianGuy once people figure out blockchain is more than bitcoin, maybe we can start to utilize it properly!",
+        "attachments": null,
+        "author_id": 4892992786,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596794716162",
+                    "name": "Financial services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1007360414114435072",
+                    "name": "Bitcoin cryptocurrency",
+                    "description": "Bitcoin Cryptocurrency"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1001503516555337728",
+                    "name": "Blockchain",
+                    "description": "Blockchain"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847888632711061504",
+                    "name": "Personal finance",
+                    "description": "Personal finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "913142676819648512",
+                    "name": "Cryptocurrencies",
+                    "description": "Cryptocurrency"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-08T01:49:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "mattdanaher",
+                    "id": "59986333"
+                },
+                {
+                    "start": 13,
+                    "end": 29,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 59986333,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247666793512132610"
+                },
+                "id": 1247666793512132610,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "59986333",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "mattdanaher",
+                        "id": "59986333"
+                    },
+                    {
+                        "start": 13,
+                        "end": 29,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    },
+                    {
+                        "start": 30,
+                        "end": 36,
+                        "username": "sacca",
+                        "id": "586"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247662744003895302"
+                }
+            ],
+            "id": "1247676711505977346",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-08T00:04:43.000Z",
+            "reply_settings": "everyone",
+            "text": "@mattdanaher @ThatCroatianGuy @sacca Obliterates the concept of a secret ballot",
+            "author_id": "1083196477143478272"
+        },
+        "id": 1247676711505977346,
+        "text": "@mattdanaher @ThatCroatianGuy @sacca Obliterates the concept of a secret ballot",
+        "attachments": null,
+        "author_id": 1083196477143478272,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-08T00:04:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "mattdanaher",
+                    "id": "59986333"
+                },
+                {
+                    "start": 13,
+                    "end": 29,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                },
+                {
+                    "start": 30,
+                    "end": 36,
+                    "username": "sacca",
+                    "id": "586"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 59986333,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247662744003895302"
+                },
+                "id": 1247662744003895302,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "26700194",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    },
+                    {
+                        "start": 17,
+                        "end": 29,
+                        "username": "mattdanaher",
+                        "id": "59986333"
+                    },
+                    {
+                        "start": 30,
+                        "end": 36,
+                        "username": "sacca",
+                        "id": "586"
+                    },
+                    {
+                        "start": 37,
+                        "end": 48,
+                        "username": "WellsFargo",
+                        "id": "1178011"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10027310982",
+                        "name": "Wells Fargo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878257630195712",
+                        "name": "Government",
+                        "description": "Government"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247664454969352193"
+                }
+            ],
+            "id": "1247670478921183236",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:39:57.000Z",
+            "reply_settings": "everyone",
+            "text": "@ThatCroatianGuy @mattdanaher @sacca @WellsFargo Lucky you their system is very wack on my end I had to change my password 5 times in a week.",
+            "author_id": "816821678437187584"
+        },
+        "id": 1247670478921183236,
+        "text": "@ThatCroatianGuy @mattdanaher @sacca @WellsFargo Lucky you their system is very wack on my end I had to change my password 5 times in a week.",
+        "attachments": null,
+        "author_id": 816821678437187584,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596794716162",
+                    "name": "Financial services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027310982",
+                    "name": "Wells Fargo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878257630195712",
+                    "name": "Government",
+                    "description": "Government"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:39:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                },
+                {
+                    "start": 17,
+                    "end": 29,
+                    "username": "mattdanaher",
+                    "id": "59986333"
+                },
+                {
+                    "start": 30,
+                    "end": 36,
+                    "username": "sacca",
+                    "id": "586"
+                },
+                {
+                    "start": 37,
+                    "end": 48,
+                    "username": "WellsFargo",
+                    "id": "1178011"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26700194,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247664454969352193"
+                },
+                "id": 1247664454969352193,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "26700194",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1001503516555337728",
+                        "name": "Blockchain",
+                        "description": "Blockchain"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247666468533096449"
+                }
+            ],
+            "id": "1247666793512132610",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:25:18.000Z",
+            "reply_settings": "everyone",
+            "text": "@ThatCroatianGuy I think blockchain integration in voting to make it more accessible and secure is the future.",
+            "author_id": "59986333"
+        },
+        "id": 1247666793512132610,
+        "text": "@ThatCroatianGuy I think blockchain integration in voting to make it more accessible and secure is the future.",
+        "attachments": null,
+        "author_id": 59986333,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1001503516555337728",
+                    "name": "Blockchain",
+                    "description": "Blockchain"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:25:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26700194,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247666468533096449"
+                },
+                "id": 1247666468533096449,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "59986333",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "mattdanaher",
+                        "id": "59986333"
+                    }
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247665138305585152"
+                }
+            ],
+            "id": "1247666468533096449",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:24:01.000Z",
+            "reply_settings": "everyone",
+            "text": "@mattdanaher I\u2019d like to be involved in solving a problem like this someday. This shutdown has my mind wandering all over the place, but it keeps coming back to how I can do more to help solve a big problem.",
+            "author_id": "26700194"
+        },
+        "id": 1247666468533096449,
+        "text": "@mattdanaher I\u2019d like to be involved in solving a problem like this someday. This shutdown has my mind wandering all over the place, but it keeps coming back to how I can do more to help solve a big problem.",
+        "attachments": null,
+        "author_id": 26700194,
+        "context_annotations": [],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:24:01+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "mattdanaher",
+                    "id": "59986333"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 59986333,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247665138305585152"
+                },
+                "id": 1247665138305585152,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "26700194",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    },
+                    {
+                        "start": 17,
+                        "end": 23,
+                        "username": "sacca",
+                        "id": "586"
+                    },
+                    {
+                        "start": 24,
+                        "end": 35,
+                        "username": "WellsFargo",
+                        "id": "1178011"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 192,
+                        "end": 194,
+                        "probability": 0.9548,
+                        "type": "Organization",
+                        "normalized_text": "DNC"
+                    },
+                    {
+                        "start": 216,
+                        "end": 219,
+                        "probability": 0.2771,
+                        "type": "Place",
+                        "normalized_text": "Iowa"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "941044631961092096",
+                        "name": "Democratic National Committee",
+                        "description": "Democratic National Committee"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10027310982",
+                        "name": "Wells Fargo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878257630195712",
+                        "name": "Government",
+                        "description": "Government"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247664454969352193"
+                }
+            ],
+            "id": "1247665138305585152",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:18:44.000Z",
+            "reply_settings": "everyone",
+            "text": "@ThatCroatianGuy @sacca @WellsFargo Road blocks I see\n1. Fraudulent votes via hacking (hence the voice and face recording for audits)\n2. Not everyone has a smart phone\n3. Database errors (see DNC using app for their Iowa caucus) would need a test run",
+            "author_id": "59986333"
+        },
+        "id": 1247665138305585152,
+        "text": "@ThatCroatianGuy @sacca @WellsFargo Road blocks I see\n1. Fraudulent votes via hacking (hence the voice and face recording for audits)\n2. Not everyone has a smart phone\n3. Database errors (see DNC using app for their Iowa caucus) would need a test run",
+        "attachments": null,
+        "author_id": 59986333,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "941044631961092096",
+                    "name": "Democratic National Committee",
+                    "description": "Democratic National Committee"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596794716162",
+                    "name": "Financial services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027310982",
+                    "name": "Wells Fargo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878257630195712",
+                    "name": "Government",
+                    "description": "Government"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:18:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "username": "sacca",
+                    "id": "586"
+                },
+                {
+                    "start": 24,
+                    "end": 35,
+                    "username": "WellsFargo",
+                    "id": "1178011"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 192,
+                    "end": 194,
+                    "probability": 0.9548,
+                    "type": "Organization",
+                    "normalized_text": "DNC"
+                },
+                {
+                    "start": 216,
+                    "end": 219,
+                    "probability": 0.2771,
+                    "type": "Place",
+                    "normalized_text": "Iowa"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26700194,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247664454969352193"
+                },
+                "id": 1247664454969352193,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "59986333",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "mattdanaher",
+                        "id": "59986333"
+                    },
+                    {
+                        "start": 13,
+                        "end": 29,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    },
+                    {
+                        "start": 30,
+                        "end": 36,
+                        "username": "sacca",
+                        "id": "586"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247662744003895302"
+                }
+            ],
+            "id": "1247665072895221760",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:18:28.000Z",
+            "reply_settings": "everyone",
+            "text": "@mattdanaher @ThatCroatianGuy @sacca but how do we stop the wrong people from voting, then?",
+            "author_id": "2579187122"
+        },
+        "id": 1247665072895221760,
+        "text": "@mattdanaher @ThatCroatianGuy @sacca but how do we stop the wrong people from voting, then?",
+        "attachments": null,
+        "author_id": 2579187122,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:18:28+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "mattdanaher",
+                    "id": "59986333"
+                },
+                {
+                    "start": 13,
+                    "end": 29,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                },
+                {
+                    "start": 30,
+                    "end": 36,
+                    "username": "sacca",
+                    "id": "586"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 59986333,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247662744003895302"
+                },
+                "id": 1247662744003895302,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "59986333",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "mattdanaher",
+                        "id": "59986333"
+                    },
+                    {
+                        "start": 13,
+                        "end": 19,
+                        "username": "sacca",
+                        "id": "586"
+                    },
+                    {
+                        "start": 29,
+                        "end": 40,
+                        "username": "WellsFargo",
+                        "id": "1178011"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10027310982",
+                        "name": "Wells Fargo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878257630195712",
+                        "name": "Government",
+                        "description": "Government"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247662744003895302"
+                }
+            ],
+            "id": "1247664454969352193",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:16:01.000Z",
+            "reply_settings": "everyone",
+            "text": "@mattdanaher @sacca My bank (@WellsFargo) verifies my identity by voice. I can check my credit score with facial recognition. My computer knows my fingerprint.\n\nThe technology obviously exists.\n\nThere must be road blocks. What are they? And why don\u2019t average people know about them?",
+            "author_id": "26700194"
+        },
+        "id": 1247664454969352193,
+        "text": "@mattdanaher @sacca My bank (@WellsFargo) verifies my identity by voice. I can check my credit score with facial recognition. My computer knows my fingerprint.\n\nThe technology obviously exists.\n\nThere must be road blocks. What are they? And why don\u2019t average people know about them?",
+        "attachments": null,
+        "author_id": 26700194,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596794716162",
+                    "name": "Financial services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027310982",
+                    "name": "Wells Fargo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878257630195712",
+                    "name": "Government",
+                    "description": "Government"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:16:01+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "mattdanaher",
+                    "id": "59986333"
+                },
+                {
+                    "start": 13,
+                    "end": 19,
+                    "username": "sacca",
+                    "id": "586"
+                },
+                {
+                    "start": 29,
+                    "end": 40,
+                    "username": "WellsFargo",
+                    "id": "1178011"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 59986333,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247662744003895302"
+                },
+                "id": 1247662744003895302,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "26700194",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 3,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    },
+                    {
+                        "start": 17,
+                        "end": 23,
+                        "username": "sacca",
+                        "id": "586"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247658450814791680"
+                }
+            ],
+            "id": "1247662744003895302",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:09:13.000Z",
+            "reply_settings": "everyone",
+            "text": "@ThatCroatianGuy @sacca There should be an app. Enter your SS, record your vote with your voice and face so audits are possible. Submit. Done.",
+            "author_id": "59986333"
+        },
+        "id": 1247662744003895302,
+        "text": "@ThatCroatianGuy @sacca There should be an app. Enter your SS, record your vote with your voice and face so audits are possible. Submit. Done.",
+        "attachments": null,
+        "author_id": 59986333,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:09:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                },
+                {
+                    "start": 17,
+                    "end": 23,
+                    "username": "sacca",
+                    "id": "586"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26700194,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 3,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247658450814791680"
+                },
+                "id": 1247658450814791680,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "26700194",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "username": "sacca",
+                        "id": "586"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247660439774711808"
+                }
+            ],
+            "id": "1247660628996526080",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:00:49.000Z",
+            "reply_settings": "everyone",
+            "text": "@sacca Would love to learn more about the progress and the road blocks. Thanks for the initial reply!",
+            "author_id": "26700194"
+        },
+        "id": 1247660628996526080,
+        "text": "@sacca Would love to learn more about the progress and the road blocks. Thanks for the initial reply!",
+        "attachments": null,
+        "author_id": 26700194,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:00:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "username": "sacca",
+                    "id": "586"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26700194,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247660439774711808"
+                },
+                "id": 1247660439774711808,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "586",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "username": "sacca",
+                        "id": "586"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247659057277579264"
+                }
+            ],
+            "id": "1247660439774711808",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T23:00:03.000Z",
+            "reply_settings": "everyone",
+            "text": "@sacca Where can a nobody like me learn more about these efforts?\n\nI\u2019m also wondering what\u2019s being done to include everyday voters (people like me) in the process?",
+            "author_id": "26700194"
+        },
+        "id": 1247660439774711808,
+        "text": "@sacca Where can a nobody like me learn more about these efforts?\n\nI\u2019m also wondering what\u2019s being done to include everyday voters (people like me) in the process?",
+        "attachments": null,
+        "author_id": 26700194,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T23:00:03+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "username": "sacca",
+                    "id": "586"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 586,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247659057277579264"
+                },
+                "id": 1247659057277579264,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "26700194",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ThatCroatianGuy",
+                        "id": "26700194"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052682432493703168",
+                        "name": "Chris Sacca",
+                        "description": "Chris Sacca"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247658450814791680"
+                }
+            ],
+            "id": "1247659057277579264",
+            "conversation_id": "1247658450814791680",
+            "created_at": "2020-04-07T22:54:34.000Z",
+            "reply_settings": "everyone",
+            "text": "@ThatCroatianGuy Yes. We work on it year-round through a portfolio of more than a dozen companies and organizations building pro-democracy tools and platforms.",
+            "author_id": "586"
+        },
+        "id": 1247659057277579264,
+        "text": "@ThatCroatianGuy Yes. We work on it year-round through a portfolio of more than a dozen companies and organizations building pro-democracy tools and platforms.",
+        "attachments": null,
+        "author_id": 586,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052682432493703168",
+                    "name": "Chris Sacca",
+                    "description": "Chris Sacca"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878777191211008",
+                    "name": "Leadership",
+                    "description": "Leadership"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            }
+        ],
+        "conversation_id": 1247658450814791680,
+        "created_at": "2020-04-07T22:54:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ThatCroatianGuy",
+                    "id": "26700194"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26700194,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247658450814791680"
+                },
+                "id": 1247658450814791680,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

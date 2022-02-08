@@ -1,0 +1,671 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10044903039",
+                        "name": "Apple - iOS"
+                    }
+                }
+            ],
+            "created_at": "2020-06-23T17:07:48.000Z",
+            "author_id": "41186363",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1275475658559414272",
+            "text": "@KashFida With iOS 13.5. But I don\u2019t believe there\u2019s an app in Canada yet that uses it.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1275194158949392385"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1275194158949392385",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "KashFida",
+                        "id": "817003148"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 15,
+                        "end": 17,
+                        "probability": 0.8088,
+                        "type": "Product",
+                        "normalized_text": "iOS"
+                    },
+                    {
+                        "start": 63,
+                        "end": 68,
+                        "probability": 0.9964,
+                        "type": "Place",
+                        "normalized_text": "Canada"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "817003148",
+            "reply_settings": "everyone"
+        },
+        "id": 1275475658559414272,
+        "text": "@KashFida With iOS 13.5. But I don\u2019t believe there\u2019s an app in Canada yet that uses it.",
+        "attachments": null,
+        "author_id": 41186363,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10044903039",
+                    "name": "Apple - iOS"
+                }
+            }
+        ],
+        "conversation_id": 1275194158949392385,
+        "created_at": "2020-06-23T17:07:48+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "KashFida",
+                    "id": "817003148"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 15,
+                    "end": 17,
+                    "probability": 0.8088,
+                    "type": "Product",
+                    "normalized_text": "iOS"
+                },
+                {
+                    "start": 63,
+                    "end": 68,
+                    "probability": 0.9964,
+                    "type": "Place",
+                    "normalized_text": "Canada"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 817003148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1275194158949392385"
+                },
+                "id": 1275194158949392385,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026378521",
+                        "name": "Google "
+                    }
+                }
+            ],
+            "created_at": "2020-06-22T22:55:24.000Z",
+            "author_id": "81759788",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1275200746946875392",
+            "text": "@KashFida Just added. Only nationstates will get access to the API, most haven't had a chance to incorporate this Apple/Google co-developed API into their contact tracing apps yet.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1275194158949392385"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1275194158949392385",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "KashFida",
+                        "id": "817003148"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 114,
+                        "end": 118,
+                        "probability": 0.7324,
+                        "type": "Product",
+                        "normalized_text": "Apple"
+                    },
+                    {
+                        "start": 120,
+                        "end": 125,
+                        "probability": 0.4427,
+                        "type": "Product",
+                        "normalized_text": "Google"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "817003148",
+            "reply_settings": "everyone"
+        },
+        "id": 1275200746946875392,
+        "text": "@KashFida Just added. Only nationstates will get access to the API, most haven't had a chance to incorporate this Apple/Google co-developed API into their contact tracing apps yet.",
+        "attachments": null,
+        "author_id": 81759788,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026378521",
+                    "name": "Google "
+                }
+            }
+        ],
+        "conversation_id": 1275194158949392385,
+        "created_at": "2020-06-22T22:55:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "KashFida",
+                    "id": "817003148"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 114,
+                    "end": 118,
+                    "probability": 0.7324,
+                    "type": "Product",
+                    "normalized_text": "Apple"
+                },
+                {
+                    "start": 120,
+                    "end": 125,
+                    "probability": 0.4427,
+                    "type": "Product",
+                    "normalized_text": "Google"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 817003148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1275194158949392385"
+                },
+                "id": 1275194158949392385,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-06-22T22:36:46.000Z",
+            "author_id": "817003148",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1275196058423816192",
+            "text": "@RosaJSaba Bless thank you!",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1275195913171095557"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1275194158949392385",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "RosaJSaba",
+                        "id": "756152163840118784"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "756152163840118784",
+            "reply_settings": "everyone"
+        },
+        "id": 1275196058423816192,
+        "text": "@RosaJSaba Bless thank you!",
+        "attachments": null,
+        "author_id": 817003148,
+        "context_annotations": [],
+        "conversation_id": 1275194158949392385,
+        "created_at": "2020-06-22T22:36:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "RosaJSaba",
+                    "id": "756152163840118784"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 756152163840118784,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1275195913171095557"
+                },
+                "id": 1275195913171095557,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026378521",
+                        "name": "Google "
+                    }
+                }
+            ],
+            "created_at": "2020-06-22T22:36:12.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 173,
+                        "end": 196,
+                        "url": "https://t.co/yucWZKnE03",
+                        "expanded_url": "https://www.zdnet.com/article/no-no-one-has-secretly-installed-a-covid-19-tracker-onto-your-smartphone/",
+                        "display_url": "zdnet.com/article/no-no-\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1432896795873452040/BFoLixfs?format=jpg&name=orig",
+                                "width": 770,
+                                "height": 578
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1432896795873452040/BFoLixfs?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "No, no one has secretly installed a COVID-19 tracker onto your smartphone | ZDNet",
+                        "description": "Social media is awash with claims that Google or Apple has secretly installed COVID-19 trackers onto user's iPhones and Android smartphones. (Updated August 2020)",
+                        "unwound_url": "https://www.zdnet.com/article/no-no-one-has-secretly-installed-a-covid-19-tracker-onto-your-smartphone/"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "KashFida",
+                        "id": "817003148"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 66,
+                        "end": 71,
+                        "probability": 0.6956,
+                        "type": "Organization",
+                        "normalized_text": "Google"
+                    },
+                    {
+                        "start": 77,
+                        "end": 81,
+                        "probability": 0.5457,
+                        "type": "Organization",
+                        "normalized_text": "Apple"
+                    }
+                ]
+            },
+            "author_id": "756152163840118784",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1275195913171095557",
+            "text": "@KashFida It's regarding the COVID contact tracing system made by Google and Apple. TLDR: It's there in case you download a contact tracing app. No app, no contact tracing. https://t.co/yucWZKnE03",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1275194158949392385"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1275194158949392385",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "817003148",
+            "reply_settings": "everyone"
+        },
+        "id": 1275195913171095557,
+        "text": "@KashFida It's regarding the COVID contact tracing system made by Google and Apple. TLDR: It's there in case you download a contact tracing app. No app, no contact tracing. https://t.co/yucWZKnE03",
+        "attachments": null,
+        "author_id": 756152163840118784,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026378521",
+                    "name": "Google "
+                }
+            }
+        ],
+        "conversation_id": 1275194158949392385,
+        "created_at": "2020-06-22T22:36:12+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 173,
+                    "end": 196,
+                    "url": "https://t.co/yucWZKnE03",
+                    "expanded_url": "https://www.zdnet.com/article/no-no-one-has-secretly-installed-a-covid-19-tracker-onto-your-smartphone/",
+                    "display_url": "zdnet.com/article/no-no-\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1432896795873452040/BFoLixfs?format=jpg&name=orig",
+                            "width": 770,
+                            "height": 578
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1432896795873452040/BFoLixfs?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "No, no one has secretly installed a COVID-19 tracker onto your smartphone | ZDNet",
+                    "description": "Social media is awash with claims that Google or Apple has secretly installed COVID-19 trackers onto user's iPhones and Android smartphones. (Updated August 2020)",
+                    "unwound_url": "https://www.zdnet.com/article/no-no-one-has-secretly-installed-a-covid-19-tracker-onto-your-smartphone/"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "KashFida",
+                    "id": "817003148"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 66,
+                    "end": 71,
+                    "probability": 0.6956,
+                    "type": "Organization",
+                    "normalized_text": "Google"
+                },
+                {
+                    "start": 77,
+                    "end": 81,
+                    "probability": 0.5457,
+                    "type": "Organization",
+                    "normalized_text": "Apple"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 817003148,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1275194158949392385"
+                },
+                "id": 1275194158949392385,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

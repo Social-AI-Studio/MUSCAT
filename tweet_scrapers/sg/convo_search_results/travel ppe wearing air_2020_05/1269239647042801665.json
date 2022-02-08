@@ -1,0 +1,170 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "2982269822",
+            "author_id": "1124337650230382593",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1108058881253531648",
+                        "name": "The Quint"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 216,
+                        "end": 221,
+                        "probability": 0.9923,
+                        "type": "Place",
+                        "normalized_text": "Mumbai"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "TheQuint",
+                        "id": "2982269822"
+                    },
+                    {
+                        "start": 10,
+                        "end": 23,
+                        "username": "poonamjourno",
+                        "id": "75233762"
+                    },
+                    {
+                        "start": 24,
+                        "end": 37,
+                        "username": "JitiBhargava",
+                        "id": "157618833"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1269244439177953280",
+            "text": "@TheQuint @poonamjourno @JitiBhargava Very realistic !\nGovt buckled under pressure from pvt airlines and kicked off domestic airlines which is another porous gateway for spread of virus, atleast red zone cities like Mumbai should have been exempted.\nMoreover, Govt should have consulted states before implementing it.",
+            "created_at": "2020-06-06T12:27:10.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1269239647042801665",
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1269239647042801665"
+                }
+            ]
+        },
+        "id": 1269244439177953280,
+        "text": "@TheQuint @poonamjourno @JitiBhargava Very realistic !\nGovt buckled under pressure from pvt airlines and kicked off domestic airlines which is another porous gateway for spread of virus, atleast red zone cities like Mumbai should have been exempted.\nMoreover, Govt should have consulted states before implementing it.",
+        "attachments": null,
+        "author_id": 1124337650230382593,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1108058881253531648",
+                    "name": "The Quint"
+                }
+            }
+        ],
+        "conversation_id": 1269239647042801665,
+        "created_at": "2020-06-06T12:27:10+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 216,
+                    "end": 221,
+                    "probability": 0.9923,
+                    "type": "Place",
+                    "normalized_text": "Mumbai"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "TheQuint",
+                    "id": "2982269822"
+                },
+                {
+                    "start": 10,
+                    "end": 23,
+                    "username": "poonamjourno",
+                    "id": "75233762"
+                },
+                {
+                    "start": 24,
+                    "end": 37,
+                    "username": "JitiBhargava",
+                    "id": "157618833"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2982269822,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1269239647042801665"
+                },
+                "id": 1269239647042801665,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

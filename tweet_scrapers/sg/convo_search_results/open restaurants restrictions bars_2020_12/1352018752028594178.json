@@ -1,0 +1,144 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "319204538",
+            "id": "1352036825246756866",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1108793031996534784",
+                        "name": "Jason Kenney",
+                        "description": "Leader of the United Conservative Party in Alberta, Jason Kenney"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1108793031996534784",
+                        "name": "Jason Kenney",
+                        "description": "Leader of the United Conservative Party in Alberta, Jason Kenney"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-20T23:34:33.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "Kris1233",
+                        "id": "319204538"
+                    },
+                    {
+                        "start": 10,
+                        "end": 18,
+                        "username": "jkenney",
+                        "id": "21525682"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "141291385",
+            "source": "Twitter for Android",
+            "text": "@Kris1233 @jkenney I thought that was the case last Thursday but figured something may have been said today too ... Guess not.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352031363193425922"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1352018752028594178"
+        },
+        "id": 1352036825246756866,
+        "text": "@Kris1233 @jkenney I thought that was the case last Thursday but figured something may have been said today too ... Guess not.",
+        "attachments": null,
+        "author_id": 141291385,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1108793031996534784",
+                    "name": "Jason Kenney",
+                    "description": "Leader of the United Conservative Party in Alberta, Jason Kenney"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1108793031996534784",
+                    "name": "Jason Kenney",
+                    "description": "Leader of the United Conservative Party in Alberta, Jason Kenney"
+                }
+            }
+        ],
+        "conversation_id": 1352018752028594178,
+        "created_at": "2021-01-20T23:34:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "Kris1233",
+                    "id": "319204538"
+                },
+                {
+                    "start": 10,
+                    "end": 18,
+                    "username": "jkenney",
+                    "id": "21525682"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 319204538,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352031363193425922"
+                },
+                "id": 1352031363193425922,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

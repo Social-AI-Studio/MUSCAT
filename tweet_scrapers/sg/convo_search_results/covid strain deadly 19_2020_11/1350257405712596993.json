@@ -1,0 +1,1605 @@
+[
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "username": "KUER",
+                        "id": "57076960"
+                    },
+                    {
+                        "start": 6,
+                        "end": 16,
+                        "username": "USUAggies",
+                        "id": "17631378"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350259202996928512"
+                }
+            ],
+            "created_at": "2021-01-16T02:18:17.000Z",
+            "author_id": "824144606065557505",
+            "lang": "en",
+            "id": "1350266090715185152",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@KUER @USUAggies Only a third? Better than I suspected it would be.",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1350266090715185152,
+        "text": "@KUER @USUAggies Only a third? Better than I suspected it would be.",
+        "attachments": null,
+        "author_id": 824144606065557505,
+        "context_annotations": [],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T02:18:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "username": "KUER",
+                    "id": "57076960"
+                },
+                {
+                    "start": 6,
+                    "end": 16,
+                    "username": "USUAggies",
+                    "id": "17631378"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350259202996928512"
+                },
+                "id": 1350259202996928512,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "username": "KUER",
+                        "id": "57076960"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 6,
+                        "end": 38,
+                        "probability": 0.1956,
+                        "type": "Product",
+                        "normalized_text": "UK variant B.1.1.7 SARS CoV COVID"
+                    },
+                    {
+                        "start": 53,
+                        "end": 54,
+                        "probability": 0.9052,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 100,
+                        "end": 123,
+                        "url": "https://t.co/il2RSs9SY5",
+                        "expanded_url": "https://www.google.com/maps/d/u/1/edit?mid=1aQDSL2LwQFbuoCAg_nIOPK8D-LIJ5MYd&ll=25.54910952128582%2C-103.34099271029913&z=3",
+                        "display_url": "google.com/maps/d/u/1/edi\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.google.com/maps/d/viewer?mid=1aQDSL2LwQFbuoCAg_nIOPK8D-LIJ5MYd&ll=25.54910952128582,-103.34099271029913&z=3"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350258340018810881"
+                }
+            ],
+            "created_at": "2021-01-16T01:51:59.000Z",
+            "author_id": "903134977",
+            "lang": "en",
+            "id": "1350259471898050560",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@KUER UK variant B.1.1.7 SARS CoV COVID cases in the US have increased to 104 (see interactive map)\nhttps://t.co/il2RSs9SY5",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1350259471898050560,
+        "text": "@KUER UK variant B.1.1.7 SARS CoV COVID cases in the US have increased to 104 (see interactive map)\nhttps://t.co/il2RSs9SY5",
+        "attachments": null,
+        "author_id": 903134977,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:51:59+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "username": "KUER",
+                    "id": "57076960"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 6,
+                    "end": 38,
+                    "probability": 0.1956,
+                    "type": "Product",
+                    "normalized_text": "UK variant B.1.1.7 SARS CoV COVID"
+                },
+                {
+                    "start": 53,
+                    "end": 54,
+                    "probability": 0.9052,
+                    "type": "Place",
+                    "normalized_text": "US"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 100,
+                    "end": 123,
+                    "url": "https://t.co/il2RSs9SY5",
+                    "expanded_url": "https://www.google.com/maps/d/u/1/edit?mid=1aQDSL2LwQFbuoCAg_nIOPK8D-LIJ5MYd&ll=25.54910952128582%2C-103.34099271029913&z=3",
+                    "display_url": "google.com/maps/d/u/1/edi\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.google.com/maps/d/viewer?mid=1aQDSL2LwQFbuoCAg_nIOPK8D-LIJ5MYd&ll=25.54910952128582,-103.34099271029913&z=3"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350258340018810881"
+                },
+                "id": 1350258340018810881,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "USUAggies",
+                        "id": "17631378"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 183,
+                        "end": 195,
+                        "probability": 0.4667,
+                        "type": "Place",
+                        "normalized_text": "Mountain West"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 214,
+                        "end": 237,
+                        "url": "https://t.co/rKOzgxT26W",
+                        "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                        "display_url": "kuer.org/podcast/news-b\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 208,
+                        "end": 213,
+                        "tag": "MWNB"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350259202996928512"
+                }
+            ],
+            "created_at": "2021-01-16T01:51:19.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350259306071945216",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "text": "@USUAggies New data show police are less likely to target right-wing demonstrators. Police intervened in nearly 7% of left-wing protests versus 3% of right-wing demonstrations in the Mountain West last year. #MWNB https://t.co/rKOzgxT26W",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350259306071945216,
+        "text": "@USUAggies New data show police are less likely to target right-wing demonstrators. Police intervened in nearly 7% of left-wing protests versus 3% of right-wing demonstrations in the Mountain West last year. #MWNB https://t.co/rKOzgxT26W",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1266467007987253248",
+                    "name": "George Floyd"
+                }
+            }
+        ],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:51:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "USUAggies",
+                    "id": "17631378"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 183,
+                    "end": 195,
+                    "probability": 0.4667,
+                    "type": "Place",
+                    "normalized_text": "Mountain West"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 214,
+                    "end": 237,
+                    "url": "https://t.co/rKOzgxT26W",
+                    "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                    "display_url": "kuer.org/podcast/news-b\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 208,
+                    "end": 213,
+                    "tag": "MWNB"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350259202996928512"
+                },
+                "id": 1350259202996928512,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "USUAggies",
+                        "id": "17631378"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 50,
+                        "end": 53,
+                        "probability": 0.9918,
+                        "type": "Place",
+                        "normalized_text": "Utah"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "url": "https://t.co/FdbNahqHRg",
+                        "expanded_url": "https://www.kuer.org/health-science-environment/2021-01-15/around-a-third-of-those-eligible-for-the-covid-19-vaccine-in-southeast-utah-have-opted-out",
+                        "display_url": "kuer.org/health-science\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/health-science-environment/2021-01-15/around-a-third-of-those-eligible-for-the-covid-19-vaccine-in-southeast-utah-have-opted-out"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350259095572504577"
+                }
+            ],
+            "created_at": "2021-01-16T01:50:55.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350259202996928512",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@USUAggies All healthcare workers and teachers in Utah are eligible to get the COVID-19 vaccine. But public health directors in the southeast part of the state report around a third of them are opting out.  https://t.co/FdbNahqHRg",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350259202996928512,
+        "text": "@USUAggies All healthcare workers and teachers in Utah are eligible to get the COVID-19 vaccine. But public health directors in the southeast part of the state report around a third of them are opting out.  https://t.co/FdbNahqHRg",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:50:55+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "USUAggies",
+                    "id": "17631378"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 50,
+                    "end": 53,
+                    "probability": 0.9918,
+                    "type": "Place",
+                    "normalized_text": "Utah"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 207,
+                    "end": 230,
+                    "url": "https://t.co/FdbNahqHRg",
+                    "expanded_url": "https://www.kuer.org/health-science-environment/2021-01-15/around-a-third-of-those-eligible-for-the-covid-19-vaccine-in-southeast-utah-have-opted-out",
+                    "display_url": "kuer.org/health-science\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/health-science-environment/2021-01-15/around-a-third-of-those-eligible-for-the-covid-19-vaccine-in-southeast-utah-have-opted-out"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350259095572504577"
+                },
+                "id": 1350259095572504577,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 36,
+                        "end": 46,
+                        "username": "USUAggies",
+                        "id": "17631378"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 57,
+                        "end": 70,
+                        "probability": 0.9657,
+                        "type": "Person",
+                        "normalized_text": "Noelle Cockett"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 107,
+                        "end": 130,
+                        "url": "https://t.co/rKOzgxBrfo",
+                        "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                        "display_url": "kuer.org/podcast/news-b\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350258773554724866"
+                }
+            ],
+            "created_at": "2021-01-16T01:50:29.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350259095572504577",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "A discrimination investigation into @USUAggies President Noelle Cockett has cleared her of any wrongdoing. https://t.co/rKOzgxBrfo",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350259095572504577,
+        "text": "A discrimination investigation into @USUAggies President Noelle Cockett has cleared her of any wrongdoing. https://t.co/rKOzgxBrfo",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:50:29+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 36,
+                    "end": 46,
+                    "username": "USUAggies",
+                    "id": "17631378"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 57,
+                    "end": 70,
+                    "probability": 0.9657,
+                    "type": "Person",
+                    "normalized_text": "Noelle Cockett"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/rKOzgxBrfo",
+                    "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                    "display_url": "kuer.org/podcast/news-b\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350258773554724866"
+                },
+                "id": 1350258773554724866,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350258618088583168"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 13,
+                        "end": 16,
+                        "probability": 0.8598,
+                        "type": "Place",
+                        "normalized_text": "Utah"
+                    },
+                    {
+                        "start": 103,
+                        "end": 107,
+                        "probability": 0.9798,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    },
+                    {
+                        "start": 110,
+                        "end": 124,
+                        "probability": 0.9818,
+                        "type": "Person",
+                        "normalized_text": "Daniel Richards"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 151,
+                        "end": 174,
+                        "url": "https://t.co/rKOzgxT26W",
+                        "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                        "display_url": "kuer.org/podcast/news-b\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                    }
+                ]
+            },
+            "created_at": "2021-01-16T01:49:12.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350258773554724866",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The CEO of a Utah-based pharmacy pleaded guilty Friday to receiving misbranded hydroxychloroquine from China. Daniel Richards oversees Meds in Motion. https://t.co/rKOzgxT26W",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350258773554724866,
+        "text": "The CEO of a Utah-based pharmacy pleaded guilty Friday to receiving misbranded hydroxychloroquine from China. Daniel Richards oversees Meds in Motion. https://t.co/rKOzgxT26W",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:49:12+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 13,
+                    "end": 16,
+                    "probability": 0.8598,
+                    "type": "Place",
+                    "normalized_text": "Utah"
+                },
+                {
+                    "start": 103,
+                    "end": 107,
+                    "probability": 0.9798,
+                    "type": "Place",
+                    "normalized_text": "China"
+                },
+                {
+                    "start": 110,
+                    "end": 124,
+                    "probability": 0.9818,
+                    "type": "Person",
+                    "normalized_text": "Daniel Richards"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 151,
+                    "end": 174,
+                    "url": "https://t.co/rKOzgxT26W",
+                    "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                    "display_url": "kuer.org/podcast/news-b\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350258618088583168"
+                },
+                "id": 1350258618088583168,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350258422172663808"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 4,
+                        "end": 22,
+                        "probability": 0.8434,
+                        "type": "Organization",
+                        "normalized_text": "U.S. Postal Service"
+                    },
+                    {
+                        "start": 105,
+                        "end": 107,
+                        "probability": 0.9841,
+                        "type": "Place",
+                        "normalized_text": "SLC"
+                    },
+                    {
+                        "start": 221,
+                        "end": 229,
+                        "probability": 0.9394,
+                        "type": "Person",
+                        "normalized_text": "Joe Biden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 265,
+                        "end": 288,
+                        "url": "https://t.co/rKOzgxT26W",
+                        "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                        "display_url": "kuer.org/podcast/news-b\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                    }
+                ]
+            },
+            "created_at": "2021-01-16T01:48:35.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350258618088583168",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The U.S. Postal Service will temporarily remove certain collection boxes &amp; close some locations early in SLC this weekend. It says it\u2019s to protect property &amp; workers in case there is civil unrest ahead of President-elect Joe Biden\u2019s inauguration next week. https://t.co/rKOzgxT26W",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350258618088583168,
+        "text": "The U.S. Postal Service will temporarily remove certain collection boxes &amp; close some locations early in SLC this weekend. It says it\u2019s to protect property &amp; workers in case there is civil unrest ahead of President-elect Joe Biden\u2019s inauguration next week. https://t.co/rKOzgxT26W",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026467878",
+                    "name": "United States Postal Service"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "10026467878",
+                    "name": "United States Postal Service"
+                }
+            }
+        ],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:48:35+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 4,
+                    "end": 22,
+                    "probability": 0.8434,
+                    "type": "Organization",
+                    "normalized_text": "U.S. Postal Service"
+                },
+                {
+                    "start": 105,
+                    "end": 107,
+                    "probability": 0.9841,
+                    "type": "Place",
+                    "normalized_text": "SLC"
+                },
+                {
+                    "start": 221,
+                    "end": 229,
+                    "probability": 0.9394,
+                    "type": "Person",
+                    "normalized_text": "Joe Biden"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 265,
+                    "end": 288,
+                    "url": "https://t.co/rKOzgxT26W",
+                    "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                    "display_url": "kuer.org/podcast/news-b\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350258422172663808"
+                },
+                "id": 1350258422172663808,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350258340018810881"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 3,
+                        "probability": 0.7063,
+                        "type": "Place",
+                        "normalized_text": "Utah"
+                    },
+                    {
+                        "start": 203,
+                        "end": 206,
+                        "probability": 0.9625,
+                        "type": "Place",
+                        "normalized_text": "Utah"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 234,
+                        "end": 257,
+                        "url": "https://t.co/rKOzgxT26W",
+                        "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                        "display_url": "kuer.org/podcast/news-b\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 221,
+                        "end": 233,
+                        "tag": "COVID19Utah"
+                    }
+                ]
+            },
+            "created_at": "2021-01-16T01:47:49.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350258422172663808",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Utah health officials announced 2,543 new cases of COVID-19 Friday. The state\u2019s week long average of new cases and its positivity rate continue to fall but that hasn\u2019t done much to alleviate pressure on Utah\u2019s hospitals. #COVID19Utah https://t.co/rKOzgxT26W",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350258422172663808,
+        "text": "Utah health officials announced 2,543 new cases of COVID-19 Friday. The state\u2019s week long average of new cases and its positivity rate continue to fall but that hasn\u2019t done much to alleviate pressure on Utah\u2019s hospitals. #COVID19Utah https://t.co/rKOzgxT26W",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:47:49+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "probability": 0.7063,
+                    "type": "Place",
+                    "normalized_text": "Utah"
+                },
+                {
+                    "start": 203,
+                    "end": 206,
+                    "probability": 0.9625,
+                    "type": "Place",
+                    "normalized_text": "Utah"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 234,
+                    "end": 257,
+                    "url": "https://t.co/rKOzgxT26W",
+                    "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                    "display_url": "kuer.org/podcast/news-b\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 221,
+                    "end": 233,
+                    "tag": "COVID19Utah"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350258340018810881"
+                },
+                "id": 1350258340018810881,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350257744327057409"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 52,
+                        "probability": 0.9917,
+                        "type": "Place",
+                        "normalized_text": "Utah"
+                    },
+                    {
+                        "start": 59,
+                        "end": 69,
+                        "probability": 0.5196,
+                        "type": "Person",
+                        "normalized_text": "Angela Dunn"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 254,
+                        "end": 277,
+                        "url": "https://t.co/rKOzgxT26W",
+                        "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                        "display_url": "kuer.org/podcast/news-b\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                    }
+                ]
+            },
+            "created_at": "2021-01-16T01:47:29.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350258340018810881",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "The new, so called \u201cU.K. variant\u201d of COVID is in Utah. Dr. Angela Dunn said the virus has been changing every week since it was identified. This strain is more contagious, but doesn\u2019t appear to be more deadly. The current vaccines still work against it. https://t.co/rKOzgxT26W",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350258340018810881,
+        "text": "The new, so called \u201cU.K. variant\u201d of COVID is in Utah. Dr. Angela Dunn said the virus has been changing every week since it was identified. This strain is more contagious, but doesn\u2019t appear to be more deadly. The current vaccines still work against it. https://t.co/rKOzgxT26W",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:47:29+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 49,
+                    "end": 52,
+                    "probability": 0.9917,
+                    "type": "Place",
+                    "normalized_text": "Utah"
+                },
+                {
+                    "start": 59,
+                    "end": 69,
+                    "probability": 0.5196,
+                    "type": "Person",
+                    "normalized_text": "Angela Dunn"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/rKOzgxT26W",
+                    "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                    "display_url": "kuer.org/podcast/news-b\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350257744327057409"
+                },
+                "id": 1350257744327057409,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1350257405712596993"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 26,
+                        "end": 29,
+                        "probability": 0.781,
+                        "type": "Place",
+                        "normalized_text": "Utah"
+                    },
+                    {
+                        "start": 47,
+                        "end": 51,
+                        "probability": 0.9266,
+                        "type": "Place",
+                        "normalized_text": "Provo"
+                    },
+                    {
+                        "start": 109,
+                        "end": 120,
+                        "probability": 0.6986,
+                        "type": "Place",
+                        "normalized_text": "U.S. Capitol"
+                    },
+                    {
+                        "start": 123,
+                        "end": 135,
+                        "probability": 0.9982,
+                        "type": "Person",
+                        "normalized_text": "John Sullivan"
+                    },
+                    {
+                        "start": 172,
+                        "end": 178,
+                        "probability": 0.7925,
+                        "type": "Place",
+                        "normalized_text": "Capitol"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 204,
+                        "end": 227,
+                        "url": "https://t.co/rKOzgxT26W",
+                        "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                        "display_url": "kuer.org/podcast/news-b\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                    }
+                ]
+            },
+            "created_at": "2021-01-16T01:45:07.000Z",
+            "author_id": "57076960",
+            "lang": "en",
+            "id": "1350257744327057409",
+            "in_reply_to_user_id": "57076960",
+            "conversation_id": "1350257405712596993",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "A left-wing activist from Utah was arrested in Provo Thursday for his involvement in the insurrection at the U.S. Capitol. John Sullivan recorded himself breaking into the Capitol and egging rioters on.  https://t.co/rKOzgxT26W",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1350257744327057409,
+        "text": "A left-wing activist from Utah was arrested in Provo Thursday for his involvement in the insurrection at the U.S. Capitol. John Sullivan recorded himself breaking into the Capitol and egging rioters on.  https://t.co/rKOzgxT26W",
+        "attachments": null,
+        "author_id": 57076960,
+        "context_annotations": [],
+        "conversation_id": 1350257405712596993,
+        "created_at": "2021-01-16T01:45:07+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 26,
+                    "end": 29,
+                    "probability": 0.781,
+                    "type": "Place",
+                    "normalized_text": "Utah"
+                },
+                {
+                    "start": 47,
+                    "end": 51,
+                    "probability": 0.9266,
+                    "type": "Place",
+                    "normalized_text": "Provo"
+                },
+                {
+                    "start": 109,
+                    "end": 120,
+                    "probability": 0.6986,
+                    "type": "Place",
+                    "normalized_text": "U.S. Capitol"
+                },
+                {
+                    "start": 123,
+                    "end": 135,
+                    "probability": 0.9982,
+                    "type": "Person",
+                    "normalized_text": "John Sullivan"
+                },
+                {
+                    "start": 172,
+                    "end": 178,
+                    "probability": 0.7925,
+                    "type": "Place",
+                    "normalized_text": "Capitol"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 204,
+                    "end": 227,
+                    "url": "https://t.co/rKOzgxT26W",
+                    "expanded_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation",
+                    "display_url": "kuer.org/podcast/news-b\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.kuer.org/podcast/news-briefs/2021-01-15/pm-news-brief-john-sullivan-arrest-u-k-covid-19-strain-in-utah-utah-state-university-investigation"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57076960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1350257405712596993"
+                },
+                "id": 1350257405712596993,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    }
+]

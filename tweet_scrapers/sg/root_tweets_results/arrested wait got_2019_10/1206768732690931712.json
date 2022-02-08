@@ -1,0 +1,312 @@
+[
+    {
+        "data": {
+            "created_at": "2019-12-17T02:51:01.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1206707634813968386"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 29,
+                        "end": 52,
+                        "url": "https://t.co/Jc1Au3Ze2N",
+                        "expanded_url": "https://twitter.com/__melonade/status/1206768732690931712/photo/1",
+                        "display_url": "pic.twitter.com/Jc1Au3Ze2N"
+                    },
+                    {
+                        "start": 53,
+                        "end": 76,
+                        "url": "https://t.co/aM8ayvDuZm",
+                        "expanded_url": "https://twitter.com/seriouslyhal/status/1206707634813968386",
+                        "display_url": "twitter.com/seriouslyhal/s\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1206768732690931712",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1206768728043671553"
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596153057282",
+                        "name": "Alcohol"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026521859",
+                        "name": "Grey Goose"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850412603264217088",
+                        "name": "Vodka",
+                        "description": "Vodka"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596153057282",
+                        "name": "Alcohol"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026521859",
+                        "name": "Grey Goose"
+                    }
+                }
+            ],
+            "author_id": "89232309",
+            "source": "Twitter for iPhone",
+            "id": "1206768732690931712",
+            "text": "Grey Goose get ya looseeeeee https://t.co/Jc1Au3Ze2N https://t.co/aM8ayvDuZm"
+        },
+        "id": 1206768732690931712,
+        "text": "Grey Goose get ya looseeeeee https://t.co/Jc1Au3Ze2N https://t.co/aM8ayvDuZm",
+        "attachments": {
+            "media_keys": [
+                "3_1206768728043671553"
+            ]
+        },
+        "author_id": 89232309,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596153057282",
+                    "name": "Alcohol"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026521859",
+                    "name": "Grey Goose"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850412603264217088",
+                    "name": "Vodka",
+                    "description": "Vodka"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596153057282",
+                    "name": "Alcohol"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026521859",
+                    "name": "Grey Goose"
+                }
+            }
+        ],
+        "conversation_id": 1206768732690931712,
+        "created_at": "2019-12-17T02:51:01+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 29,
+                    "end": 52,
+                    "url": "https://t.co/Jc1Au3Ze2N",
+                    "expanded_url": "https://twitter.com/__melonade/status/1206768732690931712/photo/1",
+                    "display_url": "pic.twitter.com/Jc1Au3Ze2N"
+                },
+                {
+                    "start": 53,
+                    "end": 76,
+                    "url": "https://t.co/aM8ayvDuZm",
+                    "expanded_url": "https://twitter.com/seriouslyhal/status/1206707634813968386",
+                    "display_url": "twitter.com/seriouslyhal/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1206707634813968386"
+                },
+                "id": 1206707634813968386,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

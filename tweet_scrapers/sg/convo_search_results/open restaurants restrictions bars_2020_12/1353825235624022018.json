@@ -1,0 +1,124 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-01-26T03:41:14.000Z",
+            "author_id": "27583259",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1353910843029786625",
+            "text": "@ConroeCourier It\u2019s time for all restrictions to be removed. Data shows that less than 2% of COVID cases are spread in restaurants and bars. Open Texas up!",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1353825235624022018"
+                }
+            ],
+            "source": "Twitter for iPad",
+            "conversation_id": "1353825235624022018",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "ConroeCourier",
+                        "id": "52495310"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 146,
+                        "end": 150,
+                        "probability": 0.8148,
+                        "type": "Place",
+                        "normalized_text": "Texas"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "52495310",
+            "reply_settings": "everyone"
+        },
+        "id": 1353910843029786625,
+        "text": "@ConroeCourier It\u2019s time for all restrictions to be removed. Data shows that less than 2% of COVID cases are spread in restaurants and bars. Open Texas up!",
+        "attachments": null,
+        "author_id": 27583259,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1353825235624022018,
+        "created_at": "2021-01-26T03:41:14+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "ConroeCourier",
+                    "id": "52495310"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 146,
+                    "end": 150,
+                    "probability": 0.8148,
+                    "type": "Place",
+                    "normalized_text": "Texas"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52495310,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1353825235624022018"
+                },
+                "id": 1353825235624022018,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

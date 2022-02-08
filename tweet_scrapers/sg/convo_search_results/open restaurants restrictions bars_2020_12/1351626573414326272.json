@@ -1,0 +1,351 @@
+[
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cam_langford",
+                        "id": "4749792373"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 68,
+                        "end": 74,
+                        "probability": 0.7573,
+                        "type": "Person",
+                        "normalized_text": "Dr Boom"
+                    },
+                    {
+                        "start": 109,
+                        "end": 113,
+                        "probability": 0.9819,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1351634034313592834",
+            "text": "@cam_langford With those kind of gaslighting and sycophancy skills, Dr Boom should have sought work with the Trump administration. \n\nA natural fit.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1351626573414326272"
+                }
+            ],
+            "author_id": "3073389014",
+            "created_at": "2021-01-19T20:54:00.000Z",
+            "in_reply_to_user_id": "4749792373",
+            "conversation_id": "1351626573414326272"
+        },
+        "id": 1351634034313592834,
+        "text": "@cam_langford With those kind of gaslighting and sycophancy skills, Dr Boom should have sought work with the Trump administration. \n\nA natural fit.",
+        "attachments": null,
+        "author_id": 3073389014,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1351626573414326272,
+        "created_at": "2021-01-19T20:54:00+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cam_langford",
+                    "id": "4749792373"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 68,
+                    "end": 74,
+                    "probability": 0.7573,
+                    "type": "Person",
+                    "normalized_text": "Dr Boom"
+                },
+                {
+                    "start": 109,
+                    "end": 113,
+                    "probability": 0.9819,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 4749792373,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1351626573414326272"
+                },
+                "id": 1351626573414326272,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1351626575456972802",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 262,
+                        "end": 278,
+                        "probability": 0.6794,
+                        "type": "Organization",
+                        "normalized_text": "Houston Chronicle"
+                    }
+                ]
+            },
+            "text": "Law enforcement is overwhelmed trying to enforce the tougher measures. And experts say he should consider tighter restrictions on restaurants and bars, 3,100 of which have been allowed by state regulators to convert to restaurants to stay open, according to the Houston Chronicle.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1351626574441967619"
+                }
+            ],
+            "author_id": "4749792373",
+            "created_at": "2021-01-19T20:24:22.000Z",
+            "in_reply_to_user_id": "4749792373",
+            "conversation_id": "1351626573414326272"
+        },
+        "id": 1351626575456972802,
+        "text": "Law enforcement is overwhelmed trying to enforce the tougher measures. And experts say he should consider tighter restrictions on restaurants and bars, 3,100 of which have been allowed by state regulators to convert to restaurants to stay open, according to the Houston Chronicle.",
+        "attachments": null,
+        "author_id": 4749792373,
+        "context_annotations": [],
+        "conversation_id": 1351626573414326272,
+        "created_at": "2021-01-19T20:24:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 262,
+                    "end": 278,
+                    "probability": 0.6794,
+                    "type": "Organization",
+                    "normalized_text": "Houston Chronicle"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 4749792373,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1351626574441967619"
+                },
+                "id": 1351626574441967619,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1351626574441967619",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 124,
+                        "end": 128,
+                        "probability": 0.3781,
+                        "type": "Place",
+                        "normalized_text": "Covid"
+                    }
+                ]
+            },
+            "text": "Comments come as 18 of the state's 22 hospital districts have reached a threshold in the number of people hospitalized with Covid, triggering closures of bars, suspension of elective surgeries and decreased capacity at restaurants and other nonessential businesses.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1351626573414326272"
+                }
+            ],
+            "author_id": "4749792373",
+            "created_at": "2021-01-19T20:24:22.000Z",
+            "in_reply_to_user_id": "4749792373",
+            "conversation_id": "1351626573414326272"
+        },
+        "id": 1351626574441967619,
+        "text": "Comments come as 18 of the state's 22 hospital districts have reached a threshold in the number of people hospitalized with Covid, triggering closures of bars, suspension of elective surgeries and decreased capacity at restaurants and other nonessential businesses.",
+        "attachments": null,
+        "author_id": 4749792373,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1351626573414326272,
+        "created_at": "2021-01-19T20:24:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 124,
+                    "end": 128,
+                    "probability": 0.3781,
+                    "type": "Place",
+                    "normalized_text": "Covid"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 4749792373,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1351626573414326272"
+                },
+                "id": 1351626573414326272,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

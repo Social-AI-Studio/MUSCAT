@@ -1,0 +1,288 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "40918443",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "flyingdancer",
+                        "id": "40918443"
+                    },
+                    {
+                        "start": 47,
+                        "end": 58,
+                        "username": "carlzimmer",
+                        "id": "14085070"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 34,
+                        "end": 38,
+                        "probability": 0.9904,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 69,
+                        "end": 92,
+                        "url": "https://t.co/fgWqFm1A4X",
+                        "expanded_url": "https://www.amazon.com/Lifes-Edge-Search-Means-Alive/dp/B08BTHVHMZ/ref=tmm_aud_swatch_0",
+                        "display_url": "amazon.com/Lifes-Edge-Sea\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.amazon.com/Lifes-Edge-Search-Means-Alive/dp/B08BTHVHMZ/ref=tmm_aud_swatch_0"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409846596230168576"
+                }
+            ],
+            "id": "1409849501393817602",
+            "conversation_id": "1409710580840112131",
+            "created_at": "2021-06-29T12:21:29.000Z",
+            "reply_settings": "everyone",
+            "text": "@flyingdancer Indeed, the moronic Trump-hating @carlzimmer published https://t.co/fgWqFm1A4X, which obfuscates cause and effect at every level of examination from angstroms to ecosystems in all living genera.",
+            "author_id": "95756080"
+        },
+        "id": 1409849501393817602,
+        "text": "@flyingdancer Indeed, the moronic Trump-hating @carlzimmer published https://t.co/fgWqFm1A4X, which obfuscates cause and effect at every level of examination from angstroms to ecosystems in all living genera.",
+        "attachments": null,
+        "author_id": 95756080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1409710580840112131,
+        "created_at": "2021-06-29T12:21:29+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "flyingdancer",
+                    "id": "40918443"
+                },
+                {
+                    "start": 47,
+                    "end": 58,
+                    "username": "carlzimmer",
+                    "id": "14085070"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 34,
+                    "end": 38,
+                    "probability": 0.9904,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 92,
+                    "url": "https://t.co/fgWqFm1A4X",
+                    "expanded_url": "https://www.amazon.com/Lifes-Edge-Search-Means-Alive/dp/B08BTHVHMZ/ref=tmm_aud_swatch_0",
+                    "display_url": "amazon.com/Lifes-Edge-Sea\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.amazon.com/Lifes-Edge-Search-Means-Alive/dp/B08BTHVHMZ/ref=tmm_aud_swatch_0"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 40918443,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409846596230168576"
+                },
+                "id": 1409846596230168576,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "95756080",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "microRNApro",
+                        "id": "95756080"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409710580840112131"
+                }
+            ],
+            "id": "1409846596230168576",
+            "conversation_id": "1409710580840112131",
+            "created_at": "2021-06-29T12:09:56.000Z",
+            "reply_settings": "everyone",
+            "text": "@microRNApro May...... The jab has only been around now for 6 months. The drug companies have to say this for studies have come out about long term natural immunity to Covid. A scientific narrative they have obscure and destroy.",
+            "author_id": "40918443"
+        },
+        "id": 1409846596230168576,
+        "text": "@microRNApro May...... The jab has only been around now for 6 months. The drug companies have to say this for studies have come out about long term natural immunity to Covid. A scientific narrative they have obscure and destroy.",
+        "attachments": null,
+        "author_id": 40918443,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1409710580840112131,
+        "created_at": "2021-06-29T12:09:56+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "microRNApro",
+                    "id": "95756080"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 95756080,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409710580840112131"
+                },
+                "id": 1409710580840112131,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

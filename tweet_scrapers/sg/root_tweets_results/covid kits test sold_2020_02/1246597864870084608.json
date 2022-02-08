@@ -1,0 +1,2917 @@
+[
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 17,
+                        "end": 29,
+                        "tag": "coronavirus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 95,
+                        "end": 118,
+                        "url": "https://t.co/neJrK74Jjx",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.9982,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ]
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "871795678447456256",
+                        "name": "The White House",
+                        "description": "Conversation from and about the White House, both as a destination and as political voice"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246879997396160513",
+            "text": "Trump called the #coronavirus a Hoax, and kudlow called it contained. Send the list to the WH. https://t.co/neJrK74Jjx",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "258402028",
+            "created_at": "2020-04-05T19:18:51.000Z",
+            "conversation_id": "1246879997396160513"
+        },
+        "id": 1246879997396160513,
+        "text": "Trump called the #coronavirus a Hoax, and kudlow called it contained. Send the list to the WH. https://t.co/neJrK74Jjx",
+        "attachments": null,
+        "author_id": 258402028,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "871795678447456256",
+                    "name": "The White House",
+                    "description": "Conversation from and about the White House, both as a destination and as political voice"
+                }
+            }
+        ],
+        "conversation_id": 1246879997396160513,
+        "created_at": "2020-04-05T19:18:51+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 29,
+                    "tag": "coronavirus"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 95,
+                    "end": 118,
+                    "url": "https://t.co/neJrK74Jjx",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "probability": 0.9982,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 73,
+                        "end": 96,
+                        "url": "https://t.co/lEhKt5TBYF",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 66,
+                        "end": 70,
+                        "probability": 0.9301,
+                        "type": "Person",
+                        "normalized_text": "Lenin"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246857582662373379",
+            "text": "Lmfao @ Cramer's mentions saying that he's been reading \"too much Lenin\" https://t.co/lEhKt5TBYF",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "701223184629178369",
+            "created_at": "2020-04-05T17:49:47.000Z",
+            "conversation_id": "1246857582662373379"
+        },
+        "id": 1246857582662373379,
+        "text": "Lmfao @ Cramer's mentions saying that he's been reading \"too much Lenin\" https://t.co/lEhKt5TBYF",
+        "attachments": null,
+        "author_id": 701223184629178369,
+        "context_annotations": [],
+        "conversation_id": 1246857582662373379,
+        "created_at": "2020-04-05T17:49:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/lEhKt5TBYF",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 66,
+                    "end": 70,
+                    "probability": 0.9301,
+                    "type": "Person",
+                    "normalized_text": "Lenin"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "871795678447456256",
+                        "name": "The White House",
+                        "description": "Conversation from and about the White House, both as a destination and as political voice"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 226,
+                        "end": 237,
+                        "username": "WhiteHouse",
+                        "id": "1323730225067339784"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 255,
+                        "end": 278,
+                        "url": "https://t.co/tdWw5nT1dF",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 159,
+                        "end": 165,
+                        "probability": 0.9939,
+                        "type": "Place",
+                        "normalized_text": "America"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246845571815460865",
+            "text": "So where are all the civic and patriotic CEO\u2019s ????? A handful of CEOs to stand up and say what\u2019s right? That\u2019s it? Really? I guess it confirms that corporate America is only in it for themselves, or else why not call out the @WhiteHouse incompetence?!?! https://t.co/tdWw5nT1dF",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "2305628838",
+            "created_at": "2020-04-05T17:02:04.000Z",
+            "conversation_id": "1246845571815460865"
+        },
+        "id": 1246845571815460865,
+        "text": "So where are all the civic and patriotic CEO\u2019s ????? A handful of CEOs to stand up and say what\u2019s right? That\u2019s it? Really? I guess it confirms that corporate America is only in it for themselves, or else why not call out the @WhiteHouse incompetence?!?! https://t.co/tdWw5nT1dF",
+        "attachments": null,
+        "author_id": 2305628838,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "871795678447456256",
+                    "name": "The White House",
+                    "description": "Conversation from and about the White House, both as a destination and as political voice"
+                }
+            }
+        ],
+        "conversation_id": 1246845571815460865,
+        "created_at": "2020-04-05T17:02:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 226,
+                    "end": 237,
+                    "username": "WhiteHouse",
+                    "id": "1323730225067339784"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 255,
+                    "end": 278,
+                    "url": "https://t.co/tdWw5nT1dF",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 159,
+                    "end": 165,
+                    "probability": 0.9939,
+                    "type": "Place",
+                    "normalized_text": "America"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/8wimzjosRp",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246815658291101696",
+            "text": "Uh oh https://t.co/8wimzjosRp",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "1096464846504316930",
+            "created_at": "2020-04-05T15:03:12.000Z",
+            "conversation_id": "1246815658291101696"
+        },
+        "id": 1246815658291101696,
+        "text": "Uh oh https://t.co/8wimzjosRp",
+        "attachments": null,
+        "author_id": 1096464846504316930,
+        "context_annotations": [],
+        "conversation_id": 1246815658291101696,
+        "created_at": "2020-04-05T15:03:12+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 6,
+                    "end": 29,
+                    "url": "https://t.co/8wimzjosRp",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 197,
+                        "end": 220,
+                        "url": "https://t.co/Bx70qnlQUu",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246813451931938816",
+            "text": "when you embrace bold you must do it with all its flaws, acknowledging imperfections in light of the objectives.  It is a case of the ends justify the means, an equation your critics will exploit. https://t.co/Bx70qnlQUu",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "7752402",
+            "created_at": "2020-04-05T14:54:26.000Z",
+            "conversation_id": "1246813451931938816"
+        },
+        "id": 1246813451931938816,
+        "text": "when you embrace bold you must do it with all its flaws, acknowledging imperfections in light of the objectives.  It is a case of the ends justify the means, an equation your critics will exploit. https://t.co/Bx70qnlQUu",
+        "attachments": null,
+        "author_id": 7752402,
+        "context_annotations": [],
+        "conversation_id": 1246813451931938816,
+        "created_at": "2020-04-05T14:54:26+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 197,
+                    "end": 220,
+                    "url": "https://t.co/Bx70qnlQUu",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 93,
+                        "end": 116,
+                        "url": "https://t.co/NME5cvx2z9",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 30,
+                        "end": 35,
+                        "probability": 0.9982,
+                        "type": "Place",
+                        "normalized_text": "Canada"
+                    },
+                    {
+                        "start": 58,
+                        "end": 62,
+                        "probability": 0.9957,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246771167282823168",
+            "text": "Masks for all we need some in Canada here also heard from Trump about masks and 3m not good. https://t.co/NME5cvx2z9",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "1884162980",
+            "created_at": "2020-04-05T12:06:24.000Z",
+            "conversation_id": "1246771167282823168"
+        },
+        "id": 1246771167282823168,
+        "text": "Masks for all we need some in Canada here also heard from Trump about masks and 3m not good. https://t.co/NME5cvx2z9",
+        "attachments": null,
+        "author_id": 1884162980,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1246771167282823168,
+        "created_at": "2020-04-05T12:06:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 93,
+                    "end": 116,
+                    "url": "https://t.co/NME5cvx2z9",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 30,
+                    "end": 35,
+                    "probability": 0.9982,
+                    "type": "Place",
+                    "normalized_text": "Canada"
+                },
+                {
+                    "start": 58,
+                    "end": 62,
+                    "probability": 0.9957,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "tag": "COVID19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 37,
+                        "end": 60,
+                        "url": "https://t.co/yADa5BL1Sx",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246733797959380997",
+            "text": "#COVID19 list will have huge impact. https://t.co/yADa5BL1Sx",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "1560620652",
+            "created_at": "2020-04-05T09:37:55.000Z",
+            "conversation_id": "1246733797959380997"
+        },
+        "id": 1246733797959380997,
+        "text": "#COVID19 list will have huge impact. https://t.co/yADa5BL1Sx",
+        "attachments": null,
+        "author_id": 1560620652,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1246733797959380997,
+        "created_at": "2020-04-05T09:37:55+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "tag": "COVID19"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 37,
+                    "end": 60,
+                    "url": "https://t.co/yADa5BL1Sx",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 27,
+                        "end": 50,
+                        "url": "https://t.co/NGcyE1M0Rv",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246666050759823360",
+            "text": "Never going to happen thou https://t.co/NGcyE1M0Rv",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "49138823",
+            "created_at": "2020-04-05T05:08:43.000Z",
+            "conversation_id": "1246666050759823360"
+        },
+        "id": 1246666050759823360,
+        "text": "Never going to happen thou https://t.co/NGcyE1M0Rv",
+        "attachments": null,
+        "author_id": 49138823,
+        "context_annotations": [],
+        "conversation_id": 1246666050759823360,
+        "created_at": "2020-04-05T05:08:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 27,
+                    "end": 50,
+                    "url": "https://t.co/NGcyE1M0Rv",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/iBeCK1dApb",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246647427735728128",
+            "text": "Let\u2019s do it soon. https://t.co/iBeCK1dApb",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "874421",
+            "created_at": "2020-04-05T03:54:43.000Z",
+            "conversation_id": "1246647427735728128"
+        },
+        "id": 1246647427735728128,
+        "text": "Let\u2019s do it soon. https://t.co/iBeCK1dApb",
+        "attachments": null,
+        "author_id": 874421,
+        "context_annotations": [],
+        "conversation_id": 1246647427735728128,
+        "created_at": "2020-04-05T03:54:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/iBeCK1dApb",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "geo": {
+                "place_id": "0509a6acb3d27ec4"
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/YchmpsRZlv",
+                        "expanded_url": "https://www.fiercepharma.com/pharma/new-commitments-mylan-and-teva-move-to-supply-tens-millions-hydroxychloroquine-tablets-to",
+                        "display_url": "fiercepharma.com/pharma/new-com\u2026"
+                    },
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/i0gg9aF3xL",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1246643885796782080",
+            "text": "https://t.co/YchmpsRZlv https://t.co/i0gg9aF3xL",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "18662745",
+            "created_at": "2020-04-05T03:40:38.000Z",
+            "conversation_id": "1246643885796782080"
+        },
+        "id": 1246643885796782080,
+        "text": "https://t.co/YchmpsRZlv https://t.co/i0gg9aF3xL",
+        "attachments": null,
+        "author_id": 18662745,
+        "context_annotations": [],
+        "conversation_id": 1246643885796782080,
+        "created_at": "2020-04-05T03:40:38+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/YchmpsRZlv",
+                    "expanded_url": "https://www.fiercepharma.com/pharma/new-commitments-mylan-and-teva-move-to-supply-tens-millions-hydroxychloroquine-tablets-to",
+                    "display_url": "fiercepharma.com/pharma/new-com\u2026"
+                },
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/i0gg9aF3xL",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "0509a6acb3d27ec4"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "geo": {
+                "place_id": "0509a6acb3d27ec4"
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10040666972",
+                        "name": "The New York Times"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 252,
+                        "end": 275,
+                        "url": "https://t.co/Nzn1JNfnZ9",
+                        "expanded_url": "https://twitter.com/KyleBJorrey/status/1246614266087477249/photo/1",
+                        "display_url": "pic.twitter.com/Nzn1JNfnZ9"
+                    },
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/i0gg9aF3xL",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 25,
+                        "probability": 0.6432,
+                        "type": "Organization",
+                        "normalized_text": "Thousand Oaks City Council"
+                    },
+                    {
+                        "start": 34,
+                        "end": 42,
+                        "probability": 0.9889,
+                        "type": "Person",
+                        "normalized_text": "Rob McCoy"
+                    },
+                    {
+                        "start": 54,
+                        "end": 67,
+                        "probability": 0.8528,
+                        "type": "Organization",
+                        "normalized_text": "New York Times"
+                    },
+                    {
+                        "start": 76,
+                        "end": 83,
+                        "probability": 0.5534,
+                        "type": "Person",
+                        "normalized_text": "Godspeak"
+                    },
+                    {
+                        "start": 124,
+                        "end": 134,
+                        "probability": 0.3625,
+                        "type": "Other",
+                        "normalized_text": "Palm Sunday"
+                    },
+                    {
+                        "start": 154,
+                        "end": 158,
+                        "probability": 0.9152,
+                        "type": "Person",
+                        "normalized_text": "McCoy"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246643472053882886",
+            "text": "Thousand Oaks City Council member Rob McCoy quoted in New York Times saying Godspeak will be offering communion tomorrow on Palm Sunday (also should note McCoy is no longer the mayor). He does say he will be asking parishioners to remain 6 feet apart. https://t.co/Nzn1JNfnZ9 https://t.co/i0gg9aF3xL",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "3_1246614121442717696"
+                ]
+            },
+            "author_id": "18662745",
+            "created_at": "2020-04-05T03:38:59.000Z",
+            "conversation_id": "1246643472053882886"
+        },
+        "id": 1246643472053882886,
+        "text": "Thousand Oaks City Council member Rob McCoy quoted in New York Times saying Godspeak will be offering communion tomorrow on Palm Sunday (also should note McCoy is no longer the mayor). He does say he will be asking parishioners to remain 6 feet apart. https://t.co/Nzn1JNfnZ9 https://t.co/i0gg9aF3xL",
+        "attachments": {
+            "media_keys": [
+                "3_1246614121442717696"
+            ]
+        },
+        "author_id": 18662745,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10040666972",
+                    "name": "The New York Times"
+                }
+            }
+        ],
+        "conversation_id": 1246643472053882886,
+        "created_at": "2020-04-05T03:38:59+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 252,
+                    "end": 275,
+                    "url": "https://t.co/Nzn1JNfnZ9",
+                    "expanded_url": "https://twitter.com/KyleBJorrey/status/1246614266087477249/photo/1",
+                    "display_url": "pic.twitter.com/Nzn1JNfnZ9"
+                },
+                {
+                    "start": 276,
+                    "end": 299,
+                    "url": "https://t.co/i0gg9aF3xL",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 25,
+                    "probability": 0.6432,
+                    "type": "Organization",
+                    "normalized_text": "Thousand Oaks City Council"
+                },
+                {
+                    "start": 34,
+                    "end": 42,
+                    "probability": 0.9889,
+                    "type": "Person",
+                    "normalized_text": "Rob McCoy"
+                },
+                {
+                    "start": 54,
+                    "end": 67,
+                    "probability": 0.8528,
+                    "type": "Organization",
+                    "normalized_text": "New York Times"
+                },
+                {
+                    "start": 76,
+                    "end": 83,
+                    "probability": 0.5534,
+                    "type": "Person",
+                    "normalized_text": "Godspeak"
+                },
+                {
+                    "start": 124,
+                    "end": 134,
+                    "probability": 0.3625,
+                    "type": "Other",
+                    "normalized_text": "Palm Sunday"
+                },
+                {
+                    "start": 154,
+                    "end": 158,
+                    "probability": 0.9152,
+                    "type": "Person",
+                    "normalized_text": "McCoy"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "0509a6acb3d27ec4"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "geo": {
+                "place_id": "c3f37afa9efcf94b"
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 5,
+                        "end": 28,
+                        "url": "https://t.co/bbbIcw7IwA",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1246632710694678529",
+            "text": "1-5. https://t.co/bbbIcw7IwA",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "1140412027",
+            "created_at": "2020-04-05T02:56:14.000Z",
+            "conversation_id": "1246632710694678529"
+        },
+        "id": 1246632710694678529,
+        "text": "1-5. https://t.co/bbbIcw7IwA",
+        "attachments": null,
+        "author_id": 1140412027,
+        "context_annotations": [],
+        "conversation_id": 1246632710694678529,
+        "created_at": "2020-04-05T02:56:14+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 5,
+                    "end": 28,
+                    "url": "https://t.co/bbbIcw7IwA",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "c3f37afa9efcf94b"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "847894852779900928",
+                        "name": "Stocks & indices",
+                        "description": "Stocks"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/Woxpb9OHxM",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "cashtags": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "tag": "VRUS"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "nl",
+            "id": "1246630326488662018",
+            "text": "$VRUS https://t.co/Woxpb9OHxM",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 7,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "833341090845618177",
+            "created_at": "2020-04-05T02:46:45.000Z",
+            "conversation_id": "1246630326488662018"
+        },
+        "id": 1246630326488662018,
+        "text": "$VRUS https://t.co/Woxpb9OHxM",
+        "attachments": null,
+        "author_id": 833341090845618177,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "847894852779900928",
+                    "name": "Stocks & indices",
+                    "description": "Stocks"
+                }
+            }
+        ],
+        "conversation_id": 1246630326488662018,
+        "created_at": "2020-04-05T02:46:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 6,
+                    "end": 29,
+                    "url": "https://t.co/Woxpb9OHxM",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "cashtags": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "tag": "VRUS"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "nl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 20,
+                        "tag": "CoronavirusPandemic"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 21,
+                        "end": 44,
+                        "url": "https://t.co/K9vrpruidH",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "ee2cfc9feb061a08"
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1246618203909795840",
+            "text": "#CoronavirusPandemic https://t.co/K9vrpruidH",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "1057704597081313280",
+            "created_at": "2020-04-05T01:58:35.000Z",
+            "conversation_id": "1246618203909795840"
+        },
+        "id": 1246618203909795840,
+        "text": "#CoronavirusPandemic https://t.co/K9vrpruidH",
+        "attachments": null,
+        "author_id": 1057704597081313280,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1246618203909795840,
+        "created_at": "2020-04-05T01:58:35+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 20,
+                    "tag": "CoronavirusPandemic"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 21,
+                    "end": 44,
+                    "url": "https://t.co/K9vrpruidH",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "ee2cfc9feb061a08"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 64,
+                        "end": 87,
+                        "url": "https://t.co/PQXlkJlR5N",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 57,
+                        "end": 61,
+                        "probability": 0.8436,
+                        "type": "Person",
+                        "normalized_text": "POTUS"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246616655796391936",
+            "text": "We need more of the actual best and brightest to run for POTUS! https://t.co/PQXlkJlR5N",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "1110765176",
+            "created_at": "2020-04-05T01:52:26.000Z",
+            "conversation_id": "1246616655796391936"
+        },
+        "id": 1246616655796391936,
+        "text": "We need more of the actual best and brightest to run for POTUS! https://t.co/PQXlkJlR5N",
+        "attachments": null,
+        "author_id": 1110765176,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1246616655796391936,
+        "created_at": "2020-04-05T01:52:26+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/PQXlkJlR5N",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 57,
+                    "end": 61,
+                    "probability": 0.8436,
+                    "type": "Person",
+                    "normalized_text": "POTUS"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 71,
+                        "end": 94,
+                        "url": "https://t.co/ImJt0yjxYP",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246612082629513216",
+            "text": "This is Fascism...and you are a joke discussing anything related to $$ https://t.co/ImJt0yjxYP",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "271927117",
+            "created_at": "2020-04-05T01:34:16.000Z",
+            "conversation_id": "1246612082629513216"
+        },
+        "id": 1246612082629513216,
+        "text": "This is Fascism...and you are a joke discussing anything related to $$ https://t.co/ImJt0yjxYP",
+        "attachments": null,
+        "author_id": 271927117,
+        "context_annotations": [],
+        "conversation_id": 1246612082629513216,
+        "created_at": "2020-04-05T01:34:16+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 71,
+                    "end": 94,
+                    "url": "https://t.co/ImJt0yjxYP",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "geo": {
+                "place_id": "6e276f099bcab5b5"
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/Avr23JRPKd",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246602945673781251",
+            "text": "Not on my planet. https://t.co/Avr23JRPKd",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "601305639",
+            "created_at": "2020-04-05T00:57:57.000Z",
+            "conversation_id": "1246602945673781251"
+        },
+        "id": 1246602945673781251,
+        "text": "Not on my planet. https://t.co/Avr23JRPKd",
+        "attachments": null,
+        "author_id": 601305639,
+        "context_annotations": [],
+        "conversation_id": 1246602945673781251,
+        "created_at": "2020-04-05T00:57:57+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/Avr23JRPKd",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "6e276f099bcab5b5"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 61,
+                        "tag": "neverGOP"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 69,
+                        "end": 92,
+                        "url": "https://t.co/pPh6IKGhnv",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "source": "Plume\u00a0for\u00a0Android",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246602052773371906",
+            "text": "They all slowly become progressive just like I did. #neverGOP again. https://t.co/pPh6IKGhnv",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "84428059",
+            "created_at": "2020-04-05T00:54:24.000Z",
+            "conversation_id": "1246602052773371906"
+        },
+        "id": 1246602052773371906,
+        "text": "They all slowly become progressive just like I did. #neverGOP again. https://t.co/pPh6IKGhnv",
+        "attachments": null,
+        "author_id": 84428059,
+        "context_annotations": [],
+        "conversation_id": 1246602052773371906,
+        "created_at": "2020-04-05T00:54:24+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 61,
+                    "tag": "neverGOP"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 92,
+                    "url": "https://t.co/pPh6IKGhnv",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Plume\u00a0for\u00a0Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 113,
+                        "end": 121,
+                        "tag": "cdnpoli"
+                    },
+                    {
+                        "start": 122,
+                        "end": 129,
+                        "tag": "mbpoli"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 130,
+                        "end": 153,
+                        "url": "https://t.co/PyhWXd31YF",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 37,
+                        "end": 46,
+                        "probability": 0.9486,
+                        "type": "Person",
+                        "normalized_text": "Jim Cramer"
+                    }
+                ]
+            },
+            "source": "Twitter Web App",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246601175216140288",
+            "text": "When a staunch Free Enterpriser like Jim Cramer is more progressive than any of the Canadian political parties.\n\n#cdnpoli #mbpoli https://t.co/PyhWXd31YF",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "1056964472189919233",
+            "created_at": "2020-04-05T00:50:55.000Z",
+            "conversation_id": "1246601175216140288"
+        },
+        "id": 1246601175216140288,
+        "text": "When a staunch Free Enterpriser like Jim Cramer is more progressive than any of the Canadian political parties.\n\n#cdnpoli #mbpoli https://t.co/PyhWXd31YF",
+        "attachments": null,
+        "author_id": 1056964472189919233,
+        "context_annotations": [],
+        "conversation_id": 1246601175216140288,
+        "created_at": "2020-04-05T00:50:55+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 121,
+                    "tag": "cdnpoli"
+                },
+                {
+                    "start": 122,
+                    "end": 129,
+                    "tag": "mbpoli"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 130,
+                    "end": 153,
+                    "url": "https://t.co/PyhWXd31YF",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 46,
+                    "probability": 0.9486,
+                    "type": "Person",
+                    "normalized_text": "Jim Cramer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 9,
+                        "end": 32,
+                        "url": "https://t.co/jUHtyPpbGH",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246601169583120385",
+            "text": "Awesome. https://t.co/jUHtyPpbGH",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "801116888",
+            "created_at": "2020-04-05T00:50:54.000Z",
+            "conversation_id": "1246601169583120385"
+        },
+        "id": 1246601169583120385,
+        "text": "Awesome. https://t.co/jUHtyPpbGH",
+        "attachments": null,
+        "author_id": 801116888,
+        "context_annotations": [],
+        "conversation_id": 1246601169583120385,
+        "created_at": "2020-04-05T00:50:54+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 9,
+                    "end": 32,
+                    "url": "https://t.co/jUHtyPpbGH",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 5,
+                        "end": 28,
+                        "url": "https://t.co/xK6Gj6jYkg",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1246600704757829632",
+            "text": "Yes. https://t.co/xK6Gj6jYkg",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "442037540",
+            "created_at": "2020-04-05T00:49:03.000Z",
+            "conversation_id": "1246600704757829632"
+        },
+        "id": 1246600704757829632,
+        "text": "Yes. https://t.co/xK6Gj6jYkg",
+        "attachments": null,
+        "author_id": 442037540,
+        "context_annotations": [],
+        "conversation_id": 1246600704757829632,
+        "created_at": "2020-04-05T00:49:03+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 5,
+                    "end": 28,
+                    "url": "https://t.co/xK6Gj6jYkg",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 34,
+                        "end": 57,
+                        "url": "https://t.co/sLcC951nG1",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 22,
+                        "end": 31,
+                        "probability": 0.9832,
+                        "type": "Person",
+                        "normalized_text": "Jim Cramer"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246599731293364228",
+            "text": "For once I agree with Jim Cramer! https://t.co/sLcC951nG1",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "604521298",
+            "created_at": "2020-04-05T00:45:11.000Z",
+            "conversation_id": "1246599731293364228"
+        },
+        "id": 1246599731293364228,
+        "text": "For once I agree with Jim Cramer! https://t.co/sLcC951nG1",
+        "attachments": null,
+        "author_id": 604521298,
+        "context_annotations": [],
+        "conversation_id": 1246599731293364228,
+        "created_at": "2020-04-05T00:45:11+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 34,
+                    "end": 57,
+                    "url": "https://t.co/sLcC951nG1",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 31,
+                    "probability": 0.9832,
+                    "type": "Person",
+                    "normalized_text": "Jim Cramer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "910293138056536064",
+                        "name": "Andrew Cuomo",
+                        "description": "Governor of New York, Andrew Cuomo"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "910293138056536064",
+                        "name": "Andrew Cuomo",
+                        "description": "Governor of New York, Andrew Cuomo"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 110,
+                        "end": 133,
+                        "url": "https://t.co/NZ1U4dU6OB",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "probability": 0.9738,
+                        "type": "Person",
+                        "normalized_text": "Mr. Beniof"
+                    },
+                    {
+                        "start": 92,
+                        "end": 103,
+                        "probability": 0.9989,
+                        "type": "Person",
+                        "normalized_text": "Andrew Cuomo"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246599712767193088",
+            "text": "Mr. Beniof is a leader.  Why doesn't our Federal Govt. have a plan?   Like this one or like Andrew Cuomo has? https://t.co/NZ1U4dU6OB",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "299307944",
+            "created_at": "2020-04-05T00:45:06.000Z",
+            "conversation_id": "1246599712767193088"
+        },
+        "id": 1246599712767193088,
+        "text": "Mr. Beniof is a leader.  Why doesn't our Federal Govt. have a plan?   Like this one or like Andrew Cuomo has? https://t.co/NZ1U4dU6OB",
+        "attachments": null,
+        "author_id": 299307944,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "910293138056536064",
+                    "name": "Andrew Cuomo",
+                    "description": "Governor of New York, Andrew Cuomo"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "910293138056536064",
+                    "name": "Andrew Cuomo",
+                    "description": "Governor of New York, Andrew Cuomo"
+                }
+            }
+        ],
+        "conversation_id": 1246599712767193088,
+        "created_at": "2020-04-05T00:45:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/NZ1U4dU6OB",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "probability": 0.9738,
+                    "type": "Person",
+                    "normalized_text": "Mr. Beniof"
+                },
+                {
+                    "start": 92,
+                    "end": 103,
+                    "probability": 0.9989,
+                    "type": "Person",
+                    "normalized_text": "Andrew Cuomo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 3,
+                        "end": 26,
+                        "url": "https://t.co/zSHXuqJLWd",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1246599463432523776",
+            "text": "No https://t.co/zSHXuqJLWd",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "113682461",
+            "created_at": "2020-04-05T00:44:07.000Z",
+            "conversation_id": "1246599463432523776"
+        },
+        "id": 1246599463432523776,
+        "text": "No https://t.co/zSHXuqJLWd",
+        "attachments": null,
+        "author_id": 113682461,
+        "context_annotations": [],
+        "conversation_id": 1246599463432523776,
+        "created_at": "2020-04-05T00:44:07+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 3,
+                    "end": 26,
+                    "url": "https://t.co/zSHXuqJLWd",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 226,
+                        "end": 240,
+                        "tag": "Pennsyltuckey"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/xmLmxzX0L7",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246599358923055105",
+            "text": "National lockdown never gonna work....or be adhered to. People need to get out and jog, run, walk, whatever. Or take a drive! Doesn\u2019t mean we have to be on top of each other!  And how is it that bait shops remain open here in #Pennsyltuckey. But state stores closed! Stupid. https://t.co/xmLmxzX0L7",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "197154645",
+            "created_at": "2020-04-05T00:43:42.000Z",
+            "conversation_id": "1246599358923055105"
+        },
+        "id": 1246599358923055105,
+        "text": "National lockdown never gonna work....or be adhered to. People need to get out and jog, run, walk, whatever. Or take a drive! Doesn\u2019t mean we have to be on top of each other!  And how is it that bait shops remain open here in #Pennsyltuckey. But state stores closed! Stupid. https://t.co/xmLmxzX0L7",
+        "attachments": null,
+        "author_id": 197154645,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1246599358923055105,
+        "created_at": "2020-04-05T00:43:42+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 226,
+                    "end": 240,
+                    "tag": "Pennsyltuckey"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 275,
+                    "end": 298,
+                    "url": "https://t.co/xmLmxzX0L7",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/f0SJtHBzT4",
+                        "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                        "display_url": "twitter.com/jimcramer/stat\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1246598618146095105",
+            "text": "Among the many evolving lists, this one has had exceptional staying power https://t.co/f0SJtHBzT4",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                }
+            ],
+            "author_id": "82340723",
+            "created_at": "2020-04-05T00:40:45.000Z",
+            "conversation_id": "1246598618146095105"
+        },
+        "id": 1246598618146095105,
+        "text": "Among the many evolving lists, this one has had exceptional staying power https://t.co/f0SJtHBzT4",
+        "attachments": null,
+        "author_id": 82340723,
+        "context_annotations": [],
+        "conversation_id": 1246598618146095105,
+        "created_at": "2020-04-05T00:40:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/f0SJtHBzT4",
+                    "expanded_url": "https://twitter.com/jimcramer/status/1246597864870084608",
+                    "display_url": "twitter.com/jimcramer/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1246597864870084608"
+                },
+                "id": 1246597864870084608,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

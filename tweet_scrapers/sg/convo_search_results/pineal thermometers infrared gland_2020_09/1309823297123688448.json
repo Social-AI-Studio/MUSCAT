@@ -1,0 +1,277 @@
+[
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "WickedCrispy",
+                        "id": "15275205"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 49,
+                        "end": 72,
+                        "url": "https://t.co/Y8PBSWt5g5",
+                        "expanded_url": "https://twitter.com/krawlingkaos/status/1309893593113395200/photo/1",
+                        "display_url": "pic.twitter.com/Y8PBSWt5g5"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": true,
+            "lang": "en",
+            "id": "1309893593113395200",
+            "text": "@WickedCrispy Why you gotta put me on blast bro? https://t.co/Y8PBSWt5g5",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1309823297123688448"
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "16_1309893580178161664"
+                ]
+            },
+            "author_id": "3007314055",
+            "created_at": "2020-09-26T16:32:23.000Z",
+            "in_reply_to_user_id": "15275205",
+            "conversation_id": "1309823297123688448"
+        },
+        "id": 1309893593113395200,
+        "text": "@WickedCrispy Why you gotta put me on blast bro? https://t.co/Y8PBSWt5g5",
+        "attachments": {
+            "media_keys": [
+                "16_1309893580178161664"
+            ]
+        },
+        "author_id": 3007314055,
+        "context_annotations": [],
+        "conversation_id": 1309823297123688448,
+        "created_at": "2020-09-26T16:32:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "WickedCrispy",
+                    "id": "15275205"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/Y8PBSWt5g5",
+                    "expanded_url": "https://twitter.com/krawlingkaos/status/1309893593113395200/photo/1",
+                    "display_url": "pic.twitter.com/Y8PBSWt5g5"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15275205,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": true,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1309823297123688448"
+                },
+                "id": 1309823297123688448,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1085628093627195392",
+                        "name": "5G",
+                        "description": "5G"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1309825601608482816",
+            "text": "But hey.\n\n5G gives you covid.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1309824589514633221"
+                }
+            ],
+            "author_id": "15275205",
+            "created_at": "2020-09-26T12:02:13.000Z",
+            "in_reply_to_user_id": "15275205",
+            "conversation_id": "1309823297123688448"
+        },
+        "id": 1309825601608482816,
+        "text": "But hey.\n\n5G gives you covid.",
+        "attachments": null,
+        "author_id": 15275205,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1085628093627195392",
+                    "name": "5G",
+                    "description": "5G"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1309823297123688448,
+        "created_at": "2020-09-26T12:02:13+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 15275205,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1309824589514633221"
+                },
+                "id": 1309824589514633221,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1309824589514633221",
+            "text": "Infrared thermometers don't emit anything, unless they have a laser sight, aka cat toy included.  You're basically just using a wiimote camera to read.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1309823297123688448"
+                }
+            ],
+            "author_id": "15275205",
+            "created_at": "2020-09-26T11:58:12.000Z",
+            "in_reply_to_user_id": "15275205",
+            "conversation_id": "1309823297123688448"
+        },
+        "id": 1309824589514633221,
+        "text": "Infrared thermometers don't emit anything, unless they have a laser sight, aka cat toy included.  You're basically just using a wiimote camera to read.",
+        "attachments": null,
+        "author_id": 15275205,
+        "context_annotations": [],
+        "conversation_id": 1309823297123688448,
+        "created_at": "2020-09-26T11:58:12+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 15275205,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1309823297123688448"
+                },
+                "id": 1309823297123688448,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,2985 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1070715914935365633",
+                        "name": "Jeri Ryan",
+                        "description": "American actress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "56",
+                        "name": "Actor",
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+                    },
+                    "entity": {
+                        "id": "1070715914935365633",
+                        "name": "Jeri Ryan",
+                        "description": "American actress"
+                    }
+                }
+            ],
+            "created_at": "2021-09-11T20:41:28.000Z",
+            "author_id": "2679694113",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1436792026637352962",
+            "text": "@GDNPearson @JeriLRyan When can we get them????",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 22,
+                        "username": "JeriLRyan",
+                        "id": "144003355"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1436792026637352962,
+        "text": "@GDNPearson @JeriLRyan When can we get them????",
+        "attachments": null,
+        "author_id": 2679694113,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1070715914935365633",
+                    "name": "Jeri Ryan",
+                    "description": "American actress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "56",
+                    "name": "Actor",
+                    "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+                },
+                "entity": {
+                    "id": "1070715914935365633",
+                    "name": "Jeri Ryan",
+                    "description": "American actress"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-11T20:41:28+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 22,
+                    "username": "JeriLRyan",
+                    "id": "144003355"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T14:30:27.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 66,
+                        "end": 89,
+                        "url": "https://t.co/PSD85GpExP",
+                        "expanded_url": "https://www.google.com/amp/s/www.pbs.org/newshour/amp/health/what-to-know-about-booster-shots-if-you-received-johnson-johnsons-covid-19-vaccine",
+                        "display_url": "google.com/amp/s/www.pbs.\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1464015504348049444/eb-1OUB_?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 628
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1464015504348049444/eb-1OUB_?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "What to know about booster shots if you received Johnson & Johnson's COVID-19 vaccine",
+                        "description": "It's been six months since the Johnson & Johnson vaccine received emergency use authorization. What does the data show about its efficacy, side effects and protection from variants?",
+                        "unwound_url": "https://www.pbs.org/newshour/health/what-to-know-about-booster-shots-if-you-received-johnson-johnsons-covid-19-vaccine"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "doreengarfield",
+                        "id": "1573617816"
+                    },
+                    {
+                        "start": 16,
+                        "end": 25,
+                        "username": "rosapren",
+                        "id": "1255576433080049664"
+                    }
+                ]
+            },
+            "author_id": "468735162",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1435973884399046665",
+            "text": "@doreengarfield @rosapren J&amp;J boosters are probably coming. \n\nhttps://t.co/PSD85GpExP",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435966509826801665"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1573617816",
+            "reply_settings": "everyone"
+        },
+        "id": 1435973884399046665,
+        "text": "@doreengarfield @rosapren J&amp;J boosters are probably coming. \n\nhttps://t.co/PSD85GpExP",
+        "attachments": null,
+        "author_id": 468735162,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T14:30:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 66,
+                    "end": 89,
+                    "url": "https://t.co/PSD85GpExP",
+                    "expanded_url": "https://www.google.com/amp/s/www.pbs.org/newshour/amp/health/what-to-know-about-booster-shots-if-you-received-johnson-johnsons-covid-19-vaccine",
+                    "display_url": "google.com/amp/s/www.pbs.\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1464015504348049444/eb-1OUB_?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 628
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1464015504348049444/eb-1OUB_?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "What to know about booster shots if you received Johnson & Johnson's COVID-19 vaccine",
+                    "description": "It's been six months since the Johnson & Johnson vaccine received emergency use authorization. What does the data show about its efficacy, side effects and protection from variants?",
+                    "unwound_url": "https://www.pbs.org/newshour/health/what-to-know-about-booster-shots-if-you-received-johnson-johnsons-covid-19-vaccine"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "doreengarfield",
+                    "id": "1573617816"
+                },
+                {
+                    "start": 16,
+                    "end": 25,
+                    "username": "rosapren",
+                    "id": "1255576433080049664"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1573617816,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435966509826801665"
+                },
+                "id": 1435966509826801665,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T14:03:31.000Z",
+            "author_id": "1353447154589687808",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435967105845788681",
+            "text": "@dhogaza2 @GDNPearson @ASlavitt No they are told one thing then once it isn\u2019t so they question does the government really know what they are doing? Everyone w even simple knowledge know hep B is not the same",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435955693207449602"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "dhogaza2",
+                        "id": "1376594203984023555"
+                    },
+                    {
+                        "start": 10,
+                        "end": 21,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 22,
+                        "end": 31,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1376594203984023555",
+            "reply_settings": "everyone"
+        },
+        "id": 1435967105845788681,
+        "text": "@dhogaza2 @GDNPearson @ASlavitt No they are told one thing then once it isn\u2019t so they question does the government really know what they are doing? Everyone w even simple knowledge know hep B is not the same",
+        "attachments": null,
+        "author_id": 1353447154589687808,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T14:03:31+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "dhogaza2",
+                    "id": "1376594203984023555"
+                },
+                {
+                    "start": 10,
+                    "end": 21,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 22,
+                    "end": 31,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1376594203984023555,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435955693207449602"
+                },
+                "id": 1435955693207449602,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T14:01:09.000Z",
+            "author_id": "1573617816",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1435966509826801665",
+            "text": "@rosapren @GDNPearson I got J&amp;J as well and feel kinda forgotten (but that goes with the territory of being a whiny gen xer)",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435954637413224449"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "rosapren",
+                        "id": "1255576433080049664"
+                    },
+                    {
+                        "start": 10,
+                        "end": 21,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1255576433080049664",
+            "reply_settings": "everyone"
+        },
+        "id": 1435966509826801665,
+        "text": "@rosapren @GDNPearson I got J&amp;J as well and feel kinda forgotten (but that goes with the territory of being a whiny gen xer)",
+        "attachments": null,
+        "author_id": 1573617816,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T14:01:09+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "rosapren",
+                    "id": "1255576433080049664"
+                },
+                {
+                    "start": 10,
+                    "end": 21,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1255576433080049664,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435954637413224449"
+                },
+                "id": 1435954637413224449,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T13:43:09.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 180,
+                        "end": 203,
+                        "url": "https://t.co/iutsGZE0xm",
+                        "expanded_url": "https://twitter.com/GDNPearson/status/1435961980448354306/photo/1",
+                        "display_url": "pic.twitter.com/iutsGZE0xm"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "dhogaza2",
+                        "id": "1376594203984023555"
+                    },
+                    {
+                        "start": 10,
+                        "end": 20,
+                        "username": "DrSquishy",
+                        "id": "27308392"
+                    },
+                    {
+                        "start": 21,
+                        "end": 30,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "author_id": "468735162",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435961980448354306",
+            "text": "@dhogaza2 @DrSquishy @ASlavitt I have heard people claim \u201cwhy do kids get only get one shot of polio vaccine?\u201d\n\nActually, they get four. Five for tetanus, plus one every 10 years. https://t.co/iutsGZE0xm",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435955258337808395"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1376594203984023555",
+            "attachments": {
+                "media_keys": [
+                    "3_1435961976832860161"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1435961980448354306,
+        "text": "@dhogaza2 @DrSquishy @ASlavitt I have heard people claim \u201cwhy do kids get only get one shot of polio vaccine?\u201d\n\nActually, they get four. Five for tetanus, plus one every 10 years. https://t.co/iutsGZE0xm",
+        "attachments": {
+            "media_keys": [
+                "3_1435961976832860161"
+            ]
+        },
+        "author_id": 468735162,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T13:43:09+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 180,
+                    "end": 203,
+                    "url": "https://t.co/iutsGZE0xm",
+                    "expanded_url": "https://twitter.com/GDNPearson/status/1435961980448354306/photo/1",
+                    "display_url": "pic.twitter.com/iutsGZE0xm"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "dhogaza2",
+                    "id": "1376594203984023555"
+                },
+                {
+                    "start": 10,
+                    "end": 20,
+                    "username": "DrSquishy",
+                    "id": "27308392"
+                },
+                {
+                    "start": 21,
+                    "end": 30,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1376594203984023555,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435955258337808395"
+                },
+                "id": 1435955258337808395,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T13:18:10.000Z",
+            "author_id": "1376594203984023555",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1435955693207449602",
+            "text": "@kate29644259 @GDNPearson @ASlavitt They don't trust the government because government scientists change their outlook when data changes?\n\nThat's a stupid reason to not trust government.\n\nYes, new mutations of covid might require additional vaccine doses, at some point one tailored to new variants.  Unknown so far.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435947519691804680"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "kate29644259",
+                        "id": "1353447154589687808"
+                    },
+                    {
+                        "start": 14,
+                        "end": 25,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 26,
+                        "end": 35,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1353447154589687808",
+            "reply_settings": "everyone"
+        },
+        "id": 1435955693207449602,
+        "text": "@kate29644259 @GDNPearson @ASlavitt They don't trust the government because government scientists change their outlook when data changes?\n\nThat's a stupid reason to not trust government.\n\nYes, new mutations of covid might require additional vaccine doses, at some point one tailored to new variants.  Unknown so far.",
+        "attachments": null,
+        "author_id": 1376594203984023555,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T13:18:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "kate29644259",
+                    "id": "1353447154589687808"
+                },
+                {
+                    "start": 14,
+                    "end": 25,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 26,
+                    "end": 35,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1353447154589687808,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435947519691804680"
+                },
+                "id": 1435947519691804680,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T13:16:27.000Z",
+            "author_id": "1376594203984023555",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1435955258337808395",
+            "text": "@DrSquishy @GDNPearson @ASlavitt I would say some (like Hep B), but most definitely not all.\n\nBut \"some\" is an effective answer to the no-vaxxers who claim that NO other vaccine requires a three-shot regimen.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435903708819177484"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "DrSquishy",
+                        "id": "27308392"
+                    },
+                    {
+                        "start": 11,
+                        "end": 22,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 23,
+                        "end": 32,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "27308392",
+            "reply_settings": "everyone"
+        },
+        "id": 1435955258337808395,
+        "text": "@DrSquishy @GDNPearson @ASlavitt I would say some (like Hep B), but most definitely not all.\n\nBut \"some\" is an effective answer to the no-vaxxers who claim that NO other vaccine requires a three-shot regimen.",
+        "attachments": null,
+        "author_id": 1376594203984023555,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T13:16:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "DrSquishy",
+                    "id": "27308392"
+                },
+                {
+                    "start": 11,
+                    "end": 22,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 23,
+                    "end": 32,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 27308392,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435903708819177484"
+                },
+                "id": 1435903708819177484,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T13:15:39.000Z",
+            "author_id": "1376594203984023555",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435955060693897229",
+            "text": "@b_timerrr @GDNPearson Israel is not doing four shots.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435847258704990208"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "b_timerrr",
+                        "id": "1266981297571762176"
+                    },
+                    {
+                        "start": 11,
+                        "end": 22,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 23,
+                        "end": 28,
+                        "probability": 0.8831,
+                        "type": "Place",
+                        "normalized_text": "Israel"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1266981297571762176",
+            "reply_settings": "everyone"
+        },
+        "id": 1435955060693897229,
+        "text": "@b_timerrr @GDNPearson Israel is not doing four shots.",
+        "attachments": null,
+        "author_id": 1376594203984023555,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T13:15:39+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "b_timerrr",
+                    "id": "1266981297571762176"
+                },
+                {
+                    "start": 11,
+                    "end": 22,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 23,
+                    "end": 28,
+                    "probability": 0.8831,
+                    "type": "Place",
+                    "normalized_text": "Israel"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1266981297571762176,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435847258704990208"
+                },
+                "id": 1435847258704990208,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T13:13:58.000Z",
+            "author_id": "1255576433080049664",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1435954637413224449",
+            "text": "@GDNPearson @doreengarfield I want to get a booster shot but no word on a J&amp;J booster yet. I got my shot on March 18th and I'd really love a booster shot.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 27,
+                        "username": "doreengarfield",
+                        "id": "1573617816"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435954637413224449,
+        "text": "@GDNPearson @doreengarfield I want to get a booster shot but no word on a J&amp;J booster yet. I got my shot on March 18th and I'd really love a booster shot.",
+        "attachments": null,
+        "author_id": 1255576433080049664,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T13:13:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 27,
+                    "username": "doreengarfield",
+                    "id": "1573617816"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T12:45:41.000Z",
+            "author_id": "1353447154589687808",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435947519691804680",
+            "text": "@GDNPearson @ASlavitt This is why people do not trust the government anymore. Covid vaccines and hepatitis B are not similar. Good chance there will be a fourth booster, possibly yearly. Hepatitis B it\u2019s three, titer and done",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 21,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435947519691804680,
+        "text": "@GDNPearson @ASlavitt This is why people do not trust the government anymore. Covid vaccines and hepatitis B are not similar. Good chance there will be a fourth booster, possibly yearly. Hepatitis B it\u2019s three, titer and done",
+        "attachments": null,
+        "author_id": 1353447154589687808,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T12:45:41+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T12:22:12.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 99,
+                        "end": 122,
+                        "url": "https://t.co/Gudu62cXav",
+                        "expanded_url": "https://covid19.nj.gov/faqs/nj-information/testing-and-treatment/who-should-receive-additional-covid-19-vaccine-doses",
+                        "display_url": "covid19.nj.gov/faqs/nj-inform\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1480673161331023881/1iF6sKJ4?format=jpg&name=orig",
+                                "width": 2603,
+                                "height": 1246
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1480673161331023881/1iF6sKJ4?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Who can get a booster shot or third dose of the COVID-19 vaccine? | FAQ",
+                        "description": "in Who can get a booster shot or third dose of the COVID-19 vaccine?.",
+                        "unwound_url": "https://covid19.nj.gov/faqs/nj-information/testing-and-treatment/who-can-get-a-booster-shot-or-third-dose-of-the-covid-19-vaccine?utm_campaign=20210820_nwsltr_b&utm_medium=email&utm_source=govdelivery"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "ChiMizzouLA",
+                        "id": "1228929207394127872"
+                    },
+                    {
+                        "start": 13,
+                        "end": 22,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "author_id": "468735162",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1435941610018287617",
+            "text": "@ChiMizzouLA @ASlavitt Check your state\u2019s web site. I searched \u201cNJ Covid booster\u201d and found this:\n\nhttps://t.co/Gudu62cXav",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435852567725035523"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1228929207394127872",
+            "reply_settings": "everyone"
+        },
+        "id": 1435941610018287617,
+        "text": "@ChiMizzouLA @ASlavitt Check your state\u2019s web site. I searched \u201cNJ Covid booster\u201d and found this:\n\nhttps://t.co/Gudu62cXav",
+        "attachments": null,
+        "author_id": 468735162,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T12:22:12+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/Gudu62cXav",
+                    "expanded_url": "https://covid19.nj.gov/faqs/nj-information/testing-and-treatment/who-should-receive-additional-covid-19-vaccine-doses",
+                    "display_url": "covid19.nj.gov/faqs/nj-inform\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1480673161331023881/1iF6sKJ4?format=jpg&name=orig",
+                            "width": 2603,
+                            "height": 1246
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1480673161331023881/1iF6sKJ4?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Who can get a booster shot or third dose of the COVID-19 vaccine? | FAQ",
+                    "description": "in Who can get a booster shot or third dose of the COVID-19 vaccine?.",
+                    "unwound_url": "https://covid19.nj.gov/faqs/nj-information/testing-and-treatment/who-can-get-a-booster-shot-or-third-dose-of-the-covid-19-vaccine?utm_campaign=20210820_nwsltr_b&utm_medium=email&utm_source=govdelivery"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "ChiMizzouLA",
+                    "id": "1228929207394127872"
+                },
+                {
+                    "start": 13,
+                    "end": 22,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1228929207394127872,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435852567725035523"
+                },
+                "id": 1435852567725035523,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T12:08:18.000Z",
+            "author_id": "21545911",
+            "lang": "und",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435938109317865474",
+            "text": "@ChiMizzouLA @GDNPearson @ASlavitt CVS",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435852567725035523"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "ChiMizzouLA",
+                        "id": "1228929207394127872"
+                    },
+                    {
+                        "start": 13,
+                        "end": 24,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 25,
+                        "end": 34,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1228929207394127872",
+            "reply_settings": "everyone"
+        },
+        "id": 1435938109317865474,
+        "text": "@ChiMizzouLA @GDNPearson @ASlavitt CVS",
+        "attachments": null,
+        "author_id": 21545911,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T12:08:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "ChiMizzouLA",
+                    "id": "1228929207394127872"
+                },
+                {
+                    "start": 13,
+                    "end": 24,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 25,
+                    "end": 34,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1228929207394127872,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435852567725035523"
+                },
+                "id": 1435852567725035523,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T12:07:38.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 297,
+                        "end": 320,
+                        "url": "https://t.co/aT9fkwtDQs",
+                        "expanded_url": "https://brisam9.blogspot.com/2021/04/blog-post.html",
+                        "display_url": "brisam9.blogspot.com/2021/04/blog-p\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487201584459264001/f6K_q7R6?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 630
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487201584459264001/f6K_q7R6?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "VKAT. Virus Killer Air Technology",
+                        "description": "One microgram of Nitric oxide\u00a0 kills covid19 & all airborne viruses Summary of method 20 million NITRIC OXIDE molecules in each cubic centim...",
+                        "unwound_url": "https://brisam9.blogspot.com/2021/04/blog-post.html"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 25,
+                        "username": "factsanddata",
+                        "id": "20714339"
+                    },
+                    {
+                        "start": 26,
+                        "end": 35,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "author_id": "1350912645386424320",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435937940161671171",
+            "text": "@GDNPearson @factsanddata @ASlavitt VKAT (virus killer airborne technology)\nfinal solution to corona pandemic to kill viruses in the air\nThis way we wl end pandemic once &amp; for all\nUncontrolled pandemic will last if we don't use VKAT\n20 months passed still pandemic out of control\nLink to VKAT\nhttps://t.co/aT9fkwtDQs",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435935927449399301"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435937940161671171,
+        "text": "@GDNPearson @factsanddata @ASlavitt VKAT (virus killer airborne technology)\nfinal solution to corona pandemic to kill viruses in the air\nThis way we wl end pandemic once &amp; for all\nUncontrolled pandemic will last if we don't use VKAT\n20 months passed still pandemic out of control\nLink to VKAT\nhttps://t.co/aT9fkwtDQs",
+        "attachments": null,
+        "author_id": 1350912645386424320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T12:07:38+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 297,
+                    "end": 320,
+                    "url": "https://t.co/aT9fkwtDQs",
+                    "expanded_url": "https://brisam9.blogspot.com/2021/04/blog-post.html",
+                    "display_url": "brisam9.blogspot.com/2021/04/blog-p\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487201584459264001/f6K_q7R6?format=jpg&name=orig",
+                            "width": 1200,
+                            "height": 630
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487201584459264001/f6K_q7R6?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "VKAT. Virus Killer Air Technology",
+                    "description": "One microgram of Nitric oxide\u00a0 kills covid19 & all airborne viruses Summary of method 20 million NITRIC OXIDE molecules in each cubic centim...",
+                    "unwound_url": "https://brisam9.blogspot.com/2021/04/blog-post.html"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 25,
+                    "username": "factsanddata",
+                    "id": "20714339"
+                },
+                {
+                    "start": 26,
+                    "end": 35,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435935927449399301"
+                },
+                "id": 1435935927449399301,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T11:59:38.000Z",
+            "author_id": "468735162",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1435935927449399301",
+            "text": "@factsanddata @ASlavitt Fingers crossed, yes. \ud83e\udd1e \n\nAt least for variants through Delta. There is always the possibility of variants with enough divergence that the current vaccine becomes insufficiently effective. \n\nIn that case regular boosters, as for influenza, might be needed. But not yet.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435932993055563778"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "factsanddata",
+                        "id": "20714339"
+                    },
+                    {
+                        "start": 14,
+                        "end": 23,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "20714339",
+            "reply_settings": "everyone"
+        },
+        "id": 1435935927449399301,
+        "text": "@factsanddata @ASlavitt Fingers crossed, yes. \ud83e\udd1e \n\nAt least for variants through Delta. There is always the possibility of variants with enough divergence that the current vaccine becomes insufficiently effective. \n\nIn that case regular boosters, as for influenza, might be needed. But not yet.",
+        "attachments": null,
+        "author_id": 468735162,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T11:59:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "factsanddata",
+                    "id": "20714339"
+                },
+                {
+                    "start": 14,
+                    "end": 23,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 20714339,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435932993055563778"
+                },
+                "id": 1435932993055563778,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T11:18:25.000Z",
+            "author_id": "1285612744734121984",
+            "lang": "und",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435925556177117194",
+            "text": "@GDNPearson @ASlavitt 0, 1, 6, 8, 10, 11, 12, 13, 14, ..",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 21,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435925556177117194,
+        "text": "@GDNPearson @ASlavitt 0, 1, 6, 8, 10, 11, 12, 13, 14, ..",
+        "attachments": null,
+        "author_id": 1285612744734121984,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T11:18:25+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T11:11:47.000Z",
+            "author_id": "468735162",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435923885845778435",
+            "text": "@factsanddata @ASlavitt As stated, Hepatitis B vax is given in 3 doses at 0, 1, and 6 months. If a similar regimen works for COVID a single booster may be sufficient for strong, durable immunity. At least against wild type virus. Variants will always be an issue.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435899923770314753"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "factsanddata",
+                        "id": "20714339"
+                    },
+                    {
+                        "start": 14,
+                        "end": 23,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "20714339",
+            "reply_settings": "everyone"
+        },
+        "id": 1435923885845778435,
+        "text": "@factsanddata @ASlavitt As stated, Hepatitis B vax is given in 3 doses at 0, 1, and 6 months. If a similar regimen works for COVID a single booster may be sufficient for strong, durable immunity. At least against wild type virus. Variants will always be an issue.",
+        "attachments": null,
+        "author_id": 468735162,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T11:11:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "factsanddata",
+                    "id": "20714339"
+                },
+                {
+                    "start": 14,
+                    "end": 23,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 20714339,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435899923770314753"
+                },
+                "id": 1435899923770314753,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T09:51:36.000Z",
+            "author_id": "27308392",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435903708819177484",
+            "text": "@GDNPearson @ASlavitt Most vaccines are given in 3 doses.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter for iPad",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 21,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435903708819177484,
+        "text": "@GDNPearson @ASlavitt Most vaccines are given in 3 doses.",
+        "attachments": null,
+        "author_id": 27308392,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T09:51:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1070731924350558208",
+                        "name": "AM",
+                        "description": "American musician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "1070731924350558208",
+                        "name": "AM",
+                        "description": "American musician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T06:28:23.000Z",
+            "author_id": "1228929207394127872",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435852567725035523",
+            "text": "@GDNPearson @ASlavitt ok so I am at 6 months with Pfizer on Sept. 30, where do I go to get a booster?",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "TweetDeck",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 21,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 50,
+                        "end": 55,
+                        "probability": 0.6626,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435852567725035523,
+        "text": "@GDNPearson @ASlavitt ok so I am at 6 months with Pfizer on Sept. 30, where do I go to get a booster?",
+        "attachments": null,
+        "author_id": 1228929207394127872,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1070731924350558208",
+                    "name": "AM",
+                    "description": "American musician"
+                }
+            },
+            {
+                "domain": {
+                    "id": "54",
+                    "name": "Musician",
+                    "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                    "id": "1070731924350558208",
+                    "name": "AM",
+                    "description": "American musician"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T06:28:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 50,
+                    "end": 55,
+                    "probability": 0.6626,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T06:20:58.000Z",
+            "author_id": "1269802080115384320",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1435850701242916871",
+            "text": "@GDNPearson @ASlavitt Hepatitis B is nothing like covid. Also, the covid \u201cvaccine\u201d is nothing like a hepatitis B vaccine. Covid is analogous to the cold and flu. The \u201cjust one more\u201d canard is an obvious lie.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 21,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435850701242916871,
+        "text": "@GDNPearson @ASlavitt Hepatitis B is nothing like covid. Also, the covid \u201cvaccine\u201d is nothing like a hepatitis B vaccine. Covid is analogous to the cold and flu. The \u201cjust one more\u201d canard is an obvious lie.",
+        "attachments": null,
+        "author_id": 1269802080115384320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T06:20:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T06:07:17.000Z",
+            "author_id": "1266981297571762176",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1435847258704990208",
+            "text": "@GDNPearson The cycle continues\u2026 see yah at shot 4 like Israel \ud83c\uddee\ud83c\uddf1 !! I\u2019m stopping my kids at 3 tho.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 56,
+                        "end": 61,
+                        "probability": 0.8909,
+                        "type": "Place",
+                        "normalized_text": "Israel"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435847258704990208,
+        "text": "@GDNPearson The cycle continues\u2026 see yah at shot 4 like Israel \ud83c\uddee\ud83c\uddf1 !! I\u2019m stopping my kids at 3 tho.",
+        "attachments": null,
+        "author_id": 1266981297571762176,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T06:07:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 61,
+                    "probability": 0.8909,
+                    "type": "Place",
+                    "normalized_text": "Israel"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "created_at": "2021-09-09T04:47:37.000Z",
+            "author_id": "1323726194001391616",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1435827209084674058",
+            "text": "@GDNPearson @ASlavitt Yet a few weeks ago the FDA &amp; CDC issued a rare joint letter to Pfizer brushing back Pfizer's assertion that boosters would be necessary. CDC is always looking in the rearview mirror; no vision to the horizon.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 21,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 46,
+                        "end": 48,
+                        "probability": 0.8813,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    },
+                    {
+                        "start": 52,
+                        "end": 54,
+                        "probability": 0.5816,
+                        "type": "Organization",
+                        "normalized_text": "CDC"
+                    },
+                    {
+                        "start": 86,
+                        "end": 91,
+                        "probability": 0.7166,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 107,
+                        "end": 112,
+                        "probability": 0.5715,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "468735162",
+            "reply_settings": "everyone"
+        },
+        "id": 1435827209084674058,
+        "text": "@GDNPearson @ASlavitt Yet a few weeks ago the FDA &amp; CDC issued a rare joint letter to Pfizer brushing back Pfizer's assertion that boosters would be necessary. CDC is always looking in the rearview mirror; no vision to the horizon.",
+        "attachments": null,
+        "author_id": 1323726194001391616,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T04:47:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 46,
+                    "end": 48,
+                    "probability": 0.8813,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                },
+                {
+                    "start": 52,
+                    "end": 54,
+                    "probability": 0.5816,
+                    "type": "Organization",
+                    "normalized_text": "CDC"
+                },
+                {
+                    "start": 86,
+                    "end": 91,
+                    "probability": 0.7166,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 107,
+                    "end": 112,
+                    "probability": 0.5715,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-09T04:42:03.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 22,
+                        "end": 45,
+                        "url": "https://t.co/eX2E97rKfY",
+                        "expanded_url": "https://twitter.com/melvawpk/status/1435825807662845955/photo/1",
+                        "display_url": "pic.twitter.com/eX2E97rKfY"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "GDNPearson",
+                        "id": "468735162"
+                    },
+                    {
+                        "start": 12,
+                        "end": 21,
+                        "username": "ASlavitt",
+                        "id": "1383272101"
+                    }
+                ]
+            },
+            "author_id": "2608726537",
+            "lang": "und",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1435825807662845955",
+            "text": "@GDNPearson @ASlavitt https://t.co/eX2E97rKfY",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                }
+            ],
+            "source": "Twitter for iPad",
+            "conversation_id": "1435816257878638595",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "468735162",
+            "attachments": {
+                "media_keys": [
+                    "3_1435825787236544512"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1435825807662845955,
+        "text": "@GDNPearson @ASlavitt https://t.co/eX2E97rKfY",
+        "attachments": {
+            "media_keys": [
+                "3_1435825787236544512"
+            ]
+        },
+        "author_id": 2608726537,
+        "context_annotations": [],
+        "conversation_id": 1435816257878638595,
+        "created_at": "2021-09-09T04:42:03+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 22,
+                    "end": 45,
+                    "url": "https://t.co/eX2E97rKfY",
+                    "expanded_url": "https://twitter.com/melvawpk/status/1435825807662845955/photo/1",
+                    "display_url": "pic.twitter.com/eX2E97rKfY"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "GDNPearson",
+                    "id": "468735162"
+                },
+                {
+                    "start": 12,
+                    "end": 21,
+                    "username": "ASlavitt",
+                    "id": "1383272101"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 468735162,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1435816257878638595"
+                },
+                "id": 1435816257878638595,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

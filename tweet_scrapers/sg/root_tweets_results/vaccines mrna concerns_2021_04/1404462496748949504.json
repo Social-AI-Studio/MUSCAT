@@ -1,0 +1,227 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/AO36f2ZIol",
+                        "expanded_url": "https://twitter.com/alex_shiff/status/1404462496748949504",
+                        "display_url": "twitter.com/alex_shiff/sta\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 29,
+                        "probability": 0.6856,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 35,
+                        "end": 41,
+                        "probability": 0.431,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    }
+                ]
+            },
+            "id": "1404482048023171079",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "1329443614888378368",
+                        "name": "Moderna Vaccine"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-14T16:53:08.000Z",
+            "reply_settings": "everyone",
+            "author_id": "18686095",
+            "source": "Twitter Web App",
+            "text": "If BC is going to treat Pfizer and Moderna as completely interchangeable (which appears to be BC's current approach) there needs to be better public messaging explaining why it's ok.\n\nWe are now in the phase of the campaign where hesitancy, not supply, is the biggest pain point. https://t.co/AO36f2ZIol",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1404462496748949504"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1404482048023171079"
+        },
+        "id": 1404482048023171079,
+        "text": "If BC is going to treat Pfizer and Moderna as completely interchangeable (which appears to be BC's current approach) there needs to be better public messaging explaining why it's ok.\n\nWe are now in the phase of the campaign where hesitancy, not supply, is the biggest pain point. https://t.co/AO36f2ZIol",
+        "attachments": null,
+        "author_id": 18686095,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "1329443614888378368",
+                    "name": "Moderna Vaccine"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1404482048023171079,
+        "created_at": "2021-06-14T16:53:08+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/AO36f2ZIol",
+                    "expanded_url": "https://twitter.com/alex_shiff/status/1404462496748949504",
+                    "display_url": "twitter.com/alex_shiff/sta\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 24,
+                    "end": 29,
+                    "probability": 0.6856,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 35,
+                    "end": 41,
+                    "probability": 0.431,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1404462496748949504"
+                },
+                "id": 1404462496748949504,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

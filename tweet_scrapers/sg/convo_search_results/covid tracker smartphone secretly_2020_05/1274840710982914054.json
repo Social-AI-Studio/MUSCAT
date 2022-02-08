@@ -1,0 +1,3424 @@
+[
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 47,
+                        "probability": 0.5654,
+                        "type": "Product",
+                        "normalized_text": "google"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "gwpurnell",
+                        "id": "22133083"
+                    },
+                    {
+                        "start": 11,
+                        "end": 23,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274968135284789248"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1275044261298417665",
+            "author_id": "2803987633",
+            "in_reply_to_user_id": "22133083",
+            "created_at": "2020-06-22T12:33:35.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026378521",
+                        "name": "Google "
+                    }
+                }
+            ],
+            "text": "@gwpurnell @DrAlakbarov If your phone has google, then its on there. Turned mine and my wife tracker off. All you need to do is check.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1275044261298417665,
+        "text": "@gwpurnell @DrAlakbarov If your phone has google, then its on there. Turned mine and my wife tracker off. All you need to do is check.",
+        "attachments": null,
+        "author_id": 2803987633,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026378521",
+                    "name": "Google "
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T12:33:35+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 47,
+                    "probability": 0.5654,
+                    "type": "Product",
+                    "normalized_text": "google"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "gwpurnell",
+                    "id": "22133083"
+                },
+                {
+                    "start": 11,
+                    "end": 23,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 22133083,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274968135284789248"
+                },
+                "id": 1274968135284789248,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 128,
+                        "end": 151,
+                        "url": "https://t.co/lCrtreCuEc",
+                        "expanded_url": "https://twitter.com/hugan/status/1275031161526460416/photo/1",
+                        "display_url": "pic.twitter.com/lCrtreCuEc"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "id": "1275031161526460416",
+            "author_id": "19454788",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T11:41:32.000Z",
+            "attachments": {
+                "media_keys": [
+                    "16_1275031153431457802"
+                ]
+            },
+            "text": "@DrAlakbarov Relax. It\u2019s not an app. It\u2019s an API. For the tracker app. Should you wish to download and install the tracker app. https://t.co/lCrtreCuEc",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            }
+        },
+        "id": 1275031161526460416,
+        "text": "@DrAlakbarov Relax. It\u2019s not an app. It\u2019s an API. For the tracker app. Should you wish to download and install the tracker app. https://t.co/lCrtreCuEc",
+        "attachments": {
+            "media_keys": [
+                "16_1275031153431457802"
+            ]
+        },
+        "author_id": 19454788,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T11:41:32+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 128,
+                    "end": 151,
+                    "url": "https://t.co/lCrtreCuEc",
+                    "expanded_url": "https://twitter.com/hugan/status/1275031161526460416/photo/1",
+                    "display_url": "pic.twitter.com/lCrtreCuEc"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1275011931754070016"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1275019500602228737",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "RolandS13014285",
+                        "id": "1598585107"
+                    },
+                    {
+                        "start": 17,
+                        "end": 29,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "15108025",
+            "in_reply_to_user_id": "1598585107",
+            "created_at": "2020-06-22T10:55:12.000Z",
+            "text": "@RolandS13014285 @DrAlakbarov Fair point.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1275019500602228737,
+        "text": "@RolandS13014285 @DrAlakbarov Fair point.",
+        "attachments": null,
+        "author_id": 15108025,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T10:55:12+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "RolandS13014285",
+                    "id": "1598585107"
+                },
+                {
+                    "start": 17,
+                    "end": 29,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1598585107,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1275011931754070016"
+                },
+                "id": 1275011931754070016,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 32,
+                        "end": 55,
+                        "url": "https://t.co/fXZpkgytH0",
+                        "expanded_url": "https://twitter.com/zsk/status/1274328562045267969?s=20",
+                        "display_url": "twitter.com/zsk/status/127\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "id": "1275015991890776065",
+            "author_id": "1217910374240006155",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T10:41:15.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "@DrAlakbarov Here's the gen...\n\nhttps://t.co/fXZpkgytH0",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1275015991890776065,
+        "text": "@DrAlakbarov Here's the gen...\n\nhttps://t.co/fXZpkgytH0",
+        "attachments": null,
+        "author_id": 1217910374240006155,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T10:41:15+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 32,
+                    "end": 55,
+                    "url": "https://t.co/fXZpkgytH0",
+                    "expanded_url": "https://twitter.com/zsk/status/1274328562045267969?s=20",
+                    "display_url": "twitter.com/zsk/status/127\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 135,
+                        "end": 141,
+                        "probability": 0.9741,
+                        "type": "Place",
+                        "normalized_text": "England"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "username": "ILawr",
+                        "id": "15108025"
+                    },
+                    {
+                        "start": 7,
+                        "end": 19,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1275000988596940806"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1275011931754070016",
+            "author_id": "1598585107",
+            "in_reply_to_user_id": "15108025",
+            "created_at": "2020-06-22T10:25:07.000Z",
+            "text": "@ILawr @DrAlakbarov Maybe read tge small print when you authorise an update to your operating system on your phone. It\u2019s irrelevant in England as they have no App to connect to the APIs. The update does nothing unless you have an App that can use it. Sensible countries do have of course.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1275011931754070016,
+        "text": "@ILawr @DrAlakbarov Maybe read tge small print when you authorise an update to your operating system on your phone. It\u2019s irrelevant in England as they have no App to connect to the APIs. The update does nothing unless you have an App that can use it. Sensible countries do have of course.",
+        "attachments": null,
+        "author_id": 1598585107,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T10:25:07+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 135,
+                    "end": 141,
+                    "probability": 0.9741,
+                    "type": "Place",
+                    "normalized_text": "England"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "username": "ILawr",
+                    "id": "15108025"
+                },
+                {
+                    "start": 7,
+                    "end": 19,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15108025,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1275000988596940806"
+                },
+                "id": 1275000988596940806,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 39,
+                        "end": 40,
+                        "probability": 0.7423,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    },
+                    {
+                        "start": 235,
+                        "end": 241,
+                        "probability": 0.8242,
+                        "type": "Place",
+                        "normalized_text": "England"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1275011121137811457",
+            "author_id": "1598585107",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T10:21:54.000Z",
+            "text": "@DrAlakbarov That\u2019s nothing to do with UK government. They stupidly decided against using the APIs provided for countries with intelligent life in their governments. You need an App to connect if you bothered to read the explanations, England doesn\u2019t have one.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1275011121137811457,
+        "text": "@DrAlakbarov That\u2019s nothing to do with UK government. They stupidly decided against using the APIs provided for countries with intelligent life in their governments. You need an App to connect if you bothered to read the explanations, England doesn\u2019t have one.",
+        "attachments": null,
+        "author_id": 1598585107,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T10:21:54+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 40,
+                    "probability": 0.7423,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                },
+                {
+                    "start": 235,
+                    "end": 241,
+                    "probability": 0.8242,
+                    "type": "Place",
+                    "normalized_text": "England"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 40,
+                        "end": 45,
+                        "probability": 0.9525,
+                        "type": "Product",
+                        "normalized_text": "iPhone"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "gwpurnell",
+                        "id": "22133083"
+                    },
+                    {
+                        "start": 11,
+                        "end": 23,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274968135284789248"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1275007497099673600",
+            "author_id": "852919230",
+            "in_reply_to_user_id": "22133083",
+            "created_at": "2020-06-22T10:07:30.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10024011738",
+                        "name": "Apple - iPhone"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "848985956778561538",
+                        "name": "Mobile",
+                        "description": "Mobile"
+                    }
+                }
+            ],
+            "text": "@gwpurnell @DrAlakbarov Just checked my iPhone, it's there but turned off.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1275007497099673600,
+        "text": "@gwpurnell @DrAlakbarov Just checked my iPhone, it's there but turned off.",
+        "attachments": null,
+        "author_id": 852919230,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10024011738",
+                    "name": "Apple - iPhone"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "848985956778561538",
+                    "name": "Mobile",
+                    "description": "Mobile"
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T10:07:30+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 40,
+                    "end": 45,
+                    "probability": 0.9525,
+                    "type": "Product",
+                    "normalized_text": "iPhone"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "gwpurnell",
+                    "id": "22133083"
+                },
+                {
+                    "start": 11,
+                    "end": 23,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 22133083,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274968135284789248"
+                },
+                "id": 1274968135284789248,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1275000988596940806",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "15108025",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T09:41:38.000Z",
+            "text": "@DrAlakbarov They certainly have. Just checked. This is not a good sign. No notification, no disclosure. Surely this is illegal?",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1275000988596940806,
+        "text": "@DrAlakbarov They certainly have. Just checked. This is not a good sign. No notification, no disclosure. Surely this is illegal?",
+        "attachments": null,
+        "author_id": 15108025,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T09:41:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274841495993044994"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274994321968762881",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "monk_watson",
+                        "id": "349005548"
+                    },
+                    {
+                        "start": 13,
+                        "end": 25,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "70843757",
+            "in_reply_to_user_id": "349005548",
+            "created_at": "2020-06-22T09:15:09.000Z",
+            "text": "@monk_watson @DrAlakbarov Yeah. I\u2019ve got that too.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1274994321968762881,
+        "text": "@monk_watson @DrAlakbarov Yeah. I\u2019ve got that too.",
+        "attachments": null,
+        "author_id": 70843757,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T09:15:09+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "monk_watson",
+                    "id": "349005548"
+                },
+                {
+                    "start": 13,
+                    "end": 25,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 349005548,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274841495993044994"
+                },
+                "id": 1274841495993044994,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 53,
+                        "end": 58,
+                        "probability": 0.9073,
+                        "type": "Product",
+                        "normalized_text": "iPhone"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "gwpurnell",
+                        "id": "22133083"
+                    },
+                    {
+                        "start": 11,
+                        "end": 23,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274968135284789248"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274993938366115847",
+            "author_id": "70843757",
+            "in_reply_to_user_id": "22133083",
+            "created_at": "2020-06-22T09:13:37.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10024011738",
+                        "name": "Apple - iPhone"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "848985956778561538",
+                        "name": "Mobile",
+                        "description": "Mobile"
+                    }
+                }
+            ],
+            "text": "@gwpurnell @DrAlakbarov I just looked and it\u2019s on my iPhone \ud83d\ude21 Don\u2019t know how to get rid of it. It\u2019s not switched on though.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1274993938366115847,
+        "text": "@gwpurnell @DrAlakbarov I just looked and it\u2019s on my iPhone \ud83d\ude21 Don\u2019t know how to get rid of it. It\u2019s not switched on though.",
+        "attachments": null,
+        "author_id": 70843757,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10024011738",
+                    "name": "Apple - iPhone"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "848985956778561538",
+                    "name": "Mobile",
+                    "description": "Mobile"
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T09:13:37+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 53,
+                    "end": 58,
+                    "probability": 0.9073,
+                    "type": "Product",
+                    "normalized_text": "iPhone"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "gwpurnell",
+                    "id": "22133083"
+                },
+                {
+                    "start": 11,
+                    "end": 23,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 22133083,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274968135284789248"
+                },
+                "id": 1274968135284789248,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1274978924204785666",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "72258154",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T08:13:58.000Z",
+            "text": "@DrAlakbarov This has nothing to do with the government. Its an API for tracing. You need to install an app to make it work.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274978924204785666,
+        "text": "@DrAlakbarov This has nothing to do with the government. Its an API for tracing. You need to install an app to make it work.",
+        "attachments": null,
+        "author_id": 72258154,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T08:13:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274972955387277312",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "381284575",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T07:50:15.000Z",
+            "text": "@DrAlakbarov It can only work if you choose to download an app for it to work with.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274972955387277312,
+        "text": "@DrAlakbarov It can only work if you choose to download an app for it to work with.",
+        "attachments": null,
+        "author_id": 381284575,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T07:50:15+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 43,
+                        "probability": 0.9463,
+                        "type": "Product",
+                        "normalized_text": "iphone"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274972832917839872",
+            "author_id": "247778415",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T07:49:45.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10024011738",
+                        "name": "Apple - iPhone"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "848985956778561538",
+                        "name": "Mobile",
+                        "description": "Mobile"
+                    }
+                }
+            ],
+            "text": "@DrAlakbarov Just checked - its on my iphone. Its currently set to off.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1274972832917839872,
+        "text": "@DrAlakbarov Just checked - its on my iphone. Its currently set to off.",
+        "attachments": null,
+        "author_id": 247778415,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10024011738",
+                    "name": "Apple - iPhone"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "848985956778561538",
+                    "name": "Mobile",
+                    "description": "Mobile"
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T07:49:45+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 43,
+                    "probability": 0.9463,
+                    "type": "Product",
+                    "normalized_text": "iphone"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1274968135284789248",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "22133083",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T07:31:05.000Z",
+            "text": "@DrAlakbarov This is bollocks. It was declared bollocks weeks ago. Stop spreading paranoia.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 8,
+                "quote_count": 0
+            }
+        },
+        "id": 1274968135284789248,
+        "text": "@DrAlakbarov This is bollocks. It was declared bollocks weeks ago. Stop spreading paranoia.",
+        "attachments": null,
+        "author_id": 22133083,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T07:31:05+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274926407693545472",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "2779314196",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T04:45:17.000Z",
+            "text": "@DrAlakbarov It\u2019s simply an update to the phone system. It won\u2019t work at all unless you download a compatible app then activate it. It\u2019s nothing sinister.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            }
+        },
+        "id": 1274926407693545472,
+        "text": "@DrAlakbarov It\u2019s simply an update to the phone system. It won\u2019t work at all unless you download a compatible app then activate it. It\u2019s nothing sinister.",
+        "attachments": null,
+        "author_id": 2779314196,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T04:45:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274916083275911171",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "1686432246",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T04:04:15.000Z",
+            "text": "@DrAlakbarov Just tried this ITS TRUE already on my phone !",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1274916083275911171,
+        "text": "@DrAlakbarov Just tried this ITS TRUE already on my phone !",
+        "attachments": null,
+        "author_id": 1686432246,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T04:04:15+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274848280820748290"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1274861424322412544",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Tich_TinyT",
+                        "id": "1217910374240006155"
+                    },
+                    {
+                        "start": 12,
+                        "end": 23,
+                        "username": "Ian_Fraser",
+                        "id": "93618872"
+                    },
+                    {
+                        "start": 24,
+                        "end": 36,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "2194246578",
+            "in_reply_to_user_id": "1217910374240006155",
+            "created_at": "2020-06-22T00:27:03.000Z",
+            "text": "@Tich_TinyT @Ian_Fraser @DrAlakbarov It\u2019s not an app.\nYou would have to download the (in)appropriate app, turn the system on, and activate Bluetooth for anything to happen.\nand you did give permission when you upgraded the os.\nNo one Ever reads the small print?",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            }
+        },
+        "id": 1274861424322412544,
+        "text": "@Tich_TinyT @Ian_Fraser @DrAlakbarov It\u2019s not an app.\nYou would have to download the (in)appropriate app, turn the system on, and activate Bluetooth for anything to happen.\nand you did give permission when you upgraded the os.\nNo one Ever reads the small print?",
+        "attachments": null,
+        "author_id": 2194246578,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T00:27:03+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Tich_TinyT",
+                    "id": "1217910374240006155"
+                },
+                {
+                    "start": 12,
+                    "end": 23,
+                    "username": "Ian_Fraser",
+                    "id": "93618872"
+                },
+                {
+                    "start": 24,
+                    "end": 36,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1217910374240006155,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274848280820748290"
+                },
+                "id": 1274848280820748290,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274856330071879682"
+                }
+            ],
+            "lang": "tl",
+            "source": "Twitter for Android",
+            "id": "1274856568425758721",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "alighirl77",
+                        "id": "2379239972"
+                    }
+                ]
+            },
+            "author_id": "2318119938",
+            "in_reply_to_user_id": "2379239972",
+            "created_at": "2020-06-22T00:07:46.000Z",
+            "text": "@alighirl77 Hahahaha",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274856568425758721,
+        "text": "@alighirl77 Hahahaha",
+        "attachments": null,
+        "author_id": 2318119938,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T00:07:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "alighirl77",
+                    "id": "2379239972"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2379239972,
+        "lang": "tl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274856330071879682"
+                },
+                "id": 1274856330071879682,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274844533008863234"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274856330071879682",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "2379239972",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T00:06:49.000Z",
+            "text": "@DrAlakbarov \ud83e\udd23 can play snake again.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274856330071879682,
+        "text": "@DrAlakbarov \ud83e\udd23 can play snake again.",
+        "attachments": null,
+        "author_id": 2379239972,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T00:06:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274844533008863234"
+                },
+                "id": 1274844533008863234,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274855112087941121"
+                }
+            ],
+            "lang": "und",
+            "source": "Twitter Web App",
+            "id": "1274855654784729090",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "63528313",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-22T00:04:08.000Z",
+            "text": "@DrAlakbarov LOL",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274855654784729090,
+        "text": "@DrAlakbarov LOL",
+        "attachments": null,
+        "author_id": 63528313,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T00:04:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274855112087941121"
+                },
+                "id": 1274855112087941121,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274844997368627202"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1274855112087941121",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "MrMalky",
+                        "id": "63528313"
+                    }
+                ]
+            },
+            "author_id": "2318119938",
+            "in_reply_to_user_id": "63528313",
+            "created_at": "2020-06-22T00:01:59.000Z",
+            "text": "@MrMalky One word: Gear!",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            }
+        },
+        "id": 1274855112087941121,
+        "text": "@MrMalky One word: Gear!",
+        "attachments": null,
+        "author_id": 2318119938,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-22T00:01:59+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "MrMalky",
+                    "id": "63528313"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 63528313,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274844997368627202"
+                },
+                "id": 1274844997368627202,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274843810166706181"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1274849374162628609",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Ian_Fraser",
+                        "id": "93618872"
+                    },
+                    {
+                        "start": 12,
+                        "end": 24,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "1217910374240006155",
+            "in_reply_to_user_id": "93618872",
+            "created_at": "2020-06-21T23:39:11.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026378521",
+                        "name": "Google "
+                    }
+                }
+            ],
+            "text": "@Ian_Fraser @DrAlakbarov It's Google/Govt. They're supposed to seek permission. Cheeky as.... No option for removal either.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1274849374162628609,
+        "text": "@Ian_Fraser @DrAlakbarov It's Google/Govt. They're supposed to seek permission. Cheeky as.... No option for removal either.",
+        "attachments": null,
+        "author_id": 1217910374240006155,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026378521",
+                    "name": "Google "
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:39:11+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Ian_Fraser",
+                    "id": "93618872"
+                },
+                {
+                    "start": 12,
+                    "end": 24,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 93618872,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274843810166706181"
+                },
+                "id": 1274843810166706181,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1274849012315758593",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "1217910374240006155",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:37:44.000Z",
+            "text": "@DrAlakbarov I've got it in my device. Didn't download it or give permission. Must've been part of system updates. I haven't activated it, but there doesn't seem to be an option for removal.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274849012315758593,
+        "text": "@DrAlakbarov I've got it in my device. Didn't download it or give permission. Must've been part of system updates. I haven't activated it, but there doesn't seem to be an option for removal.",
+        "attachments": null,
+        "author_id": 1217910374240006155,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:37:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274843810166706181"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1274848280820748290",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Ian_Fraser",
+                        "id": "93618872"
+                    },
+                    {
+                        "start": 12,
+                        "end": 24,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "1217910374240006155",
+            "in_reply_to_user_id": "93618872",
+            "created_at": "2020-06-21T23:34:50.000Z",
+            "text": "@Ian_Fraser @DrAlakbarov I have it in mine &amp; I didn't download it. It's not active, but must've been added with system updates. I gave no permission.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274848280820748290,
+        "text": "@Ian_Fraser @DrAlakbarov I have it in mine &amp; I didn't download it. It's not active, but must've been added with system updates. I gave no permission.",
+        "attachments": null,
+        "author_id": 1217910374240006155,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:34:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Ian_Fraser",
+                    "id": "93618872"
+                },
+                {
+                    "start": 12,
+                    "end": 24,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 93618872,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274843810166706181"
+                },
+                "id": 1274843810166706181,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 46,
+                        "end": 54,
+                        "probability": 0.9989,
+                        "type": "Place",
+                        "normalized_text": "Australia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPad",
+            "id": "1274846386417065984",
+            "author_id": "2549616986",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:27:18.000Z",
+            "text": "@DrAlakbarov This has happened to my phone in Australia so presume Australian Govt doing same thing",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274846386417065984,
+        "text": "@DrAlakbarov This has happened to my phone in Australia so presume Australian Govt doing same thing",
+        "attachments": null,
+        "author_id": 2549616986,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:27:18+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 46,
+                    "end": 54,
+                    "probability": 0.9989,
+                    "type": "Place",
+                    "normalized_text": "Australia"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274844533008863234"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1274844997368627202",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "63528313",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:21:47.000Z",
+            "text": "@DrAlakbarov We've done this\nEventually...\nYou do one-word text messages",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274844997368627202,
+        "text": "@DrAlakbarov We've done this\nEventually...\nYou do one-word text messages",
+        "attachments": null,
+        "author_id": 63528313,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:21:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274844533008863234"
+                },
+                "id": 1274844533008863234,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1274844947682861057",
+            "geo": {
+                "place_id": "04dc05661b627973"
+            },
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "22770637",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:21:35.000Z",
+            "text": "@DrAlakbarov It's not an app, and does nothing unless you download an app.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            }
+        },
+        "id": 1274844947682861057,
+        "text": "@DrAlakbarov It's not an app, and does nothing unless you download an app.",
+        "attachments": null,
+        "author_id": 22770637,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:21:35+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "04dc05661b627973"
+        },
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274844533008863234"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1274844800437682176",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "1001836083380936704",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:21:00.000Z",
+            "text": "@DrAlakbarov Battery lasts a week.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274844800437682176,
+        "text": "@DrAlakbarov Battery lasts a week.",
+        "attachments": null,
+        "author_id": 1001836083380936704,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:21:00+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274844533008863234"
+                },
+                "id": 1274844533008863234,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 62,
+                        "end": 66,
+                        "probability": 0.5715,
+                        "type": "Product",
+                        "normalized_text": "Nokia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/ZAyn9ViMIC",
+                        "expanded_url": "https://twitter.com/DrAlakbarov/status/1274844533008863234/photo/1",
+                        "display_url": "pic.twitter.com/ZAyn9ViMIC"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1274844533008863234",
+            "author_id": "2318119938",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:19:56.000Z",
+            "attachments": {
+                "media_keys": [
+                    "3_1274844449063960582"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10027594377",
+                        "name": "Nokia",
+                        "description": "Nokia"
+                    }
+                }
+            ],
+            "text": "I'm like one step away in downgrading my telephone.\n\nGood old Nokia. No tracking, no ads. Pure service. https://t.co/ZAyn9ViMIC",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 3,
+                "like_count": 22,
+                "quote_count": 0
+            }
+        },
+        "id": 1274844533008863234,
+        "text": "I'm like one step away in downgrading my telephone.\n\nGood old Nokia. No tracking, no ads. Pure service. https://t.co/ZAyn9ViMIC",
+        "attachments": {
+            "media_keys": [
+                "3_1274844449063960582"
+            ]
+        },
+        "author_id": 2318119938,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10027594377",
+                    "name": "Nokia",
+                    "description": "Nokia"
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:19:56+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 62,
+                    "end": 66,
+                    "probability": 0.5715,
+                    "type": "Product",
+                    "normalized_text": "Nokia"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/ZAyn9ViMIC",
+                    "expanded_url": "https://twitter.com/DrAlakbarov/status/1274844533008863234/photo/1",
+                    "display_url": "pic.twitter.com/ZAyn9ViMIC"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 3,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1274843116122574854",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "author_id": "3250915427",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:14:18.000Z",
+            "text": "@DrAlakbarov Indeed! Though it's currently switched off.",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1274843116122574854,
+        "text": "@DrAlakbarov Indeed! Though it's currently switched off.",
+        "attachments": null,
+        "author_id": 3250915427,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:14:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 33,
+                        "end": 56,
+                        "url": "https://t.co/sA63PvEC5q",
+                        "expanded_url": "https://www.zdnet.com/article/no-no-one-has-secretly-installed-a-covid-19-tracker-onto-your-smartphone/",
+                        "display_url": "zdnet.com/article/no-no-\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "id": "1274842679419875328",
+            "author_id": "797697379604447234",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:12:34.000Z",
+            "text": "@DrAlakbarov you can turn it off\nhttps://t.co/sA63PvEC5q",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            }
+        },
+        "id": 1274842679419875328,
+        "text": "@DrAlakbarov you can turn it off\nhttps://t.co/sA63PvEC5q",
+        "attachments": null,
+        "author_id": 797697379604447234,
+        "context_annotations": [],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:12:34+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 33,
+                    "end": 56,
+                    "url": "https://t.co/sA63PvEC5q",
+                    "expanded_url": "https://www.zdnet.com/article/no-no-one-has-secretly-installed-a-covid-19-tracker-onto-your-smartphone/",
+                    "display_url": "zdnet.com/article/no-no-\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 56,
+                        "probability": 0.9248,
+                        "type": "Organization",
+                        "normalized_text": "Apple"
+                    },
+                    {
+                        "start": 62,
+                        "end": 67,
+                        "probability": 0.7035,
+                        "type": "Organization",
+                        "normalized_text": "Google"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 105,
+                        "end": 128,
+                        "url": "https://t.co/3nSefWZ947",
+                        "expanded_url": "https://twitter.com/monk_watson/status/1274841495993044994/photo/1",
+                        "display_url": "pic.twitter.com/3nSefWZ947"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DrAlakbarov",
+                        "id": "2318119938"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1274841495993044994",
+            "author_id": "349005548",
+            "in_reply_to_user_id": "2318119938",
+            "created_at": "2020-06-21T23:07:52.000Z",
+            "attachments": {
+                "media_keys": [
+                    "3_1274841491236622337"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026378521",
+                        "name": "Google "
+                    }
+                }
+            ],
+            "text": "@DrAlakbarov I think this may have been released by Apple and Google respectively rather than government https://t.co/3nSefWZ947",
+            "reply_settings": "everyone",
+            "conversation_id": "1274840710982914054",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            }
+        },
+        "id": 1274841495993044994,
+        "text": "@DrAlakbarov I think this may have been released by Apple and Google respectively rather than government https://t.co/3nSefWZ947",
+        "attachments": {
+            "media_keys": [
+                "3_1274841491236622337"
+            ]
+        },
+        "author_id": 349005548,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026378521",
+                    "name": "Google "
+                }
+            }
+        ],
+        "conversation_id": 1274840710982914054,
+        "created_at": "2020-06-21T23:07:52+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "probability": 0.9248,
+                    "type": "Organization",
+                    "normalized_text": "Apple"
+                },
+                {
+                    "start": 62,
+                    "end": 67,
+                    "probability": 0.7035,
+                    "type": "Organization",
+                    "normalized_text": "Google"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/3nSefWZ947",
+                    "expanded_url": "https://twitter.com/monk_watson/status/1274841495993044994/photo/1",
+                    "display_url": "pic.twitter.com/3nSefWZ947"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DrAlakbarov",
+                    "id": "2318119938"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2318119938,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1274840710982914054"
+                },
+                "id": 1274840710982914054,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

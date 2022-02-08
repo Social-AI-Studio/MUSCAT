@@ -1,0 +1,989 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "860133563332648963",
+                        "name": "Cuisines",
+                        "description": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "847865239886417922",
+                        "name": "Fast food",
+                        "description": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                }
+            ],
+            "created_at": "2021-04-06T11:15:33.000Z",
+            "author_id": "1341032996967690241",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379392325856690178",
+            "text": "@sciencescanner Why not apply this to other parts of life to 'save lives'. Ban Cigarettes, limit booze, no McDonalds if you have high BMI, limits: 30-&gt;20mph, 70&gt;50mph. (all daft ideas)\n\nThe 'benefit' of Covid Certs vs risk to our Liberty is my issue. I don't see much benefit at all.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379315772904894465"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1379315772904894465",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "sciencescanner",
+                        "id": "71372467"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "71372467",
+            "reply_settings": "everyone"
+        },
+        "id": 1379392325856690178,
+        "text": "@sciencescanner Why not apply this to other parts of life to 'save lives'. Ban Cigarettes, limit booze, no McDonalds if you have high BMI, limits: 30-&gt;20mph, 70&gt;50mph. (all daft ideas)\n\nThe 'benefit' of Covid Certs vs risk to our Liberty is my issue. I don't see much benefit at all.",
+        "attachments": null,
+        "author_id": 1341032996967690241,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596161376261",
+                    "name": "Dining"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597017083904",
+                    "name": "QSR"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026319212",
+                    "name": "McDonald's"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "860133563332648963",
+                    "name": "Cuisines",
+                    "description": "Cuisines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "847865239886417922",
+                    "name": "Fast food",
+                    "description": "Fast food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596161376261",
+                    "name": "Dining"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597017083904",
+                    "name": "QSR"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026319212",
+                    "name": "McDonald's"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            }
+        ],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T11:15:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "sciencescanner",
+                    "id": "71372467"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379315772904894465"
+                },
+                "id": 1379315772904894465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-06T06:21:45.000Z",
+            "author_id": "71372467",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1379318390788141056",
+            "text": "The only sensible solution therefore is to wait for the details and debate those\n\nSuggesting that \u201ccovid certficates\u201d are fundamentally immoral or discriminatory is as stupid as the worst excesses of their application",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379318038974107648"
+                }
+            ],
+            "source": "TweetDeck",
+            "conversation_id": "1379315772904894465",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "71372467",
+            "reply_settings": "everyone"
+        },
+        "id": 1379318390788141056,
+        "text": "The only sensible solution therefore is to wait for the details and debate those\n\nSuggesting that \u201ccovid certficates\u201d are fundamentally immoral or discriminatory is as stupid as the worst excesses of their application",
+        "attachments": null,
+        "author_id": 71372467,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T06:21:45+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379318038974107648"
+                },
+                "id": 1379318038974107648,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850142258871418880",
+                        "name": "Beer",
+                        "description": "Beer"
+                    }
+                }
+            ],
+            "created_at": "2021-04-06T06:20:21.000Z",
+            "author_id": "71372467",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379318038974107648",
+            "text": "By contrast demanding a certificate to have a pint of beer is unlikely to be justifiable\n\nSo the CONCEPT of \u201ccovid certificates\u201d covers a vast spectrum from the likely reasonable to the downright insane",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379317601021595649"
+                }
+            ],
+            "source": "TweetDeck",
+            "conversation_id": "1379315772904894465",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "71372467",
+            "reply_settings": "everyone"
+        },
+        "id": 1379318038974107648,
+        "text": "By contrast demanding a certificate to have a pint of beer is unlikely to be justifiable\n\nSo the CONCEPT of \u201ccovid certificates\u201d covers a vast spectrum from the likely reasonable to the downright insane",
+        "attachments": null,
+        "author_id": 71372467,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850142258871418880",
+                    "name": "Beer",
+                    "description": "Beer"
+                }
+            }
+        ],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T06:20:21+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379317601021595649"
+                },
+                "id": 1379317601021595649,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-04-06T06:20:07.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 16,
+                        "end": 39,
+                        "url": "https://t.co/8Yps5b0WJ0",
+                        "expanded_url": "https://twitter.com/GuyGadboisGuyG1/status/1379317978811015171/photo/1",
+                        "display_url": "pic.twitter.com/8Yps5b0WJ0"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "sciencescanner",
+                        "id": "71372467"
+                    }
+                ]
+            },
+            "author_id": "1288556434591035396",
+            "lang": "und",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379317978811015171",
+            "text": "@sciencescanner https://t.co/8Yps5b0WJ0",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379316809543847936"
+                }
+            ],
+            "source": "Twitter for iPad",
+            "conversation_id": "1379315772904894465",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "71372467",
+            "attachments": {
+                "media_keys": [
+                    "3_1379317970753699841"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1379317978811015171,
+        "text": "@sciencescanner https://t.co/8Yps5b0WJ0",
+        "attachments": {
+            "media_keys": [
+                "3_1379317970753699841"
+            ]
+        },
+        "author_id": 1288556434591035396,
+        "context_annotations": [],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T06:20:07+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 16,
+                    "end": 39,
+                    "url": "https://t.co/8Yps5b0WJ0",
+                    "expanded_url": "https://twitter.com/GuyGadboisGuyG1/status/1379317978811015171/photo/1",
+                    "display_url": "pic.twitter.com/8Yps5b0WJ0"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "sciencescanner",
+                    "id": "71372467"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379316809543847936"
+                },
+                "id": 1379316809543847936,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-06T06:18:37.000Z",
+            "author_id": "71372467",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1379317601021595649",
+            "text": "Requiring vaccination certificates for other diseases is already the norm for some international travel - adding #COVID to that list likely would prove proportionate (although the evidence is incomplete)",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379316809543847936"
+                }
+            ],
+            "source": "TweetDeck",
+            "conversation_id": "1379315772904894465",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 113,
+                        "end": 119,
+                        "tag": "COVID"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "71372467",
+            "reply_settings": "everyone"
+        },
+        "id": 1379317601021595649,
+        "text": "Requiring vaccination certificates for other diseases is already the norm for some international travel - adding #COVID to that list likely would prove proportionate (although the evidence is incomplete)",
+        "attachments": null,
+        "author_id": 71372467,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T06:18:37+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 119,
+                    "tag": "COVID"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379316809543847936"
+                },
+                "id": 1379316809543847936,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-04-06T06:15:28.000Z",
+            "author_id": "71372467",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379316809543847936",
+            "text": "And then the details of the implementation matter.  They must be fairly applied, and only used where the evidence shows the benefit of their use exceeds the burden\n\nSince the details are yet to be set out, it is impossible to be \u201cagainst\u201d them yet...",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379316436326346755"
+                }
+            ],
+            "source": "TweetDeck",
+            "conversation_id": "1379315772904894465",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "71372467",
+            "reply_settings": "everyone"
+        },
+        "id": 1379316809543847936,
+        "text": "And then the details of the implementation matter.  They must be fairly applied, and only used where the evidence shows the benefit of their use exceeds the burden\n\nSince the details are yet to be set out, it is impossible to be \u201cagainst\u201d them yet...",
+        "attachments": null,
+        "author_id": 71372467,
+        "context_annotations": [],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T06:15:28+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379316436326346755"
+                },
+                "id": 1379316436326346755,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-06T06:13:59.000Z",
+            "author_id": "71372467",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379316436326346755",
+            "text": "Of course the details matter\n\nFirst, we need evidence that \u201ccovid certificates\u201d work to reduce risk commensurate with their cost and social burden\n\nIm nit yet convinced such evidence exists.  But thats VERY different from guing against the PRINCIPLE of certification",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379316061187801090"
+                }
+            ],
+            "source": "TweetDeck",
+            "conversation_id": "1379315772904894465",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "71372467",
+            "reply_settings": "everyone"
+        },
+        "id": 1379316436326346755,
+        "text": "Of course the details matter\n\nFirst, we need evidence that \u201ccovid certificates\u201d work to reduce risk commensurate with their cost and social burden\n\nIm nit yet convinced such evidence exists.  But thats VERY different from guing against the PRINCIPLE of certification",
+        "attachments": null,
+        "author_id": 71372467,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T06:13:59+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379316061187801090"
+                },
+                "id": 1379316061187801090,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-04-06T06:12:30.000Z",
+            "author_id": "71372467",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379316061187801090",
+            "text": "Your very liberty is at risk if you break the laws set out to protect others from individual selfish actions.  So preventing people benefiting from high-density indoor gatherings without first proving they are low risk is consistent with \u201cusual practice\u201d across a range of issues",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379315772904894465"
+                }
+            ],
+            "source": "TweetDeck",
+            "conversation_id": "1379315772904894465",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "71372467",
+            "reply_settings": "everyone"
+        },
+        "id": 1379316061187801090,
+        "text": "Your very liberty is at risk if you break the laws set out to protect others from individual selfish actions.  So preventing people benefiting from high-density indoor gatherings without first proving they are low risk is consistent with \u201cusual practice\u201d across a range of issues",
+        "attachments": null,
+        "author_id": 71372467,
+        "context_annotations": [],
+        "conversation_id": 1379315772904894465,
+        "created_at": "2021-04-06T06:12:30+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 71372467,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379315772904894465"
+                },
+                "id": 1379315772904894465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    }
+]

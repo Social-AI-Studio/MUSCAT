@@ -1,0 +1,304 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1293113754608115712",
+            "author_id": "950060335620268037",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "825054267954208768",
+                        "name": "Bread",
+                        "description": "Brand"
+                    }
+                }
+            ],
+            "text": "RT @BDRFactCheck: Was a monkey really arrested for stealing a packet of bread from a Singapore supermarket?  Find out more here \ud83d\udc49\ud83c\udffb https://\u2026",
+            "source": "Cal Fact Check",
+            "possibly_sensitive": false,
+            "id": "1293113754608115712",
+            "created_at": "2020-08-11T09:15:18.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1293111314991034369"
+                }
+            ],
+            "reply_settings": "everyone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 85,
+                        "end": 93,
+                        "probability": 0.5039,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1293113754608115712,
+        "text": "RT @BDRFactCheck: Was a monkey really arrested for stealing a packet of bread from a Singapore supermarket?  Find out more here \ud83d\udc49\ud83c\udffb https://\u2026",
+        "attachments": null,
+        "author_id": 950060335620268037,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825054267954208768",
+                    "name": "Bread",
+                    "description": "Brand"
+                }
+            }
+        ],
+        "conversation_id": 1293113754608115712,
+        "created_at": "2020-08-11T09:15:18+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 85,
+                    "end": 93,
+                    "probability": 0.5039,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1293111314991034369"
+                },
+                "id": 1293111314991034369,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Cal Fact Check",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1293111314991034369",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 113,
+                        "end": 136,
+                        "url": "https://t.co/NeTqykGEv5",
+                        "expanded_url": "https://bit.ly/3gMyv9b",
+                        "display_url": "bit.ly/3gMyv9b"
+                    },
+                    {
+                        "start": 149,
+                        "end": 172,
+                        "url": "https://t.co/w9Ds4oUk0T",
+                        "expanded_url": "https://twitter.com/BDRFactCheck/status/1293111314991034369/photo/1",
+                        "display_url": "pic.twitter.com/w9Ds4oUk0T"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 138,
+                        "end": 148,
+                        "tag": "FactCheck"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 67,
+                        "end": 75,
+                        "probability": 0.4518,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "author_id": "1037962426954604549",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "825054267954208768",
+                        "name": "Bread",
+                        "description": "Brand"
+                    }
+                }
+            ],
+            "text": "Was a monkey really arrested for stealing a packet of bread from a Singapore supermarket?  Find out more here \ud83d\udc49\ud83c\udffb https://t.co/NeTqykGEv5\n\n#FactCheck https://t.co/w9Ds4oUk0T",
+            "source": "Twitter Web App",
+            "possibly_sensitive": false,
+            "attachments": {
+                "media_keys": [
+                    "3_1293110905052438530"
+                ]
+            },
+            "id": "1293111314991034369",
+            "created_at": "2020-08-11T09:05:36.000Z",
+            "reply_settings": "everyone",
+            "lang": "en"
+        },
+        "id": 1293111314991034369,
+        "text": "Was a monkey really arrested for stealing a packet of bread from a Singapore supermarket?  Find out more here \ud83d\udc49\ud83c\udffb https://t.co/NeTqykGEv5\n\n#FactCheck https://t.co/w9Ds4oUk0T",
+        "attachments": {
+            "media_keys": [
+                "3_1293110905052438530"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825054267954208768",
+                    "name": "Bread",
+                    "description": "Brand"
+                }
+            }
+        ],
+        "conversation_id": 1293111314991034369,
+        "created_at": "2020-08-11T09:05:36+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/NeTqykGEv5",
+                    "expanded_url": "https://bit.ly/3gMyv9b",
+                    "display_url": "bit.ly/3gMyv9b"
+                },
+                {
+                    "start": 149,
+                    "end": 172,
+                    "url": "https://t.co/w9Ds4oUk0T",
+                    "expanded_url": "https://twitter.com/BDRFactCheck/status/1293111314991034369/photo/1",
+                    "display_url": "pic.twitter.com/w9Ds4oUk0T"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 138,
+                    "end": 148,
+                    "tag": "FactCheck"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 67,
+                    "end": 75,
+                    "probability": 0.4518,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

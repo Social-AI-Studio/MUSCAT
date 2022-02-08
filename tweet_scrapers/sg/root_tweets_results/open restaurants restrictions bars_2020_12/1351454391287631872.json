@@ -1,0 +1,125 @@
+[
+    {
+        "data": {
+            "text": "The only thing a vicious tweet like this will achieve is to discourage sceptics from airing their views.\n\nUltimately you won\u2019t have as good an accountability mechanism for future policy. Surely not what Sam intends? https://t.co/HUeylUDqIQ",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "created_at": "2021-01-19T13:17:00.000Z",
+            "possibly_sensitive": false,
+            "author_id": "1328688417887154182",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 203,
+                        "end": 205,
+                        "probability": 0.9783,
+                        "type": "Person",
+                        "normalized_text": "Sam"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 216,
+                        "end": 239,
+                        "url": "https://t.co/HUeylUDqIQ",
+                        "expanded_url": "https://twitter.com/s8mb/status/1351454391287631872",
+                        "display_url": "twitter.com/s8mb/status/13\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "id": "1351519026929950724",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1351454391287631872"
+                }
+            ],
+            "conversation_id": "1351519026929950724"
+        },
+        "id": 1351519026929950724,
+        "text": "The only thing a vicious tweet like this will achieve is to discourage sceptics from airing their views.\n\nUltimately you won\u2019t have as good an accountability mechanism for future policy. Surely not what Sam intends? https://t.co/HUeylUDqIQ",
+        "attachments": null,
+        "author_id": 1328688417887154182,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1351519026929950724,
+        "created_at": "2021-01-19T13:17:00+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 203,
+                    "end": 205,
+                    "probability": 0.9783,
+                    "type": "Person",
+                    "normalized_text": "Sam"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 216,
+                    "end": 239,
+                    "url": "https://t.co/HUeylUDqIQ",
+                    "expanded_url": "https://twitter.com/s8mb/status/1351454391287631872",
+                    "display_url": "twitter.com/s8mb/status/13\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1351454391287631872"
+                },
+                "id": 1351454391287631872,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

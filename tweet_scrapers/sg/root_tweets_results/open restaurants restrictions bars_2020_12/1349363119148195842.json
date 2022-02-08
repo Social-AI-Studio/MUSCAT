@@ -1,0 +1,2348 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 43,
+                        "end": 49,
+                        "probability": 0.4629,
+                        "type": "Organization",
+                        "normalized_text": "YouTube"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 64,
+                        "end": 87,
+                        "url": "https://t.co/dvtn2zcAsT",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-01-15T06:35:14.000Z",
+            "author_id": "1247280277392699393",
+            "lang": "en",
+            "id": "1349968365041938438",
+            "conversation_id": "1349968365041938438",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "You can add a lower and higher perk in the YouTube join area... https://t.co/dvtn2zcAsT",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1349968365041938438,
+        "text": "You can add a lower and higher perk in the YouTube join area... https://t.co/dvtn2zcAsT",
+        "attachments": null,
+        "author_id": 1247280277392699393,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029382357",
+                    "name": "YouTube"
+                }
+            }
+        ],
+        "conversation_id": 1349968365041938438,
+        "created_at": "2021-01-15T06:35:14+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 43,
+                    "end": 49,
+                    "probability": 0.4629,
+                    "type": "Organization",
+                    "normalized_text": "YouTube"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/dvtn2zcAsT",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1126559222122942464",
+                        "name": "MrBeast"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "71",
+                        "name": "Video Game",
+                        "description": "A video game like Overwatch"
+                    },
+                    "entity": {
+                        "id": "10043689888",
+                        "name": "Minecraft"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "120",
+                        "name": "Digital Creator",
+                        "description": "Influencers who create content on digital platforms"
+                    },
+                    "entity": {
+                        "id": "1126559222122942464",
+                        "name": "MrBeast"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "MrBeastExtra",
+                        "id": "1327687536416854016"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 58,
+                        "end": 66,
+                        "probability": 0.8367,
+                        "type": "Product",
+                        "normalized_text": "Minecraft"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 75,
+                        "end": 98,
+                        "url": "https://t.co/LT8lsFiPvk",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-14T13:20:32.000Z",
+            "author_id": "1321742960799715330",
+            "lang": "en",
+            "id": "1349707977155108865",
+            "in_reply_to_user_id": "1327687536416854016",
+            "conversation_id": "1349707977155108865",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@MrBeastExtra @MrBeastYT can you send me gift card to buy Minecraft please https://t.co/LT8lsFiPvk",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1349707977155108865,
+        "text": "@MrBeastExtra @MrBeastYT can you send me gift card to buy Minecraft please https://t.co/LT8lsFiPvk",
+        "attachments": null,
+        "author_id": 1321742960799715330,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1126559222122942464",
+                    "name": "MrBeast"
+                }
+            },
+            {
+                "domain": {
+                    "id": "71",
+                    "name": "Video Game",
+                    "description": "A video game like Overwatch"
+                },
+                "entity": {
+                    "id": "10043689888",
+                    "name": "Minecraft"
+                }
+            },
+            {
+                "domain": {
+                    "id": "120",
+                    "name": "Digital Creator",
+                    "description": "Influencers who create content on digital platforms"
+                },
+                "entity": {
+                    "id": "1126559222122942464",
+                    "name": "MrBeast"
+                }
+            }
+        ],
+        "conversation_id": 1349707977155108865,
+        "created_at": "2021-01-14T13:20:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "MrBeastExtra",
+                    "id": "1327687536416854016"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 66,
+                    "probability": 0.8367,
+                    "type": "Product",
+                    "normalized_text": "Minecraft"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 75,
+                    "end": 98,
+                    "url": "https://t.co/LT8lsFiPvk",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1327687536416854016,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-14T05:53:15.000Z",
+            "author_id": "1042847137585930241",
+            "lang": "en",
+            "id": "1349595414627016704",
+            "conversation_id": "1349595414627016704",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "text": "Ive been contemplating how I can make extra money to not work 70 hours a week, pay the bills, and actually get to spend time with my wife and kids.\n\n#realworldproblems https://t.co/k7M333iyUR",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 168,
+                        "end": 191,
+                        "url": "https://t.co/k7M333iyUR",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 149,
+                        "end": 167,
+                        "tag": "realworldproblems"
+                    }
+                ]
+            },
+            "source": "Twitter Web App"
+        },
+        "id": 1349595414627016704,
+        "text": "Ive been contemplating how I can make extra money to not work 70 hours a week, pay the bills, and actually get to spend time with my wife and kids.\n\n#realworldproblems https://t.co/k7M333iyUR",
+        "attachments": null,
+        "author_id": 1042847137585930241,
+        "context_annotations": [],
+        "conversation_id": 1349595414627016704,
+        "created_at": "2021-01-14T05:53:15+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 168,
+                    "end": 191,
+                    "url": "https://t.co/k7M333iyUR",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 149,
+                    "end": 167,
+                    "tag": "realworldproblems"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-14T01:27:06.000Z",
+            "author_id": "1942339867",
+            "lang": "ja",
+            "id": "1349528434729394180",
+            "conversation_id": "1349528434729394180",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "\u3064\u3044\u306bMrBeast\u304c\u8ab2\u91d1\u578b\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u3092\u691c\u8a0e\u3057\u3066\u3044\u308b\u3002 https://t.co/PAFfRru44E",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 29,
+                        "end": 52,
+                        "url": "https://t.co/PAFfRru44E",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter Web App"
+        },
+        "id": 1349528434729394180,
+        "text": "\u3064\u3044\u306bMrBeast\u304c\u8ab2\u91d1\u578b\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u3092\u691c\u8a0e\u3057\u3066\u3044\u308b\u3002 https://t.co/PAFfRru44E",
+        "attachments": null,
+        "author_id": 1942339867,
+        "context_annotations": [],
+        "conversation_id": 1349528434729394180,
+        "created_at": "2021-01-14T01:27:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 29,
+                    "end": 52,
+                    "url": "https://t.co/PAFfRru44E",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T19:41:04.000Z",
+            "author_id": "2919707571",
+            "lang": "en",
+            "id": "1349441353650987010",
+            "conversation_id": "1349441353650987010",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "I like this idea. https://t.co/zgsLvfyazi",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/zgsLvfyazi",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349441353650987010,
+        "text": "I like this idea. https://t.co/zgsLvfyazi",
+        "attachments": null,
+        "author_id": 2919707571,
+        "context_annotations": [],
+        "conversation_id": 1349441353650987010,
+        "created_at": "2021-01-13T19:41:04+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/zgsLvfyazi",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T18:00:36.000Z",
+            "author_id": "1080753450739220480",
+            "lang": "pl",
+            "id": "1349416067484033024",
+            "conversation_id": "1349416067484033024",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "podcast podcast podcast https://t.co/PdwoQ8VGwP",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/PdwoQ8VGwP",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349416067484033024,
+        "text": "podcast podcast podcast https://t.co/PdwoQ8VGwP",
+        "attachments": null,
+        "author_id": 1080753450739220480,
+        "context_annotations": [],
+        "conversation_id": 1349416067484033024,
+        "created_at": "2021-01-13T18:00:36+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/PdwoQ8VGwP",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "pl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 47,
+                        "end": 53,
+                        "probability": 0.5003,
+                        "type": "Product",
+                        "normalized_text": "YouTube"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 158,
+                        "end": 181,
+                        "url": "https://t.co/ksPy2PzRQt",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-01-13T17:02:27.000Z",
+            "author_id": "3373909445",
+            "lang": "en",
+            "id": "1349401433469300736",
+            "conversation_id": "1349401433469300736",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "text": "MrBeast jumping on the exclusive content hype. YouTube's biggest creator wanna create outside the platform that means there's something wrong inside youtube. https://t.co/ksPy2PzRQt",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1349401433469300736,
+        "text": "MrBeast jumping on the exclusive content hype. YouTube's biggest creator wanna create outside the platform that means there's something wrong inside youtube. https://t.co/ksPy2PzRQt",
+        "attachments": null,
+        "author_id": 3373909445,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029382357",
+                    "name": "YouTube"
+                }
+            }
+        ],
+        "conversation_id": 1349401433469300736,
+        "created_at": "2021-01-13T17:02:27+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 47,
+                    "end": 53,
+                    "probability": 0.5003,
+                    "type": "Product",
+                    "normalized_text": "YouTube"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/ksPy2PzRQt",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10040276669",
+                        "name": "Spotify"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "MrBeastExtra",
+                        "id": "1327687536416854016"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 63,
+                        "end": 69,
+                        "probability": 0.7966,
+                        "type": "Product",
+                        "normalized_text": "Spotify"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "url": "https://t.co/Fwt9GxnL9e",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T16:33:36.000Z",
+            "author_id": "1133451831810625543",
+            "lang": "en",
+            "id": "1349394176539033601",
+            "in_reply_to_user_id": "1327687536416854016",
+            "conversation_id": "1349394176539033601",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@MrBeastExtra you should make a podcast channel and post it on Spotify I\u2019d listen to that https://t.co/Fwt9GxnL9e",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349394176539033601,
+        "text": "@MrBeastExtra you should make a podcast channel and post it on Spotify I\u2019d listen to that https://t.co/Fwt9GxnL9e",
+        "attachments": null,
+        "author_id": 1133451831810625543,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597222535168",
+                    "name": "Online Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10040276669",
+                    "name": "Spotify"
+                }
+            }
+        ],
+        "conversation_id": 1349394176539033601,
+        "created_at": "2021-01-13T16:33:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "MrBeastExtra",
+                    "id": "1327687536416854016"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 63,
+                    "end": 69,
+                    "probability": 0.7966,
+                    "type": "Product",
+                    "normalized_text": "Spotify"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/Fwt9GxnL9e",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1327687536416854016,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T16:23:09.000Z",
+            "author_id": "1292510988298788864",
+            "lang": "en",
+            "id": "1349391545431175173",
+            "conversation_id": "1349391545431175173",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Hi every one I literally said MRBEAST for 6000 times straight.   Let\u2019s show this video to the own #mrbeast thanks everybody \nLove y\u2019all \u2764\ufe0f https://t.co/vmJ2WkdJuD",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 139,
+                        "end": 162,
+                        "url": "https://t.co/vmJ2WkdJuD",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 98,
+                        "end": 106,
+                        "tag": "mrbeast"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349391545431175173,
+        "text": "Hi every one I literally said MRBEAST for 6000 times straight.   Let\u2019s show this video to the own #mrbeast thanks everybody \nLove y\u2019all \u2764\ufe0f https://t.co/vmJ2WkdJuD",
+        "attachments": null,
+        "author_id": 1292510988298788864,
+        "context_annotations": [],
+        "conversation_id": 1349391545431175173,
+        "created_at": "2021-01-13T16:23:09+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/vmJ2WkdJuD",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 98,
+                    "end": 106,
+                    "tag": "mrbeast"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "probability": 0.8826,
+                        "type": "Person",
+                        "normalized_text": "Mr Beast"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 46,
+                        "end": 69,
+                        "url": "https://t.co/bIeMmhnEwo",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-01-13T15:36:38.000Z",
+            "author_id": "1280843684284678145",
+            "lang": "en",
+            "id": "1349379840445722625",
+            "conversation_id": "1349379840445722625",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "text": "Mr Beast sounds like he's making an only fans https://t.co/bIeMmhnEwo",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1349379840445722625,
+        "text": "Mr Beast sounds like he's making an only fans https://t.co/bIeMmhnEwo",
+        "attachments": null,
+        "author_id": 1280843684284678145,
+        "context_annotations": [],
+        "conversation_id": 1349379840445722625,
+        "created_at": "2021-01-13T15:36:38+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "probability": 0.8826,
+                    "type": "Person",
+                    "normalized_text": "Mr Beast"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/bIeMmhnEwo",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1349378530002554881"
+                }
+            ],
+            "created_at": "2021-01-13T15:32:42.000Z",
+            "author_id": "67151883",
+            "lang": "en",
+            "id": "1349378849247694848",
+            "in_reply_to_user_id": "3076212136",
+            "conversation_id": "1349249572724346880",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@mariodgabriele And now the most well known creator is looking for ways to raise money https://t.co/uM0DP3JLtL",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 87,
+                        "end": 110,
+                        "url": "https://t.co/uM0DP3JLtL",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349378849247694848,
+        "text": "@mariodgabriele And now the most well known creator is looking for ways to raise money https://t.co/uM0DP3JLtL",
+        "attachments": null,
+        "author_id": 67151883,
+        "context_annotations": [],
+        "conversation_id": 1349249572724346880,
+        "created_at": "2021-01-13T15:32:42+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 87,
+                    "end": 110,
+                    "url": "https://t.co/uM0DP3JLtL",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3076212136,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349378530002554881"
+                },
+                "id": 1349378530002554881,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1126559222122942464",
+                        "name": "MrBeast"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1139233849991237632",
+                        "name": "Marques Brownlee"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "120",
+                        "name": "Digital Creator",
+                        "description": "Influencers who create content on digital platforms"
+                    },
+                    "entity": {
+                        "id": "1126559222122942464",
+                        "name": "MrBeast"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "120",
+                        "name": "Digital Creator",
+                        "description": "Influencers who create content on digital platforms"
+                    },
+                    "entity": {
+                        "id": "1139233849991237632",
+                        "name": "Marques Brownlee"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 34,
+                        "end": 40,
+                        "username": "MKBHD",
+                        "id": "29873662"
+                    },
+                    {
+                        "start": 43,
+                        "end": 49,
+                        "username": "WVFRM",
+                        "id": "1085988561952870400"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 50,
+                        "end": 73,
+                        "url": "https://t.co/VkoMcauACU",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T15:19:17.000Z",
+            "author_id": "969046034587435008",
+            "lang": "en",
+            "id": "1349375471872483331",
+            "conversation_id": "1349375471872483331",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Wow that was quick @MrBeastYT And @MKBHD \u00d7 @WVFRM https://t.co/VkoMcauACU",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1349375471872483331,
+        "text": "Wow that was quick @MrBeastYT And @MKBHD \u00d7 @WVFRM https://t.co/VkoMcauACU",
+        "attachments": null,
+        "author_id": 969046034587435008,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1126559222122942464",
+                    "name": "MrBeast"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1139233849991237632",
+                    "name": "Marques Brownlee"
+                }
+            },
+            {
+                "domain": {
+                    "id": "120",
+                    "name": "Digital Creator",
+                    "description": "Influencers who create content on digital platforms"
+                },
+                "entity": {
+                    "id": "1126559222122942464",
+                    "name": "MrBeast"
+                }
+            },
+            {
+                "domain": {
+                    "id": "120",
+                    "name": "Digital Creator",
+                    "description": "Influencers who create content on digital platforms"
+                },
+                "entity": {
+                    "id": "1139233849991237632",
+                    "name": "Marques Brownlee"
+                }
+            }
+        ],
+        "conversation_id": 1349375471872483331,
+        "created_at": "2021-01-13T15:19:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 34,
+                    "end": 40,
+                    "username": "MKBHD",
+                    "id": "29873662"
+                },
+                {
+                    "start": 43,
+                    "end": 49,
+                    "username": "WVFRM",
+                    "id": "1085988561952870400"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 50,
+                    "end": 73,
+                    "url": "https://t.co/VkoMcauACU",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T15:17:21.000Z",
+            "author_id": "1105130505735815169",
+            "lang": "en",
+            "id": "1349374987791028231",
+            "conversation_id": "1349374987791028231",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Stream and make a patreon where people can get early video access! https://t.co/8UnP8MZv63",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 67,
+                        "end": 90,
+                        "url": "https://t.co/8UnP8MZv63",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1349374987791028231,
+        "text": "Stream and make a patreon where people can get early video access! https://t.co/8UnP8MZv63",
+        "attachments": null,
+        "author_id": 1105130505735815169,
+        "context_annotations": [],
+        "conversation_id": 1349374987791028231,
+        "created_at": "2021-01-13T15:17:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 67,
+                    "end": 90,
+                    "url": "https://t.co/8UnP8MZv63",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1126559222122942464",
+                        "name": "MrBeast"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "120",
+                        "name": "Digital Creator",
+                        "description": "Influencers who create content on digital platforms"
+                    },
+                    "entity": {
+                        "id": "1126559222122942464",
+                        "name": "MrBeast"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878402157629440",
+                        "name": "Investors and patents",
+                        "description": "Investors and patents"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T15:10:45.000Z",
+            "author_id": "1042931246144249856",
+            "lang": "en",
+            "id": "1349373326284582912",
+            "conversation_id": "1349373326284582912",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Content creation should be investable. \n\n@MrBeastYT should be able to raise capital for \u201cbigger videos\u201d where communities/fans can invest in the revenue upside. \n\nRaise $5M, investors receive 100% of proceeds up to 120% of their principle. Let him focus on creating. https://t.co/K1R3SUuO0M",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "url": "https://t.co/K1R3SUuO0M",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349373326284582912,
+        "text": "Content creation should be investable. \n\n@MrBeastYT should be able to raise capital for \u201cbigger videos\u201d where communities/fans can invest in the revenue upside. \n\nRaise $5M, investors receive 100% of proceeds up to 120% of their principle. Let him focus on creating. https://t.co/K1R3SUuO0M",
+        "attachments": null,
+        "author_id": 1042931246144249856,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1126559222122942464",
+                    "name": "MrBeast"
+                }
+            },
+            {
+                "domain": {
+                    "id": "120",
+                    "name": "Digital Creator",
+                    "description": "Influencers who create content on digital platforms"
+                },
+                "entity": {
+                    "id": "1126559222122942464",
+                    "name": "MrBeast"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878402157629440",
+                    "name": "Investors and patents",
+                    "description": "Investors and patents"
+                }
+            }
+        ],
+        "conversation_id": 1349373326284582912,
+        "created_at": "2021-01-13T15:10:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 267,
+                    "end": 290,
+                    "url": "https://t.co/K1R3SUuO0M",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T15:02:24.000Z",
+            "author_id": "993034340568154112",
+            "lang": "en",
+            "id": "1349371225101897729",
+            "conversation_id": "1349371225101897729",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The only negative effect of this plan is the fact that I have no money. Hahaha https://t.co/CRO9VWDAqC",
+            "reply_settings": "following",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 79,
+                        "end": 102,
+                        "url": "https://t.co/CRO9VWDAqC",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1349371225101897729,
+        "text": "The only negative effect of this plan is the fact that I have no money. Hahaha https://t.co/CRO9VWDAqC",
+        "attachments": null,
+        "author_id": 993034340568154112,
+        "context_annotations": [],
+        "conversation_id": 1349371225101897729,
+        "created_at": "2021-01-13T15:02:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/CRO9VWDAqC",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T15:00:33.000Z",
+            "author_id": "3888254055",
+            "lang": "en",
+            "id": "1349370757932003330",
+            "conversation_id": "1349370757932003330",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "This is amazing https://t.co/pohynpXcBW",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 16,
+                        "end": 39,
+                        "url": "https://t.co/pohynpXcBW",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349370757932003330,
+        "text": "This is amazing https://t.co/pohynpXcBW",
+        "attachments": null,
+        "author_id": 3888254055,
+        "context_annotations": [],
+        "conversation_id": 1349370757932003330,
+        "created_at": "2021-01-13T15:00:33+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 16,
+                    "end": 39,
+                    "url": "https://t.co/pohynpXcBW",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T14:52:33.000Z",
+            "author_id": "1348351636394049537",
+            "lang": "en",
+            "id": "1349368746574454792",
+            "conversation_id": "1349368746574454792",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Only fans https://t.co/MOQQU7Nkt2",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/MOQQU7Nkt2",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349368746574454792,
+        "text": "Only fans https://t.co/MOQQU7Nkt2",
+        "attachments": null,
+        "author_id": 1348351636394049537,
+        "context_annotations": [],
+        "conversation_id": 1349368746574454792,
+        "created_at": "2021-01-13T14:52:33+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/MOQQU7Nkt2",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "91",
+                        "name": "Podcast",
+                        "description": "A podcast like \"Serial\""
+                    },
+                    "entity": {
+                        "id": "1158467997184323584",
+                        "name": "Carrier"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 24,
+                        "probability": 0.5948,
+                        "type": "Person",
+                        "normalized_text": "Mr Beast"
+                    },
+                    {
+                        "start": 47,
+                        "end": 54,
+                        "probability": 0.6708,
+                        "type": "Person",
+                        "normalized_text": "Mr Beast"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 86,
+                        "end": 109,
+                        "url": "https://t.co/8vgHnJTcAn",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-01-13T14:42:52.000Z",
+            "author_id": "3963930555",
+            "lang": "en",
+            "id": "1349366309449048065",
+            "conversation_id": "1349366309449048065",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "How the fuck can Mr Beast make bigger videos? \"Mr Beast buys an aircraft carrier\" wtf https://t.co/8vgHnJTcAn",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1349366309449048065,
+        "text": "How the fuck can Mr Beast make bigger videos? \"Mr Beast buys an aircraft carrier\" wtf https://t.co/8vgHnJTcAn",
+        "attachments": null,
+        "author_id": 3963930555,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "91",
+                    "name": "Podcast",
+                    "description": "A podcast like \"Serial\""
+                },
+                "entity": {
+                    "id": "1158467997184323584",
+                    "name": "Carrier"
+                }
+            }
+        ],
+        "conversation_id": 1349366309449048065,
+        "created_at": "2021-01-13T14:42:52+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 24,
+                    "probability": 0.5948,
+                    "type": "Person",
+                    "normalized_text": "Mr Beast"
+                },
+                {
+                    "start": 47,
+                    "end": 54,
+                    "probability": 0.6708,
+                    "type": "Person",
+                    "normalized_text": "Mr Beast"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/8vgHnJTcAn",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T14:40:12.000Z",
+            "author_id": "785413286",
+            "lang": "en",
+            "id": "1349365638591086599",
+            "conversation_id": "1349365638591086599",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Honestly ya https://t.co/ptxjuN6lNd",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 12,
+                        "end": 35,
+                        "url": "https://t.co/ptxjuN6lNd",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349365638591086599,
+        "text": "Honestly ya https://t.co/ptxjuN6lNd",
+        "attachments": null,
+        "author_id": 785413286,
+        "context_annotations": [],
+        "conversation_id": 1349365638591086599,
+        "created_at": "2021-01-13T14:40:12+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 12,
+                    "end": 35,
+                    "url": "https://t.co/ptxjuN6lNd",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T14:33:02.000Z",
+            "author_id": "1316326982091640832",
+            "lang": "en",
+            "id": "1349363833912000513",
+            "conversation_id": "1349363833912000513",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "text": "give us karl merch,,,,, https://t.co/CHGaOBWayu",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/CHGaOBWayu",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349363833912000513,
+        "text": "give us karl merch,,,,, https://t.co/CHGaOBWayu",
+        "attachments": null,
+        "author_id": 1316326982091640832,
+        "context_annotations": [],
+        "conversation_id": 1349363833912000513,
+        "created_at": "2021-01-13T14:33:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/CHGaOBWayu",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                }
+            ],
+            "created_at": "2021-01-13T14:30:27.000Z",
+            "author_id": "1061807053960867841",
+            "lang": "en",
+            "id": "1349363183094538240",
+            "conversation_id": "1349363183094538240",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "that would be so cool! https://t.co/Uwk98Hbl87",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 23,
+                        "end": 46,
+                        "url": "https://t.co/Uwk98Hbl87",
+                        "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                        "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1349363183094538240,
+        "text": "that would be so cool! https://t.co/Uwk98Hbl87",
+        "attachments": null,
+        "author_id": 1061807053960867841,
+        "context_annotations": [],
+        "conversation_id": 1349363183094538240,
+        "created_at": "2021-01-13T14:30:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 23,
+                    "end": 46,
+                    "url": "https://t.co/Uwk98Hbl87",
+                    "expanded_url": "https://twitter.com/MrBeastExtra/status/1349363119148195842",
+                    "display_url": "twitter.com/MrBeastExtra/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1349363119148195842"
+                },
+                "id": 1349363119148195842,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

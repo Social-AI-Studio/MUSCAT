@@ -1,0 +1,392 @@
+[
+    {
+        "data": {
+            "created_at": "2021-09-22T05:15:24.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "BDResearch_SG",
+                        "id": "1037962426954604549"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/RgKBuNLvnW",
+                        "expanded_url": "https://bit.ly/3EDww3B",
+                        "display_url": "bit.ly/3EDww3B",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 684
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "[COVIDWatch]: Was there a recent 'outbreak' in Changi Airport? - Black Dot Research",
+                        "description": "Black Dot Research is part of the Black Dot Communications Group based in Singapore. We are a market and social research agency specialising in understanding and analysing the views and opinions of Singaporeans. Our agile and robust research methods uncover insights that matter the most to the local landscape.",
+                        "unwound_url": "https://blackdotresearch.sg/changi-airport-covid19-cluster-september-2021/"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 129,
+                        "end": 139,
+                        "tag": "factcheck"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 58,
+                        "end": 71,
+                        "probability": 0.9207,
+                        "type": "Place",
+                        "normalized_text": "Changi Airport"
+                    },
+                    {
+                        "start": 76,
+                        "end": 84,
+                        "probability": 0.9944,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1440541803321565184"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "950060335620268037",
+            "conversation_id": "1440545243489652745",
+            "text": "RT @BDResearch_SG: Is there a recent COVID-19 outbreak at Changi Airport in Singapore? Find out here \ud83d\udc49\ud83c\udffb https://t.co/RgKBuNLvnW\n\n#factcheck\u2026",
+            "source": "Cal Fact Check",
+            "reply_settings": "everyone",
+            "id": "1440545243489652745",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ]
+        },
+        "id": 1440545243489652745,
+        "text": "RT @BDResearch_SG: Is there a recent COVID-19 outbreak at Changi Airport in Singapore? Find out here \ud83d\udc49\ud83c\udffb https://t.co/RgKBuNLvnW\n\n#factcheck\u2026",
+        "attachments": null,
+        "author_id": 950060335620268037,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1440545243489652745,
+        "created_at": "2021-09-22T05:15:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "BDResearch_SG",
+                    "id": "1037962426954604549"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 104,
+                    "end": 127,
+                    "url": "https://t.co/RgKBuNLvnW",
+                    "expanded_url": "https://bit.ly/3EDww3B",
+                    "display_url": "bit.ly/3EDww3B",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 684
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "[COVIDWatch]: Was there a recent 'outbreak' in Changi Airport? - Black Dot Research",
+                    "description": "Black Dot Research is part of the Black Dot Communications Group based in Singapore. We are a market and social research agency specialising in understanding and analysing the views and opinions of Singaporeans. Our agile and robust research methods uncover insights that matter the most to the local landscape.",
+                    "unwound_url": "https://blackdotresearch.sg/changi-airport-covid19-cluster-september-2021/"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 129,
+                    "end": 139,
+                    "tag": "factcheck"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 71,
+                    "probability": 0.9207,
+                    "type": "Place",
+                    "normalized_text": "Changi Airport"
+                },
+                {
+                    "start": 76,
+                    "end": 84,
+                    "probability": 0.9944,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1440541803321565184"
+                },
+                "id": 1440541803321565184,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Cal Fact Check",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-09-22T05:01:44.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 85,
+                        "end": 108,
+                        "url": "https://t.co/RgKBuNLvnW",
+                        "expanded_url": "https://bit.ly/3EDww3B",
+                        "display_url": "bit.ly/3EDww3B",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 684
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "[COVIDWatch]: Was there a recent 'outbreak' in Changi Airport? - Black Dot Research",
+                        "description": "Black Dot Research is part of the Black Dot Communications Group based in Singapore. We are a market and social research agency specialising in understanding and analysing the views and opinions of Singaporeans. Our agile and robust research methods uncover insights that matter the most to the local landscape.",
+                        "unwound_url": "https://blackdotresearch.sg/changi-airport-covid19-cluster-september-2021/"
+                    },
+                    {
+                        "start": 121,
+                        "end": 144,
+                        "url": "https://t.co/nzZKNu0Jei",
+                        "expanded_url": "https://twitter.com/BDResearch_SG/status/1440541803321565184/photo/1",
+                        "display_url": "pic.twitter.com/nzZKNu0Jei"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 110,
+                        "end": 120,
+                        "tag": "factcheck"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 39,
+                        "end": 52,
+                        "probability": 0.9174,
+                        "type": "Place",
+                        "normalized_text": "Changi Airport"
+                    },
+                    {
+                        "start": 57,
+                        "end": 65,
+                        "probability": 0.9944,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1440539163816697866"
+                ]
+            },
+            "possibly_sensitive": false,
+            "author_id": "1037962426954604549",
+            "conversation_id": "1440541803321565184",
+            "text": "Is there a recent COVID-19 outbreak at Changi Airport in Singapore? Find out here \ud83d\udc49\ud83c\udffb https://t.co/RgKBuNLvnW\n\n#factcheck https://t.co/nzZKNu0Jei",
+            "source": "Twitter Web App",
+            "reply_settings": "everyone",
+            "id": "1440541803321565184",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ]
+        },
+        "id": 1440541803321565184,
+        "text": "Is there a recent COVID-19 outbreak at Changi Airport in Singapore? Find out here \ud83d\udc49\ud83c\udffb https://t.co/RgKBuNLvnW\n\n#factcheck https://t.co/nzZKNu0Jei",
+        "attachments": {
+            "media_keys": [
+                "3_1440539163816697866"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1440541803321565184,
+        "created_at": "2021-09-22T05:01:44+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 108,
+                    "url": "https://t.co/RgKBuNLvnW",
+                    "expanded_url": "https://bit.ly/3EDww3B",
+                    "display_url": "bit.ly/3EDww3B",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 684
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1440541835785486346/_8W_cMQL?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "[COVIDWatch]: Was there a recent 'outbreak' in Changi Airport? - Black Dot Research",
+                    "description": "Black Dot Research is part of the Black Dot Communications Group based in Singapore. We are a market and social research agency specialising in understanding and analysing the views and opinions of Singaporeans. Our agile and robust research methods uncover insights that matter the most to the local landscape.",
+                    "unwound_url": "https://blackdotresearch.sg/changi-airport-covid19-cluster-september-2021/"
+                },
+                {
+                    "start": 121,
+                    "end": 144,
+                    "url": "https://t.co/nzZKNu0Jei",
+                    "expanded_url": "https://twitter.com/BDResearch_SG/status/1440541803321565184/photo/1",
+                    "display_url": "pic.twitter.com/nzZKNu0Jei"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 110,
+                    "end": 120,
+                    "tag": "factcheck"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 39,
+                    "end": 52,
+                    "probability": 0.9174,
+                    "type": "Place",
+                    "normalized_text": "Changi Airport"
+                },
+                {
+                    "start": 57,
+                    "end": 65,
+                    "probability": 0.9944,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

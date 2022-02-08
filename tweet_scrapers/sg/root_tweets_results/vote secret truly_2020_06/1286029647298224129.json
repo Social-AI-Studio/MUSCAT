@@ -1,0 +1,3413 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "threadreaderapp",
+                        "id": "895814938995957760"
+                    },
+                    {
+                        "start": 21,
+                        "end": 32,
+                        "username": "sassysanoe",
+                        "id": "58693509"
+                    },
+                    {
+                        "start": 61,
+                        "end": 76,
+                        "username": "jennfranconews",
+                        "id": "749686190"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 93,
+                        "end": 107,
+                        "probability": 0.6718,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 78,
+                        "end": 91,
+                        "tag": "HappeningNow"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1286036083566882816"
+                }
+            ],
+            "created_at": "2020-07-24T00:20:47.000Z",
+            "author_id": "3885993200",
+            "lang": "en",
+            "id": "1286456254932680704",
+            "conversation_id": "1286456254932680704",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @threadreaderapp: @sassysanoe Hello, here is your unroll: @jennfranconews: #HappeningNow: President Trump discusses the federal response\u2026",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286456254932680704,
+        "text": "RT @threadreaderapp: @sassysanoe Hello, here is your unroll: @jennfranconews: #HappeningNow: President Trump discusses the federal response\u2026",
+        "attachments": null,
+        "author_id": 3885993200,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286456254932680704,
+        "created_at": "2020-07-24T00:20:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "threadreaderapp",
+                    "id": "895814938995957760"
+                },
+                {
+                    "start": 21,
+                    "end": 32,
+                    "username": "sassysanoe",
+                    "id": "58693509"
+                },
+                {
+                    "start": 61,
+                    "end": 76,
+                    "username": "jennfranconews",
+                    "id": "749686190"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 93,
+                    "end": 107,
+                    "probability": 0.6718,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 78,
+                    "end": 91,
+                    "tag": "HappeningNow"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1286036083566882816"
+                },
+                "id": 1286036083566882816,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 10,
+                        "end": 25,
+                        "username": "jennfranconews",
+                        "id": "749686190"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 56,
+                        "probability": 0.7951,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    },
+                    {
+                        "start": 157,
+                        "end": 161,
+                        "probability": 0.6119,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 211,
+                        "end": 217,
+                        "probability": 0.9968,
+                        "type": "Place",
+                        "normalized_text": "Chicago"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 256,
+                        "end": 279,
+                        "url": "https://t.co/AZ18p0C5mq",
+                        "expanded_url": "https://threadreaderapp.com/thread/1286029647298224129.html",
+                        "display_url": "threadreaderapp.com/thread/1286029\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 27,
+                        "end": 40,
+                        "tag": "HappeningNow"
+                    }
+                ]
+            },
+            "created_at": "2020-07-23T20:39:42.000Z",
+            "author_id": "219855077",
+            "lang": "en",
+            "id": "1286400618572070912",
+            "conversation_id": "1286400618572070912",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Thread by @jennfranconews: #HappeningNow: President Trump discusses the federal response to a spike in violent crime in cities nationwide. (TKING: President Trump says hundreds of federal agents will be sent to Chicago as violent crime rates surge in the\u2026 https://t.co/AZ18p0C5mq",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad"
+        },
+        "id": 1286400618572070912,
+        "text": "Thread by @jennfranconews: #HappeningNow: President Trump discusses the federal response to a spike in violent crime in cities nationwide. (TKING: President Trump says hundreds of federal agents will be sent to Chicago as violent crime rates surge in the\u2026 https://t.co/AZ18p0C5mq",
+        "attachments": null,
+        "author_id": 219855077,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286400618572070912,
+        "created_at": "2020-07-23T20:39:42+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 25,
+                    "username": "jennfranconews",
+                    "id": "749686190"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 56,
+                    "probability": 0.7951,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                },
+                {
+                    "start": 157,
+                    "end": 161,
+                    "probability": 0.6119,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 211,
+                    "end": 217,
+                    "probability": 0.9968,
+                    "type": "Place",
+                    "normalized_text": "Chicago"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 256,
+                    "end": 279,
+                    "url": "https://t.co/AZ18p0C5mq",
+                    "expanded_url": "https://threadreaderapp.com/thread/1286029647298224129.html",
+                    "display_url": "threadreaderapp.com/thread/1286029\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 27,
+                    "end": 40,
+                    "tag": "HappeningNow"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "threadreaderapp",
+                        "id": "895814938995957760"
+                    },
+                    {
+                        "start": 21,
+                        "end": 32,
+                        "username": "sassysanoe",
+                        "id": "58693509"
+                    },
+                    {
+                        "start": 61,
+                        "end": 76,
+                        "username": "jennfranconews",
+                        "id": "749686190"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 93,
+                        "end": 107,
+                        "probability": 0.6718,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 78,
+                        "end": 91,
+                        "tag": "HappeningNow"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1286036083566882816"
+                }
+            ],
+            "created_at": "2020-07-23T20:39:31.000Z",
+            "author_id": "219855077",
+            "lang": "en",
+            "id": "1286400573248376833",
+            "conversation_id": "1286400573248376833",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @threadreaderapp: @sassysanoe Hello, here is your unroll: @jennfranconews: #HappeningNow: President Trump discusses the federal response\u2026",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad"
+        },
+        "id": 1286400573248376833,
+        "text": "RT @threadreaderapp: @sassysanoe Hello, here is your unroll: @jennfranconews: #HappeningNow: President Trump discusses the federal response\u2026",
+        "attachments": null,
+        "author_id": 219855077,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286400573248376833,
+        "created_at": "2020-07-23T20:39:31+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "threadreaderapp",
+                    "id": "895814938995957760"
+                },
+                {
+                    "start": 21,
+                    "end": 32,
+                    "username": "sassysanoe",
+                    "id": "58693509"
+                },
+                {
+                    "start": 61,
+                    "end": 76,
+                    "username": "jennfranconews",
+                    "id": "749686190"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 93,
+                    "end": 107,
+                    "probability": 0.6718,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 78,
+                    "end": 91,
+                    "tag": "HappeningNow"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1286036083566882816"
+                },
+                "id": 1286036083566882816,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-23T11:03:45.000Z",
+            "author_id": "1574068921",
+            "lang": "und",
+            "id": "1286255678030454784",
+            "conversation_id": "1286255678030454784",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "\ud83d\ude29\ud83d\ude29\ud83d\ude29\ud83d\ude23\ud83d\ude23 https://t.co/V35FYxlCku",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/V35FYxlCku",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPad"
+        },
+        "id": 1286255678030454784,
+        "text": "\ud83d\ude29\ud83d\ude29\ud83d\ude29\ud83d\ude23\ud83d\ude23 https://t.co/V35FYxlCku",
+        "attachments": null,
+        "author_id": 1574068921,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286255678030454784,
+        "created_at": "2020-07-23T11:03:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 6,
+                    "end": 29,
+                    "url": "https://t.co/V35FYxlCku",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "seriouspod",
+                        "id": "2328085147"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                }
+            ],
+            "created_at": "2020-07-23T06:14:06.000Z",
+            "author_id": "60404549",
+            "lang": "en",
+            "id": "1286182783547854848",
+            "conversation_id": "1286182783547854848",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286182783547854848,
+        "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+        "attachments": null,
+        "author_id": 60404549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286182783547854848,
+        "created_at": "2020-07-23T06:14:06+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "seriouspod",
+                    "id": "2328085147"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                },
+                "id": 1286039931194757122,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-23T01:53:24.000Z",
+            "author_id": "335057710",
+            "lang": "en",
+            "id": "1286117177817550848",
+            "conversation_id": "1286117177817550848",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "hate crimes have been on the rise his whole presidency. where was this energy https://t.co/D32KSjrt5h",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 78,
+                        "end": 101,
+                        "url": "https://t.co/D32KSjrt5h",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286117177817550848,
+        "text": "hate crimes have been on the rise his whole presidency. where was this energy https://t.co/D32KSjrt5h",
+        "attachments": null,
+        "author_id": 335057710,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286117177817550848,
+        "created_at": "2020-07-23T01:53:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/D32KSjrt5h",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "seriouspod",
+                        "id": "2328085147"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                }
+            ],
+            "created_at": "2020-07-23T00:46:41.000Z",
+            "author_id": "1069740231618899969",
+            "lang": "en",
+            "id": "1286100386974019584",
+            "conversation_id": "1286100386974019584",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1286100386974019584,
+        "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+        "attachments": null,
+        "author_id": 1069740231618899969,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286100386974019584,
+        "created_at": "2020-07-23T00:46:41+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "seriouspod",
+                    "id": "2328085147"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                },
+                "id": 1286039931194757122,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "yay_itsrai",
+                        "id": "16393660"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1286075307989114880"
+                }
+            ],
+            "created_at": "2020-07-22T23:17:21.000Z",
+            "author_id": "42681800",
+            "lang": "en",
+            "id": "1286077905676701696",
+            "conversation_id": "1286077905676701696",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @yay_itsrai: \"Spike in violent crime\" is racist speak for \"protests\".",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286077905676701696,
+        "text": "RT @yay_itsrai: \"Spike in violent crime\" is racist speak for \"protests\".",
+        "attachments": null,
+        "author_id": 42681800,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1266467007987253248",
+                    "name": "George Floyd"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286077905676701696,
+        "created_at": "2020-07-22T23:17:21+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "yay_itsrai",
+                    "id": "16393660"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1286075307989114880"
+                },
+                "id": 1286075307989114880,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T23:07:02.000Z",
+            "author_id": "16393660",
+            "lang": "en",
+            "id": "1286075307989114880",
+            "conversation_id": "1286075307989114880",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "\"Spike in violent crime\" is racist speak for \"protests\". https://t.co/d44mxXe1ae",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 57,
+                        "end": 80,
+                        "url": "https://t.co/d44mxXe1ae",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1286075307989114880,
+        "text": "\"Spike in violent crime\" is racist speak for \"protests\". https://t.co/d44mxXe1ae",
+        "attachments": null,
+        "author_id": 16393660,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1266467007987253248",
+                    "name": "George Floyd"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286075307989114880,
+        "created_at": "2020-07-22T23:07:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/d44mxXe1ae",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T23:01:27.000Z",
+            "author_id": "24668126",
+            "lang": "en",
+            "id": "1286073904646299649",
+            "conversation_id": "1286073904646299649",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "\"Spike\" in violent crime.\n\nViolent crimes always increase in the summer months.\n\nThis is a tactic to say he's tough on crime and using that he wears a mask now to distract. https://t.co/dEwkzYxc6H",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 173,
+                        "end": 196,
+                        "url": "https://t.co/dEwkzYxc6H",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1286073904646299649,
+        "text": "\"Spike\" in violent crime.\n\nViolent crimes always increase in the summer months.\n\nThis is a tactic to say he's tough on crime and using that he wears a mask now to distract. https://t.co/dEwkzYxc6H",
+        "attachments": null,
+        "author_id": 24668126,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286073904646299649,
+        "created_at": "2020-07-22T23:01:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 173,
+                    "end": 196,
+                    "url": "https://t.co/dEwkzYxc6H",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "seriouspod",
+                        "id": "2328085147"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                }
+            ],
+            "created_at": "2020-07-22T22:56:11.000Z",
+            "author_id": "38125120",
+            "lang": "en",
+            "id": "1286072576754757636",
+            "conversation_id": "1286072576754757636",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286072576754757636,
+        "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+        "attachments": null,
+        "author_id": 38125120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286072576754757636,
+        "created_at": "2020-07-22T22:56:11+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "seriouspod",
+                    "id": "2328085147"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                },
+                "id": 1286039931194757122,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 64,
+                        "end": 68,
+                        "probability": 0.9992,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 109,
+                        "end": 113,
+                        "probability": 0.6052,
+                        "type": "Place",
+                        "normalized_text": "Selma"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 115,
+                        "end": 138,
+                        "url": "https://t.co/pJgiatP86O",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "created_at": "2020-07-22T22:11:47.000Z",
+            "author_id": "271793617",
+            "lang": "en",
+            "id": "1286061405666308096",
+            "conversation_id": "1286061405666308096",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "If, for some reason, you were blind stupid enough to wonder how Trump would have responded to the March from Selma https://t.co/pJgiatP86O",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1286061405666308096,
+        "text": "If, for some reason, you were blind stupid enough to wonder how Trump would have responded to the March from Selma https://t.co/pJgiatP86O",
+        "attachments": null,
+        "author_id": 271793617,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286061405666308096,
+        "created_at": "2020-07-22T22:11:47+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 64,
+                    "end": 68,
+                    "probability": 0.9992,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 109,
+                    "end": 113,
+                    "probability": 0.6052,
+                    "type": "Place",
+                    "normalized_text": "Selma"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/pJgiatP86O",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "seriouspod",
+                        "id": "2328085147"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                }
+            ],
+            "created_at": "2020-07-22T21:46:11.000Z",
+            "author_id": "958515954224316416",
+            "lang": "en",
+            "id": "1286054960883531779",
+            "conversation_id": "1286054960883531779",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1286054960883531779,
+        "text": "RT @seriouspod: Fuuuuuuuuuuuuck",
+        "attachments": null,
+        "author_id": 958515954224316416,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286054960883531779,
+        "created_at": "2020-07-22T21:46:11+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "seriouspod",
+                    "id": "2328085147"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1286039931194757122"
+                },
+                "id": 1286039931194757122,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T21:38:03.000Z",
+            "author_id": "913589429746360320",
+            "lang": "tl",
+            "id": "1286052914109153280",
+            "conversation_id": "1286052914109153280",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "Hahahahaha authoritarianism. https://t.co/riIvxyJ7fp",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 29,
+                        "end": 52,
+                        "url": "https://t.co/riIvxyJ7fp",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1286052914109153280,
+        "text": "Hahahahaha authoritarianism. https://t.co/riIvxyJ7fp",
+        "attachments": null,
+        "author_id": 913589429746360320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286052914109153280,
+        "created_at": "2020-07-22T21:38:03+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 29,
+                    "end": 52,
+                    "url": "https://t.co/riIvxyJ7fp",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "tl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T21:28:11.000Z",
+            "author_id": "105017220",
+            "lang": "en",
+            "id": "1286050430762364928",
+            "conversation_id": "1286050430762364928",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Operation Legend-in-his-own-mind https://t.co/SydYfFpRZR",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 33,
+                        "end": 56,
+                        "url": "https://t.co/SydYfFpRZR",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1286050430762364928,
+        "text": "Operation Legend-in-his-own-mind https://t.co/SydYfFpRZR",
+        "attachments": null,
+        "author_id": 105017220,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286050430762364928,
+        "created_at": "2020-07-22T21:28:11+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 33,
+                    "end": 56,
+                    "url": "https://t.co/SydYfFpRZR",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.9954,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 91,
+                        "end": 114,
+                        "url": "https://t.co/xRbWmMHRAQ",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "created_at": "2020-07-22T21:22:38.000Z",
+            "author_id": "128745354",
+            "lang": "en",
+            "id": "1286049035195801600",
+            "conversation_id": "1286049035195801600",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Trump is luring protesters to kill a federal agent. Or federal agents to shoot protesters. https://t.co/xRbWmMHRAQ",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286049035195801600,
+        "text": "Trump is luring protesters to kill a federal agent. Or federal agents to shoot protesters. https://t.co/xRbWmMHRAQ",
+        "attachments": null,
+        "author_id": 128745354,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1266467007987253248",
+                    "name": "George Floyd"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286049035195801600,
+        "created_at": "2020-07-22T21:22:38+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "probability": 0.9954,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 91,
+                    "end": 114,
+                    "url": "https://t.co/xRbWmMHRAQ",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T21:20:48.000Z",
+            "author_id": "62236036",
+            "lang": "en",
+            "id": "1286048575605088256",
+            "conversation_id": "1286048575605088256",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "Straight from propaganda-r-us to your eyes. Thread https://t.co/rIZRxLNf7w",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 51,
+                        "end": 74,
+                        "url": "https://t.co/rIZRxLNf7w",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter Web App"
+        },
+        "id": 1286048575605088256,
+        "text": "Straight from propaganda-r-us to your eyes. Thread https://t.co/rIZRxLNf7w",
+        "attachments": null,
+        "author_id": 62236036,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286048575605088256,
+        "created_at": "2020-07-22T21:20:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 51,
+                    "end": 74,
+                    "url": "https://t.co/rIZRxLNf7w",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T20:51:10.000Z",
+            "author_id": "33255450",
+            "lang": "en",
+            "id": "1286041119177019397",
+            "conversation_id": "1286041119177019397",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "WELP FOLKS FASCIST TAKE OVER IN PROGRESS. https://t.co/o5bMtjk1lP",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 42,
+                        "end": 65,
+                        "url": "https://t.co/o5bMtjk1lP",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286041119177019397,
+        "text": "WELP FOLKS FASCIST TAKE OVER IN PROGRESS. https://t.co/o5bMtjk1lP",
+        "attachments": null,
+        "author_id": 33255450,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286041119177019397,
+        "created_at": "2020-07-22T20:51:10+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 42,
+                    "end": 65,
+                    "url": "https://t.co/o5bMtjk1lP",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T20:47:21.000Z",
+            "author_id": "32980308",
+            "lang": "en",
+            "id": "1286040156357754881",
+            "conversation_id": "1286040156357754881",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "What spike? https://t.co/2tGw8V6KeL",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 12,
+                        "end": 35,
+                        "url": "https://t.co/2tGw8V6KeL",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286040156357754881,
+        "text": "What spike? https://t.co/2tGw8V6KeL",
+        "attachments": null,
+        "author_id": 32980308,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286040156357754881,
+        "created_at": "2020-07-22T20:47:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 12,
+                    "end": 35,
+                    "url": "https://t.co/2tGw8V6KeL",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T20:46:27.000Z",
+            "author_id": "2328085147",
+            "lang": "en",
+            "id": "1286039931194757122",
+            "conversation_id": "1286039931194757122",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 8,
+                "like_count": 39,
+                "quote_count": 0
+            },
+            "text": "Fuuuuuuuuuuuuck https://t.co/q6igwCez00",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 16,
+                        "end": 39,
+                        "url": "https://t.co/q6igwCez00",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1286039931194757122,
+        "text": "Fuuuuuuuuuuuuck https://t.co/q6igwCez00",
+        "attachments": null,
+        "author_id": 2328085147,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286039931194757122,
+        "created_at": "2020-07-22T20:46:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 16,
+                    "end": 39,
+                    "url": "https://t.co/q6igwCez00",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 8,
+            "like_count": 39,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "created_at": "2020-07-22T20:43:46.000Z",
+            "author_id": "117601805",
+            "lang": "en",
+            "id": "1286039256541143041",
+            "conversation_id": "1286039256541143041",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Translation: \u201cLet\u2019s make a bad situation worse because I don\u2019t care. Btw you guys I\u2019ve been wearing my beautiful patriotic mask this whole time. It\u2019s so beautiful that I took a little bit of it off my nose so I could look at it as I was wearing it.\u201d https://t.co/VAbPP8u3yN",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 250,
+                        "end": 273,
+                        "url": "https://t.co/VAbPP8u3yN",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1286039256541143041,
+        "text": "Translation: \u201cLet\u2019s make a bad situation worse because I don\u2019t care. Btw you guys I\u2019ve been wearing my beautiful patriotic mask this whole time. It\u2019s so beautiful that I took a little bit of it off my nose so I could look at it as I was wearing it.\u201d https://t.co/VAbPP8u3yN",
+        "attachments": null,
+        "author_id": 117601805,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1286039256541143041,
+        "created_at": "2020-07-22T20:43:46+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 250,
+                    "end": 273,
+                    "url": "https://t.co/VAbPP8u3yN",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.9988,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 105,
+                        "end": 128,
+                        "url": "https://t.co/VUwwJLtZTF",
+                        "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                        "display_url": "twitter.com/jennfranconews\u2026"
+                    }
+                ]
+            },
+            "created_at": "2020-07-22T20:33:52.000Z",
+            "author_id": "898838438",
+            "lang": "en",
+            "id": "1286036762368843782",
+            "conversation_id": "1286036762368843782",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Trump caused the spike with his COVID incompetence\n\nNow he wants to cover up his failure with your blood https://t.co/VUwwJLtZTF",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1286036762368843782,
+        "text": "Trump caused the spike with his COVID incompetence\n\nNow he wants to cover up his failure with your blood https://t.co/VUwwJLtZTF",
+        "attachments": null,
+        "author_id": 898838438,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1286036762368843782,
+        "created_at": "2020-07-22T20:33:52+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "probability": 0.9988,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/VUwwJLtZTF",
+                    "expanded_url": "https://twitter.com/jennfranconews/status/1286029647298224129",
+                    "display_url": "twitter.com/jennfranconews\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1286029647298224129"
+                },
+                "id": 1286029647298224129,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "sassysanoe",
+                        "id": "58693509"
+                    },
+                    {
+                        "start": 40,
+                        "end": 55,
+                        "username": "jennfranconews",
+                        "id": "749686190"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 72,
+                        "end": 86,
+                        "probability": 0.7287,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 158,
+                        "end": 181,
+                        "url": "https://t.co/yxRWbk4Vu8",
+                        "expanded_url": "https://threadreaderapp.com/thread/1286029647298224129.html",
+                        "display_url": "threadreaderapp.com/thread/1286029\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 57,
+                        "end": 70,
+                        "tag": "HappeningNow"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1286036060183511040"
+                }
+            ],
+            "created_at": "2020-07-22T20:31:10.000Z",
+            "author_id": "895814938995957760",
+            "lang": "en",
+            "id": "1286036083566882816",
+            "in_reply_to_user_id": "58693509",
+            "conversation_id": "1286029647298224129",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 1
+            },
+            "text": "@sassysanoe Hello, here is your unroll: @jennfranconews: #HappeningNow: President Trump discusses the federal response to a spike in violent crime in cities\u2026 https://t.co/yxRWbk4Vu8 Share this if you think it's interesting. \ud83e\udd16",
+            "reply_settings": "everyone",
+            "source": "ThreadReaderApp"
+        },
+        "id": 1286036083566882816,
+        "text": "@sassysanoe Hello, here is your unroll: @jennfranconews: #HappeningNow: President Trump discusses the federal response to a spike in violent crime in cities\u2026 https://t.co/yxRWbk4Vu8 Share this if you think it's interesting. \ud83e\udd16",
+        "attachments": null,
+        "author_id": 895814938995957760,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1286029647298224129,
+        "created_at": "2020-07-22T20:31:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "sassysanoe",
+                    "id": "58693509"
+                },
+                {
+                    "start": 40,
+                    "end": 55,
+                    "username": "jennfranconews",
+                    "id": "749686190"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 72,
+                    "end": 86,
+                    "probability": 0.7287,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/yxRWbk4Vu8",
+                    "expanded_url": "https://threadreaderapp.com/thread/1286029647298224129.html",
+                    "display_url": "threadreaderapp.com/thread/1286029\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 57,
+                    "end": 70,
+                    "tag": "HappeningNow"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 58693509,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1286036060183511040"
+                },
+                "id": 1286036060183511040,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "ThreadReaderApp",
+        "withheld": null
+    }
+]

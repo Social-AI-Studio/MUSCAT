@@ -1,0 +1,4296 @@
+[
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808697952055296"
+                }
+            ],
+            "conversation_id": "1228873978132889600",
+            "id": "1228873978132889600",
+            "source": "Twitter Web App",
+            "author_id": "275793550",
+            "lang": "en",
+            "created_at": "2020-02-16T02:49:22.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228873978132889600,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 275793550,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228873978132889600,
+        "created_at": "2020-02-16T02:49:22+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808697952055296"
+                },
+                "id": 1228808697952055296,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808406305210368"
+                }
+            ],
+            "conversation_id": "1228811463466397696",
+            "id": "1228811463466397696",
+            "source": "Twitter for Android",
+            "author_id": "928198040061710336",
+            "lang": "en",
+            "created_at": "2020-02-15T22:40:57.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228811463466397696,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 928198040061710336,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228811463466397696,
+        "created_at": "2020-02-15T22:40:57+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808406305210368"
+                },
+                "id": 1228808406305210368,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228810279984779264"
+                }
+            ],
+            "conversation_id": "1228810318551429121",
+            "id": "1228810318551429121",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:36:24.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228810318551429121,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228810318551429121,
+        "created_at": "2020-02-15T22:36:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228810279984779264"
+                },
+                "id": 1228810279984779264,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                }
+            ],
+            "conversation_id": "1228810279984779264",
+            "id": "1228810279984779264",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:36:15.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 179,
+                        "end": 194,
+                        "username": "StarSuperfan42",
+                        "id": "1116340681130356736"
+                    },
+                    {
+                        "start": 195,
+                        "end": 208,
+                        "username": "Princesse106",
+                        "id": "319685637"
+                    },
+                    {
+                        "start": 209,
+                        "end": 222,
+                        "username": "DeniseThibau",
+                        "id": "4896462125"
+                    },
+                    {
+                        "start": 223,
+                        "end": 238,
+                        "username": "Freja_Petersen",
+                        "id": "2391379874"
+                    },
+                    {
+                        "start": 239,
+                        "end": 255,
+                        "username": "SarahPortland01",
+                        "id": "2369106145"
+                    },
+                    {
+                        "start": 256,
+                        "end": 271,
+                        "username": "Animalhope4all",
+                        "id": "712441378215731201"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@StarSuperfan42 @Princesse106 @DeniseThibau @Freja_Petersen @SarahPortland01 @Animalhope4all",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1228810279984779264,
+        "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@StarSuperfan42 @Princesse106 @DeniseThibau @Freja_Petersen @SarahPortland01 @Animalhope4all",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228810279984779264,
+        "created_at": "2020-02-15T22:36:15+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 194,
+                    "username": "StarSuperfan42",
+                    "id": "1116340681130356736"
+                },
+                {
+                    "start": 195,
+                    "end": 208,
+                    "username": "Princesse106",
+                    "id": "319685637"
+                },
+                {
+                    "start": 209,
+                    "end": 222,
+                    "username": "DeniseThibau",
+                    "id": "4896462125"
+                },
+                {
+                    "start": 223,
+                    "end": 238,
+                    "username": "Freja_Petersen",
+                    "id": "2391379874"
+                },
+                {
+                    "start": 239,
+                    "end": 255,
+                    "username": "SarahPortland01",
+                    "id": "2369106145"
+                },
+                {
+                    "start": 256,
+                    "end": 271,
+                    "username": "Animalhope4all",
+                    "id": "712441378215731201"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                },
+                "id": 1228806377759485954,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808406305210368"
+                }
+            ],
+            "conversation_id": "1228809289709629440",
+            "id": "1228809289709629440",
+            "source": "Twitter for Android",
+            "author_id": "1060496463795511297",
+            "lang": "en",
+            "created_at": "2020-02-15T22:32:19.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228809289709629440,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 1060496463795511297,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228809289709629440,
+        "created_at": "2020-02-15T22:32:19+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808406305210368"
+                },
+                "id": 1228808406305210368,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808973970702337"
+                }
+            ],
+            "conversation_id": "1228809176534654976",
+            "id": "1228809176534654976",
+            "source": "Twitter for Android",
+            "author_id": "706769665935200256",
+            "lang": "en",
+            "created_at": "2020-02-15T22:31:52.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228809176534654976,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 706769665935200256,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228809176534654976,
+        "created_at": "2020-02-15T22:31:52+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808973970702337"
+                },
+                "id": 1228808973970702337,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808973970702337"
+                }
+            ],
+            "conversation_id": "1228809041008304134",
+            "id": "1228809041008304134",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:31:20.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228809041008304134,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228809041008304134,
+        "created_at": "2020-02-15T22:31:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808973970702337"
+                },
+                "id": 1228808973970702337,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                }
+            ],
+            "conversation_id": "1228808973970702337",
+            "id": "1228808973970702337",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:31:04.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 179,
+                        "end": 195,
+                        "username": "JoeTheCatSarnia",
+                        "id": "2450564178"
+                    },
+                    {
+                        "start": 196,
+                        "end": 211,
+                        "username": "onehousedragon",
+                        "id": "2381141928"
+                    },
+                    {
+                        "start": 212,
+                        "end": 226,
+                        "username": "kaylamarie413",
+                        "id": "1324455864"
+                    },
+                    {
+                        "start": 227,
+                        "end": 241,
+                        "username": "MoniB39474872",
+                        "id": "1046044779912531968"
+                    },
+                    {
+                        "start": 242,
+                        "end": 254,
+                        "username": "Webmonster8",
+                        "id": "1211247373977964544"
+                    },
+                    {
+                        "start": 255,
+                        "end": 271,
+                        "username": "gerhardschwar11",
+                        "id": "706769665935200256"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@JoeTheCatSarnia @onehousedragon @kaylamarie413 @MoniB39474872 @Webmonster8 @gerhardschwar11",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            }
+        },
+        "id": 1228808973970702337,
+        "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@JoeTheCatSarnia @onehousedragon @kaylamarie413 @MoniB39474872 @Webmonster8 @gerhardschwar11",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228808973970702337,
+        "created_at": "2020-02-15T22:31:04+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 195,
+                    "username": "JoeTheCatSarnia",
+                    "id": "2450564178"
+                },
+                {
+                    "start": 196,
+                    "end": 211,
+                    "username": "onehousedragon",
+                    "id": "2381141928"
+                },
+                {
+                    "start": 212,
+                    "end": 226,
+                    "username": "kaylamarie413",
+                    "id": "1324455864"
+                },
+                {
+                    "start": 227,
+                    "end": 241,
+                    "username": "MoniB39474872",
+                    "id": "1046044779912531968"
+                },
+                {
+                    "start": 242,
+                    "end": 254,
+                    "username": "Webmonster8",
+                    "id": "1211247373977964544"
+                },
+                {
+                    "start": 255,
+                    "end": 271,
+                    "username": "gerhardschwar11",
+                    "id": "706769665935200256"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                },
+                "id": 1228806377759485954,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808697952055296"
+                }
+            ],
+            "conversation_id": "1228808745347637248",
+            "id": "1228808745347637248",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:30:09.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228808745347637248,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228808745347637248,
+        "created_at": "2020-02-15T22:30:09+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808697952055296"
+                },
+                "id": 1228808697952055296,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                }
+            ],
+            "conversation_id": "1228808697952055296",
+            "id": "1228808697952055296",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:29:58.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 179,
+                        "end": 195,
+                        "username": "stopyulinforevr",
+                        "id": "3312462151"
+                    },
+                    {
+                        "start": 196,
+                        "end": 211,
+                        "username": "MarcChingTruth",
+                        "id": "818524196561100800"
+                    },
+                    {
+                        "start": 212,
+                        "end": 228,
+                        "username": "SoiDogUKOffici1",
+                        "id": "924958385342242817"
+                    },
+                    {
+                        "start": 229,
+                        "end": 242,
+                        "username": "SoiDogCanada",
+                        "id": "1072614980"
+                    },
+                    {
+                        "start": 243,
+                        "end": 255,
+                        "username": "soldier_777",
+                        "id": "275793550"
+                    },
+                    {
+                        "start": 256,
+                        "end": 271,
+                        "username": "AnimalCommando",
+                        "id": "944983621361979393"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@stopyulinforevr @MarcChingTruth @SoiDogUKOffici1 @SoiDogCanada @soldier_777 @AnimalCommando",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1228808697952055296,
+        "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@stopyulinforevr @MarcChingTruth @SoiDogUKOffici1 @SoiDogCanada @soldier_777 @AnimalCommando",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228808697952055296,
+        "created_at": "2020-02-15T22:29:58+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 195,
+                    "username": "stopyulinforevr",
+                    "id": "3312462151"
+                },
+                {
+                    "start": 196,
+                    "end": 211,
+                    "username": "MarcChingTruth",
+                    "id": "818524196561100800"
+                },
+                {
+                    "start": 212,
+                    "end": 228,
+                    "username": "SoiDogUKOffici1",
+                    "id": "924958385342242817"
+                },
+                {
+                    "start": 229,
+                    "end": 242,
+                    "username": "SoiDogCanada",
+                    "id": "1072614980"
+                },
+                {
+                    "start": 243,
+                    "end": 255,
+                    "username": "soldier_777",
+                    "id": "275793550"
+                },
+                {
+                    "start": 256,
+                    "end": 271,
+                    "username": "AnimalCommando",
+                    "id": "944983621361979393"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                },
+                "id": 1228806377759485954,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808406305210368"
+                }
+            ],
+            "conversation_id": "1228808448256749570",
+            "id": "1228808448256749570",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:28:58.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228808448256749570,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228808448256749570,
+        "created_at": "2020-02-15T22:28:58+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808406305210368"
+                },
+                "id": 1228808406305210368,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                }
+            ],
+            "conversation_id": "1228808406305210368",
+            "id": "1228808406305210368",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:28:48.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 179,
+                        "end": 188,
+                        "username": "thofafor",
+                        "id": "1060496463795511297"
+                    },
+                    {
+                        "start": 189,
+                        "end": 198,
+                        "username": "thofafor",
+                        "id": "1060496463795511297"
+                    },
+                    {
+                        "start": 199,
+                        "end": 213,
+                        "username": "AnimalsHolbox",
+                        "id": "928198040061710336"
+                    },
+                    {
+                        "start": 214,
+                        "end": 226,
+                        "username": "Belizean_bz",
+                        "id": "4167775273"
+                    },
+                    {
+                        "start": 227,
+                        "end": 241,
+                        "username": "AnimalsBelize",
+                        "id": "795940900950200320"
+                    },
+                    {
+                        "start": 242,
+                        "end": 257,
+                        "username": "catswithnohope",
+                        "id": "1026216175527763968"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@thofafor @thofafor @AnimalsHolbox @Belizean_bz @AnimalsBelize @catswithnohope @theAleppoCatman",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1228808406305210368,
+        "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@thofafor @thofafor @AnimalsHolbox @Belizean_bz @AnimalsBelize @catswithnohope @theAleppoCatman",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228808406305210368,
+        "created_at": "2020-02-15T22:28:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 188,
+                    "username": "thofafor",
+                    "id": "1060496463795511297"
+                },
+                {
+                    "start": 189,
+                    "end": 198,
+                    "username": "thofafor",
+                    "id": "1060496463795511297"
+                },
+                {
+                    "start": 199,
+                    "end": 213,
+                    "username": "AnimalsHolbox",
+                    "id": "928198040061710336"
+                },
+                {
+                    "start": 214,
+                    "end": 226,
+                    "username": "Belizean_bz",
+                    "id": "4167775273"
+                },
+                {
+                    "start": 227,
+                    "end": 241,
+                    "username": "AnimalsBelize",
+                    "id": "795940900950200320"
+                },
+                {
+                    "start": 242,
+                    "end": 257,
+                    "username": "catswithnohope",
+                    "id": "1026216175527763968"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                },
+                "id": 1228806377759485954,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228808174754582534"
+                }
+            ],
+            "conversation_id": "1228808209625907202",
+            "id": "1228808209625907202",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:28:01.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228808209625907202,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228808209625907202,
+        "created_at": "2020-02-15T22:28:01+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228808174754582534"
+                },
+                "id": 1228808174754582534,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                }
+            ],
+            "conversation_id": "1228808174754582534",
+            "id": "1228808174754582534",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:27:53.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 179,
+                        "end": 189,
+                        "username": "HSIGlobal",
+                        "id": "43928023"
+                    },
+                    {
+                        "start": 190,
+                        "end": 204,
+                        "username": "HumaneSociety",
+                        "id": "15769327"
+                    },
+                    {
+                        "start": 205,
+                        "end": 217,
+                        "username": "fourpawsint",
+                        "id": "724537777170354176"
+                    },
+                    {
+                        "start": 218,
+                        "end": 230,
+                        "username": "FOURPAWSUSA",
+                        "id": "3064016363"
+                    },
+                    {
+                        "start": 231,
+                        "end": 242,
+                        "username": "fourpawsAU",
+                        "id": "724571861271646208"
+                    },
+                    {
+                        "start": 243,
+                        "end": 255,
+                        "username": "AnimalsAsia",
+                        "id": "29169161"
+                    },
+                    {
+                        "start": 256,
+                        "end": 267,
+                        "username": "shaundubss",
+                        "id": "2828696488"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@HSIGlobal @HumaneSociety @fourpawsint @FOURPAWSUSA @fourpawsAU @AnimalsAsia @shaundubss",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596157251587",
+                        "name": "Government/Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597226729473",
+                        "name": "Non-profit"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10046538524",
+                        "name": "The Humane Society"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1228808174754582534,
+        "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@HSIGlobal @HumaneSociety @fourpawsint @FOURPAWSUSA @fourpawsAU @AnimalsAsia @shaundubss",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157251587",
+                    "name": "Government/Education"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597226729473",
+                    "name": "Non-profit"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10046538524",
+                    "name": "The Humane Society"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228808174754582534,
+        "created_at": "2020-02-15T22:27:53+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 189,
+                    "username": "HSIGlobal",
+                    "id": "43928023"
+                },
+                {
+                    "start": 190,
+                    "end": 204,
+                    "username": "HumaneSociety",
+                    "id": "15769327"
+                },
+                {
+                    "start": 205,
+                    "end": 217,
+                    "username": "fourpawsint",
+                    "id": "724537777170354176"
+                },
+                {
+                    "start": 218,
+                    "end": 230,
+                    "username": "FOURPAWSUSA",
+                    "id": "3064016363"
+                },
+                {
+                    "start": 231,
+                    "end": 242,
+                    "username": "fourpawsAU",
+                    "id": "724571861271646208"
+                },
+                {
+                    "start": 243,
+                    "end": 255,
+                    "username": "AnimalsAsia",
+                    "id": "29169161"
+                },
+                {
+                    "start": 256,
+                    "end": 267,
+                    "username": "shaundubss",
+                    "id": "2828696488"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                },
+                "id": 1228806377759485954,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1228807379074113540"
+                }
+            ],
+            "conversation_id": "1228807410476834818",
+            "id": "1228807410476834818",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:24:51.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "marillion13",
+                        "id": "1633121016"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1228807410476834818,
+        "text": "RT @marillion13: https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet t\u2026",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228807410476834818,
+        "created_at": "2020-02-15T22:24:51+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "marillion13",
+                    "id": "1633121016"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1228807379074113540"
+                },
+                "id": 1228807379074113540,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                }
+            ],
+            "conversation_id": "1228807379074113540",
+            "id": "1228807379074113540",
+            "source": "Twitter Web Client",
+            "author_id": "1633121016",
+            "lang": "en",
+            "created_at": "2020-02-15T22:24:43.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/EXQ25d7hTI",
+                        "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                        "display_url": "twitter.com/marillion13/st\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 179,
+                        "end": 194,
+                        "username": "StarSuperfan42",
+                        "id": "1116340681130356736"
+                    },
+                    {
+                        "start": 195,
+                        "end": 207,
+                        "username": "Petlover264",
+                        "id": "756311713062858752"
+                    },
+                    {
+                        "start": 208,
+                        "end": 221,
+                        "username": "DogMeatTrade",
+                        "id": "2353121509"
+                    },
+                    {
+                        "start": 222,
+                        "end": 235,
+                        "username": "SoiDogPhuket",
+                        "id": "29954546"
+                    },
+                    {
+                        "start": 236,
+                        "end": 247,
+                        "username": "VIERPFOTEN",
+                        "id": "39970195"
+                    },
+                    {
+                        "start": 248,
+                        "end": 261,
+                        "username": "BigCatRescue",
+                        "id": "18064626"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@StarSuperfan42 @Petlover264 @DogMeatTrade @SoiDogPhuket @VIERPFOTEN @BigCatRescue @GrouciDjamila",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "852262932607926273",
+                        "name": "Pets",
+                        "description": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "852263859209478144",
+                        "name": "Cats",
+                        "description": "Cats"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "864938653063159808",
+                        "name": "Hospitality",
+                        "description": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "864939492947275776",
+                        "name": "Hotel/Motel",
+                        "description": "Hotel/Motel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1228807379074113540,
+        "text": "https://t.co/EXQ25d7hTI\nNot to mention all the pet owners, volunteers, shelter staff people, sanctuary staff people, vet techs &amp; others WORLDWIDE!!! Thank you Mister. \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc96\ud83d\udc96\ud83d\udc96\n@StarSuperfan42 @Petlover264 @DogMeatTrade @SoiDogPhuket @VIERPFOTEN @BigCatRescue @GrouciDjamila",
+        "attachments": null,
+        "author_id": 1633121016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "852262932607926273",
+                    "name": "Pets",
+                    "description": "Pets"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "852263859209478144",
+                    "name": "Cats",
+                    "description": "Cats"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "864938653063159808",
+                    "name": "Hospitality",
+                    "description": "Hospitality"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "864939492947275776",
+                    "name": "Hotel/Motel",
+                    "description": "Hotel/Motel"
+                }
+            }
+        ],
+        "conversation_id": 1228807379074113540,
+        "created_at": "2020-02-15T22:24:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/EXQ25d7hTI",
+                    "expanded_url": "https://twitter.com/marillion13/status/1228806377759485954",
+                    "display_url": "twitter.com/marillion13/st\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 179,
+                    "end": 194,
+                    "username": "StarSuperfan42",
+                    "id": "1116340681130356736"
+                },
+                {
+                    "start": 195,
+                    "end": 207,
+                    "username": "Petlover264",
+                    "id": "756311713062858752"
+                },
+                {
+                    "start": 208,
+                    "end": 221,
+                    "username": "DogMeatTrade",
+                    "id": "2353121509"
+                },
+                {
+                    "start": 222,
+                    "end": 235,
+                    "username": "SoiDogPhuket",
+                    "id": "29954546"
+                },
+                {
+                    "start": 236,
+                    "end": 247,
+                    "username": "VIERPFOTEN",
+                    "id": "39970195"
+                },
+                {
+                    "start": 248,
+                    "end": 261,
+                    "username": "BigCatRescue",
+                    "id": "18064626"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1228806377759485954"
+                },
+                "id": 1228806377759485954,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "data": {
+            "text": "@mawoods A good time to shift my business away from France - the taxes rises which are going to hit next year to pay for the madness are going to be crushing. Such a stupid over reaction for what is basically a cold. Get ready for Le Pen 2022.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "mawoods",
+                        "id": "14277993"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 57,
+                        "probability": 0.9862,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    },
+                    {
+                        "start": 231,
+                        "end": 236,
+                        "probability": 0.3083,
+                        "type": "Person",
+                        "normalized_text": "Le Pen"
+                    }
+                ]
+            },
+            "id": "1311244003384455168",
+            "source": "Twitter Web App",
+            "author_id": "1275727618810220544",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "822153193526169600",
+                        "name": "Marine Le Pen",
+                        "description": "Marine Le Pen"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "822153193526169600",
+                        "name": "Marine Le Pen",
+                        "description": "Marine Le Pen"
+                    }
+                }
+            ],
+            "conversation_id": "1310927908001722371",
+            "lang": "en",
+            "created_at": "2020-09-30T09:58:26.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1310927908001722371"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "14277993"
+        },
+        "id": 1311244003384455168,
+        "text": "@mawoods A good time to shift my business away from France - the taxes rises which are going to hit next year to pay for the madness are going to be crushing. Such a stupid over reaction for what is basically a cold. Get ready for Le Pen 2022.",
+        "attachments": null,
+        "author_id": 1275727618810220544,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153193526169600",
+                    "name": "Marine Le Pen",
+                    "description": "Marine Le Pen"
+                }
+            }
+        ],
+        "conversation_id": 1310927908001722371,
+        "created_at": "2020-09-30T09:58:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "mawoods",
+                    "id": "14277993"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 57,
+                    "probability": 0.9862,
+                    "type": "Place",
+                    "normalized_text": "France"
+                },
+                {
+                    "start": 231,
+                    "end": 236,
+                    "probability": 0.3083,
+                    "type": "Person",
+                    "normalized_text": "Le Pen"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14277993,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1310927908001722371"
+                },
+                "id": 1310927908001722371,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

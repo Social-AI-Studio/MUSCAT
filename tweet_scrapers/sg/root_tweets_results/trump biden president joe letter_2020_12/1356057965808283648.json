@@ -1,0 +1,1693 @@
+[
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "CraigCaplan",
+                        "id": "317980134"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 31,
+                        "probability": 0.9272,
+                        "type": "Person",
+                        "normalized_text": "President Biden"
+                    },
+                    {
+                        "start": 120,
+                        "end": 134,
+                        "probability": 0.7925,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1356427849964617730",
+            "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                }
+            ],
+            "author_id": "1243342913918177280",
+            "created_at": "2021-02-02T02:22:55.000Z",
+            "conversation_id": "1356427849964617730"
+        },
+        "id": 1356427849964617730,
+        "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+        "attachments": null,
+        "author_id": 1243342913918177280,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356427849964617730,
+        "created_at": "2021-02-02T02:22:55+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "CraigCaplan",
+                    "id": "317980134"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 31,
+                    "probability": 0.9272,
+                    "type": "Person",
+                    "normalized_text": "President Biden"
+                },
+                {
+                    "start": 120,
+                    "end": 134,
+                    "probability": 0.7925,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                },
+                "id": 1356057965808283648,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 125,
+                        "end": 148,
+                        "url": "https://t.co/HmRAN3cdgm",
+                        "expanded_url": "https://twitter.com/CraigCaplan/status/1356057965808283648",
+                        "display_url": "twitter.com/CraigCaplan/st\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 7,
+                        "end": 11,
+                        "probability": 0.8245,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 48,
+                        "end": 54,
+                        "probability": 0.9963,
+                        "type": "Place",
+                        "normalized_text": "America"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1356248120145883137",
+            "text": "Puppet Biden will stop at nothing in destroying America. Withdrawing 73 proposed recessions with a yawn and stroke of a pen. https://t.co/HmRAN3cdgm",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1356057965808283648"
+                }
+            ],
+            "author_id": "1242904095020777478",
+            "created_at": "2021-02-01T14:28:44.000Z",
+            "conversation_id": "1356248120145883137"
+        },
+        "id": 1356248120145883137,
+        "text": "Puppet Biden will stop at nothing in destroying America. Withdrawing 73 proposed recessions with a yawn and stroke of a pen. https://t.co/HmRAN3cdgm",
+        "attachments": null,
+        "author_id": 1242904095020777478,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356248120145883137,
+        "created_at": "2021-02-01T14:28:44+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 125,
+                    "end": 148,
+                    "url": "https://t.co/HmRAN3cdgm",
+                    "expanded_url": "https://twitter.com/CraigCaplan/status/1356057965808283648",
+                    "display_url": "twitter.com/CraigCaplan/st\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 7,
+                    "end": 11,
+                    "probability": 0.8245,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                },
+                {
+                    "start": 48,
+                    "end": 54,
+                    "probability": 0.9963,
+                    "type": "Place",
+                    "normalized_text": "America"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1356057965808283648"
+                },
+                "id": 1356057965808283648,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "CraigCaplan",
+                        "id": "317980134"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 31,
+                        "probability": 0.9272,
+                        "type": "Person",
+                        "normalized_text": "President Biden"
+                    },
+                    {
+                        "start": 120,
+                        "end": 134,
+                        "probability": 0.7925,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1356073313873891328",
+            "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                }
+            ],
+            "author_id": "248732701",
+            "created_at": "2021-02-01T02:54:07.000Z",
+            "conversation_id": "1356073313873891328"
+        },
+        "id": 1356073313873891328,
+        "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+        "attachments": null,
+        "author_id": 248732701,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356073313873891328,
+        "created_at": "2021-02-01T02:54:07+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "CraigCaplan",
+                    "id": "317980134"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 31,
+                    "probability": 0.9272,
+                    "type": "Person",
+                    "normalized_text": "President Biden"
+                },
+                {
+                    "start": 120,
+                    "end": 134,
+                    "probability": 0.7925,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                },
+                "id": 1356057965808283648,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "CraigCaplan",
+                        "id": "317980134"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 31,
+                        "probability": 0.9272,
+                        "type": "Person",
+                        "normalized_text": "President Biden"
+                    },
+                    {
+                        "start": 120,
+                        "end": 134,
+                        "probability": 0.7925,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1356060482919034880",
+            "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                }
+            ],
+            "author_id": "360370278",
+            "created_at": "2021-02-01T02:03:08.000Z",
+            "conversation_id": "1356060482919034880"
+        },
+        "id": 1356060482919034880,
+        "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+        "attachments": null,
+        "author_id": 360370278,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356060482919034880,
+        "created_at": "2021-02-01T02:03:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "CraigCaplan",
+                    "id": "317980134"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 31,
+                    "probability": 0.9272,
+                    "type": "Person",
+                    "normalized_text": "President Biden"
+                },
+                {
+                    "start": 120,
+                    "end": 134,
+                    "probability": 0.7925,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                },
+                "id": 1356057965808283648,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "CraigCaplan",
+                        "id": "317980134"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 31,
+                        "probability": 0.9272,
+                        "type": "Person",
+                        "normalized_text": "President Biden"
+                    },
+                    {
+                        "start": 120,
+                        "end": 134,
+                        "probability": 0.7925,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1356060050725466113",
+            "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                }
+            ],
+            "author_id": "16479822",
+            "created_at": "2021-02-01T02:01:25.000Z",
+            "conversation_id": "1356060050725466113"
+        },
+        "id": 1356060050725466113,
+        "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+        "attachments": null,
+        "author_id": 16479822,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356060050725466113,
+        "created_at": "2021-02-01T02:01:25+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "CraigCaplan",
+                    "id": "317980134"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 31,
+                    "probability": 0.9272,
+                    "type": "Person",
+                    "normalized_text": "President Biden"
+                },
+                {
+                    "start": 120,
+                    "end": 134,
+                    "probability": 0.7925,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                },
+                "id": 1356057965808283648,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "CraigCaplan",
+                        "id": "317980134"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 31,
+                        "probability": 0.9272,
+                        "type": "Person",
+                        "normalized_text": "President Biden"
+                    },
+                    {
+                        "start": 120,
+                        "end": 134,
+                        "probability": 0.7925,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1356058202249420802",
+            "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                }
+            ],
+            "author_id": "15113653",
+            "created_at": "2021-02-01T01:54:04.000Z",
+            "conversation_id": "1356058202249420802"
+        },
+        "id": 1356058202249420802,
+        "text": "RT @CraigCaplan: President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six\u2026",
+        "attachments": null,
+        "author_id": 15113653,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356058202249420802,
+        "created_at": "2021-02-01T01:54:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "CraigCaplan",
+                    "id": "317980134"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 31,
+                    "probability": 0.9272,
+                    "type": "Person",
+                    "normalized_text": "President Biden"
+                },
+                {
+                    "start": 120,
+                    "end": 134,
+                    "probability": 0.7925,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1356057965808283648"
+                },
+                "id": 1356057965808283648,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 254,
+                        "end": 277,
+                        "url": "https://t.co/xDSUOyXqqE",
+                        "expanded_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/letter-from-president-joe-biden-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate/",
+                        "display_url": "whitehouse.gov/briefing-room/\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/letter-from-president-joe-biden-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate/"
+                    },
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/KEDk3mYApQ",
+                        "expanded_url": "https://twitter.com/CraigCaplan/status/1356057965808283648/photo/1",
+                        "display_url": "pic.twitter.com/KEDk3mYApQ"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "probability": 0.8758,
+                        "type": "Person",
+                        "normalized_text": "President Biden"
+                    },
+                    {
+                        "start": 103,
+                        "end": 117,
+                        "probability": 0.7801,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1356057965808283648",
+            "text": "President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six days before he left office, reversing $27B in proposed spending cuts to emergency vaccination programs and international food aid.\nhttps://t.co/xDSUOyXqqE https://t.co/KEDk3mYApQ",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 5,
+                "like_count": 11,
+                "quote_count": 2
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1356057138783805445"
+                ]
+            },
+            "author_id": "317980134",
+            "created_at": "2021-02-01T01:53:08.000Z",
+            "conversation_id": "1356057965808283648"
+        },
+        "id": 1356057965808283648,
+        "text": "President Biden tonight is \u201cwithdrawing 73 proposed rescissions previously transmitted to Congress\u201d by President Trump six days before he left office, reversing $27B in proposed spending cuts to emergency vaccination programs and international food aid.\nhttps://t.co/xDSUOyXqqE https://t.co/KEDk3mYApQ",
+        "attachments": {
+            "media_keys": [
+                "3_1356057138783805445"
+            ]
+        },
+        "author_id": 317980134,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356057965808283648,
+        "created_at": "2021-02-01T01:53:08+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/xDSUOyXqqE",
+                    "expanded_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/letter-from-president-joe-biden-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate/",
+                    "display_url": "whitehouse.gov/briefing-room/\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/31/letter-from-president-joe-biden-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate/"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/KEDk3mYApQ",
+                    "expanded_url": "https://twitter.com/CraigCaplan/status/1356057965808283648/photo/1",
+                    "display_url": "pic.twitter.com/KEDk3mYApQ"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "probability": 0.8758,
+                    "type": "Person",
+                    "normalized_text": "President Biden"
+                },
+                {
+                    "start": 103,
+                    "end": 117,
+                    "probability": 0.7801,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 5,
+            "like_count": 11,
+            "quote_count": 2
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

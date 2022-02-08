@@ -1,0 +1,192 @@
+[
+    {
+        "data": {
+            "created_at": "2020-09-14T16:37:07.000Z",
+            "author_id": "1071971976703602688",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1305546127714979851",
+            "text": "@snopes People drink bleach, thinking it is a miracle cure for everything. This does not surprise me.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1305464581515612161"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1305464581515612161",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "snopes",
+                        "id": "14294848"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "14294848",
+            "reply_settings": "everyone"
+        },
+        "id": 1305546127714979851,
+        "text": "@snopes People drink bleach, thinking it is a miracle cure for everything. This does not surprise me.",
+        "attachments": null,
+        "author_id": 1071971976703602688,
+        "context_annotations": [],
+        "conversation_id": 1305464581515612161,
+        "created_at": "2020-09-14T16:37:07+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "snopes",
+                    "id": "14294848"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14294848,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1305464581515612161"
+                },
+                "id": 1305464581515612161,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-09-14T11:25:01.000Z",
+            "author_id": "86930193",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1305467585522208768",
+            "text": "@snopes I actually overheard a woman spouting this in Galway, Ireland over the weekend. \"No, you can't scan my head, only under my arms. The radiation messes with your pituitary\"",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1305464581515612161"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1305464581515612161",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "snopes",
+                        "id": "14294848"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 54,
+                        "end": 59,
+                        "probability": 0.9923,
+                        "type": "Place",
+                        "normalized_text": "Galway"
+                    },
+                    {
+                        "start": 62,
+                        "end": 68,
+                        "probability": 0.6827,
+                        "type": "Place",
+                        "normalized_text": "Ireland"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "14294848",
+            "reply_settings": "everyone"
+        },
+        "id": 1305467585522208768,
+        "text": "@snopes I actually overheard a woman spouting this in Galway, Ireland over the weekend. \"No, you can't scan my head, only under my arms. The radiation messes with your pituitary\"",
+        "attachments": null,
+        "author_id": 86930193,
+        "context_annotations": [],
+        "conversation_id": 1305464581515612161,
+        "created_at": "2020-09-14T11:25:01+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "snopes",
+                    "id": "14294848"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 54,
+                    "end": 59,
+                    "probability": 0.9923,
+                    "type": "Place",
+                    "normalized_text": "Galway"
+                },
+                {
+                    "start": 62,
+                    "end": 68,
+                    "probability": 0.6827,
+                    "type": "Place",
+                    "normalized_text": "Ireland"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14294848,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1305464581515612161"
+                },
+                "id": 1305464581515612161,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

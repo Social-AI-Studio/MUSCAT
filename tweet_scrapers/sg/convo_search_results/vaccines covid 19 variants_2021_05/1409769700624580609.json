@@ -1,0 +1,106 @@
+[
+    {
+        "data": {
+            "text": "@NEWSONE14898745 No vaccine for me.",
+            "reply_settings": "everyone",
+            "conversation_id": "1409769700624580609",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "1357615215416860672",
+            "created_at": "2021-06-29T17:38:27.000Z",
+            "lang": "en",
+            "id": "1409929270533689346",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "NEWSONE14898745",
+                        "id": "1357615215416860672"
+                    }
+                ]
+            },
+            "author_id": "917772232201564161",
+            "source": "Fenix 2",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409769700624580609"
+                }
+            ]
+        },
+        "id": 1409929270533689346,
+        "text": "@NEWSONE14898745 No vaccine for me.",
+        "attachments": null,
+        "author_id": 917772232201564161,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1409769700624580609,
+        "created_at": "2021-06-29T17:38:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "NEWSONE14898745",
+                    "id": "1357615215416860672"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1357615215416860672,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409769700624580609"
+                },
+                "id": 1409769700624580609,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Fenix 2",
+        "withheld": null
+    }
+]

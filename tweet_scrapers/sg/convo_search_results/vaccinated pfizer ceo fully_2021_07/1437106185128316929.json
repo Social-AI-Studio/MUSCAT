@@ -1,0 +1,204 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 68,
+                        "end": 91,
+                        "url": "https://t.co/XzyDG15ugi",
+                        "expanded_url": "https://twitter.com/AlbertBourla/status/1369734954498818052?s=20",
+                        "display_url": "twitter.com/AlbertBourla/s\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 23,
+                        "end": 28,
+                        "probability": 0.4198,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1437106185128316929",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1369734954498818052"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1437106185128316929"
+                }
+            ],
+            "in_reply_to_user_id": "1150410834516107264",
+            "author_id": "1246805790775816194",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-09-12T18:11:43.000Z",
+            "source": "Twitter Web App",
+            "text": "@BobDuck45869392 Huh?\n\nPfizer\u2019s CEO was fully vaccinated in MARCH.\n\nhttps://t.co/XzyDG15ugi",
+            "id": "1437116728455188489",
+            "possibly_sensitive": false
+        },
+        "id": 1437116728455188489,
+        "text": "@BobDuck45869392 Huh?\n\nPfizer\u2019s CEO was fully vaccinated in MARCH.\n\nhttps://t.co/XzyDG15ugi",
+        "attachments": null,
+        "author_id": 1246805790775816194,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437106185128316929,
+        "created_at": "2021-09-12T18:11:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/XzyDG15ugi",
+                    "expanded_url": "https://twitter.com/AlbertBourla/status/1369734954498818052?s=20",
+                    "display_url": "twitter.com/AlbertBourla/s\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 23,
+                    "end": 28,
+                    "probability": 0.4198,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1150410834516107264,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1369734954498818052"
+                },
+                "id": 1369734954498818052,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1437106185128316929"
+                },
+                "id": 1437106185128316929,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

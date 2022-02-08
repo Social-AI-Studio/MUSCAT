@@ -1,0 +1,980 @@
+[
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                }
+            ],
+            "author_id": "25399317",
+            "id": "1232648968988962819",
+            "created_at": "2020-02-26T12:49:50.000Z",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "stl_blonde",
+                        "id": "274919754"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "64816476",
+            "conversation_id": "1232542209473470465",
+            "text": "@stl_blonde @realDonaldTrump Really?",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App"
+        },
+        "id": 1232648968988962819,
+        "text": "@stl_blonde @realDonaldTrump Really?",
+        "attachments": null,
+        "author_id": 25399317,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1232542209473470465,
+        "created_at": "2020-02-26T12:49:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "stl_blonde",
+                    "id": "274919754"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64816476,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                },
+                "id": 1232542209473470465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                }
+            ],
+            "author_id": "47996722",
+            "id": "1232562442099494912",
+            "created_at": "2020-02-26T07:06:00.000Z",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 29,
+                        "end": 33,
+                        "probability": 0.9985,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "stl_blonde",
+                        "id": "274919754"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "64816476",
+            "conversation_id": "1232542209473470465",
+            "text": "@stl_blonde @realDonaldTrump Trump is literally the worst president to have during a global pandemic.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1232562442099494912,
+        "text": "@stl_blonde @realDonaldTrump Trump is literally the worst president to have during a global pandemic.",
+        "attachments": null,
+        "author_id": 47996722,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1232542209473470465,
+        "created_at": "2020-02-26T07:06:00+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 33,
+                    "probability": 0.9985,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "stl_blonde",
+                    "id": "274919754"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64816476,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                },
+                "id": 1232542209473470465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                }
+            ],
+            "author_id": "39591553",
+            "id": "1232547344110899202",
+            "created_at": "2020-02-26T06:06:01.000Z",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "stl_blonde",
+                        "id": "274919754"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "64816476",
+            "conversation_id": "1232542209473470465",
+            "text": "@stl_blonde @realDonaldTrump I just read these responses..temporarily limiting contact is a smart thing to do.  Some people are dumb.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPad"
+        },
+        "id": 1232547344110899202,
+        "text": "@stl_blonde @realDonaldTrump I just read these responses..temporarily limiting contact is a smart thing to do.  Some people are dumb.",
+        "attachments": null,
+        "author_id": 39591553,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1232542209473470465,
+        "created_at": "2020-02-26T06:06:01+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "stl_blonde",
+                    "id": "274919754"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64816476,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                },
+                "id": 1232542209473470465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                }
+            ],
+            "author_id": "32821819",
+            "id": "1232544782876073984",
+            "created_at": "2020-02-26T05:55:50.000Z",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "stl_blonde",
+                        "id": "274919754"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "64816476",
+            "conversation_id": "1232542209473470465",
+            "text": "@stl_blonde @realDonaldTrump Someday, you will realize we live in a global society and isolationism can/will never work in the 21st century...",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1232544782876073984,
+        "text": "@stl_blonde @realDonaldTrump Someday, you will realize we live in a global society and isolationism can/will never work in the 21st century...",
+        "attachments": null,
+        "author_id": 32821819,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1232542209473470465,
+        "created_at": "2020-02-26T05:55:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "stl_blonde",
+                    "id": "274919754"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64816476,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                },
+                "id": 1232542209473470465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                }
+            ],
+            "author_id": "32821819",
+            "id": "1232544285825945600",
+            "created_at": "2020-02-26T05:53:51.000Z",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 157,
+                        "end": 162,
+                        "probability": 0.9988,
+                        "type": "Place",
+                        "normalized_text": "Sweden"
+                    },
+                    {
+                        "start": 165,
+                        "end": 171,
+                        "probability": 0.9398,
+                        "type": "Place",
+                        "normalized_text": "England"
+                    },
+                    {
+                        "start": 176,
+                        "end": 186,
+                        "probability": 0.9962,
+                        "type": "Place",
+                        "normalized_text": "Switzerland"
+                    },
+                    {
+                        "start": 230,
+                        "end": 233,
+                        "probability": 0.7969,
+                        "type": "Place",
+                        "normalized_text": "Asia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "stl_blonde",
+                        "id": "274919754"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857603051657482241",
+                        "name": "Destinations",
+                        "description": "Destinations"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "64816476",
+            "conversation_id": "1232542209473470465",
+            "text": "@stl_blonde @realDonaldTrump What a dumb thing to say! Why limit travel? How about closing all international travel all together? Bcos when American\u2019s visit Sweden, England or Switzerland and interact with someone who has been to Asia and is infected with the virus, they can contact it too, you know...\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1232544285825945600,
+        "text": "@stl_blonde @realDonaldTrump What a dumb thing to say! Why limit travel? How about closing all international travel all together? Bcos when American\u2019s visit Sweden, England or Switzerland and interact with someone who has been to Asia and is infected with the virus, they can contact it too, you know...\ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f",
+        "attachments": null,
+        "author_id": 32821819,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857603051657482241",
+                    "name": "Destinations",
+                    "description": "Destinations"
+                }
+            }
+        ],
+        "conversation_id": 1232542209473470465,
+        "created_at": "2020-02-26T05:53:51+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 157,
+                    "end": 162,
+                    "probability": 0.9988,
+                    "type": "Place",
+                    "normalized_text": "Sweden"
+                },
+                {
+                    "start": 165,
+                    "end": 171,
+                    "probability": 0.9398,
+                    "type": "Place",
+                    "normalized_text": "England"
+                },
+                {
+                    "start": 176,
+                    "end": 186,
+                    "probability": 0.9962,
+                    "type": "Place",
+                    "normalized_text": "Switzerland"
+                },
+                {
+                    "start": 230,
+                    "end": 233,
+                    "probability": 0.7969,
+                    "type": "Place",
+                    "normalized_text": "Asia"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "stl_blonde",
+                    "id": "274919754"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64816476,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                },
+                "id": 1232542209473470465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                }
+            ],
+            "author_id": "1029825539329208320",
+            "id": "1232543456079286272",
+            "created_at": "2020-02-26T05:50:34.000Z",
+            "lang": "it",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "stl_blonde",
+                        "id": "274919754"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "64816476",
+            "conversation_id": "1232542209473470465",
+            "text": "@stl_blonde @realDonaldTrump Si assolutamente vero. Tu rimani a casa tua in USA con lo yankee e non ti muovere. Il resto del mondo va avanti comunque anche senza di te. Salutami la parrucca bionda e tanti auguri.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1232543456079286272,
+        "text": "@stl_blonde @realDonaldTrump Si assolutamente vero. Tu rimani a casa tua in USA con lo yankee e non ti muovere. Il resto del mondo va avanti comunque anche senza di te. Salutami la parrucca bionda e tanti auguri.",
+        "attachments": null,
+        "author_id": 1029825539329208320,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1232542209473470465,
+        "created_at": "2020-02-26T05:50:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "stl_blonde",
+                    "id": "274919754"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 64816476,
+        "lang": "it",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232542209473470465"
+                },
+                "id": 1232542209473470465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

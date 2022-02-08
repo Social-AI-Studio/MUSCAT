@@ -1,0 +1,2479 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "57409604",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344427324826148864"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "geo": {
+                "place_id": "00c55f041e27dc51"
+            },
+            "text": "@cuzzinneenee @RichStapless It\u2019s a bit more \u201cin the weeds,\u201d but each company (Pfizer and Moderna, so far) that have received the FDA\u2019s EUA also publish the results of their clinical trials.",
+            "id": "1344428522471829505",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "RichStapless",
+                        "id": "1376038417"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 78,
+                        "end": 83,
+                        "probability": 0.5272,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 89,
+                        "end": 95,
+                        "probability": 0.4182,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    },
+                    {
+                        "start": 129,
+                        "end": 131,
+                        "probability": 0.8899,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    },
+                    {
+                        "start": 135,
+                        "end": 137,
+                        "probability": 0.4723,
+                        "type": "Place",
+                        "normalized_text": "EUA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T23:41:52.000Z",
+            "author_id": "3431823202"
+        },
+        "id": 1344428522471829505,
+        "text": "@cuzzinneenee @RichStapless It\u2019s a bit more \u201cin the weeds,\u201d but each company (Pfizer and Moderna, so far) that have received the FDA\u2019s EUA also publish the results of their clinical trials.",
+        "attachments": null,
+        "author_id": 3431823202,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T23:41:52+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "RichStapless",
+                    "id": "1376038417"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 78,
+                    "end": 83,
+                    "probability": 0.5272,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 89,
+                    "end": 95,
+                    "probability": 0.4182,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                },
+                {
+                    "start": 129,
+                    "end": 131,
+                    "probability": 0.8899,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                },
+                {
+                    "start": 135,
+                    "end": 137,
+                    "probability": 0.4723,
+                    "type": "Place",
+                    "normalized_text": "EUA"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "00c55f041e27dc51"
+        },
+        "in_reply_to_user_id": 57409604,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344427324826148864"
+                },
+                "id": 1344427324826148864,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 49,
+                        "end": 72,
+                        "url": "https://t.co/C9ZbFRrHTD",
+                        "expanded_url": "https://twitter.com/RichStapless/status/1344428511159844866/photo/1",
+                        "display_url": "pic.twitter.com/C9ZbFRrHTD"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    },
+                    {
+                        "start": 14,
+                        "end": 24,
+                        "username": "OstapiukJ",
+                        "id": "3431823202"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "57409604",
+            "conversation_id": "1344374177441210368",
+            "attachments": {
+                "media_keys": [
+                    "16_1344428501403918336"
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344428095537872899"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "86",
+                        "name": "Movie",
+                        "description": "A film like Rogue One: A Star Wars Story"
+                    },
+                    "entity": {
+                        "id": "873208160261099520",
+                        "name": "Black Panther",
+                        "description": "Black Panther"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "87",
+                        "name": "Movie Genre",
+                        "description": "A movie genre like Action"
+                    },
+                    "entity": {
+                        "id": "856976360337661952",
+                        "name": "Action & adventure films",
+                        "description": "Action and adventure"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "130",
+                        "name": "Multimedia Franchise",
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+                    },
+                    "entity": {
+                        "id": "1002576732971384832",
+                        "name": "Marvel Universe",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                }
+            ],
+            "text": "@cuzzinneenee @OstapiukJ Wakanda Forever, queen. https://t.co/C9ZbFRrHTD",
+            "id": "1344428511159844866",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T23:41:49.000Z",
+            "author_id": "1376038417"
+        },
+        "id": 1344428511159844866,
+        "text": "@cuzzinneenee @OstapiukJ Wakanda Forever, queen. https://t.co/C9ZbFRrHTD",
+        "attachments": {
+            "media_keys": [
+                "16_1344428501403918336"
+            ]
+        },
+        "author_id": 1376038417,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "86",
+                    "name": "Movie",
+                    "description": "A film like Rogue One: A Star Wars Story"
+                },
+                "entity": {
+                    "id": "873208160261099520",
+                    "name": "Black Panther",
+                    "description": "Black Panther"
+                }
+            },
+            {
+                "domain": {
+                    "id": "87",
+                    "name": "Movie Genre",
+                    "description": "A movie genre like Action"
+                },
+                "entity": {
+                    "id": "856976360337661952",
+                    "name": "Action & adventure films",
+                    "description": "Action and adventure"
+                }
+            },
+            {
+                "domain": {
+                    "id": "130",
+                    "name": "Multimedia Franchise",
+                    "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+                },
+                "entity": {
+                    "id": "1002576732971384832",
+                    "name": "Marvel Universe",
+                    "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T23:41:49+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 49,
+                    "end": 72,
+                    "url": "https://t.co/C9ZbFRrHTD",
+                    "expanded_url": "https://twitter.com/RichStapless/status/1344428511159844866/photo/1",
+                    "display_url": "pic.twitter.com/C9ZbFRrHTD"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                },
+                {
+                    "start": 14,
+                    "end": 24,
+                    "username": "OstapiukJ",
+                    "id": "3431823202"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57409604,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344428095537872899"
+                },
+                "id": 1344428095537872899,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 67,
+                        "end": 90,
+                        "url": "https://t.co/3OisuIHXvE",
+                        "expanded_url": "https://twitter.com/cuzzinneenee/status/1344428095537872899/photo/1",
+                        "display_url": "pic.twitter.com/3OisuIHXvE"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "RichStapless",
+                        "id": "1376038417"
+                    },
+                    {
+                        "start": 14,
+                        "end": 24,
+                        "username": "OstapiukJ",
+                        "id": "3431823202"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 32,
+                        "end": 38,
+                        "probability": 0.976,
+                        "type": "Person",
+                        "normalized_text": "Richard"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1376038417",
+            "conversation_id": "1344374177441210368",
+            "attachments": {
+                "media_keys": [
+                    "16_1344428089837834243"
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344427776925970438"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "86",
+                        "name": "Movie",
+                        "description": "A film like Rogue One: A Star Wars Story"
+                    },
+                    "entity": {
+                        "id": "873208160261099520",
+                        "name": "Black Panther",
+                        "description": "Black Panther"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "87",
+                        "name": "Movie Genre",
+                        "description": "A movie genre like Action"
+                    },
+                    "entity": {
+                        "id": "856976360337661952",
+                        "name": "Action & adventure films",
+                        "description": "Action and adventure"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "130",
+                        "name": "Multimedia Franchise",
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+                    },
+                    "entity": {
+                        "id": "1002576732971384832",
+                        "name": "Marvel Universe",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                }
+            ],
+            "text": "@RichStapless @OstapiukJ Thanks Richard. Wakanda Forever my brotha https://t.co/3OisuIHXvE",
+            "id": "1344428095537872899",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T23:40:10.000Z",
+            "author_id": "57409604"
+        },
+        "id": 1344428095537872899,
+        "text": "@RichStapless @OstapiukJ Thanks Richard. Wakanda Forever my brotha https://t.co/3OisuIHXvE",
+        "attachments": {
+            "media_keys": [
+                "16_1344428089837834243"
+            ]
+        },
+        "author_id": 57409604,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "86",
+                    "name": "Movie",
+                    "description": "A film like Rogue One: A Star Wars Story"
+                },
+                "entity": {
+                    "id": "873208160261099520",
+                    "name": "Black Panther",
+                    "description": "Black Panther"
+                }
+            },
+            {
+                "domain": {
+                    "id": "87",
+                    "name": "Movie Genre",
+                    "description": "A movie genre like Action"
+                },
+                "entity": {
+                    "id": "856976360337661952",
+                    "name": "Action & adventure films",
+                    "description": "Action and adventure"
+                }
+            },
+            {
+                "domain": {
+                    "id": "130",
+                    "name": "Multimedia Franchise",
+                    "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+                },
+                "entity": {
+                    "id": "1002576732971384832",
+                    "name": "Marvel Universe",
+                    "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T23:40:10+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 67,
+                    "end": 90,
+                    "url": "https://t.co/3OisuIHXvE",
+                    "expanded_url": "https://twitter.com/cuzzinneenee/status/1344428095537872899/photo/1",
+                    "display_url": "pic.twitter.com/3OisuIHXvE"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "RichStapless",
+                    "id": "1376038417"
+                },
+                {
+                    "start": 14,
+                    "end": 24,
+                    "username": "OstapiukJ",
+                    "id": "3431823202"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 32,
+                    "end": 38,
+                    "probability": 0.976,
+                    "type": "Person",
+                    "normalized_text": "Richard"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1376038417,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344427776925970438"
+                },
+                "id": 1344427776925970438,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "57409604",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344427324826148864"
+                }
+            ],
+            "possibly_sensitive": false,
+            "text": "@cuzzinneenee @OstapiukJ Gotta educate em, lol. Feel free and go right ahead.",
+            "id": "1344427776925970438",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    },
+                    {
+                        "start": 14,
+                        "end": 24,
+                        "username": "OstapiukJ",
+                        "id": "3431823202"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T23:38:54.000Z",
+            "author_id": "1376038417"
+        },
+        "id": 1344427776925970438,
+        "text": "@cuzzinneenee @OstapiukJ Gotta educate em, lol. Feel free and go right ahead.",
+        "attachments": null,
+        "author_id": 1376038417,
+        "context_annotations": [],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T23:38:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                },
+                {
+                    "start": 14,
+                    "end": 24,
+                    "username": "OstapiukJ",
+                    "id": "3431823202"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57409604,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344427324826148864"
+                },
+                "id": 1344427324826148864,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "1376038417",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344424600499793920"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                }
+            ],
+            "text": "@RichStapless @OstapiukJ Thanks. Do you mind if I post this screenshot on my IG? Since I\u2019ve yelled at the audience for being so dense over the vaccine, it\u2019s only right I give them resources",
+            "id": "1344427324826148864",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "RichStapless",
+                        "id": "1376038417"
+                    },
+                    {
+                        "start": 14,
+                        "end": 24,
+                        "username": "OstapiukJ",
+                        "id": "3431823202"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T23:37:07.000Z",
+            "author_id": "57409604"
+        },
+        "id": 1344427324826148864,
+        "text": "@RichStapless @OstapiukJ Thanks. Do you mind if I post this screenshot on my IG? Since I\u2019ve yelled at the audience for being so dense over the vaccine, it\u2019s only right I give them resources",
+        "attachments": null,
+        "author_id": 57409604,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10041893684",
+                    "name": "Instagram"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T23:37:07+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "RichStapless",
+                    "id": "1376038417"
+                },
+                {
+                    "start": 14,
+                    "end": 24,
+                    "username": "OstapiukJ",
+                    "id": "3431823202"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1376038417,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344424600499793920"
+                },
+                "id": 1344424600499793920,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 253,
+                        "end": 276,
+                        "url": "https://t.co/ffET6XG2Y4",
+                        "expanded_url": "https://www.cdc.gov/vaccines/vac-gen/evalwebs.htm?fbclid=IwAR1Ze1Z9pjgV9OOrNxcmdPEC4Dly4zsKd_PR9jPsbHiEmZJDVc9odrzAoGw",
+                        "display_url": "cdc.gov/vaccines/vac-g\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.cdc.gov/vaccines/vac-gen/evalwebs.htm?fbclid=IwAR1Ze1Z9pjgV9OOrNxcmdPEC4Dly4zsKd_PR9jPsbHiEmZJDVc9odrzAoGw"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    },
+                    {
+                        "start": 14,
+                        "end": 24,
+                        "username": "OstapiukJ",
+                        "id": "3431823202"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 75,
+                        "end": 103,
+                        "probability": 0.645,
+                        "type": "Organization",
+                        "normalized_text": "Immunization Action Coalition"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "57409604",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344423633851191297"
+                }
+            ],
+            "possibly_sensitive": false,
+            "text": "@cuzzinneenee @OstapiukJ Yep, that\u2019s one of the best! I\u2019d also look at the Immunization Action Coalition, the Medical Library Assocatiob and The National Network for Immunization Information (NNii). I believe this link will help give you more sources.\n\nhttps://t.co/ffET6XG2Y4",
+            "id": "1344424600499793920",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T23:26:17.000Z",
+            "author_id": "1376038417"
+        },
+        "id": 1344424600499793920,
+        "text": "@cuzzinneenee @OstapiukJ Yep, that\u2019s one of the best! I\u2019d also look at the Immunization Action Coalition, the Medical Library Assocatiob and The National Network for Immunization Information (NNii). I believe this link will help give you more sources.\n\nhttps://t.co/ffET6XG2Y4",
+        "attachments": null,
+        "author_id": 1376038417,
+        "context_annotations": [],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T23:26:17+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 253,
+                    "end": 276,
+                    "url": "https://t.co/ffET6XG2Y4",
+                    "expanded_url": "https://www.cdc.gov/vaccines/vac-gen/evalwebs.htm?fbclid=IwAR1Ze1Z9pjgV9OOrNxcmdPEC4Dly4zsKd_PR9jPsbHiEmZJDVc9odrzAoGw",
+                    "display_url": "cdc.gov/vaccines/vac-g\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.cdc.gov/vaccines/vac-gen/evalwebs.htm?fbclid=IwAR1Ze1Z9pjgV9OOrNxcmdPEC4Dly4zsKd_PR9jPsbHiEmZJDVc9odrzAoGw"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                },
+                {
+                    "start": 14,
+                    "end": 24,
+                    "username": "OstapiukJ",
+                    "id": "3431823202"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 75,
+                    "end": 103,
+                    "probability": 0.645,
+                    "type": "Organization",
+                    "normalized_text": "Immunization Action Coalition"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57409604,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344423633851191297"
+                },
+                "id": 1344423633851191297,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "1376038417",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344412079197970432"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "@RichStapless @OstapiukJ What would you say the best source is to get more info on the vaccine? CDC website?",
+            "id": "1344423633851191297",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "RichStapless",
+                        "id": "1376038417"
+                    },
+                    {
+                        "start": 14,
+                        "end": 24,
+                        "username": "OstapiukJ",
+                        "id": "3431823202"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T23:22:27.000Z",
+            "author_id": "57409604"
+        },
+        "id": 1344423633851191297,
+        "text": "@RichStapless @OstapiukJ What would you say the best source is to get more info on the vaccine? CDC website?",
+        "attachments": null,
+        "author_id": 57409604,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T23:22:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "RichStapless",
+                    "id": "1376038417"
+                },
+                {
+                    "start": 14,
+                    "end": 24,
+                    "username": "OstapiukJ",
+                    "id": "3431823202"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1376038417,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344412079197970432"
+                },
+                "id": 1344412079197970432,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/mAr1J1NcVc",
+                        "expanded_url": "https://repustar.com/",
+                        "display_url": "repustar.com",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=orig",
+                                "width": 1200,
+                                "height": 630
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "New tools to help you check the facts in the news | Repustar",
+                        "description": "Fact Briefs and other resources from Repustar and its content partners use the best of data science and journalism to help you assess claims in the news.",
+                        "unwound_url": "https://repustar.com/"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "ToryRepustar",
+                        "id": "1334427492728283137"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 66,
+                        "end": 73,
+                        "probability": 0.2768,
+                        "type": "Person",
+                        "normalized_text": "Repustar"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1334427492728283137",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344414086793031680"
+                }
+            ],
+            "possibly_sensitive": false,
+            "text": "@ToryRepustar @cuzzinneenee Good! See more facts like this one on Repustar. https://t.co/mAr1J1NcVc",
+            "id": "1344414091268513792",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "source": "FactSparrow",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:44:32.000Z",
+            "author_id": "1293602820185235456"
+        },
+        "id": 1344414091268513792,
+        "text": "@ToryRepustar @cuzzinneenee Good! See more facts like this one on Repustar. https://t.co/mAr1J1NcVc",
+        "attachments": null,
+        "author_id": 1293602820185235456,
+        "context_annotations": [],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:44:32+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/mAr1J1NcVc",
+                    "expanded_url": "https://repustar.com/",
+                    "display_url": "repustar.com",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=orig",
+                            "width": 1200,
+                            "height": 630
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1484630070090027010/BmW65H_C?format=png&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "New tools to help you check the facts in the news | Repustar",
+                    "description": "Fact Briefs and other resources from Repustar and its content partners use the best of data science and journalism to help you assess claims in the news.",
+                    "unwound_url": "https://repustar.com/"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "ToryRepustar",
+                    "id": "1334427492728283137"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 66,
+                    "end": 73,
+                    "probability": 0.2768,
+                    "type": "Person",
+                    "normalized_text": "Repustar"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1334427492728283137,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344414086793031680"
+                },
+                "id": 1344414086793031680,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "FactSparrow",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "1293602820185235456",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344413293281239042"
+                }
+            ],
+            "possibly_sensitive": false,
+            "text": "@FactSparrow @cuzzinneenee yes, thank you",
+            "id": "1344414086793031680",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "FactSparrow",
+                        "id": "1293602820185235456"
+                    },
+                    {
+                        "start": 13,
+                        "end": 26,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:44:30.000Z",
+            "author_id": "1334427492728283137"
+        },
+        "id": 1344414086793031680,
+        "text": "@FactSparrow @cuzzinneenee yes, thank you",
+        "attachments": null,
+        "author_id": 1334427492728283137,
+        "context_annotations": [],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:44:30+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "FactSparrow",
+                    "id": "1293602820185235456"
+                },
+                {
+                    "start": 13,
+                    "end": 26,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1293602820185235456,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344413293281239042"
+                },
+                "id": 1344413293281239042,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 129,
+                        "end": 152,
+                        "url": "https://t.co/xzgDAsykcU",
+                        "expanded_url": "https://repustar.com/review/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter",
+                        "display_url": "repustar.com/review/tempora\u2026",
+                        "status": 200,
+                        "unwound_url": "https://repustar.com/fact-briefs/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "ToryRepustar",
+                        "id": "1334427492728283137"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1334427492728283137",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344413286255661056"
+                }
+            ],
+            "possibly_sensitive": false,
+            "text": "@ToryRepustar @cuzzinneenee Welcome to Repustar\u2019s fact delivery service. Does this fact help you? Please answer (\u201cYes\u201d or \u201cNo\u201d)  https://t.co/xzgDAsykcU",
+            "id": "1344413293281239042",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "source": "FactSparrow",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:41:21.000Z",
+            "author_id": "1293602820185235456"
+        },
+        "id": 1344413293281239042,
+        "text": "@ToryRepustar @cuzzinneenee Welcome to Repustar\u2019s fact delivery service. Does this fact help you? Please answer (\u201cYes\u201d or \u201cNo\u201d)  https://t.co/xzgDAsykcU",
+        "attachments": null,
+        "author_id": 1293602820185235456,
+        "context_annotations": [],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:41:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/xzgDAsykcU",
+                    "expanded_url": "https://repustar.com/review/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter",
+                    "display_url": "repustar.com/review/tempora\u2026",
+                    "status": 200,
+                    "unwound_url": "https://repustar.com/fact-briefs/temporary-facial-paralysis-bells-palsy-common-side-effect-pfizers-covid-19-vaccine?utm_source=bot&utm_campaign=engage&utm_medium=twitter"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "ToryRepustar",
+                    "id": "1334427492728283137"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1334427492728283137,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344413286255661056"
+                },
+                "id": 1344413286255661056,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "FactSparrow",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "57409604",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344374177441210368"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "text": "@cuzzinneenee This might be helpful: @FactSparrow Is temporary facial paralysis from Bell's palsy a common side effect of Pfizer's COVID-19 vaccine?",
+            "id": "1344413286255661056",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    },
+                    {
+                        "start": 37,
+                        "end": 49,
+                        "username": "FactSparrow",
+                        "id": "1293602820185235456"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "probability": 0.3279,
+                        "type": "Organization",
+                        "normalized_text": "Bell"
+                    },
+                    {
+                        "start": 122,
+                        "end": 127,
+                        "probability": 0.3683,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "TweetDeck",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:41:20.000Z",
+            "author_id": "1334427492728283137"
+        },
+        "id": 1344413286255661056,
+        "text": "@cuzzinneenee This might be helpful: @FactSparrow Is temporary facial paralysis from Bell's palsy a common side effect of Pfizer's COVID-19 vaccine?",
+        "attachments": null,
+        "author_id": 1334427492728283137,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:41:20+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                },
+                {
+                    "start": 37,
+                    "end": 49,
+                    "username": "FactSparrow",
+                    "id": "1293602820185235456"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 85,
+                    "end": 88,
+                    "probability": 0.3279,
+                    "type": "Organization",
+                    "normalized_text": "Bell"
+                },
+                {
+                    "start": 122,
+                    "end": 127,
+                    "probability": 0.3683,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57409604,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344374177441210368"
+                },
+                "id": 1344374177441210368,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "3431823202",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344410560176254976"
+                }
+            ],
+            "possibly_sensitive": false,
+            "text": "@OstapiukJ @cuzzinneenee We all definitely should. Lives are at stake.",
+            "id": "1344412079197970432",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "OstapiukJ",
+                        "id": "3431823202"
+                    },
+                    {
+                        "start": 11,
+                        "end": 24,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:36:32.000Z",
+            "author_id": "1376038417"
+        },
+        "id": 1344412079197970432,
+        "text": "@OstapiukJ @cuzzinneenee We all definitely should. Lives are at stake.",
+        "attachments": null,
+        "author_id": 1376038417,
+        "context_annotations": [],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:36:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "OstapiukJ",
+                    "id": "3431823202"
+                },
+                {
+                    "start": 11,
+                    "end": 24,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3431823202,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344410560176254976"
+                },
+                "id": 1344410560176254976,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "1376038417",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344405904138113026"
+                }
+            ],
+            "possibly_sensitive": false,
+            "geo": {
+                "place_id": "00c55f041e27dc51"
+            },
+            "text": "@RichStapless @cuzzinneenee Thanks for being diligent on this, Rich \ud83d\udc4d",
+            "id": "1344410560176254976",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "RichStapless",
+                        "id": "1376038417"
+                    },
+                    {
+                        "start": 14,
+                        "end": 27,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:30:30.000Z",
+            "author_id": "3431823202"
+        },
+        "id": 1344410560176254976,
+        "text": "@RichStapless @cuzzinneenee Thanks for being diligent on this, Rich \ud83d\udc4d",
+        "attachments": null,
+        "author_id": 3431823202,
+        "context_annotations": [],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:30:30+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "RichStapless",
+                    "id": "1376038417"
+                },
+                {
+                    "start": 14,
+                    "end": 27,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "00c55f041e27dc51"
+        },
+        "in_reply_to_user_id": 1376038417,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344405904138113026"
+                },
+                "id": 1344405904138113026,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "1376038417",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344405689582710784"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "@cuzzinneenee There might be future studies that bring new evidence, but at this moment in time, there\u2019s nothing that suggests the covid vaccine has anything that directly causes the condition in some people, and any other cases are outliers. Misinformation does tend to spread a lot.",
+            "id": "1344405904138113026",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:12:00.000Z",
+            "author_id": "1376038417"
+        },
+        "id": 1344405904138113026,
+        "text": "@cuzzinneenee There might be future studies that bring new evidence, but at this moment in time, there\u2019s nothing that suggests the covid vaccine has anything that directly causes the condition in some people, and any other cases are outliers. Misinformation does tend to spread a lot.",
+        "attachments": null,
+        "author_id": 1376038417,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:12:00+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1376038417,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344405689582710784"
+                },
+                "id": 1344405689582710784,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "1376038417",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344405388872048640"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "@cuzzinneenee (2/2) In regards to the Bell\u2019s Palsy, there\u2019s been no evidence of causation at all. The FDA released a trial and showed that 4 out of 22,000 who took the vaccine did develop the condition, but that percentage was far lower than the rate of the actual disease. So there\u2019s no link.",
+            "id": "1344405689582710784",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 102,
+                        "end": 104,
+                        "probability": 0.5153,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:11:08.000Z",
+            "author_id": "1376038417"
+        },
+        "id": 1344405689582710784,
+        "text": "@cuzzinneenee (2/2) In regards to the Bell\u2019s Palsy, there\u2019s been no evidence of causation at all. The FDA released a trial and showed that 4 out of 22,000 who took the vaccine did develop the condition, but that percentage was far lower than the rate of the actual disease. So there\u2019s no link.",
+        "attachments": null,
+        "author_id": 1376038417,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:11:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 102,
+                    "end": 104,
+                    "probability": 0.5153,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1376038417,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344405388872048640"
+                },
+                "id": 1344405388872048640,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "57409604",
+            "conversation_id": "1344374177441210368",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344374177441210368"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "@cuzzinneenee (1/2) I did some research and some digging. In regards to the woman you probably saw post the video, she identified herself as a nurse. But the Tennessee Department of Health doesn\u2019t have any nurse registered under that name. There\u2019s also no evidence she even took the vaccine.",
+            "id": "1344405388872048640",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "cuzzinneenee",
+                        "id": "57409604"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 158,
+                        "end": 187,
+                        "probability": 0.8752,
+                        "type": "Organization",
+                        "normalized_text": "Tennessee Department of Health"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2020-12-30T22:09:57.000Z",
+            "author_id": "1376038417"
+        },
+        "id": 1344405388872048640,
+        "text": "@cuzzinneenee (1/2) I did some research and some digging. In regards to the woman you probably saw post the video, she identified herself as a nurse. But the Tennessee Department of Health doesn\u2019t have any nurse registered under that name. There\u2019s also no evidence she even took the vaccine.",
+        "attachments": null,
+        "author_id": 1376038417,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1344374177441210368,
+        "created_at": "2020-12-30T22:09:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "cuzzinneenee",
+                    "id": "57409604"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 158,
+                    "end": 187,
+                    "probability": 0.8752,
+                    "type": "Organization",
+                    "normalized_text": "Tennessee Department of Health"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 57409604,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344374177441210368"
+                },
+                "id": 1344374177441210368,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

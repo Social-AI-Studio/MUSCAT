@@ -1,0 +1,3563 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 18,
+                        "end": 20,
+                        "probability": 0.9296,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    },
+                    {
+                        "start": 37,
+                        "end": 42,
+                        "probability": 0.3633,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 70,
+                        "end": 80,
+                        "probability": 0.7137,
+                        "type": "Person",
+                        "normalized_text": "Craig Kelly"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 101,
+                        "end": 112,
+                        "tag": "COVID19nsw"
+                    },
+                    {
+                        "start": 114,
+                        "end": 125,
+                        "tag": "Ivermectin"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "camliveshere",
+                        "id": "68913959"
+                    }
+                ]
+            },
+            "author_id": "1298565349449687040",
+            "text": "RT @camliveshere: FDA fully approves Pfizer vaccine. Meanwhile at the Craig Kelly sheep drench farm\u2026 #COVID19nsw  #Ivermectin",
+            "possibly_sensitive": false,
+            "id": "1430136261629468677",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-24T11:53:50.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1429801350888493058"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1430136261629468677",
+            "lang": "en"
+        },
+        "id": 1430136261629468677,
+        "text": "RT @camliveshere: FDA fully approves Pfizer vaccine. Meanwhile at the Craig Kelly sheep drench farm\u2026 #COVID19nsw  #Ivermectin",
+        "attachments": null,
+        "author_id": 1298565349449687040,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1430136261629468677,
+        "created_at": "2021-08-24T11:53:50+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 18,
+                    "end": 20,
+                    "probability": 0.9296,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                },
+                {
+                    "start": 37,
+                    "end": 42,
+                    "probability": 0.3633,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 70,
+                    "end": 80,
+                    "probability": 0.7137,
+                    "type": "Person",
+                    "normalized_text": "Craig Kelly"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 112,
+                    "tag": "COVID19nsw"
+                },
+                {
+                    "start": 114,
+                    "end": 125,
+                    "tag": "Ivermectin"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "camliveshere",
+                    "id": "68913959"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1429801350888493058"
+                },
+                "id": 1429801350888493058,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 18,
+                        "end": 20,
+                        "probability": 0.9296,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    },
+                    {
+                        "start": 37,
+                        "end": 42,
+                        "probability": 0.3633,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 70,
+                        "end": 80,
+                        "probability": 0.7137,
+                        "type": "Person",
+                        "normalized_text": "Craig Kelly"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 101,
+                        "end": 112,
+                        "tag": "COVID19nsw"
+                    },
+                    {
+                        "start": 114,
+                        "end": 125,
+                        "tag": "Ivermectin"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "camliveshere",
+                        "id": "68913959"
+                    }
+                ]
+            },
+            "author_id": "68913959",
+            "text": "RT @camliveshere: FDA fully approves Pfizer vaccine. Meanwhile at the Craig Kelly sheep drench farm\u2026 #COVID19nsw  #Ivermectin",
+            "possibly_sensitive": false,
+            "id": "1429959953662439435",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-24T00:13:14.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1429801350888493058"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1429959953662439435",
+            "lang": "en"
+        },
+        "id": 1429959953662439435,
+        "text": "RT @camliveshere: FDA fully approves Pfizer vaccine. Meanwhile at the Craig Kelly sheep drench farm\u2026 #COVID19nsw  #Ivermectin",
+        "attachments": null,
+        "author_id": 68913959,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1429959953662439435,
+        "created_at": "2021-08-24T00:13:14+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 18,
+                    "end": 20,
+                    "probability": 0.9296,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                },
+                {
+                    "start": 37,
+                    "end": 42,
+                    "probability": 0.3633,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 70,
+                    "end": 80,
+                    "probability": 0.7137,
+                    "type": "Person",
+                    "normalized_text": "Craig Kelly"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 101,
+                    "end": 112,
+                    "tag": "COVID19nsw"
+                },
+                {
+                    "start": 114,
+                    "end": 125,
+                    "tag": "Ivermectin"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "camliveshere",
+                    "id": "68913959"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1429801350888493058"
+                },
+                "id": 1429801350888493058,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2980150298",
+            "text": "RT @Mo_Bats: People will inject themselves with literally anything except the vaccine.",
+            "possibly_sensitive": false,
+            "id": "1429920311907078149",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T21:35:43.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1429917829030105089"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429920311907078149",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "Mo_Bats",
+                        "id": "412444485"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429920311907078149,
+        "text": "RT @Mo_Bats: People will inject themselves with literally anything except the vaccine.",
+        "attachments": null,
+        "author_id": 2980150298,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429920311907078149,
+        "created_at": "2021-08-23T21:35:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 11,
+                    "username": "Mo_Bats",
+                    "id": "412444485"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1429917829030105089"
+                },
+                "id": 1429917829030105089,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "412444485",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/Jd7gcOzbFo",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "People will inject themselves with literally anything except the vaccine. https://t.co/Jd7gcOzbFo",
+            "possibly_sensitive": false,
+            "id": "1429917829030105089",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T21:25:51.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429917829030105089",
+            "lang": "en"
+        },
+        "id": 1429917829030105089,
+        "text": "People will inject themselves with literally anything except the vaccine. https://t.co/Jd7gcOzbFo",
+        "attachments": null,
+        "author_id": 412444485,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429917829030105089,
+        "created_at": "2021-08-23T21:25:51+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/Jd7gcOzbFo",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "104610655",
+            "text": "RT @mcharlesworth7: For cows and horses, NOT you:",
+            "possibly_sensitive": false,
+            "id": "1429857643527655429",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T17:26:42.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1429802760220852237"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429857643527655429",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "mcharlesworth7",
+                        "id": "260266028"
+                    }
+                ]
+            },
+            "lang": "en"
+        },
+        "id": 1429857643527655429,
+        "text": "RT @mcharlesworth7: For cows and horses, NOT you:",
+        "attachments": null,
+        "author_id": 104610655,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429857643527655429,
+        "created_at": "2021-08-23T17:26:42+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "mcharlesworth7",
+                    "id": "260266028"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1429802760220852237"
+                },
+                "id": 1429802760220852237,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "618757844",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 78,
+                        "end": 101,
+                        "url": "https://t.co/fJWQcW8cCm",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "The fact that this has to even be put out in a statement, is mind blowing.  \ud83e\udd2f https://t.co/fJWQcW8cCm",
+            "possibly_sensitive": false,
+            "id": "1429815107132051464",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T14:37:40.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429815107132051464",
+            "lang": "en"
+        },
+        "id": 1429815107132051464,
+        "text": "The fact that this has to even be put out in a statement, is mind blowing.  \ud83e\udd2f https://t.co/fJWQcW8cCm",
+        "attachments": null,
+        "author_id": 618757844,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429815107132051464,
+        "created_at": "2021-08-23T14:37:40+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/fJWQcW8cCm",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "954954683138879489",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 64,
+                        "end": 87,
+                        "url": "https://t.co/PLIbXw1BLD",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "BaconMore1",
+                        "id": "1126869664099971072"
+                    }
+                ]
+            },
+            "text": "RT @BaconMore1: Narrative engineers gonna narrative engineer... https://t.co/PLIbXw1BLD",
+            "possibly_sensitive": false,
+            "id": "1429811302881497096",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T14:22:33.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1429811106634215427"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429811302881497096",
+            "lang": "en"
+        },
+        "id": 1429811302881497096,
+        "text": "RT @BaconMore1: Narrative engineers gonna narrative engineer... https://t.co/PLIbXw1BLD",
+        "attachments": null,
+        "author_id": 954954683138879489,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429811302881497096,
+        "created_at": "2021-08-23T14:22:33+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/PLIbXw1BLD",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "BaconMore1",
+                    "id": "1126869664099971072"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1429811106634215427"
+                },
+                "id": 1429811106634215427,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1126869664099971072",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 48,
+                        "end": 71,
+                        "url": "https://t.co/PLIbXw1BLD",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "Narrative engineers gonna narrative engineer... https://t.co/PLIbXw1BLD",
+            "possibly_sensitive": false,
+            "id": "1429811106634215427",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T14:21:47.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429811106634215427",
+            "lang": "en"
+        },
+        "id": 1429811106634215427,
+        "text": "Narrative engineers gonna narrative engineer... https://t.co/PLIbXw1BLD",
+        "attachments": null,
+        "author_id": 1126869664099971072,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429811106634215427,
+        "created_at": "2021-08-23T14:21:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 48,
+                    "end": 71,
+                    "url": "https://t.co/PLIbXw1BLD",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "966995826798202881",
+            "attachments": {
+                "media_keys": [
+                    "3_1429809056789811201",
+                    "3_1429809059675389955",
+                    "3_1429809063433474049",
+                    "3_1429809067103563779"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 193,
+                        "end": 216,
+                        "url": "https://t.co/iL38vgQfZX",
+                        "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                        "display_url": "pic.twitter.com/iL38vgQfZX"
+                    },
+                    {
+                        "start": 193,
+                        "end": 216,
+                        "url": "https://t.co/iL38vgQfZX",
+                        "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                        "display_url": "pic.twitter.com/iL38vgQfZX"
+                    },
+                    {
+                        "start": 193,
+                        "end": 216,
+                        "url": "https://t.co/iL38vgQfZX",
+                        "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                        "display_url": "pic.twitter.com/iL38vgQfZX"
+                    },
+                    {
+                        "start": 193,
+                        "end": 216,
+                        "url": "https://t.co/iL38vgQfZX",
+                        "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                        "display_url": "pic.twitter.com/iL38vgQfZX"
+                    },
+                    {
+                        "start": 217,
+                        "end": 240,
+                        "url": "https://t.co/dzq4aRCfhe",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 47,
+                        "tag": "Algerian_civilian_not_military_terrorist_state"
+                    },
+                    {
+                        "start": 48,
+                        "end": 53,
+                        "tag": "Down"
+                    },
+                    {
+                        "start": 120,
+                        "end": 192,
+                        "tag": "Spain_government_supporting_of_crimes_deportation_e_trafficking_humans_"
+                    }
+                ]
+            },
+            "text": "#Algerian_civilian_not_military_terrorist_state #Down with_rule_of_general_terrorist_mercenaries_non_Algerian_traitors_ #Spain_government_supporting_of_crimes_deportation_e_trafficking_humans_ https://t.co/iL38vgQfZX https://t.co/dzq4aRCfhe",
+            "possibly_sensitive": false,
+            "id": "1429809069670518794",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T14:13:41.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429809069670518794",
+            "lang": "en"
+        },
+        "id": 1429809069670518794,
+        "text": "#Algerian_civilian_not_military_terrorist_state #Down with_rule_of_general_terrorist_mercenaries_non_Algerian_traitors_ #Spain_government_supporting_of_crimes_deportation_e_trafficking_humans_ https://t.co/iL38vgQfZX https://t.co/dzq4aRCfhe",
+        "attachments": {
+            "media_keys": [
+                "3_1429809056789811201",
+                "3_1429809059675389955",
+                "3_1429809063433474049",
+                "3_1429809067103563779"
+            ]
+        },
+        "author_id": 966995826798202881,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429809069670518794,
+        "created_at": "2021-08-23T14:13:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 193,
+                    "end": 216,
+                    "url": "https://t.co/iL38vgQfZX",
+                    "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                    "display_url": "pic.twitter.com/iL38vgQfZX"
+                },
+                {
+                    "start": 193,
+                    "end": 216,
+                    "url": "https://t.co/iL38vgQfZX",
+                    "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                    "display_url": "pic.twitter.com/iL38vgQfZX"
+                },
+                {
+                    "start": 193,
+                    "end": 216,
+                    "url": "https://t.co/iL38vgQfZX",
+                    "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                    "display_url": "pic.twitter.com/iL38vgQfZX"
+                },
+                {
+                    "start": 193,
+                    "end": 216,
+                    "url": "https://t.co/iL38vgQfZX",
+                    "expanded_url": "https://twitter.com/riadhlambert/status/1429809069670518794/photo/1",
+                    "display_url": "pic.twitter.com/iL38vgQfZX"
+                },
+                {
+                    "start": 217,
+                    "end": 240,
+                    "url": "https://t.co/dzq4aRCfhe",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 47,
+                    "tag": "Algerian_civilian_not_military_terrorist_state"
+                },
+                {
+                    "start": 48,
+                    "end": 53,
+                    "tag": "Down"
+                },
+                {
+                    "start": 120,
+                    "end": 192,
+                    "tag": "Spain_government_supporting_of_crimes_deportation_e_trafficking_humans_"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "242313837",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 21,
+                        "end": 44,
+                        "url": "https://t.co/E0JsetDPNT",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "@_ba19_ Yup. My CTE. https://t.co/E0JsetDPNT",
+            "possibly_sensitive": false,
+            "id": "1429808867152736258",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T14:12:53.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1429699316730392580"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "1390771377276276738",
+            "conversation_id": "1429305791815749632",
+            "lang": "en"
+        },
+        "id": 1429808867152736258,
+        "text": "@_ba19_ Yup. My CTE. https://t.co/E0JsetDPNT",
+        "attachments": null,
+        "author_id": 242313837,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429305791815749632,
+        "created_at": "2021-08-23T14:12:53+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 21,
+                    "end": 44,
+                    "url": "https://t.co/E0JsetDPNT",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1390771377276276738,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429699316730392580"
+                },
+                "id": 1429699316730392580,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "983932176163983361",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/Yd8ZNQDJu5",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "I\u2019ll keep an eye on both sides https://t.co/Yd8ZNQDJu5",
+            "possibly_sensitive": false,
+            "id": "1429807824591155201",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T14:08:44.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429807824591155201",
+            "lang": "en"
+        },
+        "id": 1429807824591155201,
+        "text": "I\u2019ll keep an eye on both sides https://t.co/Yd8ZNQDJu5",
+        "attachments": null,
+        "author_id": 983932176163983361,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429807824591155201,
+        "created_at": "2021-08-23T14:08:44+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 31,
+                    "end": 54,
+                    "url": "https://t.co/Yd8ZNQDJu5",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 129,
+                        "end": 134,
+                        "probability": 0.4823,
+                        "type": "Person",
+                        "normalized_text": "Darwin"
+                    },
+                    {
+                        "start": 190,
+                        "end": 192,
+                        "probability": 0.9815,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 197,
+                        "end": 220,
+                        "url": "https://t.co/j0SR6qNFE0",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "author_id": "1344850007397167104",
+            "text": "Besides, it is only effective AFTER you have more than 65cc of a 55% Chlorine Bleach Solution infused intravenously... yep folks Darwin Wins again! How is it that we became so stupid in the USA??? https://t.co/j0SR6qNFE0",
+            "possibly_sensitive": false,
+            "id": "1429805597613035521",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:59:53.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429805597613035521",
+            "lang": "en"
+        },
+        "id": 1429805597613035521,
+        "text": "Besides, it is only effective AFTER you have more than 65cc of a 55% Chlorine Bleach Solution infused intravenously... yep folks Darwin Wins again! How is it that we became so stupid in the USA??? https://t.co/j0SR6qNFE0",
+        "attachments": null,
+        "author_id": 1344850007397167104,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429805597613035521,
+        "created_at": "2021-08-23T13:59:53+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 129,
+                    "end": 134,
+                    "probability": 0.4823,
+                    "type": "Person",
+                    "normalized_text": "Darwin"
+                },
+                {
+                    "start": 190,
+                    "end": 192,
+                    "probability": 0.9815,
+                    "type": "Place",
+                    "normalized_text": "USA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 197,
+                    "end": 220,
+                    "url": "https://t.co/j0SR6qNFE0",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1297678840471453697",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/FiJNaWtrDV",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "Intelligent people know this \u2026 https://t.co/FiJNaWtrDV",
+            "possibly_sensitive": false,
+            "id": "1429805558375358470",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:59:44.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429805558375358470",
+            "lang": "en"
+        },
+        "id": 1429805558375358470,
+        "text": "Intelligent people know this \u2026 https://t.co/FiJNaWtrDV",
+        "attachments": null,
+        "author_id": 1297678840471453697,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429805558375358470,
+        "created_at": "2021-08-23T13:59:44+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 31,
+                    "end": 54,
+                    "url": "https://t.co/FiJNaWtrDV",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1355851013090140160",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 37,
+                        "end": 60,
+                        "url": "https://t.co/Hq3KtBAJrp",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "Get the vaccine and you dont need it https://t.co/Hq3KtBAJrp",
+            "possibly_sensitive": false,
+            "id": "1429804548818972672",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:55:43.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429804548818972672",
+            "lang": "en"
+        },
+        "id": 1429804548818972672,
+        "text": "Get the vaccine and you dont need it https://t.co/Hq3KtBAJrp",
+        "attachments": null,
+        "author_id": 1355851013090140160,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429804548818972672,
+        "created_at": "2021-08-23T13:55:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 37,
+                    "end": 60,
+                    "url": "https://t.co/Hq3KtBAJrp",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.4116,
+                        "type": "Organization",
+                        "normalized_text": "Covid"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 224,
+                        "end": 247,
+                        "url": "https://t.co/bpDSk5eG4S",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "author_id": "914941307004571648",
+            "text": "Covid treatment options access is going over as well as pregnancy treatement options access...still the fundamental cause being ignored and going untreated regardless of route being taken...another similarity the two share. https://t.co/bpDSk5eG4S",
+            "possibly_sensitive": false,
+            "id": "1429803577338380293",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:51:51.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429803577338380293",
+            "lang": "en"
+        },
+        "id": 1429803577338380293,
+        "text": "Covid treatment options access is going over as well as pregnancy treatement options access...still the fundamental cause being ignored and going untreated regardless of route being taken...another similarity the two share. https://t.co/bpDSk5eG4S",
+        "attachments": null,
+        "author_id": 914941307004571648,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429803577338380293,
+        "created_at": "2021-08-23T13:51:51+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "probability": 0.4116,
+                    "type": "Organization",
+                    "normalized_text": "Covid"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 224,
+                    "end": 247,
+                    "url": "https://t.co/bpDSk5eG4S",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "854856888340623361",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/OiDsM446Rw",
+                        "expanded_url": "https://twitter.com/us_fda/status/1429050070243192839?s=21",
+                        "display_url": "twitter.com/us_fda/status/\u2026"
+                    },
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/jByhpQf892",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "https://t.co/OiDsM446Rw https://t.co/jByhpQf892",
+            "possibly_sensitive": false,
+            "id": "1429803273180127233",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:50:39.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429803273180127233",
+            "lang": "und"
+        },
+        "id": 1429803273180127233,
+        "text": "https://t.co/OiDsM446Rw https://t.co/jByhpQf892",
+        "attachments": null,
+        "author_id": 854856888340623361,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429803273180127233,
+        "created_at": "2021-08-23T13:50:39+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/OiDsM446Rw",
+                    "expanded_url": "https://twitter.com/us_fda/status/1429050070243192839?s=21",
+                    "display_url": "twitter.com/us_fda/status/\u2026"
+                },
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/jByhpQf892",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 29,
+                        "end": 39,
+                        "probability": 0.9815,
+                        "type": "Place",
+                        "normalized_text": "Philippines"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 41,
+                        "end": 64,
+                        "url": "https://t.co/ZvlMW2W1vk",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "author_id": "902817020",
+            "text": "Still being used here in the Philippines https://t.co/ZvlMW2W1vk",
+            "possibly_sensitive": false,
+            "id": "1429803211255279617",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:50:24.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429803211255279617",
+            "lang": "en"
+        },
+        "id": 1429803211255279617,
+        "text": "Still being used here in the Philippines https://t.co/ZvlMW2W1vk",
+        "attachments": null,
+        "author_id": 902817020,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429803211255279617,
+        "created_at": "2021-08-23T13:50:24+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 39,
+                    "probability": 0.9815,
+                    "type": "Place",
+                    "normalized_text": "Philippines"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/ZvlMW2W1vk",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "606578710",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/sr8UoqqdG2",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "What a time to be alive https://t.co/sr8UoqqdG2",
+            "possibly_sensitive": false,
+            "id": "1429803158356758530",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:50:12.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429803158356758530",
+            "lang": "en"
+        },
+        "id": 1429803158356758530,
+        "text": "What a time to be alive https://t.co/sr8UoqqdG2",
+        "attachments": null,
+        "author_id": 606578710,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429803158356758530,
+        "created_at": "2021-08-23T13:50:12+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/sr8UoqqdG2",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "260266028",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 30,
+                        "end": 53,
+                        "url": "https://t.co/Awp5eVBVAQ",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "For cows and horses, NOT you: https://t.co/Awp5eVBVAQ",
+            "possibly_sensitive": false,
+            "id": "1429802760220852237",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:48:37.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429802760220852237",
+            "lang": "en"
+        },
+        "id": 1429802760220852237,
+        "text": "For cows and horses, NOT you: https://t.co/Awp5eVBVAQ",
+        "attachments": null,
+        "author_id": 260266028,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802760220852237,
+        "created_at": "2021-08-23T13:48:37+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 30,
+                    "end": 53,
+                    "url": "https://t.co/Awp5eVBVAQ",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1043774533",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 81,
+                        "end": 104,
+                        "url": "https://t.co/dQyN1tNOh1",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "Honest question, where did people get the idea to do this? This is all new to me https://t.co/dQyN1tNOh1",
+            "possibly_sensitive": false,
+            "id": "1429802712611397634",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 4,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:48:25.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429802712611397634",
+            "lang": "en"
+        },
+        "id": 1429802712611397634,
+        "text": "Honest question, where did people get the idea to do this? This is all new to me https://t.co/dQyN1tNOh1",
+        "attachments": null,
+        "author_id": 1043774533,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802712611397634,
+        "created_at": "2021-08-23T13:48:25+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 104,
+                    "url": "https://t.co/dQyN1tNOh1",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "3152736165",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 21,
+                        "end": 44,
+                        "url": "https://t.co/3dk3CxJegB",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "Now what DUMBASS.... https://t.co/3dk3CxJegB",
+            "possibly_sensitive": false,
+            "id": "1429802097877389313",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:45:59.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429802097877389313",
+            "lang": "en"
+        },
+        "id": 1429802097877389313,
+        "text": "Now what DUMBASS.... https://t.co/3dk3CxJegB",
+        "attachments": null,
+        "author_id": 3152736165,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802097877389313,
+        "created_at": "2021-08-23T13:45:59+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 21,
+                    "end": 44,
+                    "url": "https://t.co/3dk3CxJegB",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "42084590",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 77,
+                        "end": 100,
+                        "url": "https://t.co/UBBdgEDXSl",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 54,
+                        "end": 68,
+                        "tag": "GetVaccinated"
+                    },
+                    {
+                        "start": 69,
+                        "end": 76,
+                        "tag": "MaskUp"
+                    }
+                ]
+            },
+            "text": "I get asked about this almost every day. Don\u2019t do it. #GetVaccinated #MaskUp https://t.co/UBBdgEDXSl",
+            "possibly_sensitive": false,
+            "id": "1429802022438584322",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:45:41.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429802022438584322",
+            "lang": "en"
+        },
+        "id": 1429802022438584322,
+        "text": "I get asked about this almost every day. Don\u2019t do it. #GetVaccinated #MaskUp https://t.co/UBBdgEDXSl",
+        "attachments": null,
+        "author_id": 42084590,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429802022438584322,
+        "created_at": "2021-08-23T13:45:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/UBBdgEDXSl",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 54,
+                    "end": 68,
+                    "tag": "GetVaccinated"
+                },
+                {
+                    "start": 69,
+                    "end": 76,
+                    "tag": "MaskUp"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "841332849483497472",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 14,
+                        "end": 37,
+                        "url": "https://t.co/yEc7I1zRsY",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "tag": "MAGA"
+                    }
+                ]
+            },
+            "text": "#MAGA beware. https://t.co/yEc7I1zRsY",
+            "possibly_sensitive": false,
+            "id": "1429801427833171971",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:43:19.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429801427833171971",
+            "lang": "en"
+        },
+        "id": 1429801427833171971,
+        "text": "#MAGA beware. https://t.co/yEc7I1zRsY",
+        "attachments": null,
+        "author_id": 841332849483497472,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429801427833171971,
+        "created_at": "2021-08-23T13:43:19+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 14,
+                    "end": 37,
+                    "url": "https://t.co/yEc7I1zRsY",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "tag": "MAGA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 2,
+                        "probability": 0.9369,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    },
+                    {
+                        "start": 19,
+                        "end": 24,
+                        "probability": 0.3608,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 52,
+                        "end": 62,
+                        "probability": 0.6952,
+                        "type": "Person",
+                        "normalized_text": "Craig Kelly"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 108,
+                        "end": 131,
+                        "url": "https://t.co/EICRy1mNlc",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 83,
+                        "end": 94,
+                        "tag": "COVID19nsw"
+                    },
+                    {
+                        "start": 96,
+                        "end": 107,
+                        "tag": "Ivermectin"
+                    }
+                ]
+            },
+            "author_id": "68913959",
+            "text": "FDA fully approves Pfizer vaccine. Meanwhile at the Craig Kelly sheep drench farm\u2026 #COVID19nsw  #Ivermectin https://t.co/EICRy1mNlc",
+            "possibly_sensitive": false,
+            "id": "1429801350888493058",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:43:01.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1429801350888493058",
+            "lang": "en"
+        },
+        "id": 1429801350888493058,
+        "text": "FDA fully approves Pfizer vaccine. Meanwhile at the Craig Kelly sheep drench farm\u2026 #COVID19nsw  #Ivermectin https://t.co/EICRy1mNlc",
+        "attachments": null,
+        "author_id": 68913959,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1429801350888493058,
+        "created_at": "2021-08-23T13:43:01+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 2,
+                    "probability": 0.9369,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                },
+                {
+                    "start": 19,
+                    "end": 24,
+                    "probability": 0.3608,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 52,
+                    "end": 62,
+                    "probability": 0.6952,
+                    "type": "Person",
+                    "normalized_text": "Craig Kelly"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/EICRy1mNlc",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 83,
+                    "end": 94,
+                    "tag": "COVID19nsw"
+                },
+                {
+                    "start": 96,
+                    "end": 107,
+                    "tag": "Ivermectin"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1058587988236603392",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 42,
+                        "end": 65,
+                        "url": "https://t.co/uLn0gPm3ZU",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "\u039c\u03cc\u03bd\u03bf \u03ad\u03bd\u03b1\u03c2 \u03c3\u03c5\u03c1\u03b9\u03b6\u03b1\u03af\u03bf\u03c2 \u03b4\u03b5\u03bd \u03c4\u03bf \u03be\u03ad\u03c1\u03b5\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd... https://t.co/uLn0gPm3ZU",
+            "possibly_sensitive": false,
+            "id": "1429800681116999686",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:40:21.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429800681116999686",
+            "lang": "el"
+        },
+        "id": 1429800681116999686,
+        "text": "\u039c\u03cc\u03bd\u03bf \u03ad\u03bd\u03b1\u03c2 \u03c3\u03c5\u03c1\u03b9\u03b6\u03b1\u03af\u03bf\u03c2 \u03b4\u03b5\u03bd \u03c4\u03bf \u03be\u03ad\u03c1\u03b5\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd... https://t.co/uLn0gPm3ZU",
+        "attachments": null,
+        "author_id": 1058587988236603392,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429800681116999686,
+        "created_at": "2021-08-23T13:40:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 42,
+                    "end": 65,
+                    "url": "https://t.co/uLn0gPm3ZU",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "el",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1287753359143899137",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/dLDsehEFVu",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11 https://t.co/dLDsehEFVu",
+            "possibly_sensitive": false,
+            "id": "1429800569934319621",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:39:54.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429800569934319621",
+            "lang": "und"
+        },
+        "id": 1429800569934319621,
+        "text": "\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11 https://t.co/dLDsehEFVu",
+        "attachments": null,
+        "author_id": 1287753359143899137,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429800569934319621,
+        "created_at": "2021-08-23T13:39:54+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 6,
+                    "end": 29,
+                    "url": "https://t.co/dLDsehEFVu",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "6773482",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 16,
+                        "end": 39,
+                        "url": "https://t.co/GkwiNgJVjx",
+                        "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                        "display_url": "twitter.com/ABC/status/142\u2026"
+                    }
+                ]
+            },
+            "text": "I just\u2026.cannot. https://t.co/GkwiNgJVjx",
+            "possibly_sensitive": false,
+            "id": "1429800321220493317",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-08-23T13:38:55.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429800321220493317",
+            "lang": "en"
+        },
+        "id": 1429800321220493317,
+        "text": "I just\u2026.cannot. https://t.co/GkwiNgJVjx",
+        "attachments": null,
+        "author_id": 6773482,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429800321220493317,
+        "created_at": "2021-08-23T13:38:55+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 16,
+                    "end": 39,
+                    "url": "https://t.co/GkwiNgJVjx",
+                    "expanded_url": "https://twitter.com/ABC/status/1429800182372257793",
+                    "display_url": "twitter.com/ABC/status/142\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429800182372257793"
+                },
+                "id": 1429800182372257793,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

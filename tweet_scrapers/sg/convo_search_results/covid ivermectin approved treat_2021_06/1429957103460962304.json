@@ -1,0 +1,679 @@
+[
+    {
+        "data": {
+            "text": "@CR891815885 @geostanley @Covid19Critical people are taking the horse pills because no reputable doctor is going to prescribe it",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "CR891815885",
+                        "id": "1333238200987496449"
+                    },
+                    {
+                        "start": 13,
+                        "end": 24,
+                        "username": "geostanley",
+                        "id": "16314645"
+                    },
+                    {
+                        "start": 25,
+                        "end": 41,
+                        "username": "Covid19Critical",
+                        "id": "1255176009764294656"
+                    }
+                ]
+            },
+            "id": "1429961217225920520",
+            "source": "TweetDeck",
+            "author_id": "16385268",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "conversation_id": "1429957103460962304",
+            "lang": "en",
+            "created_at": "2021-08-24T00:18:16.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429958192939798535"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "1333238200987496449"
+        },
+        "id": 1429961217225920520,
+        "text": "@CR891815885 @geostanley @Covid19Critical people are taking the horse pills because no reputable doctor is going to prescribe it",
+        "attachments": null,
+        "author_id": 16385268,
+        "context_annotations": [],
+        "conversation_id": 1429957103460962304,
+        "created_at": "2021-08-24T00:18:16+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "CR891815885",
+                    "id": "1333238200987496449"
+                },
+                {
+                    "start": 13,
+                    "end": 24,
+                    "username": "geostanley",
+                    "id": "16314645"
+                },
+                {
+                    "start": 25,
+                    "end": 41,
+                    "username": "Covid19Critical",
+                    "id": "1255176009764294656"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1333238200987496449,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429958192939798535"
+                },
+                "id": 1429958192939798535,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@geostanley FDA gave full approval to Pfizer today. \n\nGet vaccinated",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "geostanley",
+                        "id": "16314645"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 14,
+                        "probability": 0.94,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    },
+                    {
+                        "start": 38,
+                        "end": 43,
+                        "probability": 0.5618,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "id": "1429959193109295122",
+            "source": "Twitter for iPhone",
+            "author_id": "1364038043074588675",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1429957103460962304",
+            "lang": "en",
+            "created_at": "2021-08-24T00:10:13.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429957103460962304"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "16314645"
+        },
+        "id": 1429959193109295122,
+        "text": "@geostanley FDA gave full approval to Pfizer today. \n\nGet vaccinated",
+        "attachments": null,
+        "author_id": 1364038043074588675,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1429957103460962304,
+        "created_at": "2021-08-24T00:10:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "geostanley",
+                    "id": "16314645"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 14,
+                    "probability": 0.94,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                },
+                {
+                    "start": 38,
+                    "end": 43,
+                    "probability": 0.5618,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 16314645,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429957103460962304"
+                },
+                "id": 1429957103460962304,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@geostanley @Covid19Critical https://t.co/JTSUsIawvx",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "geostanley",
+                        "id": "16314645"
+                    },
+                    {
+                        "start": 12,
+                        "end": 28,
+                        "username": "Covid19Critical",
+                        "id": "1255176009764294656"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 29,
+                        "end": 52,
+                        "url": "https://t.co/JTSUsIawvx",
+                        "expanded_url": "https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-treated-for-under-1day-675612",
+                        "display_url": "jpost.com/health-science\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487062266575040518/E1ycA2yM?format=jpg&name=orig",
+                                "width": 822,
+                                "height": 537
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487062266575040518/E1ycA2yM?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Israeli scientist says COVID-19 could be treated for under $1/day",
+                        "description": "Double-blind study shows ivermectin reduces disease\u2019s duration and infectiousness \u2022 FDA and WHO caution against its use",
+                        "unwound_url": "https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-treated-for-under-1day-675612"
+                    }
+                ]
+            },
+            "id": "1429958424163401730",
+            "source": "Twitter Web App",
+            "author_id": "1333238200987496449",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "conversation_id": "1429957103460962304",
+            "lang": "und",
+            "created_at": "2021-08-24T00:07:10.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429958192939798535"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "1333238200987496449"
+        },
+        "id": 1429958424163401730,
+        "text": "@geostanley @Covid19Critical https://t.co/JTSUsIawvx",
+        "attachments": null,
+        "author_id": 1333238200987496449,
+        "context_annotations": [],
+        "conversation_id": 1429957103460962304,
+        "created_at": "2021-08-24T00:07:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "geostanley",
+                    "id": "16314645"
+                },
+                {
+                    "start": 12,
+                    "end": 28,
+                    "username": "Covid19Critical",
+                    "id": "1255176009764294656"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 29,
+                    "end": 52,
+                    "url": "https://t.co/JTSUsIawvx",
+                    "expanded_url": "https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-treated-for-under-1day-675612",
+                    "display_url": "jpost.com/health-science\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487062266575040518/E1ycA2yM?format=jpg&name=orig",
+                            "width": 822,
+                            "height": 537
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487062266575040518/E1ycA2yM?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Israeli scientist says COVID-19 could be treated for under $1/day",
+                    "description": "Double-blind study shows ivermectin reduces disease\u2019s duration and infectiousness \u2022 FDA and WHO caution against its use",
+                    "unwound_url": "https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-treated-for-under-1day-675612"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1333238200987496449,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429958192939798535"
+                },
+                "id": 1429958192939798535,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@geostanley It's NOT a horse pill. It's used in Africa and elsewhere as anti-parasite and recommended by @Covid19Critical with links to published research.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "geostanley",
+                        "id": "16314645"
+                    },
+                    {
+                        "start": 105,
+                        "end": 121,
+                        "username": "Covid19Critical",
+                        "id": "1255176009764294656"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 48,
+                        "end": 53,
+                        "probability": 0.9906,
+                        "type": "Place",
+                        "normalized_text": "Africa"
+                    }
+                ]
+            },
+            "id": "1429958192939798535",
+            "source": "Twitter Web App",
+            "author_id": "1333238200987496449",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "conversation_id": "1429957103460962304",
+            "lang": "en",
+            "created_at": "2021-08-24T00:06:15.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429957103460962304"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "16314645"
+        },
+        "id": 1429958192939798535,
+        "text": "@geostanley It's NOT a horse pill. It's used in Africa and elsewhere as anti-parasite and recommended by @Covid19Critical with links to published research.",
+        "attachments": null,
+        "author_id": 1333238200987496449,
+        "context_annotations": [],
+        "conversation_id": 1429957103460962304,
+        "created_at": "2021-08-24T00:06:15+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "geostanley",
+                    "id": "16314645"
+                },
+                {
+                    "start": 105,
+                    "end": 121,
+                    "username": "Covid19Critical",
+                    "id": "1255176009764294656"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 48,
+                    "end": 53,
+                    "probability": 0.9906,
+                    "type": "Place",
+                    "normalized_text": "Africa"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 16314645,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429957103460962304"
+                },
+                "id": 1429957103460962304,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@geostanley How does Johnson get away with pushing ivermectin?  I don\u2019t get it.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "geostanley",
+                        "id": "16314645"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 21,
+                        "end": 27,
+                        "probability": 0.9688,
+                        "type": "Person",
+                        "normalized_text": "Johnson"
+                    }
+                ]
+            },
+            "id": "1429957783189872642",
+            "source": "Twitter for iPad",
+            "author_id": "29356937",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1429957103460962304",
+            "lang": "en",
+            "created_at": "2021-08-24T00:04:37.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1429957103460962304"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "16314645"
+        },
+        "id": 1429957783189872642,
+        "text": "@geostanley How does Johnson get away with pushing ivermectin?  I don\u2019t get it.",
+        "attachments": null,
+        "author_id": 29356937,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429957103460962304,
+        "created_at": "2021-08-24T00:04:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "geostanley",
+                    "id": "16314645"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 21,
+                    "end": 27,
+                    "probability": 0.9688,
+                    "type": "Person",
+                    "normalized_text": "Johnson"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 16314645,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1429957103460962304"
+                },
+                "id": 1429957103460962304,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

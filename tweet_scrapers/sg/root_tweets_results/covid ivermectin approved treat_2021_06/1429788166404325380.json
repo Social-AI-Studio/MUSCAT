@@ -1,0 +1,107 @@
+[
+    {
+        "data": {
+            "conversation_id": "1429794945234345985",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/LZyk207qtA",
+                        "expanded_url": "https://twitter.com/LOLGOP/status/1429788166404325380",
+                        "display_url": "twitter.com/LOLGOP/status/\u2026"
+                    }
+                ]
+            },
+            "author_id": "28250478",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "So her doctor is veterinarian. https://t.co/LZyk207qtA",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429788166404325380"
+                }
+            ],
+            "possibly_sensitive": false,
+            "id": "1429794945234345985",
+            "created_at": "2021-08-23T13:17:33.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1429794945234345985,
+        "text": "So her doctor is veterinarian. https://t.co/LZyk207qtA",
+        "attachments": null,
+        "author_id": 28250478,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429794945234345985,
+        "created_at": "2021-08-23T13:17:33+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 31,
+                    "end": 54,
+                    "url": "https://t.co/LZyk207qtA",
+                    "expanded_url": "https://twitter.com/LOLGOP/status/1429788166404325380",
+                    "display_url": "twitter.com/LOLGOP/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429788166404325380"
+                },
+                "id": 1429788166404325380,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

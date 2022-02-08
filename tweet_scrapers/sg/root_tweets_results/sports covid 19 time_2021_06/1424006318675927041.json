@@ -1,0 +1,213 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Buffer",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1424006313424662533"
+                ]
+            },
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "probability": 0.9089,
+                        "type": "Place",
+                        "normalized_text": "Beijing"
+                    },
+                    {
+                        "start": 160,
+                        "end": 164,
+                        "probability": 0.9923,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    },
+                    {
+                        "start": 252,
+                        "end": 256,
+                        "probability": 0.9832,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 101,
+                        "end": 124,
+                        "url": "https://t.co/f6LVvDP2Zs",
+                        "expanded_url": "https://buff.ly/3xt07Yv",
+                        "display_url": "buff.ly/3xt07Yv",
+                        "status": 200,
+                        "unwound_url": "https://www.chinatravelnews.com/article/147229"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/XybSQW1zWV",
+                        "expanded_url": "https://twitter.com/traveldailycn/status/1424006318675927041/photo/1",
+                        "display_url": "pic.twitter.com/XybSQW1zWV"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 69,
+                        "end": 82,
+                        "tag": "WeeklyReview"
+                    },
+                    {
+                        "start": 83,
+                        "end": 99,
+                        "tag": "ChinaTravelNews"
+                    }
+                ]
+            },
+            "id": "1424006318675927041",
+            "conversation_id": "1424006318675927041",
+            "created_at": "2021-08-07T13:55:37.000Z",
+            "reply_settings": "everyone",
+            "text": "Beijing tightens travel rules; Chinese made 1.8 billion+ trips in H1 #WeeklyReview #ChinaTravelNews \nhttps://t.co/f6LVvDP2Zs\nCOVID-19 devastates the world, but China becomes top domestic market for first time; Sports tourism increasingly popular among China\u2019s young generations. https://t.co/XybSQW1zWV",
+            "author_id": "71189231"
+        },
+        "id": 1424006318675927041,
+        "text": "Beijing tightens travel rules; Chinese made 1.8 billion+ trips in H1 #WeeklyReview #ChinaTravelNews \nhttps://t.co/f6LVvDP2Zs\nCOVID-19 devastates the world, but China becomes top domestic market for first time; Sports tourism increasingly popular among China\u2019s young generations. https://t.co/XybSQW1zWV",
+        "attachments": {
+            "media_keys": [
+                "3_1424006313424662533"
+            ]
+        },
+        "author_id": 71189231,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1424006318675927041,
+        "created_at": "2021-08-07T13:55:37+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "probability": 0.9089,
+                    "type": "Place",
+                    "normalized_text": "Beijing"
+                },
+                {
+                    "start": 160,
+                    "end": 164,
+                    "probability": 0.9923,
+                    "type": "Place",
+                    "normalized_text": "China"
+                },
+                {
+                    "start": 252,
+                    "end": 256,
+                    "probability": 0.9832,
+                    "type": "Place",
+                    "normalized_text": "China"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/f6LVvDP2Zs",
+                    "expanded_url": "https://buff.ly/3xt07Yv",
+                    "display_url": "buff.ly/3xt07Yv",
+                    "status": 200,
+                    "unwound_url": "https://www.chinatravelnews.com/article/147229"
+                },
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/XybSQW1zWV",
+                    "expanded_url": "https://twitter.com/traveldailycn/status/1424006318675927041/photo/1",
+                    "display_url": "pic.twitter.com/XybSQW1zWV"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 69,
+                    "end": 82,
+                    "tag": "WeeklyReview"
+                },
+                {
+                    "start": 83,
+                    "end": 99,
+                    "tag": "ChinaTravelNews"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Buffer",
+        "withheld": null
+    }
+]

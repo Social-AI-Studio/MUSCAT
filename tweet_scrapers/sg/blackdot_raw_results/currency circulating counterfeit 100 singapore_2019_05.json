@@ -1,0 +1,103 @@
+[
+    {
+        "data": {
+            "source": "Facebook",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 107,
+                        "end": 130,
+                        "url": "https://t.co/tgP2A3nCxF",
+                        "expanded_url": "https://blackdotresearch.sg/hoaxwarning-counterfeit-s50-and-s100-singapore-currency-notes-may-be-circulating/",
+                        "display_url": "blackdotresearch.sg/hoaxwarning-co\u2026",
+                        "status": 200,
+                        "unwound_url": "https://blackdotresearch.sg/hoaxwarning-counterfeit-s50-and-s100-singapore-currency-notes-may-be-circulating/"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 50,
+                        "probability": 0.7244,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 88,
+                        "end": 105,
+                        "probability": 0.5763,
+                        "type": "Organization",
+                        "normalized_text": "Black Dot Research"
+                    }
+                ]
+            },
+            "lang": "en",
+            "author_id": "284976722",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1138387885013516289",
+            "text": "[HoaxWarning]: Counterfeit S$50 and S$100 Singapore currency notes may be circulating - Black Dot Research https://t.co/tgP2A3nCxF",
+            "conversation_id": "1138387885013516289",
+            "created_at": "2019-06-11T10:09:56.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1138387885013516289,
+        "text": "[HoaxWarning]: Counterfeit S$50 and S$100 Singapore currency notes may be circulating - Black Dot Research https://t.co/tgP2A3nCxF",
+        "attachments": null,
+        "author_id": 284976722,
+        "context_annotations": [],
+        "conversation_id": 1138387885013516289,
+        "created_at": "2019-06-11T10:09:56+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/tgP2A3nCxF",
+                    "expanded_url": "https://blackdotresearch.sg/hoaxwarning-counterfeit-s50-and-s100-singapore-currency-notes-may-be-circulating/",
+                    "display_url": "blackdotresearch.sg/hoaxwarning-co\u2026",
+                    "status": 200,
+                    "unwound_url": "https://blackdotresearch.sg/hoaxwarning-counterfeit-s50-and-s100-singapore-currency-notes-may-be-circulating/"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 50,
+                    "probability": 0.7244,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 88,
+                    "end": 105,
+                    "probability": 0.5763,
+                    "type": "Organization",
+                    "normalized_text": "Black Dot Research"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    }
+]

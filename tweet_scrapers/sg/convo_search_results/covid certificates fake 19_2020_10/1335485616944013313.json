@@ -1,0 +1,106 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1335485616944013313"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "ZimEye",
+                        "id": "44569137"
+                    }
+                ]
+            },
+            "created_at": "2020-12-06T07:33:16.000Z",
+            "text": "@ZimEye Governments must not disenfranchise ppl. Why charge R850 for a covid test certificate?",
+            "lang": "en",
+            "in_reply_to_user_id": "44569137",
+            "id": "1335487457404604416",
+            "author_id": "1242035476514713601",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1335485616944013313",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ]
+        },
+        "id": 1335487457404604416,
+        "text": "@ZimEye Governments must not disenfranchise ppl. Why charge R850 for a covid test certificate?",
+        "attachments": null,
+        "author_id": 1242035476514713601,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1335485616944013313,
+        "created_at": "2020-12-06T07:33:16+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "ZimEye",
+                    "id": "44569137"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 44569137,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1335485616944013313"
+                },
+                "id": 1335485616944013313,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

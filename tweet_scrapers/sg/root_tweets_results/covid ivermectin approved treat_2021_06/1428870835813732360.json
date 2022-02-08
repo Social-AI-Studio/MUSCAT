@@ -1,0 +1,2827 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "45753948",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "MikeMordowanec",
+                        "id": "45753948"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 27,
+                        "end": 40,
+                        "probability": 0.9965,
+                        "type": "Person",
+                        "normalized_text": "Bret Weinstein"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 78,
+                        "end": 101,
+                        "url": "https://t.co/FyujLqVm7Y",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1430867859375378436"
+                }
+            ],
+            "id": "1430898046120775682",
+            "conversation_id": "1430867859375378436",
+            "created_at": "2021-08-26T14:20:53.000Z",
+            "reply_settings": "everyone",
+            "text": "@MikeMordowanec seems like Bret Weinstein may have been the first big booster https://t.co/FyujLqVm7Y",
+            "author_id": "146198377"
+        },
+        "id": 1430898046120775682,
+        "text": "@MikeMordowanec seems like Bret Weinstein may have been the first big booster https://t.co/FyujLqVm7Y",
+        "attachments": null,
+        "author_id": 146198377,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1430867859375378436,
+        "created_at": "2021-08-26T14:20:53+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "MikeMordowanec",
+                    "id": "45753948"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 27,
+                    "end": 40,
+                    "probability": 0.9965,
+                    "type": "Person",
+                    "normalized_text": "Bret Weinstein"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "url": "https://t.co/FyujLqVm7Y",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 45753948,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1430867859375378436"
+                },
+                "id": 1430867859375378436,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "716495980036685824",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 24,
+                        "end": 38,
+                        "username": "BretWeinstein",
+                        "id": "78683448"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 56,
+                        "end": 79,
+                        "url": "https://t.co/zvvXePotyB",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360?s=19",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1430842851341086720"
+                }
+            ],
+            "id": "1430843512883400704",
+            "conversation_id": "1430840769477234690",
+            "created_at": "2021-08-26T10:44:11.000Z",
+            "reply_settings": "everyone",
+            "text": "This is why people like @BretWeinstein can get fucked:\n\nhttps://t.co/zvvXePotyB",
+            "author_id": "716495980036685824"
+        },
+        "id": 1430843512883400704,
+        "text": "This is why people like @BretWeinstein can get fucked:\n\nhttps://t.co/zvvXePotyB",
+        "attachments": null,
+        "author_id": 716495980036685824,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1430840769477234690,
+        "created_at": "2021-08-26T10:44:11+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 24,
+                    "end": 38,
+                    "username": "BretWeinstein",
+                    "id": "78683448"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 56,
+                    "end": 79,
+                    "url": "https://t.co/zvvXePotyB",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360?s=19",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 716495980036685824,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1430842851341086720"
+                },
+                "id": 1430842851341086720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428989065823723521",
+            "conversation_id": "1428989065823723521",
+            "created_at": "2021-08-21T07:55:17.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "1315062587789279234"
+        },
+        "id": 1428989065823723521,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 1315062587789279234,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428989065823723521,
+        "created_at": "2021-08-21T07:55:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428953900741140488",
+            "conversation_id": "1428953900741140488",
+            "created_at": "2021-08-21T05:35:33.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "324667020"
+        },
+        "id": 1428953900741140488,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 324667020,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428953900741140488,
+        "created_at": "2021-08-21T05:35:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 201,
+                        "end": 208,
+                        "probability": 0.7239,
+                        "type": "Organization",
+                        "normalized_text": "Facebook"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 226,
+                        "end": 249,
+                        "url": "https://t.co/HrnK6a4s11",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "id": "1428934532946927625",
+            "conversation_id": "1428934532946927625",
+            "created_at": "2021-08-21T04:18:35.000Z",
+            "reply_settings": "everyone",
+            "text": "The group of people who are seriously skeptical about treatment and prevention regimes widely accepted in the medical community has an odd intersection with people who believe whatever some dipshit on Facebook says will work. https://t.co/HrnK6a4s11",
+            "author_id": "1089393994830934016"
+        },
+        "id": 1428934532946927625,
+        "text": "The group of people who are seriously skeptical about treatment and prevention regimes widely accepted in the medical community has an odd intersection with people who believe whatever some dipshit on Facebook says will work. https://t.co/HrnK6a4s11",
+        "attachments": null,
+        "author_id": 1089393994830934016,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428934532946927625,
+        "created_at": "2021-08-21T04:18:35+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 201,
+                    "end": 208,
+                    "probability": 0.7239,
+                    "type": "Organization",
+                    "normalized_text": "Facebook"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 226,
+                    "end": 249,
+                    "url": "https://t.co/HrnK6a4s11",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428934451854143491",
+            "conversation_id": "1428934451854143491",
+            "created_at": "2021-08-21T04:18:16.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "204838170"
+        },
+        "id": 1428934451854143491,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 204838170,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428934451854143491,
+        "created_at": "2021-08-21T04:18:16+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428932984002945031",
+            "conversation_id": "1428932984002945031",
+            "created_at": "2021-08-21T04:12:26.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "800338689339445252"
+        },
+        "id": 1428932984002945031,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 800338689339445252,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428932984002945031,
+        "created_at": "2021-08-21T04:12:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428925925261910020",
+            "conversation_id": "1428925925261910020",
+            "created_at": "2021-08-21T03:44:23.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "77661814"
+        },
+        "id": 1428925925261910020,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 77661814,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428925925261910020,
+        "created_at": "2021-08-21T03:44:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428919940942159872",
+            "conversation_id": "1428919940942159872",
+            "created_at": "2021-08-21T03:20:36.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "28062887"
+        },
+        "id": 1428919940942159872,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 28062887,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428919940942159872,
+        "created_at": "2021-08-21T03:20:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428919503606386691",
+            "conversation_id": "1428919503606386691",
+            "created_at": "2021-08-21T03:18:52.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "220733712"
+        },
+        "id": 1428919503606386691,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 220733712,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428919503606386691,
+        "created_at": "2021-08-21T03:18:52+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                }
+            ],
+            "id": "1428910606090833924",
+            "conversation_id": "1428910606090833924",
+            "created_at": "2021-08-21T02:43:31.000Z",
+            "reply_settings": "everyone",
+            "text": "This world. https://t.co/24p9J1WJvb",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 12,
+                        "end": 35,
+                        "url": "https://t.co/24p9J1WJvb",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "author_id": "14125226"
+        },
+        "id": 1428910606090833924,
+        "text": "This world. https://t.co/24p9J1WJvb",
+        "attachments": null,
+        "author_id": 14125226,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428910606090833924,
+        "created_at": "2021-08-21T02:43:31+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 12,
+                    "end": 35,
+                    "url": "https://t.co/24p9J1WJvb",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPad",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428910261470121984",
+            "conversation_id": "1428910261470121984",
+            "created_at": "2021-08-21T02:42:08.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "15694863"
+        },
+        "id": 1428910261470121984,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 15694863,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428910261470121984,
+        "created_at": "2021-08-21T02:42:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 5,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                }
+            ],
+            "id": "1428895186332041217",
+            "conversation_id": "1428895186332041217",
+            "created_at": "2021-08-21T01:42:14.000Z",
+            "reply_settings": "everyone",
+            "text": "whether or not ivermectin works on covid I have no idea, but the concept that you can't take medicine intended for animals even when the active ingredient is exactly the same strikes me as weird. like man I'd take horse ketamine why not horse ivermectin https://t.co/DPyfQfMCj3",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 254,
+                        "end": 277,
+                        "url": "https://t.co/DPyfQfMCj3",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "author_id": "809294810054098944"
+        },
+        "id": 1428895186332041217,
+        "text": "whether or not ivermectin works on covid I have no idea, but the concept that you can't take medicine intended for animals even when the active ingredient is exactly the same strikes me as weird. like man I'd take horse ketamine why not horse ivermectin https://t.co/DPyfQfMCj3",
+        "attachments": null,
+        "author_id": 809294810054098944,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428895186332041217,
+        "created_at": "2021-08-21T01:42:14+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 254,
+                    "end": 277,
+                    "url": "https://t.co/DPyfQfMCj3",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 5,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                }
+            ],
+            "id": "1428894806718259207",
+            "conversation_id": "1428894806718259207",
+            "created_at": "2021-08-21T01:40:44.000Z",
+            "reply_settings": "everyone",
+            "text": "He sadly was not alone https://t.co/bnZNCV29gX",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 23,
+                        "end": 46,
+                        "url": "https://t.co/bnZNCV29gX",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "author_id": "540494743"
+        },
+        "id": 1428894806718259207,
+        "text": "He sadly was not alone https://t.co/bnZNCV29gX",
+        "attachments": null,
+        "author_id": 540494743,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428894806718259207,
+        "created_at": "2021-08-21T01:40:44+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 23,
+                    "end": 46,
+                    "url": "https://t.co/bnZNCV29gX",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428894368111464449",
+            "conversation_id": "1428894368111464449",
+            "created_at": "2021-08-21T01:38:59.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "307328942"
+        },
+        "id": 1428894368111464449,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 307328942,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428894368111464449,
+        "created_at": "2021-08-21T01:38:59+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428893109073502215",
+            "conversation_id": "1428893109073502215",
+            "created_at": "2021-08-21T01:33:59.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "1360031692967219203"
+        },
+        "id": 1428893109073502215,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 1360031692967219203,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428893109073502215,
+        "created_at": "2021-08-21T01:33:59+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428892000384786440",
+            "conversation_id": "1428892000384786440",
+            "created_at": "2021-08-21T01:29:35.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "1319996927291740160"
+        },
+        "id": 1428892000384786440,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 1319996927291740160,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428892000384786440,
+        "created_at": "2021-08-21T01:29:35+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "716495980036685824",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "und",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1425521698967900160"
+                }
+            ],
+            "id": "1428891865508630529",
+            "conversation_id": "1425521698967900160",
+            "created_at": "2021-08-21T01:29:02.000Z",
+            "reply_settings": "everyone",
+            "text": "https://t.co/QC3dXYcdoW",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/QC3dXYcdoW",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360?s=19",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "author_id": "716495980036685824"
+        },
+        "id": 1428891865508630529,
+        "text": "https://t.co/QC3dXYcdoW",
+        "attachments": null,
+        "author_id": 716495980036685824,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1425521698967900160,
+        "created_at": "2021-08-21T01:29:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/QC3dXYcdoW",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360?s=19",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 716495980036685824,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1425521698967900160"
+                },
+                "id": 1425521698967900160,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428891820008775680",
+            "conversation_id": "1428891820008775680",
+            "created_at": "2021-08-21T01:28:52.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "730303305226670080"
+        },
+        "id": 1428891820008775680,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 730303305226670080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428891820008775680,
+        "created_at": "2021-08-21T01:28:52+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428890744241098753",
+            "conversation_id": "1428890744241098753",
+            "created_at": "2021-08-21T01:24:35.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "1248260351134584834"
+        },
+        "id": 1428890744241098753,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 1248260351134584834,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428890744241098753,
+        "created_at": "2021-08-21T01:24:35+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "TweetDeck",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Theophite",
+                        "id": "268052347"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                }
+            ],
+            "id": "1428890330263339012",
+            "conversation_id": "1428890330263339012",
+            "created_at": "2021-08-21T01:22:56.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+            "author_id": "1342500619140157443"
+        },
+        "id": 1428890330263339012,
+        "text": "RT @Theophite: this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is mu\u2026",
+        "attachments": null,
+        "author_id": 1342500619140157443,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428890330263339012,
+        "created_at": "2021-08-21T01:22:56+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Theophite",
+                    "id": "268052347"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1428890163929702400"
+                },
+                "id": 1428890163929702400,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 7,
+                "like_count": 201,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                }
+            ],
+            "id": "1428890163929702400",
+            "conversation_id": "1428890163929702400",
+            "created_at": "2021-08-21T01:22:17.000Z",
+            "reply_settings": "everyone",
+            "text": "this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is murdering thousands of americans https://t.co/rcCzALhXYv",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 155,
+                        "end": 178,
+                        "url": "https://t.co/rcCzALhXYv",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "author_id": "268052347"
+        },
+        "id": 1428890163929702400,
+        "text": "this dude used to be a huge pain in the ass for me on G+ and i never paid too much attention to him and now his advice is murdering thousands of americans https://t.co/rcCzALhXYv",
+        "attachments": null,
+        "author_id": 268052347,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428890163929702400,
+        "created_at": "2021-08-21T01:22:17+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 155,
+                    "end": 178,
+                    "url": "https://t.co/rcCzALhXYv",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 15,
+            "reply_count": 7,
+            "like_count": 201,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 10,
+                        "end": 25,
+                        "username": "robertwrighter",
+                        "id": "111456333"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 26,
+                        "end": 49,
+                        "url": "https://t.co/ijgqHbeTAB",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1070710938410479617",
+                        "name": "Robert Wright",
+                        "description": "American journalist, born 1957"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1070710938410479617",
+                        "name": "Robert Wright",
+                        "description": "American journalist, born 1957"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                }
+            ],
+            "id": "1428884357167542277",
+            "conversation_id": "1428884357167542277",
+            "created_at": "2021-08-21T00:59:12.000Z",
+            "reply_settings": "everyone",
+            "text": "Attention @robertwrighter https://t.co/ijgqHbeTAB",
+            "author_id": "22337786"
+        },
+        "id": 1428884357167542277,
+        "text": "Attention @robertwrighter https://t.co/ijgqHbeTAB",
+        "attachments": null,
+        "author_id": 22337786,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1070710938410479617",
+                    "name": "Robert Wright",
+                    "description": "American journalist, born 1957"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1070710938410479617",
+                    "name": "Robert Wright",
+                    "description": "American journalist, born 1957"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428884357167542277,
+        "created_at": "2021-08-21T00:59:12+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 10,
+                    "end": 25,
+                    "username": "robertwrighter",
+                    "id": "111456333"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 26,
+                    "end": 49,
+                    "url": "https://t.co/ijgqHbeTAB",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "probability": 0.9696,
+                        "type": "Person",
+                        "normalized_text": "Mr. Ed"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/Jy3wtsJF4g",
+                        "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                        "display_url": "twitter.com/ASFleischman/s\u2026"
+                    }
+                ]
+            },
+            "id": "1428882748312330240",
+            "conversation_id": "1428882748312330240",
+            "created_at": "2021-08-21T00:52:49.000Z",
+            "reply_settings": "everyone",
+            "text": "Mr. Ed says \u201c...\u201d https://t.co/Jy3wtsJF4g",
+            "author_id": "2222314358"
+        },
+        "id": 1428882748312330240,
+        "text": "Mr. Ed says \u201c...\u201d https://t.co/Jy3wtsJF4g",
+        "attachments": null,
+        "author_id": 2222314358,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1428882748312330240,
+        "created_at": "2021-08-21T00:52:49+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "probability": 0.9696,
+                    "type": "Person",
+                    "normalized_text": "Mr. Ed"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/Jy3wtsJF4g",
+                    "expanded_url": "https://twitter.com/ASFleischman/status/1428870835813732360",
+                    "display_url": "twitter.com/ASFleischman/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1428870835813732360"
+                },
+                "id": 1428870835813732360,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

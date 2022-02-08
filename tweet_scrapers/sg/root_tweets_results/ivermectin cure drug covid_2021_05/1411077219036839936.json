@@ -1,0 +1,703 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 5,
+                        "end": 14,
+                        "probability": 0.291,
+                        "type": "Organization",
+                        "normalized_text": "Cox Health"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 118,
+                        "end": 141,
+                        "url": "https://t.co/XXvDxpMepR",
+                        "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                        "display_url": "twitter.com/kytv/status/14\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-07-03T12:32:28.000Z",
+            "author_id": "2358571848",
+            "lang": "en",
+            "id": "1411301817816866819",
+            "conversation_id": "1411301817816866819",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Does Cox Health get a reimbursement for the covid vaccinations from the federal government?  If so I wonder how much? https://t.co/XXvDxpMepR",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1411301817816866819,
+        "text": "Does Cox Health get a reimbursement for the covid vaccinations from the federal government?  If so I wonder how much? https://t.co/XXvDxpMepR",
+        "attachments": null,
+        "author_id": 2358571848,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1411301817816866819,
+        "created_at": "2021-07-03T12:32:28+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 5,
+                    "end": 14,
+                    "probability": 0.291,
+                    "type": "Organization",
+                    "normalized_text": "Cox Health"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 118,
+                    "end": 141,
+                    "url": "https://t.co/XXvDxpMepR",
+                    "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                    "display_url": "twitter.com/kytv/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                },
+                "id": 1411077219036839936,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                }
+            ],
+            "created_at": "2021-07-03T01:50:27.000Z",
+            "author_id": "46194602",
+            "lang": "en",
+            "id": "1411140249443524612",
+            "conversation_id": "1411140249443524612",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "The medical profession isn't about science, it is about politics.  If I have natural COVID antibodies, why should I get the non-tested vaccine?  I had a beta test shot with anthrax in 1990.  I ain't doing your bullshit again, fucking \"scientists.\" https://t.co/OwzVI4KFK4",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 248,
+                        "end": 271,
+                        "url": "https://t.co/OwzVI4KFK4",
+                        "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                        "display_url": "twitter.com/kytv/status/14\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1411140249443524612,
+        "text": "The medical profession isn't about science, it is about politics.  If I have natural COVID antibodies, why should I get the non-tested vaccine?  I had a beta test shot with anthrax in 1990.  I ain't doing your bullshit again, fucking \"scientists.\" https://t.co/OwzVI4KFK4",
+        "attachments": null,
+        "author_id": 46194602,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1411140249443524612,
+        "created_at": "2021-07-03T01:50:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 248,
+                    "end": 271,
+                    "url": "https://t.co/OwzVI4KFK4",
+                    "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                    "display_url": "twitter.com/kytv/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                },
+                "id": 1411077219036839936,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "Rasmussen_Poll",
+                        "id": "19553409"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 32,
+                        "end": 45,
+                        "probability": 0.422,
+                        "type": "Organization",
+                        "normalized_text": "Cox health CEO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/XXvDxpMepR",
+                        "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                        "display_url": "twitter.com/kytv/status/14\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1411083671646445570"
+                }
+            ],
+            "created_at": "2021-07-02T22:26:38.000Z",
+            "author_id": "2358571848",
+            "lang": "en",
+            "id": "1411088957740400641",
+            "in_reply_to_user_id": "19553409",
+            "conversation_id": "1411083671646445570",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@Rasmussen_Poll Then we got the Cox health CEO telling folks to shut up.  https://t.co/XXvDxpMepR",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1411088957740400641,
+        "text": "@Rasmussen_Poll Then we got the Cox health CEO telling folks to shut up.  https://t.co/XXvDxpMepR",
+        "attachments": null,
+        "author_id": 2358571848,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1411083671646445570,
+        "created_at": "2021-07-02T22:26:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "Rasmussen_Poll",
+                    "id": "19553409"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 32,
+                    "end": 45,
+                    "probability": 0.422,
+                    "type": "Organization",
+                    "normalized_text": "Cox health CEO"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/XXvDxpMepR",
+                    "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                    "display_url": "twitter.com/kytv/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 19553409,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                },
+                "id": 1411077219036839936,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1411083671646445570"
+                },
+                "id": 1411083671646445570,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                }
+            ],
+            "created_at": "2021-07-02T22:01:55.000Z",
+            "author_id": "179672281",
+            "lang": "en",
+            "id": "1411082736077529089",
+            "conversation_id": "1411082736077529089",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "Full send https://t.co/Np3SNpxacC",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/Np3SNpxacC",
+                        "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                        "display_url": "twitter.com/kytv/status/14\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1411082736077529089,
+        "text": "Full send https://t.co/Np3SNpxacC",
+        "attachments": null,
+        "author_id": 179672281,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1411082736077529089,
+        "created_at": "2021-07-02T22:01:55+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/Np3SNpxacC",
+                    "expanded_url": "https://twitter.com/kytv/status/1411077219036839936",
+                    "display_url": "twitter.com/kytv/status/14\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1411077219036839936"
+                },
+                "id": 1411077219036839936,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

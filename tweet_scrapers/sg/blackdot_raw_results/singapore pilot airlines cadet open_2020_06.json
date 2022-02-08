@@ -1,0 +1,275 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "865159399978934272",
+                        "name": "Singapore Airlines",
+                        "description": "Singapore Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "text": "Is #SingaporeAirlines\u2019 cadet pilot programme only open to citizens of India? Find out more here \ud83d\udc49\ud83c\udffb https://t.co/yAEDy8Wvg5\n\n#FactCheck https://t.co/f1zFVfeO2A",
+            "attachments": {
+                "media_keys": [
+                    "3_1283684799975051266"
+                ]
+            },
+            "id": "1283684922100576261",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "entities": {
+                "urls": [
+                    {
+                        "start": 99,
+                        "end": 122,
+                        "url": "https://t.co/yAEDy8Wvg5",
+                        "expanded_url": "https://bit.ly/3fyEspD",
+                        "display_url": "bit.ly/3fyEspD"
+                    },
+                    {
+                        "start": 135,
+                        "end": 158,
+                        "url": "https://t.co/f1zFVfeO2A",
+                        "expanded_url": "https://twitter.com/BDRFactCheck/status/1283684922100576261/photo/1",
+                        "display_url": "pic.twitter.com/f1zFVfeO2A"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 3,
+                        "end": 21,
+                        "tag": "SingaporeAirlines"
+                    },
+                    {
+                        "start": 124,
+                        "end": 134,
+                        "tag": "FactCheck"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 70,
+                        "end": 74,
+                        "probability": 0.9898,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ]
+            },
+            "conversation_id": "1283684922100576261",
+            "author_id": "1037962426954604549",
+            "created_at": "2020-07-16T08:48:29.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1283684922100576261,
+        "text": "Is #SingaporeAirlines\u2019 cadet pilot programme only open to citizens of India? Find out more here \ud83d\udc49\ud83c\udffb https://t.co/yAEDy8Wvg5\n\n#FactCheck https://t.co/f1zFVfeO2A",
+        "attachments": {
+            "media_keys": [
+                "3_1283684799975051266"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "865159399978934272",
+                    "name": "Singapore Airlines",
+                    "description": "Singapore Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1283684922100576261,
+        "created_at": "2020-07-16T08:48:29+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 99,
+                    "end": 122,
+                    "url": "https://t.co/yAEDy8Wvg5",
+                    "expanded_url": "https://bit.ly/3fyEspD",
+                    "display_url": "bit.ly/3fyEspD"
+                },
+                {
+                    "start": 135,
+                    "end": 158,
+                    "url": "https://t.co/f1zFVfeO2A",
+                    "expanded_url": "https://twitter.com/BDRFactCheck/status/1283684922100576261/photo/1",
+                    "display_url": "pic.twitter.com/f1zFVfeO2A"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 3,
+                    "end": 21,
+                    "tag": "SingaporeAirlines"
+                },
+                {
+                    "start": 124,
+                    "end": 134,
+                    "tag": "FactCheck"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 70,
+                    "end": 74,
+                    "probability": 0.9898,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

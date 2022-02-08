@@ -1,0 +1,103 @@
+[
+    {
+        "data": {
+            "source": "Facebook",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 108,
+                        "end": 131,
+                        "url": "https://t.co/swb2GVyaxW",
+                        "expanded_url": "https://blackdotresearch.sg/did-nhk-world-japan-expose-the-actual-state-of-poverty-in-singapore/",
+                        "display_url": "blackdotresearch.sg/did-nhk-world-\u2026",
+                        "status": 200,
+                        "unwound_url": "https://blackdotresearch.sg/did-nhk-world-japan-expose-the-actual-state-of-poverty-in-singapore/"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 8,
+                        "end": 15,
+                        "probability": 0.8735,
+                        "type": "Person",
+                        "normalized_text": "Alex Tan"
+                    },
+                    {
+                        "start": 97,
+                        "end": 105,
+                        "probability": 0.9892,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "lang": "en",
+            "author_id": "2241703081",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1118420161835540480",
+            "text": "Hearsay Alex Tan self appointed himself to be the strategic leader for all opposition parties in Singapore. https://t.co/swb2GVyaxW",
+            "conversation_id": "1118420161835540480",
+            "created_at": "2019-04-17T07:45:20.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1118420161835540480,
+        "text": "Hearsay Alex Tan self appointed himself to be the strategic leader for all opposition parties in Singapore. https://t.co/swb2GVyaxW",
+        "attachments": null,
+        "author_id": 2241703081,
+        "context_annotations": [],
+        "conversation_id": 1118420161835540480,
+        "created_at": "2019-04-17T07:45:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/swb2GVyaxW",
+                    "expanded_url": "https://blackdotresearch.sg/did-nhk-world-japan-expose-the-actual-state-of-poverty-in-singapore/",
+                    "display_url": "blackdotresearch.sg/did-nhk-world-\u2026",
+                    "status": 200,
+                    "unwound_url": "https://blackdotresearch.sg/did-nhk-world-japan-expose-the-actual-state-of-poverty-in-singapore/"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 8,
+                    "end": 15,
+                    "probability": 0.8735,
+                    "type": "Person",
+                    "normalized_text": "Alex Tan"
+                },
+                {
+                    "start": 97,
+                    "end": 105,
+                    "probability": 0.9892,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Facebook",
+        "withheld": null
+    }
+]

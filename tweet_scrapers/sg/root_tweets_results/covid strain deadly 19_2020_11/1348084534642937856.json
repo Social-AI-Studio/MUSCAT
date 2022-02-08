@@ -1,0 +1,124 @@
+[
+    {
+        "data": {
+            "author_id": "230765789",
+            "id": "1348092890686365697",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1348084534642937856"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "BobCratchitt",
+                        "id": "21535182"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 14,
+                        "end": 37,
+                        "url": "https://t.co/YTQFdMLkA9",
+                        "expanded_url": "https://twitter.com/kare11/status/1348084534642937856",
+                        "display_url": "twitter.com/kare11/status/\u2026"
+                    }
+                ]
+            },
+            "text": "@BobCratchitt https://t.co/YTQFdMLkA9",
+            "lang": "und",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "21535182",
+            "created_at": "2021-01-10T02:22:46.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1348092890686365697",
+            "source": "Twitter for iPad",
+            "reply_settings": "everyone"
+        },
+        "id": 1348092890686365697,
+        "text": "@BobCratchitt https://t.co/YTQFdMLkA9",
+        "attachments": null,
+        "author_id": 230765789,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1348092890686365697,
+        "created_at": "2021-01-10T02:22:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "BobCratchitt",
+                    "id": "21535182"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 14,
+                    "end": 37,
+                    "url": "https://t.co/YTQFdMLkA9",
+                    "expanded_url": "https://twitter.com/kare11/status/1348084534642937856",
+                    "display_url": "twitter.com/kare11/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 21535182,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1348084534642937856"
+                },
+                "id": 1348084534642937856,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

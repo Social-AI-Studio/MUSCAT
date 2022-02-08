@@ -1,0 +1,315 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10024011738",
+                        "name": "Apple - iPhone"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "49",
+                        "name": "Product Version",
+                        "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+                    },
+                    "entity": {
+                        "id": "1437817461345189889",
+                        "name": "Iphone 13"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10024011738",
+                        "name": "Apple - iPhone"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "848985956778561538",
+                        "name": "Mobile",
+                        "description": "Mobile"
+                    }
+                }
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 110,
+                        "end": 120,
+                        "tag": "FactCheck"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 11,
+                        "end": 19,
+                        "probability": 0.8976,
+                        "type": "Product",
+                        "normalized_text": "iPhone 13"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 85,
+                        "end": 108,
+                        "url": "https://t.co/eBxh9bMTzU",
+                        "expanded_url": "https://bit.ly/3o0b8zG",
+                        "display_url": "bit.ly/3o0b8zG",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1440943088420093955/3zQpePRB?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 686
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1440943088420093955/3zQpePRB?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Is the new iPhone 13 a location-tracking, money-making scheme? - Black Dot Research",
+                        "description": "Black Dot Research is part of the Black Dot Communications Group based in Singapore. We are a market and social research agency specialising in understanding and analysing the views and opinions of Singaporeans. Our agile and robust research methods uncover insights that matter the most to the local landscape.",
+                        "unwound_url": "https://blackdotresearch.sg/iphone-13-location-tracking-chip/"
+                    },
+                    {
+                        "start": 121,
+                        "end": 144,
+                        "url": "https://t.co/GvQvhivXGz",
+                        "expanded_url": "https://twitter.com/BDResearch_SG/status/1440943066794192897/photo/1",
+                        "display_url": "pic.twitter.com/GvQvhivXGz"
+                    }
+                ]
+            },
+            "author_id": "1037962426954604549",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1440942880038658050"
+                ]
+            },
+            "text": "Is the new iPhone 13 just a location-tracking, money-making scheme? Find out here \ud83d\udc49\ud83c\udffb https://t.co/eBxh9bMTzU\n\n#FactCheck https://t.co/GvQvhivXGz",
+            "id": "1440943066794192897",
+            "source": "Twitter Web App",
+            "conversation_id": "1440943066794192897",
+            "possibly_sensitive": false,
+            "created_at": "2021-09-23T07:36:13.000Z"
+        },
+        "id": 1440943066794192897,
+        "text": "Is the new iPhone 13 just a location-tracking, money-making scheme? Find out here \ud83d\udc49\ud83c\udffb https://t.co/eBxh9bMTzU\n\n#FactCheck https://t.co/GvQvhivXGz",
+        "attachments": {
+            "media_keys": [
+                "3_1440942880038658050"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10024011738",
+                    "name": "Apple - iPhone"
+                }
+            },
+            {
+                "domain": {
+                    "id": "49",
+                    "name": "Product Version",
+                    "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+                },
+                "entity": {
+                    "id": "1437817461345189889",
+                    "name": "Iphone 13"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10024011738",
+                    "name": "Apple - iPhone"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "848985956778561538",
+                    "name": "Mobile",
+                    "description": "Mobile"
+                }
+            }
+        ],
+        "conversation_id": 1440943066794192897,
+        "created_at": "2021-09-23T07:36:13+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 110,
+                    "end": 120,
+                    "tag": "FactCheck"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 19,
+                    "probability": 0.8976,
+                    "type": "Product",
+                    "normalized_text": "iPhone 13"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 85,
+                    "end": 108,
+                    "url": "https://t.co/eBxh9bMTzU",
+                    "expanded_url": "https://bit.ly/3o0b8zG",
+                    "display_url": "bit.ly/3o0b8zG",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1440943088420093955/3zQpePRB?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 686
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1440943088420093955/3zQpePRB?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Is the new iPhone 13 a location-tracking, money-making scheme? - Black Dot Research",
+                    "description": "Black Dot Research is part of the Black Dot Communications Group based in Singapore. We are a market and social research agency specialising in understanding and analysing the views and opinions of Singaporeans. Our agile and robust research methods uncover insights that matter the most to the local landscape.",
+                    "unwound_url": "https://blackdotresearch.sg/iphone-13-location-tracking-chip/"
+                },
+                {
+                    "start": 121,
+                    "end": 144,
+                    "url": "https://t.co/GvQvhivXGz",
+                    "expanded_url": "https://twitter.com/BDResearch_SG/status/1440943066794192897/photo/1",
+                    "display_url": "pic.twitter.com/GvQvhivXGz"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

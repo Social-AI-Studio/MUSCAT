@@ -1,0 +1,363 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/COvBvJXtMM",
+                        "expanded_url": "https://twitter.com/mariasundaram/status/1405675218593533955",
+                        "display_url": "twitter.com/mariasundaram/\u2026"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1405695434828308480",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405675218593533955"
+                }
+            ],
+            "geo": {
+                "place_id": "2b78ee9f58b991a8"
+            },
+            "author_id": "28421045",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "825064747179466752",
+                        "name": "Ice cream",
+                        "description": "Ice Cream"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-06-18T01:14:42.000Z",
+            "source": "Twitter for Android",
+            "text": "I feel better now https://t.co/COvBvJXtMM",
+            "id": "1405695434828308480",
+            "possibly_sensitive": false
+        },
+        "id": 1405695434828308480,
+        "text": "I feel better now https://t.co/COvBvJXtMM",
+        "attachments": null,
+        "author_id": 28421045,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825064747179466752",
+                    "name": "Ice cream",
+                    "description": "Ice Cream"
+                }
+            }
+        ],
+        "conversation_id": 1405695434828308480,
+        "created_at": "2021-06-18T01:14:42+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/COvBvJXtMM",
+                    "expanded_url": "https://twitter.com/mariasundaram/status/1405675218593533955",
+                    "display_url": "twitter.com/mariasundaram/\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "2b78ee9f58b991a8"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405675218593533955"
+                },
+                "id": 1405675218593533955,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 51,
+                        "end": 74,
+                        "url": "https://t.co/4fMu9hOFvM",
+                        "expanded_url": "https://twitter.com/mariasundaram/status/1405675218593533955",
+                        "display_url": "twitter.com/mariasundaram/\u2026"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1405687569472446464",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405675218593533955"
+                }
+            ],
+            "author_id": "1151601157879619584",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "825064747179466752",
+                        "name": "Ice cream",
+                        "description": "Ice Cream"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2021-06-18T00:43:27.000Z",
+            "source": "Twitter for Android",
+            "text": "A wonderful explanation regarding vaccine mixing \ud83d\udc47 https://t.co/4fMu9hOFvM",
+            "id": "1405687569472446464",
+            "possibly_sensitive": false
+        },
+        "id": 1405687569472446464,
+        "text": "A wonderful explanation regarding vaccine mixing \ud83d\udc47 https://t.co/4fMu9hOFvM",
+        "attachments": null,
+        "author_id": 1151601157879619584,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825064747179466752",
+                    "name": "Ice cream",
+                    "description": "Ice Cream"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405687569472446464,
+        "created_at": "2021-06-18T00:43:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 51,
+                    "end": 74,
+                    "url": "https://t.co/4fMu9hOFvM",
+                    "expanded_url": "https://twitter.com/mariasundaram/status/1405675218593533955",
+                    "display_url": "twitter.com/mariasundaram/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405675218593533955"
+                },
+                "id": 1405675218593533955,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

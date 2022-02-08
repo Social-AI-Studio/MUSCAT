@@ -1,0 +1,87 @@
+[
+    {
+        "data": {
+            "author_id": "16881384",
+            "id": "1166550447865204736",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "conversation_id": "1166527433975242752",
+            "lang": "und",
+            "reply_settings": "everyone",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1166527433975242752"
+                }
+            ],
+            "created_at": "2019-08-28T03:17:54.000Z",
+            "text": "https://t.co/ta8vZlT9Q8",
+            "in_reply_to_user_id": "16881384",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/ta8vZlT9Q8",
+                        "expanded_url": "https://youtu.be/inv2FyCaNQ0",
+                        "display_url": "youtu.be/inv2FyCaNQ0",
+                        "status": 200,
+                        "unwound_url": "https://www.youtube.com/watch?v=inv2FyCaNQ0&feature=youtu.be"
+                    }
+                ]
+            }
+        },
+        "id": 1166550447865204736,
+        "text": "https://t.co/ta8vZlT9Q8",
+        "attachments": null,
+        "author_id": 16881384,
+        "context_annotations": [],
+        "conversation_id": 1166527433975242752,
+        "created_at": "2019-08-28T03:17:54+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/ta8vZlT9Q8",
+                    "expanded_url": "https://youtu.be/inv2FyCaNQ0",
+                    "display_url": "youtu.be/inv2FyCaNQ0",
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=inv2FyCaNQ0&feature=youtu.be"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 16881384,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1166527433975242752"
+                },
+                "id": 1166527433975242752,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

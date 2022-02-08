@@ -1,0 +1,108 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-01-14T20:23:56.000Z",
+            "author_id": "958677463466377216",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1349814526976401411",
+            "text": "is expected to be imposed after the emergence of a new Covid variant in the South American nation.\nThe Brazilian mutation is the third variant identified by scientists in recent weeks as a cause for concern worldwide\u201d\u2026\u2026..UK i newspaper",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349814525139300354"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1349814525139300354",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "958677463466377216",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 221,
+                        "end": 222,
+                        "probability": 0.8598,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1349814526976401411,
+        "text": "is expected to be imposed after the emergence of a new Covid variant in the South American nation.\nThe Brazilian mutation is the third variant identified by scientists in recent weeks as a cause for concern worldwide\u201d\u2026\u2026..UK i newspaper",
+        "attachments": null,
+        "author_id": 958677463466377216,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1349814525139300354,
+        "created_at": "2021-01-14T20:23:56+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 221,
+                    "end": 222,
+                    "probability": 0.8598,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 958677463466377216,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349814525139300354"
+                },
+                "id": 1349814525139300354,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

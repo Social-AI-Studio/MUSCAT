@@ -1,0 +1,169 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1396525113734926338"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 80,
+                        "end": 95,
+                        "username": "SerumInstIndia",
+                        "id": "925599812510138368"
+                    },
+                    {
+                        "start": 217,
+                        "end": 221,
+                        "username": "WHO",
+                        "id": "14499829"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 96,
+                        "end": 107,
+                        "tag": "Covishield"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 145,
+                        "end": 151,
+                        "probability": 0.2566,
+                        "type": "Person",
+                        "normalized_text": "Covaxin"
+                    },
+                    {
+                        "start": 191,
+                        "end": 197,
+                        "probability": 0.3474,
+                        "type": "Person",
+                        "normalized_text": "Covaxin"
+                    }
+                ]
+            },
+            "created_at": "2021-05-23T18:03:26.000Z",
+            "text": "Multiple reports said that over 130 countries across the globe currently accept @SerumInstIndia #Covishield vaccine to enter their country while Covaxin is accepted in only nine nations Also,Covaxin is not yet on the @WHO Emergency Use Listing (EUL).",
+            "lang": "en",
+            "in_reply_to_user_id": "794647707050770432",
+            "id": "1396527206264836096",
+            "author_id": "794647707050770432",
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "5c0761bdffa0cb64"
+            },
+            "source": "Twitter for iPhone",
+            "conversation_id": "1396525113734926338",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ]
+        },
+        "id": 1396527206264836096,
+        "text": "Multiple reports said that over 130 countries across the globe currently accept @SerumInstIndia #Covishield vaccine to enter their country while Covaxin is accepted in only nine nations Also,Covaxin is not yet on the @WHO Emergency Use Listing (EUL).",
+        "attachments": null,
+        "author_id": 794647707050770432,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1396525113734926338,
+        "created_at": "2021-05-23T18:03:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 80,
+                    "end": 95,
+                    "username": "SerumInstIndia",
+                    "id": "925599812510138368"
+                },
+                {
+                    "start": 217,
+                    "end": 221,
+                    "username": "WHO",
+                    "id": "14499829"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 96,
+                    "end": 107,
+                    "tag": "Covishield"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 145,
+                    "end": 151,
+                    "probability": 0.2566,
+                    "type": "Person",
+                    "normalized_text": "Covaxin"
+                },
+                {
+                    "start": 191,
+                    "end": 197,
+                    "probability": 0.3474,
+                    "type": "Person",
+                    "normalized_text": "Covaxin"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "5c0761bdffa0cb64"
+        },
+        "in_reply_to_user_id": 794647707050770432,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1396525113734926338"
+                },
+                "id": 1396525113734926338,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

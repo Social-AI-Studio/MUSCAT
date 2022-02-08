@@ -1,0 +1,1806 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 112,
+                        "end": 124,
+                        "probability": 0.9083,
+                        "type": "Place",
+                        "normalized_text": "United States"
+                    },
+                    {
+                        "start": 130,
+                        "end": 135,
+                        "probability": 0.9914,
+                        "type": "Person",
+                        "normalized_text": "Donald"
+                    },
+                    {
+                        "start": 150,
+                        "end": 164,
+                        "probability": 0.9814,
+                        "type": "Person",
+                        "normalized_text": "Joseph R. Biden"
+                    },
+                    {
+                        "start": 167,
+                        "end": 169,
+                        "probability": 0.9615,
+                        "type": "Person",
+                        "normalized_text": "Jr."
+                    },
+                    {
+                        "start": 191,
+                        "end": 203,
+                        "probability": 0.8976,
+                        "type": "Place",
+                        "normalized_text": "United States"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "url": "https://t.co/mKjQVcsqx8",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "id": "1357478519698259971",
+            "conversation_id": "1357478519698259971",
+            "created_at": "2021-02-04T23:57:54.000Z",
+            "reply_settings": "everyone",
+            "text": "It is fraud to call yourself President when you are not currently president. There is only one president of the United States and Donald you are not. Joseph R. Biden, Jr. Is President of the United States \ud83d\ude0e https://t.co/mKjQVcsqx8",
+            "author_id": "3008109046"
+        },
+        "id": 1357478519698259971,
+        "text": "It is fraud to call yourself President when you are not currently president. There is only one president of the United States and Donald you are not. Joseph R. Biden, Jr. Is President of the United States \ud83d\ude0e https://t.co/mKjQVcsqx8",
+        "attachments": null,
+        "author_id": 3008109046,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1357478519698259971,
+        "created_at": "2021-02-04T23:57:54+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 112,
+                    "end": 124,
+                    "probability": 0.9083,
+                    "type": "Place",
+                    "normalized_text": "United States"
+                },
+                {
+                    "start": 130,
+                    "end": 135,
+                    "probability": 0.9914,
+                    "type": "Person",
+                    "normalized_text": "Donald"
+                },
+                {
+                    "start": 150,
+                    "end": 164,
+                    "probability": 0.9814,
+                    "type": "Person",
+                    "normalized_text": "Joseph R. Biden"
+                },
+                {
+                    "start": 167,
+                    "end": 169,
+                    "probability": 0.9615,
+                    "type": "Person",
+                    "normalized_text": "Jr."
+                },
+                {
+                    "start": 191,
+                    "end": 203,
+                    "probability": 0.8976,
+                    "type": "Place",
+                    "normalized_text": "United States"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 207,
+                    "end": 230,
+                    "url": "https://t.co/mKjQVcsqx8",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "no",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357463575397208065",
+            "conversation_id": "1357463575397208065",
+            "created_at": "2021-02-04T22:58:31.000Z",
+            "reply_settings": "everyone",
+            "text": "\"elder statesman\" https://t.co/l68gQxKMuB",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/l68gQxKMuB",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "1004560746"
+        },
+        "id": 1357463575397208065,
+        "text": "\"elder statesman\" https://t.co/l68gQxKMuB",
+        "attachments": null,
+        "author_id": 1004560746,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357463575397208065,
+        "created_at": "2021-02-04T22:58:31+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/l68gQxKMuB",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "no",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "808680051151511552",
+                        "name": "James Corden",
+                        "description": "James Corden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "58",
+                        "name": "Entertainment Personality",
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+                    },
+                    "entity": {
+                        "id": "808680051151511552",
+                        "name": "James Corden",
+                        "description": "James Corden"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.998,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 183,
+                        "end": 194,
+                        "probability": 0.9966,
+                        "type": "Person",
+                        "normalized_text": "James Corden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/LRCPv5G4bB",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "id": "1357425263869575170",
+            "conversation_id": "1357425263869575170",
+            "created_at": "2021-02-04T20:26:17.000Z",
+            "reply_settings": "everyone",
+            "text": "Trump to SAG-AFTRA: You can't discipline me, I quit. I think he must have gotten that from his impeachment trial lawyers--you can't find him guilty, he's not there any more.  I liked James Corden's take on it. You can't give me a speeding ticket, Officer, I'm not speeding now.\ud83e\udd14 https://t.co/LRCPv5G4bB",
+            "author_id": "793016966"
+        },
+        "id": 1357425263869575170,
+        "text": "Trump to SAG-AFTRA: You can't discipline me, I quit. I think he must have gotten that from his impeachment trial lawyers--you can't find him guilty, he's not there any more.  I liked James Corden's take on it. You can't give me a speeding ticket, Officer, I'm not speeding now.\ud83e\udd14 https://t.co/LRCPv5G4bB",
+        "attachments": null,
+        "author_id": 793016966,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "808680051151511552",
+                    "name": "James Corden",
+                    "description": "James Corden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "58",
+                    "name": "Entertainment Personality",
+                    "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+                },
+                "entity": {
+                    "id": "808680051151511552",
+                    "name": "James Corden",
+                    "description": "James Corden"
+                }
+            }
+        ],
+        "conversation_id": 1357425263869575170,
+        "created_at": "2021-02-04T20:26:17+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "probability": 0.998,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 183,
+                    "end": 194,
+                    "probability": 0.9966,
+                    "type": "Person",
+                    "normalized_text": "James Corden"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/LRCPv5G4bB",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357417741129449472",
+            "conversation_id": "1357417741129449472",
+            "created_at": "2021-02-04T19:56:23.000Z",
+            "reply_settings": "everyone",
+            "text": "Sarcasm is back! https://t.co/byLK8J32ys",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/byLK8J32ys",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "17095121"
+        },
+        "id": 1357417741129449472,
+        "text": "Sarcasm is back! https://t.co/byLK8J32ys",
+        "attachments": null,
+        "author_id": 17095121,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357417741129449472,
+        "created_at": "2021-02-04T19:56:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/byLK8J32ys",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357417214324793347",
+            "conversation_id": "1357417214324793347",
+            "created_at": "2021-02-04T19:54:18.000Z",
+            "reply_settings": "everyone",
+            "text": "Love! https://t.co/gQZi9i8FNz",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/gQZi9i8FNz",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "25307864"
+        },
+        "id": 1357417214324793347,
+        "text": "Love! https://t.co/gQZi9i8FNz",
+        "attachments": null,
+        "author_id": 25307864,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357417214324793347,
+        "created_at": "2021-02-04T19:54:18+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 6,
+                    "end": 29,
+                    "url": "https://t.co/gQZi9i8FNz",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "tl",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357415387248394249",
+            "conversation_id": "1357415387248394249",
+            "created_at": "2021-02-04T19:47:02.000Z",
+            "reply_settings": "everyone",
+            "text": "Bwahahahaha.\nBunch of snobs xD https://t.co/H6CTdJhRsg",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/H6CTdJhRsg",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "1343300730"
+        },
+        "id": 1357415387248394249,
+        "text": "Bwahahahaha.\nBunch of snobs xD https://t.co/H6CTdJhRsg",
+        "attachments": null,
+        "author_id": 1343300730,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357415387248394249,
+        "created_at": "2021-02-04T19:47:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 31,
+                    "end": 54,
+                    "url": "https://t.co/H6CTdJhRsg",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "tl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357415151905853440",
+            "conversation_id": "1357415151905853440",
+            "created_at": "2021-02-04T19:46:06.000Z",
+            "reply_settings": "everyone",
+            "text": "This tweet makes me happy. \u263a\ufe0f https://t.co/ITFa0Mvr4y",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 30,
+                        "end": 53,
+                        "url": "https://t.co/ITFa0Mvr4y",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "739232454"
+        },
+        "id": 1357415151905853440,
+        "text": "This tweet makes me happy. \u263a\ufe0f https://t.co/ITFa0Mvr4y",
+        "attachments": null,
+        "author_id": 739232454,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357415151905853440,
+        "created_at": "2021-02-04T19:46:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 30,
+                    "end": 53,
+                    "url": "https://t.co/ITFa0Mvr4y",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357413891656015885",
+            "conversation_id": "1357413891656015885",
+            "created_at": "2021-02-04T19:41:05.000Z",
+            "reply_settings": "everyone",
+            "text": "I don't miss that crap https://t.co/eA1yqELjkf",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 23,
+                        "end": 46,
+                        "url": "https://t.co/eA1yqELjkf",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "235353292"
+        },
+        "id": 1357413891656015885,
+        "text": "I don't miss that crap https://t.co/eA1yqELjkf",
+        "attachments": null,
+        "author_id": 235353292,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357413891656015885,
+        "created_at": "2021-02-04T19:41:05+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 23,
+                    "end": 46,
+                    "url": "https://t.co/eA1yqELjkf",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 21,
+                        "end": 37,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 38,
+                        "end": 61,
+                        "url": "https://t.co/Pvt8dGicxZ",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357413891639152640",
+            "conversation_id": "1357413891639152640",
+            "created_at": "2021-02-04T19:41:05.000Z",
+            "reply_settings": "everyone",
+            "text": "President of what?\n\n.@realDonaldTrump https://t.co/Pvt8dGicxZ",
+            "author_id": "467684598"
+        },
+        "id": 1357413891639152640,
+        "text": "President of what?\n\n.@realDonaldTrump https://t.co/Pvt8dGicxZ",
+        "attachments": null,
+        "author_id": 467684598,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357413891639152640,
+        "created_at": "2021-02-04T19:41:05+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 21,
+                    "end": 37,
+                    "username": "realDonaldTrump",
+                    "id": "25073877"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 38,
+                    "end": 61,
+                    "url": "https://t.co/Pvt8dGicxZ",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPad",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357412442800873472",
+            "conversation_id": "1357412442800873472",
+            "created_at": "2021-02-04T19:35:20.000Z",
+            "reply_settings": "everyone",
+            "text": "Don\u2019t let the door hit you in your soiled diaper clad ass on the way out! https://t.co/Ann3QZgL7U",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/Ann3QZgL7U",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "79628884"
+        },
+        "id": 1357412442800873472,
+        "text": "Don\u2019t let the door hit you in your soiled diaper clad ass on the way out! https://t.co/Ann3QZgL7U",
+        "attachments": null,
+        "author_id": 79628884,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357412442800873472,
+        "created_at": "2021-02-04T19:35:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/Ann3QZgL7U",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "und",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357412330477387776",
+            "conversation_id": "1357412330477387776",
+            "created_at": "2021-02-04T19:34:53.000Z",
+            "reply_settings": "everyone",
+            "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\ude02 https://t.co/OjO0PJKQ6f",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 5,
+                        "end": 28,
+                        "url": "https://t.co/OjO0PJKQ6f",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "14804672"
+        },
+        "id": 1357412330477387776,
+        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\ude02 https://t.co/OjO0PJKQ6f",
+        "attachments": null,
+        "author_id": 14804672,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357412330477387776,
+        "created_at": "2021-02-04T19:34:53+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 5,
+                    "end": 28,
+                    "url": "https://t.co/OjO0PJKQ6f",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                }
+            ],
+            "id": "1357412000897372162",
+            "conversation_id": "1357412000897372162",
+            "created_at": "2021-02-04T19:33:35.000Z",
+            "reply_settings": "everyone",
+            "text": "Bye-bye!!!  #SAG  thank, you, the millions of you everywhere!! https://t.co/L8fSH6TlY7",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 63,
+                        "end": 86,
+                        "url": "https://t.co/L8fSH6TlY7",
+                        "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                        "display_url": "twitter.com/petersagal/sta\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 12,
+                        "end": 16,
+                        "tag": "SAG"
+                    }
+                ]
+            },
+            "author_id": "103699687"
+        },
+        "id": 1357412000897372162,
+        "text": "Bye-bye!!!  #SAG  thank, you, the millions of you everywhere!! https://t.co/L8fSH6TlY7",
+        "attachments": null,
+        "author_id": 103699687,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1357412000897372162,
+        "created_at": "2021-02-04T19:33:35+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/L8fSH6TlY7",
+                    "expanded_url": "https://twitter.com/petersagal/status/1357410981954138115",
+                    "display_url": "twitter.com/petersagal/sta\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 12,
+                    "end": 16,
+                    "tag": "SAG"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357410981954138115"
+                },
+                "id": 1357410981954138115,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

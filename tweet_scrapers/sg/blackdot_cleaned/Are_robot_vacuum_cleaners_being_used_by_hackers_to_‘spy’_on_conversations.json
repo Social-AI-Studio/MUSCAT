@@ -1,0 +1,19 @@
+{
+    "link": "https://blackdotresearch.sg/robot-vacuum-cleaners-spy-conversations/",
+    "Title": "Are robot vacuum cleaners being used by hackers to \u2018spy\u2019 on conversations?  ",
+    "Tags": [],
+    "Paragraphs": "\nAs compared to attempting to debunk claims that have been made, we seek to demystify an article that has generated buzz among members of the public in this fact-check.\nThe article in question, titled \u201cRobot vacuum cleaners can be used by hackers to \u2018spy\u2019 on private conversations: NUS study\u201d was published on CNA and garnered a mix of reactions from netizens, ranging from the bemused to the worried:\n\nAs a quick summary, the article reveals the findings of computer scientists from the National University of Singapore (NUS), who have discovered that a robot vacuum cleaner could use its built-in Light Detection and Ranging sensor (also known as LiDAR; which is normally used to help a robot vacuum navigate around a home) to \u201cspy\u201d on private conversations. The research paper can be found here.\nThis method is called \u2018LidarPhone\u2019, and repurposes the LiDAR sensor into a laser-based microphone that can \u201csense sounds from vibrations induced on nearby objects\u201d. Below is a screenshot from the paper, depicting how a LidarPhone attack could happen.\n\nAccording to the study, the team implemented LidarPhone on a Xiaomi Roborock vacuum cleaning robot and\u00a0used the prototype to collect both spoken digits and music played by a computer speaker and a TV soundbar. They collected more than 30,000 utterances totalling over 19 hours of recorded audio, and achieved approximately 91% and 90% average accuracies of digit and music classifications, respectively.\n\u201cThe seemingly innocuous information extracted by our model may leak privacy sensitive information including credit card, bank account, and/or social security numbers, as well as the victim\u2019s political orientation from news introduction music,\u201d the team wrote in their paper.\nIs there a cause for concern?\nIt is important to note that in order for LidarPhone to work, the researchers had to override the standard interface that the robot came with (which is typically connected to the Xiaomi cloud ecosystem for its standard operations and data exchange). They also needed to design hardware spoofing circuitry to mislead the LiDAR unit into activating its laser (to pick up sounds/vibrations) despite not rotating.\nDue to this, the team recommended LiDAR sensor manufacturers to incorporate a mechanism that cannot be overridden to prevent the internal laser from firing when the LiDAR is not rotating.\nThey also advised members of the public with robot vacuum cleaners to not connect them to the internet.\n\u201cIn the long term, we should consider whether our desire to have increasingly \u2018smart\u2019 homes is worth the potential privacy implications,\u201d said Assistant Professor Jun Han, who led the study. \u201cWe might have to accept that each new Internet-connected sensing device brought into our homes poses an additional risk to our privacy, and make our choices carefully.\u201d\nTherefore, it is inaccurate to jump to the conclusion that our robot vacuum cleaners are currently spying on us.\n\nRegardless, there is still no harm in heeding the advice of the researchers.\n",
+    "Image Sources": "https://blackdotresearch.sg/wp-content/uploads/2020/12/robotvacuumspy-800x800.png",
+    "Iframe Sources": [],
+    "date": "2020-12-09T07:15:06+00:00",
+    "Links in content": [
+        "https://www.channelnewsasia.com/news/singapore/robot-vacuum-cleaners-hackers-spy-private-conversations-nus-13717064",
+        "https://dl.acm.org/doi/pdf/10.1145/3384419.3430781"
+    ],
+    "Author": "Melissa Chan",
+    "banner": "https://blackdotresearch.sg/wp-content/uploads/2020/12/robotvacuumspy-800x800.png",
+    "Truefalse": [
+        "inaccurate"
+    ],
+    "Description": ""
+}

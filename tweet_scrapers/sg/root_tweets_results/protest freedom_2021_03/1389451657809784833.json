@@ -1,0 +1,3220 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "1137025566706561027",
+                        "name": "PMO India"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596157251587",
+                        "name": "Government/Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597226729473",
+                        "name": "Non-profit"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T07:38:48.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 37,
+                        "end": 60,
+                        "url": "https://t.co/wCxKReS5Wt",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "UNHumanRights",
+                        "id": "69231187"
+                    },
+                    {
+                        "start": 16,
+                        "end": 25,
+                        "username": "HMOIndia",
+                        "id": "2541363451"
+                    },
+                    {
+                        "start": 27,
+                        "end": 36,
+                        "username": "PMOIndia",
+                        "id": "471741741"
+                    }
+                ]
+            },
+            "author_id": "141514496",
+            "lang": "und",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389484640377860100",
+            "text": "@UNHumanRights \n@HMOIndia \n@PMOIndia https://t.co/wCxKReS5Wt",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389484640377860100",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "69231187",
+            "reply_settings": "everyone"
+        },
+        "id": 1389484640377860100,
+        "text": "@UNHumanRights \n@HMOIndia \n@PMOIndia https://t.co/wCxKReS5Wt",
+        "attachments": null,
+        "author_id": 141514496,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "1137025566706561027",
+                    "name": "PMO India"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596157251587",
+                    "name": "Government/Education"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597226729473",
+                    "name": "Non-profit"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10044311823",
+                    "name": "United Nations",
+                    "description": "Global conversation about the United Nations and all related efforts."
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "10044311823",
+                    "name": "United Nations",
+                    "description": "Global conversation about the United Nations and all related efforts."
+                }
+            }
+        ],
+        "conversation_id": 1389484640377860100,
+        "created_at": "2021-05-04T07:38:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 37,
+                    "end": 60,
+                    "url": "https://t.co/wCxKReS5Wt",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "UNHumanRights",
+                    "id": "69231187"
+                },
+                {
+                    "start": 16,
+                    "end": 25,
+                    "username": "HMOIndia",
+                    "id": "2541363451"
+                },
+                {
+                    "start": 27,
+                    "end": 36,
+                    "username": "PMOIndia",
+                    "id": "471741741"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 69231187,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T07:38:02.000Z",
+            "author_id": "1350341155326627840",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389484450275229701",
+            "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389484450275229701",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "chakusameer",
+                        "id": "149853503"
+                    },
+                    {
+                        "start": 41,
+                        "end": 54,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 122,
+                        "end": 136,
+                        "username": "goelgauravbjp",
+                        "id": "4001264052"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1389484450275229701,
+        "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+        "attachments": null,
+        "author_id": 1350341155326627840,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389484450275229701,
+        "created_at": "2021-05-04T07:38:02+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "chakusameer",
+                    "id": "149853503"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 122,
+                    "end": 136,
+                    "username": "goelgauravbjp",
+                    "id": "4001264052"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                },
+                "id": 1389466420111503361,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T07:31:22.000Z",
+            "author_id": "1265730897967489026",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389482769735114754",
+            "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389482769735114754",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "chakusameer",
+                        "id": "149853503"
+                    },
+                    {
+                        "start": 41,
+                        "end": 54,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 122,
+                        "end": 136,
+                        "username": "goelgauravbjp",
+                        "id": "4001264052"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1389482769735114754,
+        "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+        "attachments": null,
+        "author_id": 1265730897967489026,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389482769735114754,
+        "created_at": "2021-05-04T07:31:22+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "chakusameer",
+                    "id": "149853503"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 122,
+                    "end": 136,
+                    "username": "goelgauravbjp",
+                    "id": "4001264052"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                },
+                "id": 1389466420111503361,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T07:01:30.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 60,
+                        "end": 83,
+                        "url": "https://t.co/L0R9l0ODDJ",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ]
+            },
+            "author_id": "896285934978650112",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389475253827477504",
+            "text": "Khud pe bhi Bharosha rakh aur tweet ka alwa kuch kaam Kar.. https://t.co/L0R9l0ODDJ",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389475253827477504",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389475253827477504,
+        "text": "Khud pe bhi Bharosha rakh aur tweet ka alwa kuch kaam Kar.. https://t.co/L0R9l0ODDJ",
+        "attachments": null,
+        "author_id": 896285934978650112,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389475253827477504,
+        "created_at": "2021-05-04T07:01:30+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 60,
+                    "end": 83,
+                    "url": "https://t.co/L0R9l0ODDJ",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T07:01:19.000Z",
+            "author_id": "2321986229",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389475209653022725",
+            "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389475209653022725",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "chakusameer",
+                        "id": "149853503"
+                    },
+                    {
+                        "start": 41,
+                        "end": 54,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 122,
+                        "end": 136,
+                        "username": "goelgauravbjp",
+                        "id": "4001264052"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1389475209653022725,
+        "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+        "attachments": null,
+        "author_id": 2321986229,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389475209653022725,
+        "created_at": "2021-05-04T07:01:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "chakusameer",
+                    "id": "149853503"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 122,
+                    "end": 136,
+                    "username": "goelgauravbjp",
+                    "id": "4001264052"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                },
+                "id": 1389466420111503361,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:59:02.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 71,
+                        "end": 94,
+                        "url": "https://t.co/IqRIpG6KyX",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 56,
+                        "end": 70,
+                        "username": "goelgauravbjp",
+                        "id": "4001264052"
+                    }
+                ]
+            },
+            "author_id": "1107736668092747776",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389474635255717890",
+            "text": "Bhai Kuchh nahi Karega  Ye.Inko  world Leader Banna hai.@goelgauravbjp https://t.co/IqRIpG6KyX",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389474635255717890",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389474635255717890,
+        "text": "Bhai Kuchh nahi Karega  Ye.Inko  world Leader Banna hai.@goelgauravbjp https://t.co/IqRIpG6KyX",
+        "attachments": null,
+        "author_id": 1107736668092747776,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389474635255717890,
+        "created_at": "2021-05-04T06:59:02+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 71,
+                    "end": 94,
+                    "url": "https://t.co/IqRIpG6KyX",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 56,
+                    "end": 70,
+                    "username": "goelgauravbjp",
+                    "id": "4001264052"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:58:23.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 19,
+                        "end": 42,
+                        "url": "https://t.co/w7yCjCLdEF",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1355623196133896194",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389474472072302593",
+            "text": "\u0938\u093e\u0939\u092c \u091c\u093e\u0917 \u0917\u092f\u0947 \u0915\u094d\u092f\u093e? https://t.co/w7yCjCLdEF",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389474472072302593",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389474472072302593,
+        "text": "\u0938\u093e\u0939\u092c \u091c\u093e\u0917 \u0917\u092f\u0947 \u0915\u094d\u092f\u093e? https://t.co/w7yCjCLdEF",
+        "attachments": null,
+        "author_id": 1355623196133896194,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389474472072302593,
+        "created_at": "2021-05-04T06:58:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 42,
+                    "url": "https://t.co/w7yCjCLdEF",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:54:07.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 202,
+                        "end": 225,
+                        "url": "https://t.co/eM7xjKk37q",
+                        "expanded_url": "https://twitter.com/saraswatsunil1/status/1389473395625144321/photo/1",
+                        "display_url": "pic.twitter.com/eM7xjKk37q"
+                    },
+                    {
+                        "start": 226,
+                        "end": 249,
+                        "url": "https://t.co/vne4mfOjRf",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 187,
+                        "end": 201,
+                        "tag": "BangalBurning"
+                    }
+                ]
+            },
+            "author_id": "1107871504992092160",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389473395625144321",
+            "text": "\u0915\u093e\u0930\u0938\u0947\u0935\u093e \u0915\u0930\u0928\u0947 \u0915\u0940 \u0938\u091c\u093e \u092e\u093f\u0932\u0940 \u0925\u0940 \u0917\u094b\u0927\u0930\u093e \u092e\u0947\u0902.\n\u092d\u093e\u091c\u092a\u093e \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u094d\u0924\u093e \u0939\u094b\u0928\u0947 \u0915\u0940 \u0938\u091c\u093e \u092d\u0941\u0917\u0924 \u0930\u0939\u093e \u0939\u0948 \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902.\n\u092a\u0939\u0932\u0947 \u0906\u092a \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0925\u0947 \u0932\u0947\u0915\u093f\u0928 \u0906\u091c \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u0939\u0948.\n\u092a\u0939\u0932\u0947 \u092d\u0940 \u0930\u093e\u091c\u0927\u0930\u094d\u092e \u0928\u093f\u092d\u093e\u092f\u093e \u0925\u093e \u0915\u0943\u092a\u092f\u093e \u0906\u091c \u092d\u0940 \u0928\u093f\u092d\u093e\u090f \ud83d\ude4f\ud83c\udffb.#BangalBurning https://t.co/eM7xjKk37q https://t.co/vne4mfOjRf",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1389473395625144321",
+            "possibly_sensitive": true,
+            "attachments": {
+                "media_keys": [
+                    "3_1389473389656506369"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1389473395625144321,
+        "text": "\u0915\u093e\u0930\u0938\u0947\u0935\u093e \u0915\u0930\u0928\u0947 \u0915\u0940 \u0938\u091c\u093e \u092e\u093f\u0932\u0940 \u0925\u0940 \u0917\u094b\u0927\u0930\u093e \u092e\u0947\u0902.\n\u092d\u093e\u091c\u092a\u093e \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u094d\u0924\u093e \u0939\u094b\u0928\u0947 \u0915\u0940 \u0938\u091c\u093e \u092d\u0941\u0917\u0924 \u0930\u0939\u093e \u0939\u0948 \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902.\n\u092a\u0939\u0932\u0947 \u0906\u092a \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0925\u0947 \u0932\u0947\u0915\u093f\u0928 \u0906\u091c \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u0939\u0948.\n\u092a\u0939\u0932\u0947 \u092d\u0940 \u0930\u093e\u091c\u0927\u0930\u094d\u092e \u0928\u093f\u092d\u093e\u092f\u093e \u0925\u093e \u0915\u0943\u092a\u092f\u093e \u0906\u091c \u092d\u0940 \u0928\u093f\u092d\u093e\u090f \ud83d\ude4f\ud83c\udffb.#BangalBurning https://t.co/eM7xjKk37q https://t.co/vne4mfOjRf",
+        "attachments": {
+            "media_keys": [
+                "3_1389473389656506369"
+            ]
+        },
+        "author_id": 1107871504992092160,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389473395625144321,
+        "created_at": "2021-05-04T06:54:07+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 202,
+                    "end": 225,
+                    "url": "https://t.co/eM7xjKk37q",
+                    "expanded_url": "https://twitter.com/saraswatsunil1/status/1389473395625144321/photo/1",
+                    "display_url": "pic.twitter.com/eM7xjKk37q"
+                },
+                {
+                    "start": 226,
+                    "end": 249,
+                    "url": "https://t.co/vne4mfOjRf",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 187,
+                    "end": 201,
+                    "tag": "BangalBurning"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": true,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:50:41.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 59,
+                        "end": 82,
+                        "url": "https://t.co/tkEi18WsMu",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1291008553788911616",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389472533699731462",
+            "text": "\u091c\u092c \u0938\u092c \u092e\u0930 \u091c\u093e\u090f\u0902\u0917\u0947 \u0924\u092c \u0905\u092a\u0928\u093e \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0905\u092a\u0928\u0947 \u092a\u093e\u0938 \u0930\u0916\u094b \u092a\u092c\u094d\u0932\u093f\u0915 \u092e\u0924 \u0915\u0930\u094b https://t.co/tkEi18WsMu",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389472533699731462",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389472533699731462,
+        "text": "\u091c\u092c \u0938\u092c \u092e\u0930 \u091c\u093e\u090f\u0902\u0917\u0947 \u0924\u092c \u0905\u092a\u0928\u093e \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0905\u092a\u0928\u0947 \u092a\u093e\u0938 \u0930\u0916\u094b \u092a\u092c\u094d\u0932\u093f\u0915 \u092e\u0924 \u0915\u0930\u094b https://t.co/tkEi18WsMu",
+        "attachments": null,
+        "author_id": 1291008553788911616,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389472533699731462,
+        "created_at": "2021-05-04T06:50:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 59,
+                    "end": 82,
+                    "url": "https://t.co/tkEi18WsMu",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:36:26.000Z",
+            "author_id": "70093851",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389468946256908288",
+            "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389468946256908288",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "chakusameer",
+                        "id": "149853503"
+                    },
+                    {
+                        "start": 41,
+                        "end": 54,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 122,
+                        "end": 136,
+                        "username": "goelgauravbjp",
+                        "id": "4001264052"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1389468946256908288,
+        "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+        "attachments": null,
+        "author_id": 70093851,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389468946256908288,
+        "created_at": "2021-05-04T06:36:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "chakusameer",
+                    "id": "149853503"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 122,
+                    "end": 136,
+                    "username": "goelgauravbjp",
+                    "id": "4001264052"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                },
+                "id": 1389466420111503361,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:27:24.000Z",
+            "author_id": "1167202523330969601",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389466673296646146",
+            "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                }
+            ],
+            "source": "Microsoft Power Platform",
+            "conversation_id": "1389466673296646146",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "chakusameer",
+                        "id": "149853503"
+                    },
+                    {
+                        "start": 41,
+                        "end": 54,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 122,
+                        "end": 136,
+                        "username": "goelgauravbjp",
+                        "id": "4001264052"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1389466673296646146,
+        "text": "RT @chakusameer: \u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940\u2026",
+        "attachments": null,
+        "author_id": 1167202523330969601,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389466673296646146,
+        "created_at": "2021-05-04T06:27:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "chakusameer",
+                    "id": "149853503"
+                },
+                {
+                    "start": 41,
+                    "end": 54,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 122,
+                    "end": 136,
+                    "username": "goelgauravbjp",
+                    "id": "4001264052"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1389466420111503361"
+                },
+                "id": 1389466420111503361,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Microsoft Power Platform",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:26:24.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 209,
+                        "end": 232,
+                        "url": "https://t.co/WNzIsrRVz8",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 183,
+                        "end": 208,
+                        "tag": "\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 24,
+                        "end": 37,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 105,
+                        "end": 119,
+                        "username": "goelgauravbjp",
+                        "id": "4001264052"
+                    }
+                ]
+            },
+            "author_id": "149853503",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "id": "1389466420111503361",
+            "text": "\u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940 \u092c\u0902\u0917\u093e\u0932 \u0939\u093f\u0902\u0938\u093e \u090f\u0915 \u0937\u0921\u094d\u092f\u0902\u0924\u094d\u0930 \u0939\u0940 \u0924\u094b \u0939\u0948\u0964\n\n\u0939\u093e\u0930 \u092f\u093e \u091c\u0940\u0924 \u0924\u094b \u092c\u0939\u093e\u0928\u093e \u0939\u0948\u0964\n\n#\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930 https://t.co/WNzIsrRVz8",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389466420111503361",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389466420111503361,
+        "text": "\u0906\u092a\u0926\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0947\u0902 \u0935\u094d\u092f\u0938\u094d\u0924 @narendramodi\n\u091c\u0940 \u0915\u094b \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u0939\u093f\u0902\u0938\u093e \u0915\u0940 \u0924\u0930\u092b \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e \u092a\u0921\u093c\u0947 \u092f\u0939 \u0915\u0939\u093e\u0902 \u0924\u0915 \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e\u0964\n\n@goelgauravbjp \u091c\u0940 \u092c\u0902\u0917\u093e\u0932 \u0939\u093f\u0902\u0938\u093e \u090f\u0915 \u0937\u0921\u094d\u092f\u0902\u0924\u094d\u0930 \u0939\u0940 \u0924\u094b \u0939\u0948\u0964\n\n\u0939\u093e\u0930 \u092f\u093e \u091c\u0940\u0924 \u0924\u094b \u092c\u0939\u093e\u0928\u093e \u0939\u0948\u0964\n\n#\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930 https://t.co/WNzIsrRVz8",
+        "attachments": null,
+        "author_id": 149853503,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389466420111503361,
+        "created_at": "2021-05-04T06:26:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 209,
+                    "end": 232,
+                    "url": "https://t.co/WNzIsrRVz8",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 183,
+                    "end": 208,
+                    "tag": "\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 24,
+                    "end": 37,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 105,
+                    "end": 119,
+                    "username": "goelgauravbjp",
+                    "id": "4001264052"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:15:09.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 97,
+                        "end": 120,
+                        "url": "https://t.co/sR8azrjJ5A",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ]
+            },
+            "author_id": "2189955656",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389463591904940034",
+            "text": "Bhai kabhi kabhi jyada bharosa aadmi ko kamjor or apang bana deta h... India mai vahi ho rha h.. https://t.co/sR8azrjJ5A",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389463591904940034",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389463591904940034,
+        "text": "Bhai kabhi kabhi jyada bharosa aadmi ko kamjor or apang bana deta h... India mai vahi ho rha h.. https://t.co/sR8azrjJ5A",
+        "attachments": null,
+        "author_id": 2189955656,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389463591904940034,
+        "created_at": "2021-05-04T06:15:09+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 97,
+                    "end": 120,
+                    "url": "https://t.co/sR8azrjJ5A",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111315542407667712",
+                        "name": "Amit Shah",
+                        "description": "Amit Shah"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111315542407667712",
+                        "name": "Amit Shah",
+                        "description": "Amit Shah"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T06:03:56.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 154,
+                        "end": 177,
+                        "url": "https://t.co/JrFmE4LfrC",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 120,
+                        "end": 130,
+                        "tag": "PM_and_HM"
+                    },
+                    {
+                        "start": 131,
+                        "end": 153,
+                        "tag": "PresidentRuleInBengal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 74,
+                        "end": 84,
+                        "username": "BJP4India",
+                        "id": "207809313"
+                    },
+                    {
+                        "start": 85,
+                        "end": 94,
+                        "username": "AmitShah",
+                        "id": "1447949844"
+                    },
+                    {
+                        "start": 95,
+                        "end": 108,
+                        "username": "narendramodi",
+                        "id": "18839785"
+                    },
+                    {
+                        "start": 109,
+                        "end": 118,
+                        "username": "HMOIndia",
+                        "id": "2541363451"
+                    }
+                ]
+            },
+            "author_id": "1153677866162216961",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389460767380951043",
+            "text": "\u0939\u093e\u0902 \u092d\u093e\u0908 \u0905\u092d\u0940 1000 \u0914\u0930 \u092e\u093e\u0930 \u091c\u093e\u090f \u092b\u093f\u0930 \u0930\u094b\u091f\u093f\u092f\u093e\u0902 \u092d\u0940 \u0924\u094b \u0938\u0947\u0915\u0928\u093e \u0939\u0948 \u0907\u0928\u094d\u0939\u094b\u0928\u0947 ,\nShame on @BJP4India @AmitShah @narendramodi @HMOIndia \n#PM_and_HM\n#PresidentRuleInBengal https://t.co/JrFmE4LfrC",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389460767380951043",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389460767380951043,
+        "text": "\u0939\u093e\u0902 \u092d\u093e\u0908 \u0905\u092d\u0940 1000 \u0914\u0930 \u092e\u093e\u0930 \u091c\u093e\u090f \u092b\u093f\u0930 \u0930\u094b\u091f\u093f\u092f\u093e\u0902 \u092d\u0940 \u0924\u094b \u0938\u0947\u0915\u0928\u093e \u0939\u0948 \u0907\u0928\u094d\u0939\u094b\u0928\u0947 ,\nShame on @BJP4India @AmitShah @narendramodi @HMOIndia \n#PM_and_HM\n#PresidentRuleInBengal https://t.co/JrFmE4LfrC",
+        "attachments": null,
+        "author_id": 1153677866162216961,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111315542407667712",
+                    "name": "Amit Shah",
+                    "description": "Amit Shah"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111315542407667712",
+                    "name": "Amit Shah",
+                    "description": "Amit Shah"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389460767380951043,
+        "created_at": "2021-05-04T06:03:56+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 154,
+                    "end": 177,
+                    "url": "https://t.co/JrFmE4LfrC",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 120,
+                    "end": 130,
+                    "tag": "PM_and_HM"
+                },
+                {
+                    "start": 131,
+                    "end": 153,
+                    "tag": "PresidentRuleInBengal"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 74,
+                    "end": 84,
+                    "username": "BJP4India",
+                    "id": "207809313"
+                },
+                {
+                    "start": 85,
+                    "end": 94,
+                    "username": "AmitShah",
+                    "id": "1447949844"
+                },
+                {
+                    "start": 95,
+                    "end": 108,
+                    "username": "narendramodi",
+                    "id": "18839785"
+                },
+                {
+                    "start": 109,
+                    "end": 118,
+                    "username": "HMOIndia",
+                    "id": "2541363451"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T05:45:53.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 66,
+                        "end": 89,
+                        "url": "https://t.co/qRu4MZF8VN",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1343194280748146690",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389456224790351877",
+            "text": "\u0917\u0941\u091c\u0930\u093e\u0924 \u092e\u0947 \u0939\u091c\u093c\u093e\u0930\u094b \u0932\u094b\u0917\u094b \u0915\u094b \u092e\u0930\u0935\u093e\u0928\u0947 \u0935\u093e\u0932\u093e \u0938\u093e\u0902\u0918\u0940 \u092e\u094b\u0926\u0940  \u0905\u092a\u0928\u093e \u0926\u093f\u0928 \u092d\u0942\u0932\u0917\u093e\u092f\u093e https://t.co/qRu4MZF8VN",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389456224790351877",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389456224790351877,
+        "text": "\u0917\u0941\u091c\u0930\u093e\u0924 \u092e\u0947 \u0939\u091c\u093c\u093e\u0930\u094b \u0932\u094b\u0917\u094b \u0915\u094b \u092e\u0930\u0935\u093e\u0928\u0947 \u0935\u093e\u0932\u093e \u0938\u093e\u0902\u0918\u0940 \u092e\u094b\u0926\u0940  \u0905\u092a\u0928\u093e \u0926\u093f\u0928 \u092d\u0942\u0932\u0917\u093e\u092f\u093e https://t.co/qRu4MZF8VN",
+        "attachments": null,
+        "author_id": 1343194280748146690,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389456224790351877,
+        "created_at": "2021-05-04T05:45:53+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 66,
+                    "end": 89,
+                    "url": "https://t.co/qRu4MZF8VN",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T05:45:22.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/SQ0jEN44VL",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1267433191834411009",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389456094179725316",
+            "text": "\u092e\u093e\u0928\u0928\u0940\u092f \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0940 \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0905\u092a\u0928\u0947 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0914\u0930 \u0928\u093e\u0917\u0930\u093f\u0915\u094b\u0902 \u0915\u0940 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0915\u0947 \u0932\u093f\u090f \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947 \u0927\u0930\u0928\u093e \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u0915\u0940 \u0905\u0928\u0941\u092e\u0924\u093f \u0926\u0940 \u0939\u0948 \u0905\u092a\u0928\u0947 \u0928\u0947\u0924\u093e\u0913 \u0915\u094b \n\n\u0927\u0928\u094d\u092f \u0939\u094b \u091c\u093e\u0913 \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u0915\u0947 \u092c\u0940\u091c\u0947\u092a\u0940 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0927\u0928\u094d\u092f \u0939\u094b \u091c\u093e\u0913 \n\n\u0939\u092e \u0938\u092d\u0940 \u0928\u0924\u092e\u0938\u094d\u0924\u0915 \u0939\u0948 \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0940 \u0906\u092a\u0915\u0947 \u0907\u0924\u0928\u0947 \u0915\u0920\u094b\u0930 \u090f\u0915\u094d\u0936\u0928 \u0915\u0947  \n\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f https://t.co/SQ0jEN44VL",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1389456094179725316",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389456094179725316,
+        "text": "\u092e\u093e\u0928\u0928\u0940\u092f \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0940 \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0905\u092a\u0928\u0947 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0914\u0930 \u0928\u093e\u0917\u0930\u093f\u0915\u094b\u0902 \u0915\u0940 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0915\u0947 \u0932\u093f\u090f \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947 \u0927\u0930\u0928\u093e \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u0915\u0940 \u0905\u0928\u0941\u092e\u0924\u093f \u0926\u0940 \u0939\u0948 \u0905\u092a\u0928\u0947 \u0928\u0947\u0924\u093e\u0913 \u0915\u094b \n\n\u0927\u0928\u094d\u092f \u0939\u094b \u091c\u093e\u0913 \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u0915\u0947 \u092c\u0940\u091c\u0947\u092a\u0940 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0927\u0928\u094d\u092f \u0939\u094b \u091c\u093e\u0913 \n\n\u0939\u092e \u0938\u092d\u0940 \u0928\u0924\u092e\u0938\u094d\u0924\u0915 \u0939\u0948 \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0940 \u0906\u092a\u0915\u0947 \u0907\u0924\u0928\u0947 \u0915\u0920\u094b\u0930 \u090f\u0915\u094d\u0936\u0928 \u0915\u0947  \n\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f https://t.co/SQ0jEN44VL",
+        "attachments": null,
+        "author_id": 1267433191834411009,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389456094179725316,
+        "created_at": "2021-05-04T05:45:22+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 272,
+                    "end": 295,
+                    "url": "https://t.co/SQ0jEN44VL",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T05:35:20.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 23,
+                        "end": 46,
+                        "url": "https://t.co/FwdpxkSOgv",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1315783584175644672",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389453571205210120",
+            "text": "Bharosa toot raha hain https://t.co/FwdpxkSOgv",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389453571205210120",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389453571205210120,
+        "text": "Bharosa toot raha hain https://t.co/FwdpxkSOgv",
+        "attachments": null,
+        "author_id": 1315783584175644672,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389453571205210120,
+        "created_at": "2021-05-04T05:35:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 23,
+                    "end": 46,
+                    "url": "https://t.co/FwdpxkSOgv",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111315542407667712",
+                        "name": "Amit Shah",
+                        "description": "Amit Shah"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111315542407667712",
+                        "name": "Amit Shah",
+                        "description": "Amit Shah"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T05:34:23.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 53,
+                        "end": 76,
+                        "url": "https://t.co/nd6GDdvmGn",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 22,
+                        "tag": "PresidentRuleInBengal"
+                    },
+                    {
+                        "start": 23,
+                        "end": 42,
+                        "tag": "WestBengalViolence"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 43,
+                        "end": 52,
+                        "username": "AmitShah",
+                        "id": "1447949844"
+                    }
+                ]
+            },
+            "author_id": "2334672174",
+            "lang": "und",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389453330515210240",
+            "text": "#PresidentRuleInBengal #WestBengalViolence @AmitShah https://t.co/nd6GDdvmGn",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389453330515210240",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389453330515210240,
+        "text": "#PresidentRuleInBengal #WestBengalViolence @AmitShah https://t.co/nd6GDdvmGn",
+        "attachments": null,
+        "author_id": 2334672174,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111315542407667712",
+                    "name": "Amit Shah",
+                    "description": "Amit Shah"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111315542407667712",
+                    "name": "Amit Shah",
+                    "description": "Amit Shah"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389453330515210240,
+        "created_at": "2021-05-04T05:34:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 53,
+                    "end": 76,
+                    "url": "https://t.co/nd6GDdvmGn",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 22,
+                    "tag": "PresidentRuleInBengal"
+                },
+                {
+                    "start": 23,
+                    "end": 42,
+                    "tag": "WestBengalViolence"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 43,
+                    "end": 52,
+                    "username": "AmitShah",
+                    "id": "1447949844"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T05:30:50.000Z",
+            "author_id": "1385803564572844032",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1389452436725649410",
+            "text": "RT @ParasramKumawa5: \u0938\u0941\u0928\u094b \u092e\u094b\u0926\u0940 \u0935\u093f\u0930\u094b\u0927\u093f\u092f\u094b \u0938\u0941\u0928\u094b\n\n\u092e\u094b\u0926\u0940 \u0930\u093e\u092b\u0947\u0932 \u0916\u0930\u093f\u0926\u0924\u093e \u0939\u0948...\n\u0924\u094b \u092e\u094b\u0926\u0940 \u092c\u094d\u0930\u0939\u092e\u094d\u092e\u094b\u0938 \u092c\u0947\u091a\u0924\u093e \u092d\u0940 \u0939\u0948!pkb\n#\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1389452415041110019"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389452436725649410",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 104,
+                        "end": 129,
+                        "tag": "\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "ParasramKumawa5",
+                        "id": "1157942833157828608"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389452436725649410,
+        "text": "RT @ParasramKumawa5: \u0938\u0941\u0928\u094b \u092e\u094b\u0926\u0940 \u0935\u093f\u0930\u094b\u0927\u093f\u092f\u094b \u0938\u0941\u0928\u094b\n\n\u092e\u094b\u0926\u0940 \u0930\u093e\u092b\u0947\u0932 \u0916\u0930\u093f\u0926\u0924\u093e \u0939\u0948...\n\u0924\u094b \u092e\u094b\u0926\u0940 \u092c\u094d\u0930\u0939\u092e\u094d\u092e\u094b\u0938 \u092c\u0947\u091a\u0924\u093e \u092d\u0940 \u0939\u0948!pkb\n#\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930",
+        "attachments": null,
+        "author_id": 1385803564572844032,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389452436725649410,
+        "created_at": "2021-05-04T05:30:50+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 104,
+                    "end": 129,
+                    "tag": "\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "ParasramKumawa5",
+                    "id": "1157942833157828608"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1389452415041110019"
+                },
+                "id": 1389452415041110019,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi",
+                        "description": "Prime Minister of India Narendra Modi"
+                    }
+                }
+            ],
+            "created_at": "2021-05-04T05:30:45.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 109,
+                        "end": 132,
+                        "url": "https://t.co/DWNmmPiqVr",
+                        "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                        "display_url": "twitter.com/goelgauravbjp/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 83,
+                        "end": 108,
+                        "tag": "\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930"
+                    }
+                ]
+            },
+            "author_id": "1157942833157828608",
+            "lang": "hi",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1389452415041110019",
+            "text": "\u0938\u0941\u0928\u094b \u092e\u094b\u0926\u0940 \u0935\u093f\u0930\u094b\u0927\u093f\u092f\u094b \u0938\u0941\u0928\u094b\n\n\u092e\u094b\u0926\u0940 \u0930\u093e\u092b\u0947\u0932 \u0916\u0930\u093f\u0926\u0924\u093e \u0939\u0948...\n\u0924\u094b \u092e\u094b\u0926\u0940 \u092c\u094d\u0930\u0939\u092e\u094d\u092e\u094b\u0938 \u092c\u0947\u091a\u0924\u093e \u092d\u0940 \u0939\u0948!pkb\n#\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930 https://t.co/DWNmmPiqVr",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1389452415041110019",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1389452415041110019,
+        "text": "\u0938\u0941\u0928\u094b \u092e\u094b\u0926\u0940 \u0935\u093f\u0930\u094b\u0927\u093f\u092f\u094b \u0938\u0941\u0928\u094b\n\n\u092e\u094b\u0926\u0940 \u0930\u093e\u092b\u0947\u0932 \u0916\u0930\u093f\u0926\u0924\u093e \u0939\u0948...\n\u0924\u094b \u092e\u094b\u0926\u0940 \u092c\u094d\u0930\u0939\u092e\u094d\u092e\u094b\u0938 \u092c\u0947\u091a\u0924\u093e \u092d\u0940 \u0939\u0948!pkb\n#\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930 https://t.co/DWNmmPiqVr",
+        "attachments": null,
+        "author_id": 1157942833157828608,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "806566669166350336",
+                    "name": "Narendra Modi",
+                    "description": "Prime Minister of India Narendra Modi"
+                }
+            }
+        ],
+        "conversation_id": 1389452415041110019,
+        "created_at": "2021-05-04T05:30:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/DWNmmPiqVr",
+                    "expanded_url": "https://twitter.com/goelgauravbjp/status/1389451657809784833",
+                    "display_url": "twitter.com/goelgauravbjp/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 83,
+                    "end": 108,
+                    "tag": "\u0915\u094b\u0930\u094b\u0928\u093e_\u0915\u0940_\u0906\u0921_\u092e\u094b\u0926\u0940_\u092a\u0930_\u0935\u093e\u0930"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "hi",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1389451657809784833"
+                },
+                "id": 1389451657809784833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 50,
+                        "end": 73,
+                        "url": "https://t.co/L53fY5KQDv",
+                        "expanded_url": "https://twitter.com/steven_pifer/status/1108806795277946880",
+                        "display_url": "twitter.com/steven_pifer/s\u2026"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1108809547538284544",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1108806795277946880"
+                }
+            ],
+            "author_id": "737182979923939328",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "871795678447456256",
+                        "name": "The White House",
+                        "description": "Conversation from and about the White House, both as a destination and as political voice"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2019-03-21T19:16:11.000Z",
+            "source": "Twitter for iPad",
+            "text": ".remind you of a guy in the american white house? https://t.co/L53fY5KQDv",
+            "id": "1108809547538284544",
+            "possibly_sensitive": false
+        },
+        "id": 1108809547538284544,
+        "text": ".remind you of a guy in the american white house? https://t.co/L53fY5KQDv",
+        "attachments": null,
+        "author_id": 737182979923939328,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "871795678447456256",
+                    "name": "The White House",
+                    "description": "Conversation from and about the White House, both as a destination and as political voice"
+                }
+            }
+        ],
+        "conversation_id": 1108809547538284544,
+        "created_at": "2019-03-21T19:16:11+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 50,
+                    "end": 73,
+                    "url": "https://t.co/L53fY5KQDv",
+                    "expanded_url": "https://twitter.com/steven_pifer/status/1108806795277946880",
+                    "display_url": "twitter.com/steven_pifer/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1108806795277946880"
+                },
+                "id": 1108806795277946880,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

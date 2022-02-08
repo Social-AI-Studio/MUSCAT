@@ -1,0 +1,141 @@
+[
+    {
+        "data": {
+            "created_at": "2021-01-24T06:21:09.000Z",
+            "possibly_sensitive": false,
+            "id": "1353226312962465793",
+            "author_id": "1344727322",
+            "source": "Twitter for iPhone",
+            "text": "I\u2019m sure this is equally true in UK. How do we fix the structural inequalities? @jonnycurrie @RslewisSally https://t.co/62HN8NlvsB",
+            "reply_settings": "everyone",
+            "conversation_id": "1353226312962465793",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 33,
+                        "end": 34,
+                        "probability": 0.9943,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 93,
+                        "end": 106,
+                        "username": "RslewisSally",
+                        "id": "1360413692"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 107,
+                        "end": 130,
+                        "url": "https://t.co/62HN8NlvsB",
+                        "expanded_url": "https://twitter.com/DrHarryThomas/status/1353171365239672833",
+                        "display_url": "twitter.com/DrHarryThomas/\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1353171365239672833"
+                }
+            ]
+        },
+        "id": 1353226312962465793,
+        "text": "I\u2019m sure this is equally true in UK. How do we fix the structural inequalities? @jonnycurrie @RslewisSally https://t.co/62HN8NlvsB",
+        "attachments": null,
+        "author_id": 1344727322,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1353226312962465793,
+        "created_at": "2021-01-24T06:21:09+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 33,
+                    "end": 34,
+                    "probability": 0.9943,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 93,
+                    "end": 106,
+                    "username": "RslewisSally",
+                    "id": "1360413692"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 107,
+                    "end": 130,
+                    "url": "https://t.co/62HN8NlvsB",
+                    "expanded_url": "https://twitter.com/DrHarryThomas/status/1353171365239672833",
+                    "display_url": "twitter.com/DrHarryThomas/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1353171365239672833"
+                },
+                "id": 1353171365239672833,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

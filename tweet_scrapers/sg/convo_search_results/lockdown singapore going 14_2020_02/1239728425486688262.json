@@ -1,0 +1,849 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 221,
+                        "end": 235,
+                        "username": "aaronecarroll",
+                        "id": "26138276"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 20,
+                        "probability": 0.9952,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 190,
+                        "end": 198,
+                        "probability": 0.9602,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 260,
+                        "end": 262,
+                        "probability": 0.9748,
+                        "type": "Place",
+                        "normalized_text": "USA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 236,
+                        "end": 259,
+                        "url": "https://t.co/oNBuoaPU89",
+                        "expanded_url": "https://www.nytimes.com/2020/04/14/upshot/coronavirus-singapore-thinking-big.html",
+                        "display_url": "nytimes.com/2020/04/14/ups\u2026"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/LHlud8e35j",
+                        "expanded_url": "https://twitter.com/digiphile/status/1250130321762369537/photo/1",
+                        "display_url": "pic.twitter.com/LHlud8e35j"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/LHlud8e35j",
+                        "expanded_url": "https://twitter.com/digiphile/status/1250130321762369537/photo/1",
+                        "display_url": "pic.twitter.com/LHlud8e35j"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1239930026436497408"
+                }
+            ],
+            "created_at": "2020-04-14T18:34:29.000Z",
+            "author_id": "1175221",
+            "lang": "en",
+            "id": "1250130321762369537",
+            "in_reply_to_user_id": "1175221",
+            "conversation_id": "1239728425486688262",
+            "public_metrics": {
+                "retweet_count": 11,
+                "reply_count": 0,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "text": "\u201c\u2026people in Singapore have been operating in an environment that looks like what we might hope to create as we reopen \u2014 with safeguards beyond what we are probably going to achieve. And yet Singapore is in lockdown now.\u201d-@aaronecarroll https://t.co/oNBuoaPU89 USA must scale up. https://t.co/LHlud8e35j",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1250130314921422850",
+                    "3_1250130314933997569"
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1250130321762369537,
+        "text": "\u201c\u2026people in Singapore have been operating in an environment that looks like what we might hope to create as we reopen \u2014 with safeguards beyond what we are probably going to achieve. And yet Singapore is in lockdown now.\u201d-@aaronecarroll https://t.co/oNBuoaPU89 USA must scale up. https://t.co/LHlud8e35j",
+        "attachments": {
+            "media_keys": [
+                "3_1250130314921422850",
+                "3_1250130314933997569"
+            ]
+        },
+        "author_id": 1175221,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1239728425486688262,
+        "created_at": "2020-04-14T18:34:29+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 221,
+                    "end": 235,
+                    "username": "aaronecarroll",
+                    "id": "26138276"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 20,
+                    "probability": 0.9952,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 190,
+                    "end": 198,
+                    "probability": 0.9602,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 260,
+                    "end": 262,
+                    "probability": 0.9748,
+                    "type": "Place",
+                    "normalized_text": "USA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 236,
+                    "end": 259,
+                    "url": "https://t.co/oNBuoaPU89",
+                    "expanded_url": "https://www.nytimes.com/2020/04/14/upshot/coronavirus-singapore-thinking-big.html",
+                    "display_url": "nytimes.com/2020/04/14/ups\u2026"
+                },
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/LHlud8e35j",
+                    "expanded_url": "https://twitter.com/digiphile/status/1250130321762369537/photo/1",
+                    "display_url": "pic.twitter.com/LHlud8e35j"
+                },
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/LHlud8e35j",
+                    "expanded_url": "https://twitter.com/digiphile/status/1250130321762369537/photo/1",
+                    "display_url": "pic.twitter.com/LHlud8e35j"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1175221,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 11,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1239930026436497408"
+                },
+                "id": 1239930026436497408,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "VerneLaVurl",
+                        "id": "764622636"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1239932602817163264"
+                }
+            ],
+            "created_at": "2020-03-17T15:17:08.000Z",
+            "author_id": "1175221",
+            "lang": "en",
+            "id": "1239933796780310533",
+            "in_reply_to_user_id": "764622636",
+            "conversation_id": "1239728425486688262",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@VerneLaVurl If you're being trained as a soldier, that's probably more apt advice! :) \n\nThank you for your service.",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1239933796780310533,
+        "text": "@VerneLaVurl If you're being trained as a soldier, that's probably more apt advice! :) \n\nThank you for your service.",
+        "attachments": null,
+        "author_id": 1175221,
+        "context_annotations": [],
+        "conversation_id": 1239728425486688262,
+        "created_at": "2020-03-17T15:17:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "VerneLaVurl",
+                    "id": "764622636"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 764622636,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1239932602817163264"
+                },
+                "id": 1239932602817163264,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "digiphile",
+                        "id": "1175221"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1239930026436497408"
+                }
+            ],
+            "created_at": "2020-03-17T15:12:24.000Z",
+            "author_id": "764622636",
+            "lang": "en",
+            "id": "1239932602817163264",
+            "in_reply_to_user_id": "1175221",
+            "conversation_id": "1239728425486688262",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@digiphile I learned it as expect the worst. It came along with 15 minutes early is on time and some stuff about honor.",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1239932602817163264,
+        "text": "@digiphile I learned it as expect the worst. It came along with 15 minutes early is on time and some stuff about honor.",
+        "attachments": null,
+        "author_id": 764622636,
+        "context_annotations": [],
+        "conversation_id": 1239728425486688262,
+        "created_at": "2020-03-17T15:12:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "digiphile",
+                    "id": "1175221"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1175221,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1239930026436497408"
+                },
+                "id": 1239930026436497408,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1239728425486688262"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 108,
+                        "probability": 0.8647,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 83,
+                        "end": 106,
+                        "url": "https://t.co/UYNedXmtO8",
+                        "expanded_url": "https://ready.gov",
+                        "display_url": "ready.gov"
+                    },
+                    {
+                        "start": 158,
+                        "end": 181,
+                        "url": "https://t.co/63HD1FKlDA",
+                        "expanded_url": "https://www.theatlantic.com/ideas/archive/2020/03/after-cancellation-comes-triage/608146/",
+                        "display_url": "theatlantic.com/ideas/archive/\u2026"
+                    },
+                    {
+                        "start": 285,
+                        "end": 308,
+                        "url": "https://t.co/XSkevVgaLU",
+                        "expanded_url": "https://twitter.com/digiphile/status/1239930026436497408/photo/1",
+                        "display_url": "pic.twitter.com/XSkevVgaLU"
+                    }
+                ]
+            },
+            "created_at": "2020-03-17T15:02:09.000Z",
+            "author_id": "1175221",
+            "lang": "en",
+            "id": "1239930026436497408",
+            "in_reply_to_user_id": "1175221",
+            "conversation_id": "1239728425486688262",
+            "public_metrics": {
+                "retweet_count": 6,
+                "reply_count": 2,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "text": "I was taught to hope for the best &amp; plan for the worst. Please do so yourself: https://t.co/UYNedXmtO8\nThe US needs to prepare for a mass casualty event: https://t.co/63HD1FKlDA\nWhole of society mobilization to avoid every preventable death, now.\nBuild. Make. Teach, test, triage. https://t.co/XSkevVgaLU",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1239930021604659201"
+                ]
+            },
+            "source": "Twitter for iPhone"
+        },
+        "id": 1239930026436497408,
+        "text": "I was taught to hope for the best &amp; plan for the worst. Please do so yourself: https://t.co/UYNedXmtO8\nThe US needs to prepare for a mass casualty event: https://t.co/63HD1FKlDA\nWhole of society mobilization to avoid every preventable death, now.\nBuild. Make. Teach, test, triage. https://t.co/XSkevVgaLU",
+        "attachments": {
+            "media_keys": [
+                "3_1239930021604659201"
+            ]
+        },
+        "author_id": 1175221,
+        "context_annotations": [],
+        "conversation_id": 1239728425486688262,
+        "created_at": "2020-03-17T15:02:09+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 108,
+                    "probability": 0.8647,
+                    "type": "Place",
+                    "normalized_text": "US"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/UYNedXmtO8",
+                    "expanded_url": "https://ready.gov",
+                    "display_url": "ready.gov"
+                },
+                {
+                    "start": 158,
+                    "end": 181,
+                    "url": "https://t.co/63HD1FKlDA",
+                    "expanded_url": "https://www.theatlantic.com/ideas/archive/2020/03/after-cancellation-comes-triage/608146/",
+                    "display_url": "theatlantic.com/ideas/archive/\u2026"
+                },
+                {
+                    "start": 285,
+                    "end": 308,
+                    "url": "https://t.co/XSkevVgaLU",
+                    "expanded_url": "https://twitter.com/digiphile/status/1239930026436497408/photo/1",
+                    "display_url": "pic.twitter.com/XSkevVgaLU"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1175221,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 2,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1239728425486688262"
+                },
+                "id": 1239728425486688262,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "963882102579068928",
+                        "name": "Mark Takano",
+                        "description": "US Representative Mark Takano (CA-41)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "982310965139062785",
+                        "name": "Carolyn Maloney",
+                        "description": "US Representative Carolyn Maloney (NY-12)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "997517974394163200",
+                        "name": "Robert Wilkie",
+                        "description": "Robert Wilkie"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "963882102579068928",
+                        "name": "Mark Takano",
+                        "description": "US Representative Mark Takano (CA-41)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "982310965139062785",
+                        "name": "Carolyn Maloney",
+                        "description": "US Representative Carolyn Maloney (NY-12)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "997517974394163200",
+                        "name": "Robert Wilkie",
+                        "description": "Robert Wilkie"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "877699141089992705",
+                        "name": "Jerry Moran",
+                        "description": "Senator Jerry Moran (KS)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "877699141089992705",
+                        "name": "Jerry Moran",
+                        "description": "Senator Jerry Moran (KS)"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "digiphile",
+                        "id": "1175221"
+                    },
+                    {
+                        "start": 11,
+                        "end": 27,
+                        "username": "KrisGoldsmith85",
+                        "id": "266975216"
+                    },
+                    {
+                        "start": 28,
+                        "end": 43,
+                        "username": "DeptVetAffairs",
+                        "id": "78408666"
+                    },
+                    {
+                        "start": 44,
+                        "end": 58,
+                        "username": "RepMarkTakano",
+                        "id": "1037321378"
+                    },
+                    {
+                        "start": 59,
+                        "end": 70,
+                        "username": "JerryMoran",
+                        "id": "18632666"
+                    },
+                    {
+                        "start": 71,
+                        "end": 82,
+                        "username": "RepMaloney",
+                        "id": "258900199"
+                    },
+                    {
+                        "start": 83,
+                        "end": 93,
+                        "username": "SecWilkie",
+                        "id": "1024390184090181633"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1239728425486688262"
+                }
+            ],
+            "created_at": "2020-03-17T11:25:04.000Z",
+            "author_id": "1398212772",
+            "lang": "en",
+            "id": "1239875395966644224",
+            "in_reply_to_user_id": "1175221",
+            "conversation_id": "1239728425486688262",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@digiphile @KrisGoldsmith85 @DeptVetAffairs @RepMarkTakano @JerryMoran @RepMaloney @SecWilkie Dude, they can\u2019t even handle current patient load and you want to dump civilians in there? Why not just have them walk off a cliff?",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad"
+        },
+        "id": 1239875395966644224,
+        "text": "@digiphile @KrisGoldsmith85 @DeptVetAffairs @RepMarkTakano @JerryMoran @RepMaloney @SecWilkie Dude, they can\u2019t even handle current patient load and you want to dump civilians in there? Why not just have them walk off a cliff?",
+        "attachments": null,
+        "author_id": 1398212772,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "963882102579068928",
+                    "name": "Mark Takano",
+                    "description": "US Representative Mark Takano (CA-41)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "982310965139062785",
+                    "name": "Carolyn Maloney",
+                    "description": "US Representative Carolyn Maloney (NY-12)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "997517974394163200",
+                    "name": "Robert Wilkie",
+                    "description": "Robert Wilkie"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "963882102579068928",
+                    "name": "Mark Takano",
+                    "description": "US Representative Mark Takano (CA-41)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "982310965139062785",
+                    "name": "Carolyn Maloney",
+                    "description": "US Representative Carolyn Maloney (NY-12)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "997517974394163200",
+                    "name": "Robert Wilkie",
+                    "description": "Robert Wilkie"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "877699141089992705",
+                    "name": "Jerry Moran",
+                    "description": "Senator Jerry Moran (KS)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "877699141089992705",
+                    "name": "Jerry Moran",
+                    "description": "Senator Jerry Moran (KS)"
+                }
+            }
+        ],
+        "conversation_id": 1239728425486688262,
+        "created_at": "2020-03-17T11:25:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "digiphile",
+                    "id": "1175221"
+                },
+                {
+                    "start": 11,
+                    "end": 27,
+                    "username": "KrisGoldsmith85",
+                    "id": "266975216"
+                },
+                {
+                    "start": 28,
+                    "end": 43,
+                    "username": "DeptVetAffairs",
+                    "id": "78408666"
+                },
+                {
+                    "start": 44,
+                    "end": 58,
+                    "username": "RepMarkTakano",
+                    "id": "1037321378"
+                },
+                {
+                    "start": 59,
+                    "end": 70,
+                    "username": "JerryMoran",
+                    "id": "18632666"
+                },
+                {
+                    "start": 71,
+                    "end": 82,
+                    "username": "RepMaloney",
+                    "id": "258900199"
+                },
+                {
+                    "start": 83,
+                    "end": 93,
+                    "username": "SecWilkie",
+                    "id": "1024390184090181633"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1175221,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1239728425486688262"
+                },
+                "id": 1239728425486688262,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    }
+]

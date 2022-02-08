@@ -1,0 +1,2227 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "created_at": "2019-03-15T21:17:36.000Z",
+            "author_id": "1054087337959919618",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1106665776965128194",
+            "text": "@leoaguirres @cparesb @adnradiochile @Sougarret @LeonardoHonores @josemonterov en lo t\u00e9rminos y condiciones de youtube kids est\u00e1 explicito que youtube no verifica video por video. Por ello el menor debe ser acompa\u00f1ado por un adulto, es una mala costumbre dejarlos mirando solos en una tv o similares aparatos.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106661496069738496"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "leoaguirres",
+                        "id": "1271565329148370944"
+                    },
+                    {
+                        "start": 13,
+                        "end": 21,
+                        "username": "cparesb",
+                        "id": "259238496"
+                    },
+                    {
+                        "start": 22,
+                        "end": 36,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 37,
+                        "end": 47,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 48,
+                        "end": 64,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 65,
+                        "end": 78,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 111,
+                        "end": 122,
+                        "probability": 0.2819,
+                        "type": "Product",
+                        "normalized_text": "youtube kids"
+                    },
+                    {
+                        "start": 143,
+                        "end": 149,
+                        "probability": 0.7115,
+                        "type": "Product",
+                        "normalized_text": "youtube"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "106907202",
+            "reply_settings": "everyone"
+        },
+        "id": 1106665776965128194,
+        "text": "@leoaguirres @cparesb @adnradiochile @Sougarret @LeonardoHonores @josemonterov en lo t\u00e9rminos y condiciones de youtube kids est\u00e1 explicito que youtube no verifica video por video. Por ello el menor debe ser acompa\u00f1ado por un adulto, es una mala costumbre dejarlos mirando solos en una tv o similares aparatos.",
+        "attachments": null,
+        "author_id": 1054087337959919618,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029382357",
+                    "name": "YouTube"
+                }
+            }
+        ],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T21:17:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "leoaguirres",
+                    "id": "1271565329148370944"
+                },
+                {
+                    "start": 13,
+                    "end": 21,
+                    "username": "cparesb",
+                    "id": "259238496"
+                },
+                {
+                    "start": 22,
+                    "end": 36,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 37,
+                    "end": 47,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 48,
+                    "end": 64,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 65,
+                    "end": 78,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 111,
+                    "end": 122,
+                    "probability": 0.2819,
+                    "type": "Product",
+                    "normalized_text": "youtube kids"
+                },
+                {
+                    "start": 143,
+                    "end": 149,
+                    "probability": 0.7115,
+                    "type": "Product",
+                    "normalized_text": "youtube"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 106907202,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106661496069738496"
+                },
+                "id": 1106661496069738496,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T17:27:39.000Z",
+            "author_id": "1054087337959919618",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106607908228399105",
+            "text": "@leoaguirres @cparesb @adnradiochile @Sougarret @LeonardoHonores @josemonterov Si los padres no se preocupan de ver la clasificaci\u00f3n de edad de los juegos el problema claramente son los padres. Basta de culpar a lo dem\u00e1s de nuestra inoperancia, descuido y negligencia parental. Siempre que un ni\u00f1o consume contenido audiovisual debe ser bajo supervisi\u00f3n.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106523100668194816"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "leoaguirres",
+                        "id": "1271565329148370944"
+                    },
+                    {
+                        "start": 13,
+                        "end": 21,
+                        "username": "cparesb",
+                        "id": "259238496"
+                    },
+                    {
+                        "start": 22,
+                        "end": 36,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 37,
+                        "end": 47,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 48,
+                        "end": 64,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 65,
+                        "end": 78,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "106907202",
+            "reply_settings": "everyone"
+        },
+        "id": 1106607908228399105,
+        "text": "@leoaguirres @cparesb @adnradiochile @Sougarret @LeonardoHonores @josemonterov Si los padres no se preocupan de ver la clasificaci\u00f3n de edad de los juegos el problema claramente son los padres. Basta de culpar a lo dem\u00e1s de nuestra inoperancia, descuido y negligencia parental. Siempre que un ni\u00f1o consume contenido audiovisual debe ser bajo supervisi\u00f3n.",
+        "attachments": null,
+        "author_id": 1054087337959919618,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T17:27:39+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "leoaguirres",
+                    "id": "1271565329148370944"
+                },
+                {
+                    "start": 13,
+                    "end": 21,
+                    "username": "cparesb",
+                    "id": "259238496"
+                },
+                {
+                    "start": 22,
+                    "end": 36,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 37,
+                    "end": 47,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 48,
+                    "end": 64,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 65,
+                    "end": 78,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 106907202,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106523100668194816"
+                },
+                "id": 1106523100668194816,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T12:58:37.000Z",
+            "author_id": "1091098089774043137",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106540204410716160",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov A mi parecer, se debe reducir el tiempo que cada ni\u00f1o pasa metido en el celular,tablet ,PC y esa es responsabilidad nuestra.como adultos o padres.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106540204410716160,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov A mi parecer, se debe reducir el tiempo que cada ni\u00f1o pasa metido en el celular,tablet ,PC y esa es responsabilidad nuestra.como adultos o padres.",
+        "attachments": null,
+        "author_id": 1091098089774043137,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T12:58:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T12:56:40.000Z",
+            "author_id": "1091098089774043137",
+            "lang": "und",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106539710153977857",
+            "text": "@papomorning1 @adnradiochile @Sougarret @LeonardoHonores @josemonterov \ud83d\ude02\ud83d\ude02",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106480553962942465"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "papomorning1",
+                        "id": "946458745302933506"
+                    },
+                    {
+                        "start": 14,
+                        "end": 28,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 29,
+                        "end": 39,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 40,
+                        "end": 56,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 57,
+                        "end": 70,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "946458745302933506",
+            "reply_settings": "everyone"
+        },
+        "id": 1106539710153977857,
+        "text": "@papomorning1 @adnradiochile @Sougarret @LeonardoHonores @josemonterov \ud83d\ude02\ud83d\ude02",
+        "attachments": null,
+        "author_id": 1091098089774043137,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T12:56:40+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "papomorning1",
+                    "id": "946458745302933506"
+                },
+                {
+                    "start": 14,
+                    "end": 28,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 29,
+                    "end": 39,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 40,
+                    "end": 56,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 57,
+                    "end": 70,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 946458745302933506,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106480553962942465"
+                },
+                "id": 1106480553962942465,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T12:06:50.000Z",
+            "author_id": "259238496",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106527171596701698",
+            "text": "@leoaguirres @adnradiochile @Sougarret @LeonardoHonores @josemonterov \"El Reto de Momo no existe\" es todo lo que dije. \nAgregu\u00e9 que es una forma de mantener a los padres en alerta, tal como Ud. sugiere, pero eso no quita que se est\u00e9 usando una mentira en el proceso. \nConclusiones adicionales corren por cuenta suya.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106523100668194816"
+                }
+            ],
+            "source": "Twitter Web Client",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "leoaguirres",
+                        "id": "1271565329148370944"
+                    },
+                    {
+                        "start": 13,
+                        "end": 27,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 28,
+                        "end": 38,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 39,
+                        "end": 55,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 56,
+                        "end": 69,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 82,
+                        "end": 85,
+                        "probability": 0.8016,
+                        "type": "Person",
+                        "normalized_text": "Momo"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "106907202",
+            "reply_settings": "everyone"
+        },
+        "id": 1106527171596701698,
+        "text": "@leoaguirres @adnradiochile @Sougarret @LeonardoHonores @josemonterov \"El Reto de Momo no existe\" es todo lo que dije. \nAgregu\u00e9 que es una forma de mantener a los padres en alerta, tal como Ud. sugiere, pero eso no quita que se est\u00e9 usando una mentira en el proceso. \nConclusiones adicionales corren por cuenta suya.",
+        "attachments": null,
+        "author_id": 259238496,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T12:06:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "leoaguirres",
+                    "id": "1271565329148370944"
+                },
+                {
+                    "start": 13,
+                    "end": 27,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 28,
+                    "end": 38,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 39,
+                    "end": 55,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 56,
+                    "end": 69,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 82,
+                    "end": 85,
+                    "probability": 0.8016,
+                    "type": "Person",
+                    "normalized_text": "Momo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 106907202,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106523100668194816"
+                },
+                "id": 1106523100668194816,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web Client",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T11:38:43.000Z",
+            "author_id": "783309734816411649",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106520093289336832",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Jajaja Menos peligroso que un pol\u00edtico..menos que un milico y es un tierno frente a un cura..Les gusta andar asustada a la gente???",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106520093289336832,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Jajaja Menos peligroso que un pol\u00edtico..menos que un milico y es un tierno frente a un cura..Les gusta andar asustada a la gente???",
+        "attachments": null,
+        "author_id": 783309734816411649,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T11:38:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T11:38:08.000Z",
+            "author_id": "2833087678",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106519946727751680",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Y si mejoramos la salud mental de los j\u00f3venes, alguien dec\u00eda por ah\u00ed los ni\u00f1os primero, ahora dicen criminalizar a los ni\u00f1os, son verdaderos hdp",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106519946727751680,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Y si mejoramos la salud mental de los j\u00f3venes, alguien dec\u00eda por ah\u00ed los ni\u00f1os primero, ahora dicen criminalizar a los ni\u00f1os, son verdaderos hdp",
+        "attachments": null,
+        "author_id": 2833087678,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T11:38:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T11:03:54.000Z",
+            "author_id": "259238496",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106511332776513537",
+            "text": "@leoaguirres @adnradiochile @Sougarret @LeonardoHonores @josemonterov El Chupacabras tambi\u00e9n fue noticia... \u201cSirvi\u00f3\u201d para acordarnos de cuidar a los animales as\u00ed como esto nos recuerda cuidar a nuestros ni\u00f1os, pero es MENTIRA... una especie de viejo del saco para adultos",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106502974271090693"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "leoaguirres",
+                        "id": "1271565329148370944"
+                    },
+                    {
+                        "start": 13,
+                        "end": 27,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 28,
+                        "end": 38,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 39,
+                        "end": 55,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 56,
+                        "end": 69,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "106907202",
+            "reply_settings": "everyone"
+        },
+        "id": 1106511332776513537,
+        "text": "@leoaguirres @adnradiochile @Sougarret @LeonardoHonores @josemonterov El Chupacabras tambi\u00e9n fue noticia... \u201cSirvi\u00f3\u201d para acordarnos de cuidar a los animales as\u00ed como esto nos recuerda cuidar a nuestros ni\u00f1os, pero es MENTIRA... una especie de viejo del saco para adultos",
+        "attachments": null,
+        "author_id": 259238496,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T11:03:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "leoaguirres",
+                    "id": "1271565329148370944"
+                },
+                {
+                    "start": 13,
+                    "end": 27,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 28,
+                    "end": 38,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 39,
+                    "end": 55,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 56,
+                    "end": 69,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 106907202,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106502974271090693"
+                },
+                "id": 1106502974271090693,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "created_at": "2019-03-15T10:30:49.000Z",
+            "author_id": "287923482",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1106503005992558593",
+            "text": "@Michelle_deao @adnradiochile @Sougarret @LeonardoHonores @josemonterov Cuidado! Que en YouTube kids tb salen cosas. Saludos \u270c\ud83c\udffb",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106481229396889605"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "Michelle_deao",
+                        "id": "826833251436224515"
+                    },
+                    {
+                        "start": 15,
+                        "end": 29,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 30,
+                        "end": 40,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 41,
+                        "end": 57,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 58,
+                        "end": 71,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 88,
+                        "end": 94,
+                        "probability": 0.6467,
+                        "type": "Product",
+                        "normalized_text": "YouTube"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "826833251436224515",
+            "reply_settings": "everyone"
+        },
+        "id": 1106503005992558593,
+        "text": "@Michelle_deao @adnradiochile @Sougarret @LeonardoHonores @josemonterov Cuidado! Que en YouTube kids tb salen cosas. Saludos \u270c\ud83c\udffb",
+        "attachments": null,
+        "author_id": 287923482,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029382357",
+                    "name": "YouTube"
+                }
+            }
+        ],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T10:30:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "Michelle_deao",
+                    "id": "826833251436224515"
+                },
+                {
+                    "start": 15,
+                    "end": 29,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 30,
+                    "end": 40,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 41,
+                    "end": 57,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 58,
+                    "end": 71,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 88,
+                    "end": 94,
+                    "probability": 0.6467,
+                    "type": "Product",
+                    "normalized_text": "YouTube"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 826833251436224515,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106481229396889605"
+                },
+                "id": 1106481229396889605,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T09:40:39.000Z",
+            "author_id": "562985403",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106490383104729088",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Educar a los hijos sobre las consecuencias de los actos y sobre el respeto que se debe tener a s\u00ed mismo. Siempre tener una comunicaci\u00f3n fluida y tener confianza. Mi hija cumple 13 este a\u00f1o y reci\u00e9n all\u00ed le regalar\u00e9 su primer celular. Ha disfrutado de su infancia y hoy es feliz.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106490383104729088,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Educar a los hijos sobre las consecuencias de los actos y sobre el respeto que se debe tener a s\u00ed mismo. Siempre tener una comunicaci\u00f3n fluida y tener confianza. Mi hija cumple 13 este a\u00f1o y reci\u00e9n all\u00ed le regalar\u00e9 su primer celular. Ha disfrutado de su infancia y hoy es feliz.",
+        "attachments": null,
+        "author_id": 562985403,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T09:40:39+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T09:24:28.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 80,
+                        "end": 103,
+                        "url": "https://t.co/r0HxjW9D3Q",
+                        "expanded_url": "https://es.m.wikipedia.org/wiki/Reto_de_Momo",
+                        "display_url": "es.m.wikipedia.org/wiki/Reto_de_M\u2026",
+                        "status": 200,
+                        "unwound_url": "https://es.m.wikipedia.org/wiki/Reto_de_Momo"
+                    },
+                    {
+                        "start": 105,
+                        "end": 128,
+                        "url": "https://t.co/IkNfBjvnHt",
+                        "expanded_url": "https://www.pantallasamigas.net/reto-momo-whatsapp-momo-challenge-bulo/",
+                        "display_url": "pantallasamigas.net/reto-momo-what\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.pantallasamigas.net/reto-momo-whatsapp-momo-challenge-bulo/"
+                    },
+                    {
+                        "start": 129,
+                        "end": 152,
+                        "url": "https://t.co/a6WC9Luzj4",
+                        "expanded_url": "https://www.theguardian.com/technology/2019/feb/28/viral-momo-challenge-is-a-malicious-hoax-say-charities?CMP=share_btn_tw",
+                        "display_url": "theguardian.com/technology/201\u2026"
+                    },
+                    {
+                        "start": 153,
+                        "end": 176,
+                        "url": "https://t.co/yjkK5owz8A",
+                        "expanded_url": "https://www.theatlantic.com/technology/archive/2019/02/momo-challenge-hoax/583825/",
+                        "display_url": "theatlantic.com/technology/arc\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "author_id": "259238496",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106486308552302592",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov \u00a1Este reto no existe! \nhttps://t.co/r0HxjW9D3Q \nhttps://t.co/IkNfBjvnHt\nhttps://t.co/a6WC9Luzj4\nhttps://t.co/yjkK5owz8A",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106486308552302592,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov \u00a1Este reto no existe! \nhttps://t.co/r0HxjW9D3Q \nhttps://t.co/IkNfBjvnHt\nhttps://t.co/a6WC9Luzj4\nhttps://t.co/yjkK5owz8A",
+        "attachments": null,
+        "author_id": 259238496,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T09:24:28+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 80,
+                    "end": 103,
+                    "url": "https://t.co/r0HxjW9D3Q",
+                    "expanded_url": "https://es.m.wikipedia.org/wiki/Reto_de_Momo",
+                    "display_url": "es.m.wikipedia.org/wiki/Reto_de_M\u2026",
+                    "status": 200,
+                    "unwound_url": "https://es.m.wikipedia.org/wiki/Reto_de_Momo"
+                },
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/IkNfBjvnHt",
+                    "expanded_url": "https://www.pantallasamigas.net/reto-momo-whatsapp-momo-challenge-bulo/",
+                    "display_url": "pantallasamigas.net/reto-momo-what\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.pantallasamigas.net/reto-momo-whatsapp-momo-challenge-bulo/"
+                },
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/a6WC9Luzj4",
+                    "expanded_url": "https://www.theguardian.com/technology/2019/feb/28/viral-momo-challenge-is-a-malicious-hoax-say-charities?CMP=share_btn_tw",
+                    "display_url": "theguardian.com/technology/201\u2026"
+                },
+                {
+                    "start": 153,
+                    "end": 176,
+                    "url": "https://t.co/yjkK5owz8A",
+                    "expanded_url": "https://www.theatlantic.com/technology/archive/2019/02/momo-challenge-hoax/583825/",
+                    "display_url": "theatlantic.com/technology/arc\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T09:13:29.000Z",
+            "author_id": "863140465",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106483544308830208",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Tan peque\u00f1o los ni\u00f1os con celular",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106483544308830208,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Tan peque\u00f1o los ni\u00f1os con celular",
+        "attachments": null,
+        "author_id": 863140465,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T09:13:29+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T09:06:04.000Z",
+            "author_id": "176164969",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1106481678774611968",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Hay que tener ojo con todo lo que hacen nuestros hijos con quienes juegan y que hacen dentro o no de internet. Recomiendo @WhiloLab para ayudar en colegios sobre el tema de la educaci\u00f3n digital en las redes e internet \ud83d\udc4d\ud83c\udffc",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    },
+                    {
+                        "start": 179,
+                        "end": 188,
+                        "username": "WhiloLab",
+                        "id": "937329359177777152"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106481678774611968,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Hay que tener ojo con todo lo que hacen nuestros hijos con quienes juegan y que hacen dentro o no de internet. Recomiendo @WhiloLab para ayudar en colegios sobre el tema de la educaci\u00f3n digital en las redes e internet \ud83d\udc4d\ud83c\udffc",
+        "attachments": null,
+        "author_id": 176164969,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T09:06:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                },
+                {
+                    "start": 179,
+                    "end": 188,
+                    "username": "WhiloLab",
+                    "id": "937329359177777152"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "created_at": "2019-03-15T09:04:17.000Z",
+            "author_id": "826833251436224515",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106481229396889605",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Que peligroso. Mi hijo vio a la mona fea, tiene acceso solo a you tube kids, para m\u00fasica de pel\u00edculas y manualidades. Bloqueo y denuncio lo que no me gusta.... menos mal que no entendi\u00f3 nada, sin embargo no lo pude denunciar, no alcanc\u00e9 a verlo.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106481229396889605,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Que peligroso. Mi hijo vio a la mona fea, tiene acceso solo a you tube kids, para m\u00fasica de pel\u00edculas y manualidades. Bloqueo y denuncio lo que no me gusta.... menos mal que no entendi\u00f3 nada, sin embargo no lo pude denunciar, no alcanc\u00e9 a verlo.",
+        "attachments": null,
+        "author_id": 826833251436224515,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029382357",
+                    "name": "YouTube"
+                }
+            }
+        ],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T09:04:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T09:01:50.000Z",
+            "author_id": "2176479044",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1106480613517864960",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Solo est\u00e1 en hablar siempre con los ni\u00f1os y controlar sus redes sociales....",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106480613517864960,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Solo est\u00e1 en hablar siempre con los ni\u00f1os y controlar sus redes sociales....",
+        "attachments": null,
+        "author_id": 2176479044,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T09:01:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2019-03-15T09:01:36.000Z",
+            "author_id": "946458745302933506",
+            "lang": "es",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1106480553962942465",
+            "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Cada vez que eh pillado estos juegos en la pantalla de mi hijo, se los mando a mi suegra.\nPero no eh tenido resultados positivos... \nAsi que, \"na' po' \" \nSaludos!!",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                }
+            ],
+            "source": "Twitter for Android",
+            "conversation_id": "1106478993195393024",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "adnradiochile",
+                        "id": "201493641"
+                    },
+                    {
+                        "start": 15,
+                        "end": 25,
+                        "username": "Sougarret",
+                        "id": "88533137"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "LeonardoHonores",
+                        "id": "292304790"
+                    },
+                    {
+                        "start": 43,
+                        "end": 56,
+                        "username": "josemonterov",
+                        "id": "121940496"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "201493641",
+            "reply_settings": "everyone"
+        },
+        "id": 1106480553962942465,
+        "text": "@adnradiochile @Sougarret @LeonardoHonores @josemonterov Cada vez que eh pillado estos juegos en la pantalla de mi hijo, se los mando a mi suegra.\nPero no eh tenido resultados positivos... \nAsi que, \"na' po' \" \nSaludos!!",
+        "attachments": null,
+        "author_id": 946458745302933506,
+        "context_annotations": [],
+        "conversation_id": 1106478993195393024,
+        "created_at": "2019-03-15T09:01:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "adnradiochile",
+                    "id": "201493641"
+                },
+                {
+                    "start": 15,
+                    "end": 25,
+                    "username": "Sougarret",
+                    "id": "88533137"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "LeonardoHonores",
+                    "id": "292304790"
+                },
+                {
+                    "start": 43,
+                    "end": 56,
+                    "username": "josemonterov",
+                    "id": "121940496"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 201493641,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1106478993195393024"
+                },
+                "id": 1106478993195393024,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

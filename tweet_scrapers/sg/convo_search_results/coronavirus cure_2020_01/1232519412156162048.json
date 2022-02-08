@@ -1,0 +1,106 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1232519412156162048"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "VRWCTexan",
+                        "id": "58966831"
+                    }
+                ]
+            },
+            "created_at": "2020-02-26T04:21:48.000Z",
+            "text": "@VRWCTexan If flailing arms could cure the coronavirus we would have nothing to worry about..",
+            "lang": "en",
+            "in_reply_to_user_id": "58966831",
+            "id": "1232521119644704770",
+            "author_id": "800652126",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1232519412156162048",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ]
+        },
+        "id": 1232521119644704770,
+        "text": "@VRWCTexan If flailing arms could cure the coronavirus we would have nothing to worry about..",
+        "attachments": null,
+        "author_id": 800652126,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1232519412156162048,
+        "created_at": "2020-02-26T04:21:48+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "VRWCTexan",
+                    "id": "58966831"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 58966831,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1232519412156162048"
+                },
+                "id": 1232519412156162048,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

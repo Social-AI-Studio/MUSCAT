@@ -1,0 +1,2120 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 30,
+                        "probability": 0.799,
+                        "type": "Person",
+                        "normalized_text": "Pardon Assange"
+                    },
+                    {
+                        "start": 36,
+                        "end": 42,
+                        "probability": 0.8953,
+                        "type": "Person",
+                        "normalized_text": "Snowden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 109,
+                        "end": 132,
+                        "url": "https://t.co/7dqkhwvuro",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "JoeBiden",
+                        "id": "939091"
+                    }
+                ]
+            },
+            "author_id": "82890645",
+            "text": "@JoeBiden please Pardon Assange and Snowden. I have supported you in elections. Please hear voice of people. https://t.co/7dqkhwvuro",
+            "possibly_sensitive": false,
+            "id": "1356247874917392385",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-01T14:27:45.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1063444223960113152",
+                        "name": "Julian Assange",
+                        "description": "Julian Assange"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "939091",
+            "conversation_id": "1356247874917392385",
+            "lang": "en"
+        },
+        "id": 1356247874917392385,
+        "text": "@JoeBiden please Pardon Assange and Snowden. I have supported you in elections. Please hear voice of people. https://t.co/7dqkhwvuro",
+        "attachments": null,
+        "author_id": 82890645,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1063444223960113152",
+                    "name": "Julian Assange",
+                    "description": "Julian Assange"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356247874917392385,
+        "created_at": "2021-02-01T14:27:45+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 30,
+                    "probability": 0.799,
+                    "type": "Person",
+                    "normalized_text": "Pardon Assange"
+                },
+                {
+                    "start": 36,
+                    "end": 42,
+                    "probability": 0.8953,
+                    "type": "Person",
+                    "normalized_text": "Snowden"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 109,
+                    "end": 132,
+                    "url": "https://t.co/7dqkhwvuro",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "JoeBiden",
+                    "id": "939091"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 939091,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "17000102",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 101,
+                        "end": 124,
+                        "url": "https://t.co/98iSbatLzj",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "tag": "biden"
+                    },
+                    {
+                        "start": 31,
+                        "end": 44,
+                        "tag": "lobbygroepen"
+                    },
+                    {
+                        "start": 69,
+                        "end": 75,
+                        "tag": "Obama"
+                    }
+                ]
+            },
+            "text": "#biden neemt gewoon zijn eigen #lobbygroepen mee en gaat verder waar #Obama gestopt is, zo lijkt het https://t.co/98iSbatLzj",
+            "possibly_sensitive": false,
+            "id": "1356162069234675714",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-01T08:46:48.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10038764303",
+                        "name": "Barack Obama",
+                        "description": "Former US President Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10038764303",
+                        "name": "Barack Obama",
+                        "description": "Former US President Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1356162069234675714",
+            "lang": "nl"
+        },
+        "id": 1356162069234675714,
+        "text": "#biden neemt gewoon zijn eigen #lobbygroepen mee en gaat verder waar #Obama gestopt is, zo lijkt het https://t.co/98iSbatLzj",
+        "attachments": null,
+        "author_id": 17000102,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10038764303",
+                    "name": "Barack Obama",
+                    "description": "Former US President Barack Obama"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10038764303",
+                    "name": "Barack Obama",
+                    "description": "Former US President Barack Obama"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356162069234675714,
+        "created_at": "2021-02-01T08:46:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 101,
+                    "end": 124,
+                    "url": "https://t.co/98iSbatLzj",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "tag": "biden"
+                },
+                {
+                    "start": 31,
+                    "end": 44,
+                    "tag": "lobbygroepen"
+                },
+                {
+                    "start": 69,
+                    "end": 75,
+                    "tag": "Obama"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "nl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "807225813062008833",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 39,
+                        "end": 62,
+                        "url": "https://t.co/jy77oKXVkD",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "text": "Meet the new boss same as the old boss https://t.co/jy77oKXVkD",
+            "geo": {
+                "place_id": "1d9a5370a355ab0c"
+            },
+            "possibly_sensitive": false,
+            "id": "1356088650212274179",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-01T03:55:03.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1356088650212274179",
+            "lang": "en"
+        },
+        "id": 1356088650212274179,
+        "text": "Meet the new boss same as the old boss https://t.co/jy77oKXVkD",
+        "attachments": null,
+        "author_id": 807225813062008833,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356088650212274179,
+        "created_at": "2021-02-01T03:55:03+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 39,
+                    "end": 62,
+                    "url": "https://t.co/jy77oKXVkD",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "1d9a5370a355ab0c"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 25,
+                        "probability": 0.9234,
+                        "type": "Person",
+                        "normalized_text": "Scranton Joe"
+                    },
+                    {
+                        "start": 94,
+                        "end": 100,
+                        "probability": 0.9383,
+                        "type": "Place",
+                        "normalized_text": "America"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 114,
+                        "end": 137,
+                        "url": "https://t.co/UE3uBEsfAT",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "1330916615966371843",
+            "text": "But, but, but Scranton Joe loves the little man. \n\nHe would NEVER get involved with corporate America. \n\nRight... https://t.co/UE3uBEsfAT",
+            "possibly_sensitive": false,
+            "id": "1356022783692648450",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T23:33:19.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1356022783692648450",
+            "lang": "en"
+        },
+        "id": 1356022783692648450,
+        "text": "But, but, but Scranton Joe loves the little man. \n\nHe would NEVER get involved with corporate America. \n\nRight... https://t.co/UE3uBEsfAT",
+        "attachments": null,
+        "author_id": 1330916615966371843,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356022783692648450,
+        "created_at": "2021-01-31T23:33:19+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 25,
+                    "probability": 0.9234,
+                    "type": "Person",
+                    "normalized_text": "Scranton Joe"
+                },
+                {
+                    "start": 94,
+                    "end": 100,
+                    "probability": 0.9383,
+                    "type": "Place",
+                    "normalized_text": "America"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "url": "https://t.co/UE3uBEsfAT",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "830855603253809153",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/AU74UwOsIm",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "text": "It's obscene. It's the American way. It should stop. Eliminate direct corp influence. \n\nThis is not difficult folks. Fund these events from the center, from government budgets, drawn from a reasonable level of enforced corporate taxation. Eliminate the pay-to-play relationship. https://t.co/AU74UwOsIm",
+            "possibly_sensitive": false,
+            "id": "1355943911164960776",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T18:19:55.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355943911164960776",
+            "lang": "en"
+        },
+        "id": 1355943911164960776,
+        "text": "It's obscene. It's the American way. It should stop. Eliminate direct corp influence. \n\nThis is not difficult folks. Fund these events from the center, from government budgets, drawn from a reasonable level of enforced corporate taxation. Eliminate the pay-to-play relationship. https://t.co/AU74UwOsIm",
+        "attachments": null,
+        "author_id": 830855603253809153,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355943911164960776,
+        "created_at": "2021-01-31T18:19:55+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/AU74UwOsIm",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "60085659",
+            "attachments": {
+                "media_keys": [
+                    "3_1355942779701108742"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/9gCZF3t6hh",
+                        "expanded_url": "https://twitter.com/inovajon/status/1355942784444862468/photo/1",
+                        "display_url": "pic.twitter.com/9gCZF3t6hh"
+                    },
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/Yogmjs6Ytb",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "text": "https://t.co/9gCZF3t6hh https://t.co/Yogmjs6Ytb",
+            "possibly_sensitive": false,
+            "id": "1355942784444862468",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T18:15:26.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355942784444862468",
+            "lang": "und"
+        },
+        "id": 1355942784444862468,
+        "text": "https://t.co/9gCZF3t6hh https://t.co/Yogmjs6Ytb",
+        "attachments": {
+            "media_keys": [
+                "3_1355942779701108742"
+            ]
+        },
+        "author_id": 60085659,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355942784444862468,
+        "created_at": "2021-01-31T18:15:26+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/9gCZF3t6hh",
+                    "expanded_url": "https://twitter.com/inovajon/status/1355942784444862468/photo/1",
+                    "display_url": "pic.twitter.com/9gCZF3t6hh"
+                },
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/Yogmjs6Ytb",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1002208490578960386",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 12,
+                        "end": 35,
+                        "url": "https://t.co/PbAqS2221P",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "Hwang_S117",
+                        "id": "301056340"
+                    }
+                ]
+            },
+            "text": "@Hwang_S117 https://t.co/PbAqS2221P",
+            "possibly_sensitive": false,
+            "id": "1355927640914481161",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T17:15:16.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "301056340",
+            "conversation_id": "1355927640914481161",
+            "lang": "und"
+        },
+        "id": 1355927640914481161,
+        "text": "@Hwang_S117 https://t.co/PbAqS2221P",
+        "attachments": null,
+        "author_id": 1002208490578960386,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355927640914481161,
+        "created_at": "2021-01-31T17:15:16+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 12,
+                    "end": 35,
+                    "url": "https://t.co/PbAqS2221P",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "Hwang_S117",
+                    "id": "301056340"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 301056340,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "246328494",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 63,
+                        "end": 86,
+                        "url": "https://t.co/LzZrfhs2Tg",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 62,
+                        "tag": "BidenLied"
+                    }
+                ]
+            },
+            "text": "But they can't send out the 2K that they promised?? #BidenLied https://t.co/LzZrfhs2Tg",
+            "possibly_sensitive": false,
+            "id": "1355921255480905730",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T16:49:53.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355921255480905730",
+            "lang": "en"
+        },
+        "id": 1355921255480905730,
+        "text": "But they can't send out the 2K that they promised?? #BidenLied https://t.co/LzZrfhs2Tg",
+        "attachments": null,
+        "author_id": 246328494,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355921255480905730,
+        "created_at": "2021-01-31T16:49:53+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/LzZrfhs2Tg",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 52,
+                    "end": 62,
+                    "tag": "BidenLied"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1045372219872948224",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 73,
+                        "end": 96,
+                        "url": "https://t.co/60HdbPHcPW",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "text": "Meet the policy makers who will decide what happens the next four years. https://t.co/60HdbPHcPW",
+            "possibly_sensitive": false,
+            "id": "1355921221754511361",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T16:49:45.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355921221754511361",
+            "lang": "en"
+        },
+        "id": 1355921221754511361,
+        "text": "Meet the policy makers who will decide what happens the next four years. https://t.co/60HdbPHcPW",
+        "attachments": null,
+        "author_id": 1045372219872948224,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355921221754511361,
+        "created_at": "2021-01-31T16:49:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 73,
+                    "end": 96,
+                    "url": "https://t.co/60HdbPHcPW",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "187225733",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 57,
+                        "end": 80,
+                        "url": "https://t.co/uIpywSiegz",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 26,
+                        "end": 56,
+                        "tag": "ItsDifferentWhenDemocratsDoIt"
+                    }
+                ]
+            },
+            "text": "Yeah, but as we all know  #ItsDifferentWhenDemocratsDoIt https://t.co/uIpywSiegz",
+            "geo": {
+                "place_id": "011aeb76023deccb"
+            },
+            "possibly_sensitive": false,
+            "id": "1355920838239907842",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T16:48:14.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355920838239907842",
+            "lang": "en"
+        },
+        "id": 1355920838239907842,
+        "text": "Yeah, but as we all know  #ItsDifferentWhenDemocratsDoIt https://t.co/uIpywSiegz",
+        "attachments": null,
+        "author_id": 187225733,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355920838239907842,
+        "created_at": "2021-01-31T16:48:14+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/uIpywSiegz",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 26,
+                    "end": 56,
+                    "tag": "ItsDifferentWhenDemocratsDoIt"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "011aeb76023deccb"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "21178085",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/7mQae5vdHN",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "text": "Should inaugural celebrations be taxpayer -- and only taxpayer -- funded? https://t.co/7mQae5vdHN",
+            "possibly_sensitive": false,
+            "id": "1355919998598795269",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T16:44:54.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355919998598795269",
+            "lang": "en"
+        },
+        "id": 1355919998598795269,
+        "text": "Should inaugural celebrations be taxpayer -- and only taxpayer -- funded? https://t.co/7mQae5vdHN",
+        "attachments": null,
+        "author_id": 21178085,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355919998598795269,
+        "created_at": "2021-01-31T16:44:54+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/7mQae5vdHN",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "666913",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/PxsPIQvRdA",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 45,
+                        "end": 73,
+                        "tag": "PoliticsIsNecessaryBullshit"
+                    }
+                ]
+            },
+            "text": "it\u2019s a big club and you ain\u2019t in it \ud83d\udd25\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #PoliticsIsNecessaryBullshit https://t.co/PxsPIQvRdA",
+            "possibly_sensitive": false,
+            "id": "1355919821112713217",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T16:44:11.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355919821112713217",
+            "lang": "en"
+        },
+        "id": 1355919821112713217,
+        "text": "it\u2019s a big club and you ain\u2019t in it \ud83d\udd25\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #PoliticsIsNecessaryBullshit https://t.co/PxsPIQvRdA",
+        "attachments": null,
+        "author_id": 666913,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355919821112713217,
+        "created_at": "2021-01-31T16:44:11+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/PxsPIQvRdA",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 45,
+                    "end": 73,
+                    "tag": "PoliticsIsNecessaryBullshit"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "554828351",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 43,
+                        "end": 66,
+                        "url": "https://t.co/t4UpO42pEe",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "text": "If this isn\u2019t bribery I don\u2019t know what is https://t.co/t4UpO42pEe",
+            "possibly_sensitive": false,
+            "id": "1355919659074260995",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T16:43:33.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355919659074260995",
+            "lang": "en"
+        },
+        "id": 1355919659074260995,
+        "text": "If this isn\u2019t bribery I don\u2019t know what is https://t.co/t4UpO42pEe",
+        "attachments": null,
+        "author_id": 554828351,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355919659074260995,
+        "created_at": "2021-01-31T16:43:33+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/t4UpO42pEe",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "17451905",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 41,
+                        "end": 64,
+                        "url": "https://t.co/X3JFP0TmDv",
+                        "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                        "display_url": "twitter.com/ggreenwald/sta\u2026"
+                    }
+                ]
+            },
+            "text": "Enjoy your fireworks, you filthy animals https://t.co/X3JFP0TmDv",
+            "geo": {
+                "place_id": "c3f37afa9efcf94b"
+            },
+            "possibly_sensitive": false,
+            "id": "1355919411241226244",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-31T16:42:34.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1355919411241226244",
+            "lang": "en"
+        },
+        "id": 1355919411241226244,
+        "text": "Enjoy your fireworks, you filthy animals https://t.co/X3JFP0TmDv",
+        "attachments": null,
+        "author_id": 17451905,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1355919411241226244,
+        "created_at": "2021-01-31T16:42:34+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 41,
+                    "end": 64,
+                    "url": "https://t.co/X3JFP0TmDv",
+                    "expanded_url": "https://twitter.com/ggreenwald/status/1355918937528152067",
+                    "display_url": "twitter.com/ggreenwald/sta\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "c3f37afa9efcf94b"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1355918937528152067"
+                },
+                "id": 1355918937528152067,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

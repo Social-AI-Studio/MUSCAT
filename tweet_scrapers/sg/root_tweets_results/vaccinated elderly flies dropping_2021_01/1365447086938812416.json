@@ -1,0 +1,455 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1365447086938812416"
+                }
+            ],
+            "id": "1365537270741168129",
+            "conversation_id": "1365537270741168129",
+            "created_at": "2021-02-27T05:40:30.000Z",
+            "reply_settings": "everyone",
+            "text": "So the blame can\u2019t be exclusive to one particular entity https://t.co/I3m2LEmDP8",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 57,
+                        "end": 80,
+                        "url": "https://t.co/I3m2LEmDP8",
+                        "expanded_url": "https://twitter.com/normanswan/status/1365447086938812416",
+                        "display_url": "twitter.com/normanswan/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "1285489938134228992"
+        },
+        "id": 1365537270741168129,
+        "text": "So the blame can\u2019t be exclusive to one particular entity https://t.co/I3m2LEmDP8",
+        "attachments": null,
+        "author_id": 1285489938134228992,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1365537270741168129,
+        "created_at": "2021-02-27T05:40:30+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 57,
+                    "end": 80,
+                    "url": "https://t.co/I3m2LEmDP8",
+                    "expanded_url": "https://twitter.com/normanswan/status/1365447086938812416",
+                    "display_url": "twitter.com/normanswan/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1365447086938812416"
+                },
+                "id": 1365447086938812416,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 71,
+                        "end": 82,
+                        "username": "normanswan",
+                        "id": "246178914"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 98,
+                        "end": 120,
+                        "probability": 0.5808,
+                        "type": "Organization",
+                        "normalized_text": "Chinese Communist Party"
+                    },
+                    {
+                        "start": 183,
+                        "end": 205,
+                        "probability": 0.5247,
+                        "type": "Organization",
+                        "normalized_text": "Chinese Communist Party"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/I3m2LEmDP8",
+                        "expanded_url": "https://twitter.com/normanswan/status/1365447086938812416",
+                        "display_url": "twitter.com/normanswan/sta\u2026"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1365447086938812416"
+                }
+            ],
+            "id": "1365521951993651200",
+            "conversation_id": "1365521951993651200",
+            "created_at": "2021-02-27T04:39:38.000Z",
+            "reply_settings": "everyone",
+            "text": "So the government will just jam anything into people\u2019s bodies, is what @normanswan is saying. The Chinese Communist Party has no problem with making fake things....What\u2019s to stop the Chinese Communist Party from taking over Pharmaceutical supplies, becoming the supplier? https://t.co/I3m2LEmDP8",
+            "author_id": "1285489938134228992"
+        },
+        "id": 1365521951993651200,
+        "text": "So the government will just jam anything into people\u2019s bodies, is what @normanswan is saying. The Chinese Communist Party has no problem with making fake things....What\u2019s to stop the Chinese Communist Party from taking over Pharmaceutical supplies, becoming the supplier? https://t.co/I3m2LEmDP8",
+        "attachments": null,
+        "author_id": 1285489938134228992,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1365521951993651200,
+        "created_at": "2021-02-27T04:39:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 71,
+                    "end": 82,
+                    "username": "normanswan",
+                    "id": "246178914"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 98,
+                    "end": 120,
+                    "probability": 0.5808,
+                    "type": "Organization",
+                    "normalized_text": "Chinese Communist Party"
+                },
+                {
+                    "start": 183,
+                    "end": 205,
+                    "probability": 0.5247,
+                    "type": "Organization",
+                    "normalized_text": "Chinese Communist Party"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 272,
+                    "end": 295,
+                    "url": "https://t.co/I3m2LEmDP8",
+                    "expanded_url": "https://twitter.com/normanswan/status/1365447086938812416",
+                    "display_url": "twitter.com/normanswan/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1365447086938812416"
+                },
+                "id": 1365447086938812416,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1365447086938812416"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 37,
+                        "end": 44,
+                        "probability": 0.4845,
+                        "type": "Organization",
+                        "normalized_text": "Medicare"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 129,
+                        "end": 152,
+                        "url": "https://t.co/JnjY6g2EDD",
+                        "expanded_url": "https://twitter.com/normanswan/status/1365447086938812416",
+                        "display_url": "twitter.com/normanswan/sta\u2026"
+                    }
+                ]
+            },
+            "id": "1365460744997806082",
+            "conversation_id": "1365460744997806082",
+            "created_at": "2021-02-27T00:36:25.000Z",
+            "reply_settings": "everyone",
+            "text": "We are not yet in March 2021 but the Medicare statement claims phase 1B commenced in March 2021.\nHow can any of this be trusted? https://t.co/JnjY6g2EDD",
+            "author_id": "207360661"
+        },
+        "id": 1365460744997806082,
+        "text": "We are not yet in March 2021 but the Medicare statement claims phase 1B commenced in March 2021.\nHow can any of this be trusted? https://t.co/JnjY6g2EDD",
+        "attachments": null,
+        "author_id": 207360661,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1365460744997806082,
+        "created_at": "2021-02-27T00:36:25+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 44,
+                    "probability": 0.4845,
+                    "type": "Organization",
+                    "normalized_text": "Medicare"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 129,
+                    "end": 152,
+                    "url": "https://t.co/JnjY6g2EDD",
+                    "expanded_url": "https://twitter.com/normanswan/status/1365447086938812416",
+                    "display_url": "twitter.com/normanswan/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1365447086938812416"
+                },
+                "id": 1365447086938812416,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

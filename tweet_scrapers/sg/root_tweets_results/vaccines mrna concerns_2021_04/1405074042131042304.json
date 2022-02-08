@@ -1,0 +1,1373 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "id": "1405158218901430272",
+            "conversation_id": "1405158218901430272",
+            "created_at": "2021-06-16T13:40:00.000Z",
+            "reply_settings": "everyone",
+            "text": "Totally agree! https://t.co/xNgGqjwBKx",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 15,
+                        "end": 38,
+                        "url": "https://t.co/xNgGqjwBKx",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ]
+            },
+            "author_id": "19679184"
+        },
+        "id": 1405158218901430272,
+        "text": "Totally agree! https://t.co/xNgGqjwBKx",
+        "attachments": null,
+        "author_id": 19679184,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405158218901430272,
+        "created_at": "2021-06-16T13:40:00+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 15,
+                    "end": 38,
+                    "url": "https://t.co/xNgGqjwBKx",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 65,
+                        "end": 66,
+                        "probability": 0.491,
+                        "type": "Place",
+                        "normalized_text": "uk"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 82,
+                        "end": 105,
+                        "url": "https://t.co/Pg2tYbHDSD",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ]
+            },
+            "id": "1405155590565994496",
+            "conversation_id": "1405155590565994496",
+            "created_at": "2021-06-16T13:29:33.000Z",
+            "reply_settings": "everyone",
+            "text": "it breaches human rights and nuremberg code you need to take the uk govt to court https://t.co/Pg2tYbHDSD",
+            "author_id": "1258276826662739969"
+        },
+        "id": 1405155590565994496,
+        "text": "it breaches human rights and nuremberg code you need to take the uk govt to court https://t.co/Pg2tYbHDSD",
+        "attachments": null,
+        "author_id": 1258276826662739969,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405155590565994496,
+        "created_at": "2021-06-16T13:29:33+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 65,
+                    "end": 66,
+                    "probability": 0.491,
+                    "type": "Place",
+                    "normalized_text": "uk"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 82,
+                    "end": 105,
+                    "url": "https://t.co/Pg2tYbHDSD",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "shaunesbitt",
+                        "id": "240171682"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1405076414467088386"
+                }
+            ],
+            "id": "1405129560753065991",
+            "conversation_id": "1405129560753065991",
+            "created_at": "2021-06-16T11:46:07.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @shaunesbitt: This is mental. Vaccination doesn't stop transmission - vulnerable vaccinated \u2705 how the fuck this is even getting talked a\u2026",
+            "author_id": "134237445"
+        },
+        "id": 1405129560753065991,
+        "text": "RT @shaunesbitt: This is mental. Vaccination doesn't stop transmission - vulnerable vaccinated \u2705 how the fuck this is even getting talked a\u2026",
+        "attachments": null,
+        "author_id": 134237445,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405129560753065991,
+        "created_at": "2021-06-16T11:46:07+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "shaunesbitt",
+                    "id": "240171682"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1405076414467088386"
+                },
+                "id": 1405076414467088386,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "bane_baldy",
+                        "id": "1173200783313199104"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1405103072137945091"
+                }
+            ],
+            "id": "1405118368663887875",
+            "conversation_id": "1405118368663887875",
+            "created_at": "2021-06-16T11:01:39.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @bane_baldy: One, staff are required to have a mandatory HepB vax!\nTwo, vaxxes reduce the risk of transmission!\nThree, the staff have to\u2026",
+            "author_id": "774607771023052800"
+        },
+        "id": 1405118368663887875,
+        "text": "RT @bane_baldy: One, staff are required to have a mandatory HepB vax!\nTwo, vaxxes reduce the risk of transmission!\nThree, the staff have to\u2026",
+        "attachments": null,
+        "author_id": 774607771023052800,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405118368663887875,
+        "created_at": "2021-06-16T11:01:39+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "bane_baldy",
+                    "id": "1173200783313199104"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1405103072137945091"
+                },
+                "id": 1405103072137945091,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "id": "1405103072137945091",
+            "conversation_id": "1405103072137945091",
+            "created_at": "2021-06-16T10:00:52.000Z",
+            "reply_settings": "everyone",
+            "text": "One, staff are required to have a mandatory HepB vax!\nTwo, vaxxes reduce the risk of transmission!\nThree, the staff have to accept that they have a duty of care and responsibility to those residents.\n\nBluntly, if they don't accept their responsibilities, they shouldn't be Carers! https://t.co/BO0dP0LSv7",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/BO0dP0LSv7",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1173200783313199104"
+        },
+        "id": 1405103072137945091,
+        "text": "One, staff are required to have a mandatory HepB vax!\nTwo, vaxxes reduce the risk of transmission!\nThree, the staff have to accept that they have a duty of care and responsibility to those residents.\n\nBluntly, if they don't accept their responsibilities, they shouldn't be Carers! https://t.co/BO0dP0LSv7",
+        "attachments": null,
+        "author_id": 1173200783313199104,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405103072137945091,
+        "created_at": "2021-06-16T10:00:52+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/BO0dP0LSv7",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "shaunesbitt",
+                        "id": "240171682"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1405076414467088386"
+                }
+            ],
+            "id": "1405098481216335872",
+            "conversation_id": "1405098481216335872",
+            "created_at": "2021-06-16T09:42:38.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @shaunesbitt: This is mental. Vaccination doesn't stop transmission - vulnerable vaccinated \u2705 how the fuck this is even getting talked a\u2026",
+            "author_id": "1286946936168251392"
+        },
+        "id": 1405098481216335872,
+        "text": "RT @shaunesbitt: This is mental. Vaccination doesn't stop transmission - vulnerable vaccinated \u2705 how the fuck this is even getting talked a\u2026",
+        "attachments": null,
+        "author_id": 1286946936168251392,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405098481216335872,
+        "created_at": "2021-06-16T09:42:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "shaunesbitt",
+                    "id": "240171682"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1405076414467088386"
+                },
+                "id": 1405076414467088386,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "id": "1405097505214377984",
+            "conversation_id": "1405097505214377984",
+            "created_at": "2021-06-16T09:38:45.000Z",
+            "reply_settings": "everyone",
+            "text": "Reading the comments it's funny how people use examples of individuals choosing to have a vaccine as a means for supporting forcing people to have a vaccine... https://t.co/6wNoLkRdUX",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 160,
+                        "end": 183,
+                        "url": "https://t.co/6wNoLkRdUX",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ]
+            },
+            "author_id": "960629776393351173"
+        },
+        "id": 1405097505214377984,
+        "text": "Reading the comments it's funny how people use examples of individuals choosing to have a vaccine as a means for supporting forcing people to have a vaccine... https://t.co/6wNoLkRdUX",
+        "attachments": null,
+        "author_id": 960629776393351173,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405097505214377984,
+        "created_at": "2021-06-16T09:38:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 160,
+                    "end": 183,
+                    "url": "https://t.co/6wNoLkRdUX",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10031713489",
+                        "name": "The Next Step"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "id": "1405078487216558081",
+            "conversation_id": "1405078487216558081",
+            "created_at": "2021-06-16T08:23:11.000Z",
+            "reply_settings": "following",
+            "text": "The next step is to say if you want to visit Granny in her care home, you too must show proof of vaccination. https://t.co/oznQmZh9xJ",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 110,
+                        "end": 133,
+                        "url": "https://t.co/oznQmZh9xJ",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1310156987863310336"
+        },
+        "id": 1405078487216558081,
+        "text": "The next step is to say if you want to visit Granny in her care home, you too must show proof of vaccination. https://t.co/oznQmZh9xJ",
+        "attachments": null,
+        "author_id": 1310156987863310336,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10031713489",
+                    "name": "The Next Step"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405078487216558081,
+        "created_at": "2021-06-16T08:23:11+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/oznQmZh9xJ",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "following",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "3131144855",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "BorisJohnson",
+                        "id": "3131144855"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 96,
+                        "end": 119,
+                        "url": "https://t.co/piDnpzr83Y",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 78,
+                        "end": 95,
+                        "tag": "COVIDVaccination"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson",
+                        "description": "Prime Minister"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "857212166100754432",
+                        "name": "Boris Johnson",
+                        "description": "Prime Minister"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "id": "1405077460648144896",
+            "conversation_id": "1405077460648144896",
+            "created_at": "2021-06-16T08:19:06.000Z",
+            "reply_settings": "everyone",
+            "text": "@BorisJohnson forced vaccinations are utterly despicable and make zero sense! #COVIDVaccination https://t.co/piDnpzr83Y",
+            "author_id": "1364501267855405057"
+        },
+        "id": 1405077460648144896,
+        "text": "@BorisJohnson forced vaccinations are utterly despicable and make zero sense! #COVIDVaccination https://t.co/piDnpzr83Y",
+        "attachments": null,
+        "author_id": 1364501267855405057,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "857212166100754432",
+                    "name": "Boris Johnson",
+                    "description": "Prime Minister"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "857212166100754432",
+                    "name": "Boris Johnson",
+                    "description": "Prime Minister"
+                }
+            }
+        ],
+        "conversation_id": 1405077460648144896,
+        "created_at": "2021-06-16T08:19:06+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "BorisJohnson",
+                    "id": "3131144855"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/piDnpzr83Y",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 78,
+                    "end": 95,
+                    "tag": "COVIDVaccination"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 3131144855,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "LevyLoiseau",
+                        "id": "399251929"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "fr",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1405075004342026240"
+                }
+            ],
+            "id": "1405076500303515648",
+            "conversation_id": "1405076500303515648",
+            "created_at": "2021-06-16T08:15:17.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @LevyLoiseau: Forcer quelqu'un \u00e0 avoir un jab en tant qu'exigence d'emploi obligatoire est contraire \u00e0 l'\u00e9thique. Et dans le cas des tra\u2026",
+            "author_id": "110881084"
+        },
+        "id": 1405076500303515648,
+        "text": "RT @LevyLoiseau: Forcer quelqu'un \u00e0 avoir un jab en tant qu'exigence d'emploi obligatoire est contraire \u00e0 l'\u00e9thique. Et dans le cas des tra\u2026",
+        "attachments": null,
+        "author_id": 110881084,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405076500303515648,
+        "created_at": "2021-06-16T08:15:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 15,
+                    "username": "LevyLoiseau",
+                    "id": "399251929"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1405075004342026240"
+                },
+                "id": 1405075004342026240,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "id": "1405076414467088386",
+            "conversation_id": "1405076414467088386",
+            "created_at": "2021-06-16T08:14:56.000Z",
+            "reply_settings": "everyone",
+            "text": "This is mental. Vaccination doesn't stop transmission - vulnerable vaccinated \u2705 how the fuck this is even getting talked about as being a LEGAL obligation is ridiculous https://t.co/4EaQAyDwjM",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 169,
+                        "end": 192,
+                        "url": "https://t.co/4EaQAyDwjM",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ]
+            },
+            "author_id": "240171682"
+        },
+        "id": 1405076414467088386,
+        "text": "This is mental. Vaccination doesn't stop transmission - vulnerable vaccinated \u2705 how the fuck this is even getting talked about as being a LEGAL obligation is ridiculous https://t.co/4EaQAyDwjM",
+        "attachments": null,
+        "author_id": 240171682,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405076414467088386,
+        "created_at": "2021-06-16T08:14:56+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 169,
+                    "end": 192,
+                    "url": "https://t.co/4EaQAyDwjM",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "fr",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                }
+            ],
+            "id": "1405075004342026240",
+            "conversation_id": "1405075004342026240",
+            "created_at": "2021-06-16T08:09:20.000Z",
+            "reply_settings": "everyone",
+            "text": "Forcer quelqu'un \u00e0 avoir un jab en tant qu'exigence d'emploi obligatoire est contraire \u00e0 l'\u00e9thique. Et dans le cas des travailleurs des maisons de soins, \u00e9tant donn\u00e9 que presque tous les r\u00e9sidents des maisons de soins ont d\u00e9j\u00e0 \u00e9t\u00e9 vaccin\u00e9s, c'est aussi une logique grossi\u00e8re. https://t.co/Ac7u0XCljp",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/Ac7u0XCljp",
+                        "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                        "display_url": "twitter.com/JamesMelville/\u2026"
+                    }
+                ]
+            },
+            "author_id": "399251929"
+        },
+        "id": 1405075004342026240,
+        "text": "Forcer quelqu'un \u00e0 avoir un jab en tant qu'exigence d'emploi obligatoire est contraire \u00e0 l'\u00e9thique. Et dans le cas des travailleurs des maisons de soins, \u00e9tant donn\u00e9 que presque tous les r\u00e9sidents des maisons de soins ont d\u00e9j\u00e0 \u00e9t\u00e9 vaccin\u00e9s, c'est aussi une logique grossi\u00e8re. https://t.co/Ac7u0XCljp",
+        "attachments": null,
+        "author_id": 399251929,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1405075004342026240,
+        "created_at": "2021-06-16T08:09:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 276,
+                    "end": 299,
+                    "url": "https://t.co/Ac7u0XCljp",
+                    "expanded_url": "https://twitter.com/JamesMelville/status/1405074042131042304",
+                    "display_url": "twitter.com/JamesMelville/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1405074042131042304"
+                },
+                "id": 1405074042131042304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

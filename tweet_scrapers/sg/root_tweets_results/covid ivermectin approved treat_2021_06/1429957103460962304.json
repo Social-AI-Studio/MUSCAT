@@ -1,0 +1,619 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "DBruce96454761",
+                        "id": "1063892435976232961"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "probability": 0.755,
+                        "type": "Person",
+                        "normalized_text": "ronnie"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 65,
+                        "end": 88,
+                        "url": "https://t.co/wvtVeE8sLN",
+                        "expanded_url": "https://twitter.com/geostanley/status/1429957103460962304",
+                        "display_url": "twitter.com/geostanley/sta\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1429958932513103873"
+                }
+            ],
+            "created_at": "2021-08-24T00:37:45.000Z",
+            "author_id": "785646553423687680",
+            "lang": "en",
+            "id": "1429966120551915522",
+            "conversation_id": "1429966120551915522",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @DBruce96454761: That's our boy, ronnie the crackpot johnson. https://t.co/wvtVeE8sLN",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1429966120551915522,
+        "text": "RT @DBruce96454761: That's our boy, ronnie the crackpot johnson. https://t.co/wvtVeE8sLN",
+        "attachments": null,
+        "author_id": 785646553423687680,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429966120551915522,
+        "created_at": "2021-08-24T00:37:45+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "DBruce96454761",
+                    "id": "1063892435976232961"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 41,
+                    "probability": 0.755,
+                    "type": "Person",
+                    "normalized_text": "ronnie"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 65,
+                    "end": 88,
+                    "url": "https://t.co/wvtVeE8sLN",
+                    "expanded_url": "https://twitter.com/geostanley/status/1429957103460962304",
+                    "display_url": "twitter.com/geostanley/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1429958932513103873"
+                },
+                "id": 1429958932513103873,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "DBruce96454761",
+                        "id": "1063892435976232961"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "probability": 0.755,
+                        "type": "Person",
+                        "normalized_text": "ronnie"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 65,
+                        "end": 88,
+                        "url": "https://t.co/wvtVeE8sLN",
+                        "expanded_url": "https://twitter.com/geostanley/status/1429957103460962304",
+                        "display_url": "twitter.com/geostanley/sta\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1429958932513103873"
+                }
+            ],
+            "created_at": "2021-08-24T00:29:48.000Z",
+            "author_id": "1357395239439376386",
+            "lang": "en",
+            "id": "1429964119327879168",
+            "conversation_id": "1429964119327879168",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @DBruce96454761: That's our boy, ronnie the crackpot johnson. https://t.co/wvtVeE8sLN",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1429964119327879168,
+        "text": "RT @DBruce96454761: That's our boy, ronnie the crackpot johnson. https://t.co/wvtVeE8sLN",
+        "attachments": null,
+        "author_id": 1357395239439376386,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429964119327879168,
+        "created_at": "2021-08-24T00:29:48+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "DBruce96454761",
+                    "id": "1063892435976232961"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 41,
+                    "probability": 0.755,
+                    "type": "Person",
+                    "normalized_text": "ronnie"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 65,
+                    "end": 88,
+                    "url": "https://t.co/wvtVeE8sLN",
+                    "expanded_url": "https://twitter.com/geostanley/status/1429957103460962304",
+                    "display_url": "twitter.com/geostanley/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1429958932513103873"
+                },
+                "id": 1429958932513103873,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1429957103460962304"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 16,
+                        "end": 21,
+                        "probability": 0.6911,
+                        "type": "Person",
+                        "normalized_text": "ronnie"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 45,
+                        "end": 68,
+                        "url": "https://t.co/wvtVeE8sLN",
+                        "expanded_url": "https://twitter.com/geostanley/status/1429957103460962304",
+                        "display_url": "twitter.com/geostanley/sta\u2026"
+                    }
+                ]
+            },
+            "created_at": "2021-08-24T00:09:11.000Z",
+            "author_id": "1063892435976232961",
+            "lang": "en",
+            "id": "1429958932513103873",
+            "conversation_id": "1429958932513103873",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "That's our boy, ronnie the crackpot johnson. https://t.co/wvtVeE8sLN",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1429958932513103873,
+        "text": "That's our boy, ronnie the crackpot johnson. https://t.co/wvtVeE8sLN",
+        "attachments": null,
+        "author_id": 1063892435976232961,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1429958932513103873,
+        "created_at": "2021-08-24T00:09:11+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 16,
+                    "end": 21,
+                    "probability": 0.6911,
+                    "type": "Person",
+                    "normalized_text": "ronnie"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/wvtVeE8sLN",
+                    "expanded_url": "https://twitter.com/geostanley/status/1429957103460962304",
+                    "display_url": "twitter.com/geostanley/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1429957103460962304"
+                },
+                "id": 1429957103460962304,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

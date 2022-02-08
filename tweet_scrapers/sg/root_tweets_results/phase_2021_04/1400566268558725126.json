@@ -1,0 +1,2764 @@
+[
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/oBMWJLXpBx",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1401535608544169984",
+            "author_id": "2291526088",
+            "created_at": "2021-06-06T13:45:03.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Shambles! https://t.co/oBMWJLXpBx",
+            "reply_settings": "everyone",
+            "conversation_id": "1401535608544169984",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1401535608544169984,
+        "text": "Shambles! https://t.co/oBMWJLXpBx",
+        "attachments": null,
+        "author_id": 2291526088,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1401535608544169984,
+        "created_at": "2021-06-06T13:45:03+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/oBMWJLXpBx",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 26,
+                        "end": 32,
+                        "probability": 0.9618,
+                        "type": "Person",
+                        "normalized_text": "Johnson"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "gandoflam",
+                        "id": "1244698678146863111"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1400864772996927491"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1400868742972723202",
+            "author_id": "4839074315",
+            "created_at": "2021-06-04T17:35:09.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "RT @gandoflam: Every time Johnson does too little too late.\nReally dangerously incompetent.",
+            "reply_settings": "everyone",
+            "conversation_id": "1400868742972723202",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400868742972723202,
+        "text": "RT @gandoflam: Every time Johnson does too little too late.\nReally dangerously incompetent.",
+        "attachments": null,
+        "author_id": 4839074315,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400868742972723202,
+        "created_at": "2021-06-04T17:35:09+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 26,
+                    "end": 32,
+                    "probability": 0.9618,
+                    "type": "Person",
+                    "normalized_text": "Johnson"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "gandoflam",
+                    "id": "1244698678146863111"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1400864772996927491"
+                },
+                "id": 1400864772996927491,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 11,
+                        "end": 17,
+                        "probability": 0.9567,
+                        "type": "Person",
+                        "normalized_text": "Johnson"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 77,
+                        "end": 100,
+                        "url": "https://t.co/7V7SqUTvNL",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1400864772996927491",
+            "author_id": "1244698678146863111",
+            "created_at": "2021-06-04T17:19:23.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Every time Johnson does too little too late.\nReally dangerously incompetent. https://t.co/7V7SqUTvNL",
+            "reply_settings": "everyone",
+            "conversation_id": "1400864772996927491",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1400864772996927491,
+        "text": "Every time Johnson does too little too late.\nReally dangerously incompetent. https://t.co/7V7SqUTvNL",
+        "attachments": null,
+        "author_id": 1244698678146863111,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400864772996927491,
+        "created_at": "2021-06-04T17:19:23+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 17,
+                    "probability": 0.9567,
+                    "type": "Person",
+                    "normalized_text": "Johnson"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 77,
+                    "end": 100,
+                    "url": "https://t.co/7V7SqUTvNL",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 22,
+                        "end": 29,
+                        "probability": 0.8993,
+                        "type": "Place",
+                        "normalized_text": "Portugal"
+                    },
+                    {
+                        "start": 119,
+                        "end": 125,
+                        "probability": 0.722,
+                        "type": "Person",
+                        "normalized_text": "Covid19"
+                    },
+                    {
+                        "start": 134,
+                        "end": 140,
+                        "probability": 0.4553,
+                        "type": "Person",
+                        "normalized_text": "Spaffer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 264,
+                        "end": 287,
+                        "url": "https://t.co/FNAzIRRlGE",
+                        "expanded_url": "https://twitter.com/hawkins_carole/status/1400846744712364035/photo/1",
+                        "display_url": "pic.twitter.com/FNAzIRRlGE"
+                    },
+                    {
+                        "start": 288,
+                        "end": 311,
+                        "url": "https://t.co/YGB36ya5bG",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1400846744712364035",
+            "author_id": "365945721",
+            "created_at": "2021-06-04T16:07:45.000Z",
+            "attachments": {
+                "media_keys": [
+                    "3_1400846737019920392"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "12,000 people went to Portugal for a football match within days of returning many have been contacted to be tested for Covid19 &amp; then Spaffer &amp; his co-criminals decide to close the borders AGAIN - not once have they done it successfully.\nSpaffer's mantra: https://t.co/FNAzIRRlGE https://t.co/YGB36ya5bG",
+            "reply_settings": "everyone",
+            "conversation_id": "1400846744712364035",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400846744712364035,
+        "text": "12,000 people went to Portugal for a football match within days of returning many have been contacted to be tested for Covid19 &amp; then Spaffer &amp; his co-criminals decide to close the borders AGAIN - not once have they done it successfully.\nSpaffer's mantra: https://t.co/FNAzIRRlGE https://t.co/YGB36ya5bG",
+        "attachments": {
+            "media_keys": [
+                "3_1400846737019920392"
+            ]
+        },
+        "author_id": 365945721,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400846744712364035,
+        "created_at": "2021-06-04T16:07:45+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 29,
+                    "probability": 0.8993,
+                    "type": "Place",
+                    "normalized_text": "Portugal"
+                },
+                {
+                    "start": 119,
+                    "end": 125,
+                    "probability": 0.722,
+                    "type": "Person",
+                    "normalized_text": "Covid19"
+                },
+                {
+                    "start": 134,
+                    "end": 140,
+                    "probability": 0.4553,
+                    "type": "Person",
+                    "normalized_text": "Spaffer"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 264,
+                    "end": 287,
+                    "url": "https://t.co/FNAzIRRlGE",
+                    "expanded_url": "https://twitter.com/hawkins_carole/status/1400846744712364035/photo/1",
+                    "display_url": "pic.twitter.com/FNAzIRRlGE"
+                },
+                {
+                    "start": 288,
+                    "end": 311,
+                    "url": "https://t.co/YGB36ya5bG",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 6,
+                        "end": 29,
+                        "url": "https://t.co/q4xTau4lEy",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400792547727904772",
+            "author_id": "27901105",
+            "created_at": "2021-06-04T12:32:23.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Sake. https://t.co/q4xTau4lEy",
+            "reply_settings": "everyone",
+            "conversation_id": "1400792547727904772",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400792547727904772,
+        "text": "Sake. https://t.co/q4xTau4lEy",
+        "attachments": null,
+        "author_id": 27901105,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400792547727904772,
+        "created_at": "2021-06-04T12:32:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 6,
+                    "end": 29,
+                    "url": "https://t.co/q4xTau4lEy",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "url": "https://t.co/wA5oEaRBU9",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400788668860694541",
+            "author_id": "2558877662",
+            "created_at": "2021-06-04T12:16:58.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "That damn horse keeps bolting. https://t.co/wA5oEaRBU9",
+            "reply_settings": "everyone",
+            "conversation_id": "1400788668860694541",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1400788668860694541,
+        "text": "That damn horse keeps bolting. https://t.co/wA5oEaRBU9",
+        "attachments": null,
+        "author_id": 2558877662,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400788668860694541,
+        "created_at": "2021-06-04T12:16:58+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 31,
+                    "end": 54,
+                    "url": "https://t.co/wA5oEaRBU9",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 35,
+                        "end": 58,
+                        "url": "https://t.co/p6wXVjFzWM",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400754185222639617",
+            "author_id": "2555548111",
+            "created_at": "2021-06-04T09:59:57.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Not just preventable. Predictable. https://t.co/p6wXVjFzWM",
+            "reply_settings": "everyone",
+            "conversation_id": "1400754185222639617",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400754185222639617,
+        "text": "Not just preventable. Predictable. https://t.co/p6wXVjFzWM",
+        "attachments": null,
+        "author_id": 2555548111,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400754185222639617,
+        "created_at": "2021-06-04T09:59:57+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 35,
+                    "end": 58,
+                    "url": "https://t.co/p6wXVjFzWM",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 75,
+                        "end": 98,
+                        "url": "https://t.co/5sOQjBiGDF",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400729617238048769",
+            "author_id": "927471366261133313",
+            "created_at": "2021-06-04T08:22:19.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "It feels like repeats on telly. \nNot in a good way.\nAnd utterly predicted. https://t.co/5sOQjBiGDF",
+            "reply_settings": "everyone",
+            "conversation_id": "1400729617238048769",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400729617238048769,
+        "text": "It feels like repeats on telly. \nNot in a good way.\nAnd utterly predicted. https://t.co/5sOQjBiGDF",
+        "attachments": null,
+        "author_id": 927471366261133313,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400729617238048769,
+        "created_at": "2021-06-04T08:22:19+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 75,
+                    "end": 98,
+                    "url": "https://t.co/5sOQjBiGDF",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 170,
+                        "end": 193,
+                        "url": "https://t.co/3bH1T0vZun",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400697730964594688",
+            "author_id": "705082161569865728",
+            "created_at": "2021-06-04T06:15:37.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "text": "They did say....\" If you travel to amber...things could change whilst you are away\".....and I am NO Tory supporter!.....Maybe folk need....a little more self control...\ud83e\uddd0 https://t.co/3bH1T0vZun",
+            "reply_settings": "everyone",
+            "conversation_id": "1400697730964594688",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400697730964594688,
+        "text": "They did say....\" If you travel to amber...things could change whilst you are away\".....and I am NO Tory supporter!.....Maybe folk need....a little more self control...\ud83e\uddd0 https://t.co/3bH1T0vZun",
+        "attachments": null,
+        "author_id": 705082161569865728,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1400697730964594688,
+        "created_at": "2021-06-04T06:15:37+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 170,
+                    "end": 193,
+                    "url": "https://t.co/3bH1T0vZun",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 57,
+                        "end": 61,
+                        "probability": 0.9881,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "nc4luvrus",
+                        "id": "756762158491373569"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1400655497720733696"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1400673112044228608",
+            "author_id": "46713623",
+            "created_at": "2021-06-04T04:37:47.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "RT @nc4luvrus: Errrrm how many flights have arrived from India since the Indian variant was identified?\nAll of course with no real quarrant\u2026",
+            "reply_settings": "everyone",
+            "conversation_id": "1400673112044228608",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400673112044228608,
+        "text": "RT @nc4luvrus: Errrrm how many flights have arrived from India since the Indian variant was identified?\nAll of course with no real quarrant\u2026",
+        "attachments": null,
+        "author_id": 46713623,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400673112044228608,
+        "created_at": "2021-06-04T04:37:47+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 57,
+                    "end": 61,
+                    "probability": 0.9881,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "nc4luvrus",
+                    "id": "756762158491373569"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1400655497720733696"
+                },
+                "id": 1400655497720733696,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "probability": 0.7401,
+                        "type": "Organization",
+                        "normalized_text": "CEO Heathrow"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 84,
+                        "end": 107,
+                        "url": "https://t.co/imwCG5WodU",
+                        "expanded_url": "https://twitter.com/nc4luvrus/status/1400658215654854659/photo/1",
+                        "display_url": "pic.twitter.com/imwCG5WodU"
+                    },
+                    {
+                        "start": 84,
+                        "end": 107,
+                        "url": "https://t.co/imwCG5WodU",
+                        "expanded_url": "https://twitter.com/nc4luvrus/status/1400658215654854659/photo/1",
+                        "display_url": "pic.twitter.com/imwCG5WodU"
+                    },
+                    {
+                        "start": 108,
+                        "end": 131,
+                        "url": "https://t.co/gY5a0d1md8",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1400658215654854659",
+            "author_id": "756762158491373569",
+            "created_at": "2021-06-04T03:38:36.000Z",
+            "attachments": {
+                "media_keys": [
+                    "3_1400658206653915138",
+                    "3_1400658211649343494"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "968089839210872833",
+                        "name": "Heathrow Airport",
+                        "description": "Heathrow Airport"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "CEO Heathrow airport calls for removal of covid controls......\nhe should resign.... https://t.co/imwCG5WodU https://t.co/gY5a0d1md8",
+            "reply_settings": "everyone",
+            "conversation_id": "1400658215654854659",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1400658215654854659,
+        "text": "CEO Heathrow airport calls for removal of covid controls......\nhe should resign.... https://t.co/imwCG5WodU https://t.co/gY5a0d1md8",
+        "attachments": {
+            "media_keys": [
+                "3_1400658206653915138",
+                "3_1400658211649343494"
+            ]
+        },
+        "author_id": 756762158491373569,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "968089839210872833",
+                    "name": "Heathrow Airport",
+                    "description": "Heathrow Airport"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400658215654854659,
+        "created_at": "2021-06-04T03:38:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "probability": 0.7401,
+                    "type": "Organization",
+                    "normalized_text": "CEO Heathrow"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/imwCG5WodU",
+                    "expanded_url": "https://twitter.com/nc4luvrus/status/1400658215654854659/photo/1",
+                    "display_url": "pic.twitter.com/imwCG5WodU"
+                },
+                {
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/imwCG5WodU",
+                    "expanded_url": "https://twitter.com/nc4luvrus/status/1400658215654854659/photo/1",
+                    "display_url": "pic.twitter.com/imwCG5WodU"
+                },
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/gY5a0d1md8",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 46,
+                        "probability": 0.9893,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 137,
+                        "end": 160,
+                        "url": "https://t.co/gY5a0d1md8",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1400655497720733696",
+            "author_id": "756762158491373569",
+            "created_at": "2021-06-04T03:27:48.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Errrrm how many flights have arrived from India since the Indian variant was identified?\nAll of course with no real quarrantine etc..... https://t.co/gY5a0d1md8",
+            "reply_settings": "everyone",
+            "conversation_id": "1400655497720733696",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400655497720733696,
+        "text": "Errrrm how many flights have arrived from India since the Indian variant was identified?\nAll of course with no real quarrantine etc..... https://t.co/gY5a0d1md8",
+        "attachments": null,
+        "author_id": 756762158491373569,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400655497720733696,
+        "created_at": "2021-06-04T03:27:48+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 46,
+                    "probability": 0.9893,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/gY5a0d1md8",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 184,
+                        "end": 207,
+                        "url": "https://t.co/tCBZHtPRa1",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400585642959159304",
+            "author_id": "457896274",
+            "created_at": "2021-06-03T22:50:13.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Groundhog Day springs to mind! The government are the real virus. Only another 3 years until we can vaccinate ourselves from them and try to piece together what\u2019s left of the country. https://t.co/tCBZHtPRa1",
+            "reply_settings": "everyone",
+            "conversation_id": "1400585642959159304",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400585642959159304,
+        "text": "Groundhog Day springs to mind! The government are the real virus. Only another 3 years until we can vaccinate ourselves from them and try to piece together what\u2019s left of the country. https://t.co/tCBZHtPRa1",
+        "attachments": null,
+        "author_id": 457896274,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400585642959159304,
+        "created_at": "2021-06-03T22:50:13+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 184,
+                    "end": 207,
+                    "url": "https://t.co/tCBZHtPRa1",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/jMbnYbACqw",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400579193675698180",
+            "author_id": "14051047",
+            "created_at": "2021-06-03T22:24:35.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Oops they did it again. https://t.co/jMbnYbACqw",
+            "reply_settings": "everyone",
+            "conversation_id": "1400579193675698180",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400579193675698180,
+        "text": "Oops they did it again. https://t.co/jMbnYbACqw",
+        "attachments": null,
+        "author_id": 14051047,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400579193675698180,
+        "created_at": "2021-06-03T22:24:35+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/jMbnYbACqw",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 19,
+                        "end": 42,
+                        "url": "https://t.co/TXE4bVKDej",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400575324618952705",
+            "author_id": "42910578",
+            "created_at": "2021-06-03T22:09:13.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Absofuckinglutely. https://t.co/TXE4bVKDej",
+            "reply_settings": "everyone",
+            "conversation_id": "1400575324618952705",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400575324618952705,
+        "text": "Absofuckinglutely. https://t.co/TXE4bVKDej",
+        "attachments": null,
+        "author_id": 42910578,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400575324618952705,
+        "created_at": "2021-06-03T22:09:13+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 19,
+                    "end": 42,
+                    "url": "https://t.co/TXE4bVKDej",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 53,
+                        "end": 57,
+                        "probability": 0.4573,
+                        "type": "Person",
+                        "normalized_text": "Gates"
+                    },
+                    {
+                        "start": 110,
+                        "end": 115,
+                        "probability": 0.6202,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 149,
+                        "end": 172,
+                        "url": "https://t.co/3EjIJpoo8m",
+                        "expanded_url": "https://twitter.com/KimFlorey2/status/1400573278444560389/photo/1",
+                        "display_url": "pic.twitter.com/3EjIJpoo8m"
+                    },
+                    {
+                        "start": 173,
+                        "end": 196,
+                        "url": "https://t.co/8S6igrGjnh",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for Android",
+            "id": "1400573278444560389",
+            "author_id": "1274651514284527616",
+            "created_at": "2021-06-03T22:01:05.000Z",
+            "attachments": {
+                "media_keys": [
+                    "3_1400573263550496768"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "text": "Preventable- definitely.  Deliberate  - definitely.  Gates headline pays not tax - is it cos he has shares in Pfizer and is 1st sponsor of WHO?? \ud83d\udc47\ud83d\udc47\ud83d\udc47 https://t.co/3EjIJpoo8m https://t.co/8S6igrGjnh",
+            "reply_settings": "everyone",
+            "conversation_id": "1400573278444560389",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 1
+            }
+        },
+        "id": 1400573278444560389,
+        "text": "Preventable- definitely.  Deliberate  - definitely.  Gates headline pays not tax - is it cos he has shares in Pfizer and is 1st sponsor of WHO?? \ud83d\udc47\ud83d\udc47\ud83d\udc47 https://t.co/3EjIJpoo8m https://t.co/8S6igrGjnh",
+        "attachments": {
+            "media_keys": [
+                "3_1400573263550496768"
+            ]
+        },
+        "author_id": 1274651514284527616,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1400573278444560389,
+        "created_at": "2021-06-03T22:01:05+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 53,
+                    "end": 57,
+                    "probability": 0.4573,
+                    "type": "Person",
+                    "normalized_text": "Gates"
+                },
+                {
+                    "start": 110,
+                    "end": 115,
+                    "probability": 0.6202,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 149,
+                    "end": 172,
+                    "url": "https://t.co/3EjIJpoo8m",
+                    "expanded_url": "https://twitter.com/KimFlorey2/status/1400573278444560389/photo/1",
+                    "display_url": "pic.twitter.com/3EjIJpoo8m"
+                },
+                {
+                    "start": 173,
+                    "end": 196,
+                    "url": "https://t.co/8S6igrGjnh",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 187,
+                        "end": 210,
+                        "url": "https://t.co/TQHQt18EDM",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400572193835257869",
+            "author_id": "223433819",
+            "created_at": "2021-06-03T21:56:47.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "This is so predictable. More biz will be hit. Why on earth couldn't they just have not repeated the same damn mistakes? we are killing our economy through indecision and fannying around. https://t.co/TQHQt18EDM",
+            "reply_settings": "everyone",
+            "conversation_id": "1400572193835257869",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1400572193835257869,
+        "text": "This is so predictable. More biz will be hit. Why on earth couldn't they just have not repeated the same damn mistakes? we are killing our economy through indecision and fannying around. https://t.co/TQHQt18EDM",
+        "attachments": null,
+        "author_id": 223433819,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400572193835257869,
+        "created_at": "2021-06-03T21:56:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 187,
+                    "end": 210,
+                    "url": "https://t.co/TQHQt18EDM",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "TweetDeck",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 167,
+                        "end": 190,
+                        "url": "https://t.co/0XvIZvCbKP",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400571113697120260",
+            "author_id": "1732717562",
+            "created_at": "2021-06-03T21:52:29.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "As we learned in the nuclear industry the hard way:\n\n'Operational Experience - Use It or Become It'\n\nOthers are learning how not to do it from us. We have 'become it' https://t.co/0XvIZvCbKP",
+            "reply_settings": "everyone",
+            "conversation_id": "1400571113697120260",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1400571113697120260,
+        "text": "As we learned in the nuclear industry the hard way:\n\n'Operational Experience - Use It or Become It'\n\nOthers are learning how not to do it from us. We have 'become it' https://t.co/0XvIZvCbKP",
+        "attachments": null,
+        "author_id": 1732717562,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400571113697120260,
+        "created_at": "2021-06-03T21:52:29+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 167,
+                    "end": 190,
+                    "url": "https://t.co/0XvIZvCbKP",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 132,
+                        "end": 155,
+                        "url": "https://t.co/lq4RW3Tlk0",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "id": "1400568899943469056",
+            "author_id": "116522353",
+            "created_at": "2021-06-03T21:43:41.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Would love to know how it's not a resigning matter for the Prime Minister if Indian/delta variant causes the disruption threatened. https://t.co/lq4RW3Tlk0",
+            "reply_settings": "everyone",
+            "conversation_id": "1400568899943469056",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 14,
+                "quote_count": 0
+            }
+        },
+        "id": 1400568899943469056,
+        "text": "Would love to know how it's not a resigning matter for the Prime Minister if Indian/delta variant causes the disruption threatened. https://t.co/lq4RW3Tlk0",
+        "attachments": null,
+        "author_id": 116522353,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400568899943469056,
+        "created_at": "2021-06-03T21:43:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 132,
+                    "end": 155,
+                    "url": "https://t.co/lq4RW3Tlk0",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 14,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 15,
+                        "probability": 0.9273,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/DekMqL2J9a",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1400567952794075137",
+            "author_id": "82631496",
+            "created_at": "2021-06-03T21:39:55.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "News from the UK https://t.co/DekMqL2J9a",
+            "reply_settings": "everyone",
+            "conversation_id": "1400567952794075137",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1400567952794075137,
+        "text": "News from the UK https://t.co/DekMqL2J9a",
+        "attachments": null,
+        "author_id": 82631496,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400567952794075137,
+        "created_at": "2021-06-03T21:39:55+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 14,
+                    "end": 15,
+                    "probability": 0.9273,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/DekMqL2J9a",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 181,
+                        "end": 193,
+                        "tag": "incompetent"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 4,
+                        "end": 5,
+                        "probability": 0.706,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 194,
+                        "end": 217,
+                        "url": "https://t.co/JJfC0cBcUd",
+                        "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                        "display_url": "twitter.com/IanDunt/status\u2026"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1400567494583201793",
+            "author_id": "107360090",
+            "created_at": "2021-06-03T21:38:06.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1100741788174712832",
+                        "name": "Foals",
+                        "description": "Foals"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "1100741788174712832",
+                        "name": "Foals",
+                        "description": "Foals"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "55",
+                        "name": "Music Genre",
+                        "description": "A category for a musical style, like Pop, Rock, or Rap"
+                    },
+                    "entity": {
+                        "id": "849684194242338816",
+                        "name": "Alternative rock",
+                        "description": "Alternative"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "the UK government are world leaders at closing the stable door after the horse has not just bolted but left the country, met a nice mare, settled down and had a whole team of foals #incompetent https://t.co/JJfC0cBcUd",
+            "reply_settings": "everyone",
+            "conversation_id": "1400567494583201793",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1400567494583201793,
+        "text": "the UK government are world leaders at closing the stable door after the horse has not just bolted but left the country, met a nice mare, settled down and had a whole team of foals #incompetent https://t.co/JJfC0cBcUd",
+        "attachments": null,
+        "author_id": 107360090,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1100741788174712832",
+                    "name": "Foals",
+                    "description": "Foals"
+                }
+            },
+            {
+                "domain": {
+                    "id": "54",
+                    "name": "Musician",
+                    "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                    "id": "1100741788174712832",
+                    "name": "Foals",
+                    "description": "Foals"
+                }
+            },
+            {
+                "domain": {
+                    "id": "55",
+                    "name": "Music Genre",
+                    "description": "A category for a musical style, like Pop, Rock, or Rap"
+                },
+                "entity": {
+                    "id": "849684194242338816",
+                    "name": "Alternative rock",
+                    "description": "Alternative"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1400567494583201793,
+        "created_at": "2021-06-03T21:38:06+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 181,
+                    "end": 193,
+                    "tag": "incompetent"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 4,
+                    "end": 5,
+                    "probability": 0.706,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 194,
+                    "end": 217,
+                    "url": "https://t.co/JJfC0cBcUd",
+                    "expanded_url": "https://twitter.com/IanDunt/status/1400566268558725126",
+                    "display_url": "twitter.com/IanDunt/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1400566268558725126"
+                },
+                "id": 1400566268558725126,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

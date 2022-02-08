@@ -1,0 +1,798 @@
+[
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 104,
+                        "end": 105,
+                        "probability": 0.8323,
+                        "type": "Place",
+                        "normalized_text": "FL"
+                    }
+                ],
+                "cashtags": [
+                    {
+                        "start": 43,
+                        "end": 48,
+                        "tag": "ABMC"
+                    },
+                    {
+                        "start": 201,
+                        "end": 206,
+                        "tag": "TAUG"
+                    },
+                    {
+                        "start": 207,
+                        "end": 211,
+                        "tag": "INO"
+                    },
+                    {
+                        "start": 212,
+                        "end": 217,
+                        "tag": "AFMD"
+                    },
+                    {
+                        "start": 218,
+                        "end": 223,
+                        "tag": "NFLX"
+                    },
+                    {
+                        "start": 224,
+                        "end": 229,
+                        "tag": "UVXY"
+                    },
+                    {
+                        "start": 230,
+                        "end": 234,
+                        "tag": "SPY"
+                    },
+                    {
+                        "start": 235,
+                        "end": 240,
+                        "tag": "RTTR"
+                    },
+                    {
+                        "start": 241,
+                        "end": 246,
+                        "tag": "MARK"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "megtirrell",
+                        "id": "47678782"
+                    },
+                    {
+                        "start": 12,
+                        "end": 25,
+                        "username": "DonnaYoungDC",
+                        "id": "593813785"
+                    },
+                    {
+                        "start": 26,
+                        "end": 42,
+                        "username": "ObservationDesk",
+                        "id": "55737961"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247675921479413760"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter Web App",
+            "id": "1247702073610731520",
+            "author_id": "277258420",
+            "in_reply_to_user_id": "47678782",
+            "created_at": "2020-04-08T01:45:30.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847888632711061504",
+                        "name": "Personal finance",
+                        "description": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "847894852779900928",
+                        "name": "Stocks & indices",
+                        "description": "Stocks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "text": "@megtirrell @DonnaYoungDC @ObservationDesk $ABMC just sold 44K covid-19 rapid test kits to the state of FL (they are gov cleared) they have the best kits in the industry 2 minute 97% accuracy results. $TAUG $INO $AFMD $NFLX $UVXY $SPY $RTTR $MARK",
+            "reply_settings": "everyone",
+            "conversation_id": "1247648879992020996",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1247702073610731520,
+        "text": "@megtirrell @DonnaYoungDC @ObservationDesk $ABMC just sold 44K covid-19 rapid test kits to the state of FL (they are gov cleared) they have the best kits in the industry 2 minute 97% accuracy results. $TAUG $INO $AFMD $NFLX $UVXY $SPY $RTTR $MARK",
+        "attachments": null,
+        "author_id": 277258420,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847888632711061504",
+                    "name": "Personal finance",
+                    "description": "Personal finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "847894852779900928",
+                    "name": "Stocks & indices",
+                    "description": "Stocks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026367762",
+                    "name": "Netflix"
+                }
+            }
+        ],
+        "conversation_id": 1247648879992020996,
+        "created_at": "2020-04-08T01:45:30+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 105,
+                    "probability": 0.8323,
+                    "type": "Place",
+                    "normalized_text": "FL"
+                }
+            ],
+            "cashtags": [
+                {
+                    "start": 43,
+                    "end": 48,
+                    "tag": "ABMC"
+                },
+                {
+                    "start": 201,
+                    "end": 206,
+                    "tag": "TAUG"
+                },
+                {
+                    "start": 207,
+                    "end": 211,
+                    "tag": "INO"
+                },
+                {
+                    "start": 212,
+                    "end": 217,
+                    "tag": "AFMD"
+                },
+                {
+                    "start": 218,
+                    "end": 223,
+                    "tag": "NFLX"
+                },
+                {
+                    "start": 224,
+                    "end": 229,
+                    "tag": "UVXY"
+                },
+                {
+                    "start": 230,
+                    "end": 234,
+                    "tag": "SPY"
+                },
+                {
+                    "start": 235,
+                    "end": 240,
+                    "tag": "RTTR"
+                },
+                {
+                    "start": 241,
+                    "end": 246,
+                    "tag": "MARK"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "megtirrell",
+                    "id": "47678782"
+                },
+                {
+                    "start": 12,
+                    "end": 25,
+                    "username": "DonnaYoungDC",
+                    "id": "593813785"
+                },
+                {
+                    "start": 26,
+                    "end": 42,
+                    "username": "ObservationDesk",
+                    "id": "55737961"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 47678782,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247675921479413760"
+                },
+                "id": 1247675921479413760,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247676618069475329"
+                }
+            ],
+            "lang": "hu",
+            "source": "Twitter for iPhone",
+            "id": "1247677104621326342",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "megtirrell",
+                        "id": "47678782"
+                    }
+                ]
+            },
+            "author_id": "55737961",
+            "in_reply_to_user_id": "47678782",
+            "created_at": "2020-04-08T00:06:17.000Z",
+            "text": "@megtirrell Thx Meg.\ud83c\udf40",
+            "reply_settings": "everyone",
+            "conversation_id": "1247648879992020996",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1247677104621326342,
+        "text": "@megtirrell Thx Meg.\ud83c\udf40",
+        "attachments": null,
+        "author_id": 55737961,
+        "context_annotations": [],
+        "conversation_id": 1247648879992020996,
+        "created_at": "2020-04-08T00:06:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "megtirrell",
+                    "id": "47678782"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 47678782,
+        "lang": "hu",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247676618069475329"
+                },
+                "id": 1247676618069475329,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 59,
+                        "end": 80,
+                        "probability": 0.8467,
+                        "type": "Place",
+                        "normalized_text": "Santa Clara County, CA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 83,
+                        "end": 106,
+                        "url": "https://t.co/md8yZsXxFr",
+                        "expanded_url": "https://www.stanforddaily.com/2020/04/04/stanford-researchers-test-3200-people-for-covid-19-antibodies/",
+                        "display_url": "stanforddaily.com/2020/04/04/sta\u2026",
+                        "status": 200,
+                        "unwound_url": "https://stanforddaily.com/2020/04/04/stanford-researchers-test-3200-people-for-covid-19-antibodies/"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ObservationDesk",
+                        "id": "55737961"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247676264367960064"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1247676618069475329",
+            "author_id": "47678782",
+            "in_reply_to_user_id": "47678782",
+            "created_at": "2020-04-08T00:04:21.000Z",
+            "text": "@ObservationDesk Stanford also offered antibody testing in Santa Clara County, CA: https://t.co/md8yZsXxFr",
+            "reply_settings": "everyone",
+            "conversation_id": "1247648879992020996",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            }
+        },
+        "id": 1247676618069475329,
+        "text": "@ObservationDesk Stanford also offered antibody testing in Santa Clara County, CA: https://t.co/md8yZsXxFr",
+        "attachments": null,
+        "author_id": 47678782,
+        "context_annotations": [],
+        "conversation_id": 1247648879992020996,
+        "created_at": "2020-04-08T00:04:21+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 59,
+                    "end": 80,
+                    "probability": 0.8467,
+                    "type": "Place",
+                    "normalized_text": "Santa Clara County, CA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 83,
+                    "end": 106,
+                    "url": "https://t.co/md8yZsXxFr",
+                    "expanded_url": "https://www.stanforddaily.com/2020/04/04/stanford-researchers-test-3200-people-for-covid-19-antibodies/",
+                    "display_url": "stanforddaily.com/2020/04/04/sta\u2026",
+                    "status": 200,
+                    "unwound_url": "https://stanforddaily.com/2020/04/04/stanford-researchers-test-3200-people-for-covid-19-antibodies/"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ObservationDesk",
+                    "id": "55737961"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 47678782,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247676264367960064"
+                },
+                "id": 1247676264367960064,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 21,
+                        "probability": 0.9558,
+                        "type": "Place",
+                        "normalized_text": "Miami"
+                    },
+                    {
+                        "start": 23,
+                        "end": 33,
+                        "probability": 0.7442,
+                        "type": "Place",
+                        "normalized_text": "Dade County"
+                    },
+                    {
+                        "start": 39,
+                        "end": 40,
+                        "probability": 0.9625,
+                        "type": "Place",
+                        "normalized_text": "FL"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 119,
+                        "end": 142,
+                        "url": "https://t.co/Pgk2k6UsNu",
+                        "expanded_url": "https://www.miamiherald.com/news/coronavirus/article241750556.html",
+                        "display_url": "miamiherald.com/news/coronavir\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.miamiherald.com/news/coronavirus/article241750556.html"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ObservationDesk",
+                        "id": "55737961"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247675921479413760"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1247676264367960064",
+            "author_id": "47678782",
+            "in_reply_to_user_id": "47678782",
+            "created_at": "2020-04-08T00:02:56.000Z",
+            "text": "@ObservationDesk Miami-Dade County, in FL, is embarking on antibody testing for 750 randomly selected people per week: https://t.co/Pgk2k6UsNu",
+            "reply_settings": "everyone",
+            "conversation_id": "1247648879992020996",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            }
+        },
+        "id": 1247676264367960064,
+        "text": "@ObservationDesk Miami-Dade County, in FL, is embarking on antibody testing for 750 randomly selected people per week: https://t.co/Pgk2k6UsNu",
+        "attachments": null,
+        "author_id": 47678782,
+        "context_annotations": [],
+        "conversation_id": 1247648879992020996,
+        "created_at": "2020-04-08T00:02:56+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 21,
+                    "probability": 0.9558,
+                    "type": "Place",
+                    "normalized_text": "Miami"
+                },
+                {
+                    "start": 23,
+                    "end": 33,
+                    "probability": 0.7442,
+                    "type": "Place",
+                    "normalized_text": "Dade County"
+                },
+                {
+                    "start": 39,
+                    "end": 40,
+                    "probability": 0.9625,
+                    "type": "Place",
+                    "normalized_text": "FL"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 119,
+                    "end": 142,
+                    "url": "https://t.co/Pgk2k6UsNu",
+                    "expanded_url": "https://www.miamiherald.com/news/coronavirus/article241750556.html",
+                    "display_url": "miamiherald.com/news/coronavir\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.miamiherald.com/news/coronavirus/article241750556.html"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ObservationDesk",
+                    "id": "55737961"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 47678782,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247675921479413760"
+                },
+                "id": 1247675921479413760,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 58,
+                        "probability": 0.2123,
+                        "type": "Place",
+                        "normalized_text": "San Miguel County, CO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 184,
+                        "end": 207,
+                        "url": "https://t.co/JQmotERjNw",
+                        "expanded_url": "https://www.cpr.org/2020/04/02/telluride-coronavirus-testing-uncovers-some-positive-results-but-also-more-uncertainty/",
+                        "display_url": "cpr.org/2020/04/02/tel\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.cpr.org/2020/04/02/telluride-coronavirus-testing-uncovers-some-positive-results-but-also-more-uncertainty/"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ObservationDesk",
+                        "id": "55737961"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1247648879992020996"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1247675921479413760",
+            "author_id": "47678782",
+            "in_reply_to_user_id": "55737961",
+            "created_at": "2020-04-08T00:01:35.000Z",
+            "text": "@ObservationDesk All a bit different; San Miguel County, CO is one place offering antibody testing to all, although they\u2019ve now hit a delay in getting some results. Their first round: https://t.co/JQmotERjNw",
+            "reply_settings": "everyone",
+            "conversation_id": "1247648879992020996",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 2,
+                "like_count": 7,
+                "quote_count": 2
+            }
+        },
+        "id": 1247675921479413760,
+        "text": "@ObservationDesk All a bit different; San Miguel County, CO is one place offering antibody testing to all, although they\u2019ve now hit a delay in getting some results. Their first round: https://t.co/JQmotERjNw",
+        "attachments": null,
+        "author_id": 47678782,
+        "context_annotations": [],
+        "conversation_id": 1247648879992020996,
+        "created_at": "2020-04-08T00:01:35+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 58,
+                    "probability": 0.2123,
+                    "type": "Place",
+                    "normalized_text": "San Miguel County, CO"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 184,
+                    "end": 207,
+                    "url": "https://t.co/JQmotERjNw",
+                    "expanded_url": "https://www.cpr.org/2020/04/02/telluride-coronavirus-testing-uncovers-some-positive-results-but-also-more-uncertainty/",
+                    "display_url": "cpr.org/2020/04/02/tel\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.cpr.org/2020/04/02/telluride-coronavirus-testing-uncovers-some-positive-results-but-also-more-uncertainty/"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ObservationDesk",
+                    "id": "55737961"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 55737961,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 7,
+            "quote_count": 2
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1247648879992020996"
+                },
+                "id": 1247648879992020996,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

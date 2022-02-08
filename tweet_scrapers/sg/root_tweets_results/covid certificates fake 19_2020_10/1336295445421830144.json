@@ -1,0 +1,546 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Byo_Watch",
+                        "id": "2284219378"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 58,
+                        "probability": 0.4669,
+                        "type": "Place",
+                        "normalized_text": "Byo-Joburg"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1336299589570359298"
+                }
+            ],
+            "id": "1336305469065977860",
+            "conversation_id": "1336305469065977860",
+            "created_at": "2020-12-08T13:43:45.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @Byo_Watch: A popular cross border bus plying Byo-Joburg route issuing Covid-19 certificates to all passengers \n\nNo tests done",
+            "author_id": "108580763"
+        },
+        "id": 1336305469065977860,
+        "text": "RT @Byo_Watch: A popular cross border bus plying Byo-Joburg route issuing Covid-19 certificates to all passengers \n\nNo tests done",
+        "attachments": null,
+        "author_id": 108580763,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1336305469065977860,
+        "created_at": "2020-12-08T13:43:45+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "Byo_Watch",
+                    "id": "2284219378"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 49,
+                    "end": 58,
+                    "probability": 0.4669,
+                    "type": "Place",
+                    "normalized_text": "Byo-Joburg"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1336299589570359298"
+                },
+                "id": 1336299589570359298,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1336295445421830144"
+                }
+            ],
+            "id": "1336300523192979466",
+            "conversation_id": "1336300523192979466",
+            "created_at": "2020-12-08T13:24:06.000Z",
+            "reply_settings": "everyone",
+            "text": "Your thoughts people#covid19bordercontrols https://t.co/6Xp4oVS1if",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 43,
+                        "end": 66,
+                        "url": "https://t.co/6Xp4oVS1if",
+                        "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                        "display_url": "twitter.com/citezw/status/\u2026"
+                    }
+                ]
+            },
+            "author_id": "3534069629"
+        },
+        "id": 1336300523192979466,
+        "text": "Your thoughts people#covid19bordercontrols https://t.co/6Xp4oVS1if",
+        "attachments": null,
+        "author_id": 3534069629,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1336300523192979466,
+        "created_at": "2020-12-08T13:24:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/6Xp4oVS1if",
+                    "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                    "display_url": "twitter.com/citezw/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1336295445421830144"
+                },
+                "id": 1336295445421830144,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 34,
+                        "end": 43,
+                        "probability": 0.4544,
+                        "type": "Place",
+                        "normalized_text": "Byo-Joburg"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 115,
+                        "end": 138,
+                        "url": "https://t.co/5JlxvH7EnQ",
+                        "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                        "display_url": "twitter.com/citezw/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1336299589570359298",
+            "conversation_id": "1336299589570359298",
+            "created_at": "2020-12-08T13:20:24.000Z",
+            "reply_settings": "everyone",
+            "text": "A popular cross border bus plying Byo-Joburg route issuing Covid-19 certificates to all passengers \n\nNo tests done https://t.co/5JlxvH7EnQ",
+            "author_id": "2284219378"
+        },
+        "id": 1336299589570359298,
+        "text": "A popular cross border bus plying Byo-Joburg route issuing Covid-19 certificates to all passengers \n\nNo tests done https://t.co/5JlxvH7EnQ",
+        "attachments": null,
+        "author_id": 2284219378,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1336299589570359298,
+        "created_at": "2020-12-08T13:20:24+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 34,
+                    "end": 43,
+                    "probability": 0.4544,
+                    "type": "Place",
+                    "normalized_text": "Byo-Joburg"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 115,
+                    "end": 138,
+                    "url": "https://t.co/5JlxvH7EnQ",
+                    "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                    "display_url": "twitter.com/citezw/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1336295445421830144"
+                }
+            ],
+            "id": "1336297527856009222",
+            "conversation_id": "1336297527856009222",
+            "created_at": "2020-12-08T13:12:12.000Z",
+            "reply_settings": "everyone",
+            "text": "$60 is too much perhaps meant to discourage people from crossing the border https://t.co/VDmkbcPdbt",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/VDmkbcPdbt",
+                        "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                        "display_url": "twitter.com/citezw/status/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1201351939277103104"
+        },
+        "id": 1336297527856009222,
+        "text": "$60 is too much perhaps meant to discourage people from crossing the border https://t.co/VDmkbcPdbt",
+        "attachments": null,
+        "author_id": 1201351939277103104,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1336297527856009222,
+        "created_at": "2020-12-08T13:12:12+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/VDmkbcPdbt",
+                    "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                    "display_url": "twitter.com/citezw/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1336295445421830144"
+                },
+                "id": 1336295445421830144,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 7,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "tl",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1336295445421830144"
+                }
+            ],
+            "id": "1336296765218312193",
+            "conversation_id": "1336296765218312193",
+            "created_at": "2020-12-08T13:09:10.000Z",
+            "reply_settings": "everyone",
+            "text": "Atholakala nga amafake \ud83d\ude11 https://t.co/364ggmBfgJ",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 25,
+                        "end": 48,
+                        "url": "https://t.co/364ggmBfgJ",
+                        "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                        "display_url": "twitter.com/citezw/status/\u2026"
+                    }
+                ]
+            },
+            "author_id": "95725957"
+        },
+        "id": 1336296765218312193,
+        "text": "Atholakala nga amafake \ud83d\ude11 https://t.co/364ggmBfgJ",
+        "attachments": null,
+        "author_id": 95725957,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1336296765218312193,
+        "created_at": "2020-12-08T13:09:10+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 25,
+                    "end": 48,
+                    "url": "https://t.co/364ggmBfgJ",
+                    "expanded_url": "https://twitter.com/citezw/status/1336295445421830144",
+                    "display_url": "twitter.com/citezw/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "tl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 7,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1336295445421830144"
+                },
+                "id": 1336295445421830144,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

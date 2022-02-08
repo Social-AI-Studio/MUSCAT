@@ -1,0 +1,111 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 56,
+                        "end": 57,
+                        "probability": 0.7231,
+                        "type": "Place",
+                        "normalized_text": "SA"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "miamalan",
+                        "id": "299610680"
+                    },
+                    {
+                        "start": 10,
+                        "end": 19,
+                        "username": "HealthZA",
+                        "id": "240605588"
+                    }
+                ]
+            },
+            "author_id": "100448589",
+            "id": "1446470081114935349",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1446366272367833093"
+                }
+            ],
+            "text": "@miamalan @HealthZA You can trust nothing and no one in SA. Therefore, I do not trust you stats.",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "299610680",
+            "created_at": "2021-10-08T13:38:36.000Z",
+            "conversation_id": "1446366272367833093",
+            "source": "Twitter Web App",
+            "reply_settings": "everyone"
+        },
+        "id": 1446470081114935349,
+        "text": "@miamalan @HealthZA You can trust nothing and no one in SA. Therefore, I do not trust you stats.",
+        "attachments": null,
+        "author_id": 100448589,
+        "context_annotations": [],
+        "conversation_id": 1446366272367833093,
+        "created_at": "2021-10-08T13:38:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 57,
+                    "probability": 0.7231,
+                    "type": "Place",
+                    "normalized_text": "SA"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "miamalan",
+                    "id": "299610680"
+                },
+                {
+                    "start": 10,
+                    "end": 19,
+                    "username": "HealthZA",
+                    "id": "240605588"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 299610680,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1446366272367833093"
+                },
+                "id": 1446366272367833093,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

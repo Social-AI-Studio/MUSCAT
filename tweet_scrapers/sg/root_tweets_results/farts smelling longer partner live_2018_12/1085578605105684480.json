@@ -1,0 +1,82 @@
+[
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 43,
+                        "end": 66,
+                        "url": "https://t.co/tgX1lyQj40",
+                        "expanded_url": "https://twitter.com/Wafunya/status/1085578605105684480",
+                        "display_url": "twitter.com/Wafunya/status\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1085580779659427841",
+            "text": "I'm here for a good time, not a long time. https://t.co/tgX1lyQj40",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1085578605105684480"
+                }
+            ],
+            "author_id": "1114104380",
+            "created_at": "2019-01-16T16:53:21.000Z",
+            "conversation_id": "1085580779659427841"
+        },
+        "id": 1085580779659427841,
+        "text": "I'm here for a good time, not a long time. https://t.co/tgX1lyQj40",
+        "attachments": null,
+        "author_id": 1114104380,
+        "context_annotations": [],
+        "conversation_id": 1085580779659427841,
+        "created_at": "2019-01-16T16:53:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/tgX1lyQj40",
+                    "expanded_url": "https://twitter.com/Wafunya/status/1085578605105684480",
+                    "display_url": "twitter.com/Wafunya/status\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1085578605105684480"
+                },
+                "id": 1085578605105684480,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

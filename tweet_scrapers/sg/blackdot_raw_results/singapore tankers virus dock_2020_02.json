@@ -1,0 +1,358 @@
+[
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                }
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 92,
+                        "end": 102,
+                        "tag": "Singapore"
+                    },
+                    {
+                        "start": 118,
+                        "end": 138,
+                        "tag": "CoronavirusOutbreak"
+                    },
+                    {
+                        "start": 188,
+                        "end": 198,
+                        "tag": "factcheck"
+                    },
+                    {
+                        "start": 199,
+                        "end": 207,
+                        "tag": "covid19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 6,
+                        "end": 14,
+                        "probability": 0.5606,
+                        "type": "Product",
+                        "normalized_text": "Instagram"
+                    },
+                    {
+                        "start": 29,
+                        "end": 41,
+                        "probability": 0.9633,
+                        "type": "Person",
+                        "normalized_text": "Ronan Keating"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 163,
+                        "end": 186,
+                        "url": "https://t.co/JpNJ1aergK",
+                        "expanded_url": "http://bit.ly/3coe0xW",
+                        "display_url": "bit.ly/3coe0xW"
+                    },
+                    {
+                        "start": 208,
+                        "end": 231,
+                        "url": "https://t.co/bkwKDlt96s",
+                        "expanded_url": "https://twitter.com/BDRFactCheck/status/1234649930649587713/photo/1",
+                        "display_url": "pic.twitter.com/bkwKDlt96s"
+                    }
+                ]
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1234649918943293440"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "1037962426954604549",
+            "id": "1234649930649587713",
+            "created_at": "2020-03-03T01:20:56.000Z",
+            "conversation_id": "1234649930649587713",
+            "text": "In an Instagram post, singer Ronan Keating claimed that tankers were not allowed to dock in #Singapore because of the #CoronavirusOutbreak . Find out more here \ud83d\udc49\ud83c\udffb https://t.co/JpNJ1aergK\n\n#factcheck #covid19 https://t.co/bkwKDlt96s"
+        },
+        "id": 1234649930649587713,
+        "text": "In an Instagram post, singer Ronan Keating claimed that tankers were not allowed to dock in #Singapore because of the #CoronavirusOutbreak . Find out more here \ud83d\udc49\ud83c\udffb https://t.co/JpNJ1aergK\n\n#factcheck #covid19 https://t.co/bkwKDlt96s",
+        "attachments": {
+            "media_keys": [
+                "3_1234649918943293440"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10041893684",
+                    "name": "Instagram"
+                }
+            }
+        ],
+        "conversation_id": 1234649930649587713,
+        "created_at": "2020-03-03T01:20:56+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 92,
+                    "end": 102,
+                    "tag": "Singapore"
+                },
+                {
+                    "start": 118,
+                    "end": 138,
+                    "tag": "CoronavirusOutbreak"
+                },
+                {
+                    "start": 188,
+                    "end": 198,
+                    "tag": "factcheck"
+                },
+                {
+                    "start": 199,
+                    "end": 207,
+                    "tag": "covid19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 6,
+                    "end": 14,
+                    "probability": 0.5606,
+                    "type": "Product",
+                    "normalized_text": "Instagram"
+                },
+                {
+                    "start": 29,
+                    "end": 41,
+                    "probability": 0.9633,
+                    "type": "Person",
+                    "normalized_text": "Ronan Keating"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 163,
+                    "end": 186,
+                    "url": "https://t.co/JpNJ1aergK",
+                    "expanded_url": "http://bit.ly/3coe0xW",
+                    "display_url": "bit.ly/3coe0xW"
+                },
+                {
+                    "start": 208,
+                    "end": 231,
+                    "url": "https://t.co/bkwKDlt96s",
+                    "expanded_url": "https://twitter.com/BDRFactCheck/status/1234649930649587713/photo/1",
+                    "display_url": "pic.twitter.com/bkwKDlt96s"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 157,
+                        "end": 165,
+                        "probability": 0.9952,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 209,
+                        "end": 232,
+                        "url": "https://t.co/75TonphIV9",
+                        "expanded_url": "https://instagram.com/p/B9MUJM0p6MU/?igshid=fo6gipxwxk4h",
+                        "display_url": "instagram.com/p/B9MUJM0p6MU/\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 15,
+                        "end": 29,
+                        "username": "ronanofficial",
+                        "id": "26032912"
+                    },
+                    {
+                        "start": 234,
+                        "end": 250,
+                        "username": "ChannelNewsAsia",
+                        "id": "38400130"
+                    },
+                    {
+                        "start": 258,
+                        "end": 272,
+                        "username": "MPA_Singapore",
+                        "id": "2167564446"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "2879212950",
+            "id": "1234439110070128640",
+            "created_at": "2020-03-02T11:23:13.000Z",
+            "conversation_id": "1234439110070128640",
+            "text": "Fake news from @ronanofficial, more Ill-informed than intentional, I'm sure, but if you don't know, best keep quiet: 'A snap shot of some of Tankers held in Singapore not allowed to dock because of the virus' https://t.co/75TonphIV9 \n@ChannelNewsAsia @STcom @MPA_Singapore"
+        },
+        "id": 1234439110070128640,
+        "text": "Fake news from @ronanofficial, more Ill-informed than intentional, I'm sure, but if you don't know, best keep quiet: 'A snap shot of some of Tankers held in Singapore not allowed to dock because of the virus' https://t.co/75TonphIV9 \n@ChannelNewsAsia @STcom @MPA_Singapore",
+        "attachments": null,
+        "author_id": 2879212950,
+        "context_annotations": [],
+        "conversation_id": 1234439110070128640,
+        "created_at": "2020-03-02T11:23:13+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 157,
+                    "end": 165,
+                    "probability": 0.9952,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 209,
+                    "end": 232,
+                    "url": "https://t.co/75TonphIV9",
+                    "expanded_url": "https://instagram.com/p/B9MUJM0p6MU/?igshid=fo6gipxwxk4h",
+                    "display_url": "instagram.com/p/B9MUJM0p6MU/\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 15,
+                    "end": 29,
+                    "username": "ronanofficial",
+                    "id": "26032912"
+                },
+                {
+                    "start": 234,
+                    "end": 250,
+                    "username": "ChannelNewsAsia",
+                    "id": "38400130"
+                },
+                {
+                    "start": 258,
+                    "end": 272,
+                    "username": "MPA_Singapore",
+                    "id": "2167564446"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

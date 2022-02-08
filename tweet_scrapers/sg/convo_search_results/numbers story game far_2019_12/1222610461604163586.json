@@ -1,0 +1,93 @@
+[
+    {
+        "data": {
+            "created_at": "2020-01-29T20:02:12.000Z",
+            "author_id": "3229494983",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1222610916258258946",
+            "text": "@BroadcastMoose @WestHam But what was the pre match food my friend",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1222610461604163586"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1222610461604163586",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "BroadcastMoose",
+                        "id": "127831273"
+                    },
+                    {
+                        "start": 16,
+                        "end": 24,
+                        "username": "WestHam",
+                        "id": "156247074"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "127831273",
+            "reply_settings": "everyone"
+        },
+        "id": 1222610916258258946,
+        "text": "@BroadcastMoose @WestHam But what was the pre match food my friend",
+        "attachments": null,
+        "author_id": 3229494983,
+        "context_annotations": [],
+        "conversation_id": 1222610461604163586,
+        "created_at": "2020-01-29T20:02:12+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "BroadcastMoose",
+                    "id": "127831273"
+                },
+                {
+                    "start": 16,
+                    "end": 24,
+                    "username": "WestHam",
+                    "id": "156247074"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 127831273,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1222610461604163586"
+                },
+                "id": 1222610461604163586,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "data": {
+            "conversation_id": "1360362369357148160",
+            "reply_settings": "everyone",
+            "author_id": "1347081555378917376",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@gregthomaswv @WSAZnews @MikeStuartWV New direction? Yup. Straight down.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1360372222574084098"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "16194691",
+            "id": "1360379390421516293",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "gregthomaswv",
+                        "id": "16194691"
+                    },
+                    {
+                        "start": 14,
+                        "end": 23,
+                        "username": "WSAZnews",
+                        "id": "19925980"
+                    },
+                    {
+                        "start": 24,
+                        "end": 37,
+                        "username": "MikeStuartWV",
+                        "id": "58118562"
+                    }
+                ]
+            },
+            "created_at": "2021-02-13T00:04:55.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1360379390421516293,
+        "text": "@gregthomaswv @WSAZnews @MikeStuartWV New direction? Yup. Straight down.",
+        "attachments": null,
+        "author_id": 1347081555378917376,
+        "context_annotations": [],
+        "conversation_id": 1360362369357148160,
+        "created_at": "2021-02-13T00:04:55+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "gregthomaswv",
+                    "id": "16194691"
+                },
+                {
+                    "start": 14,
+                    "end": 23,
+                    "username": "WSAZnews",
+                    "id": "19925980"
+                },
+                {
+                    "start": 24,
+                    "end": 37,
+                    "username": "MikeStuartWV",
+                    "id": "58118562"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 16194691,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1360372222574084098"
+                },
+                "id": 1360372222574084098,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1360362369357148160",
+            "reply_settings": "everyone",
+            "author_id": "16194691",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "@WSAZnews @MikeStuartWV did a great job as US Attorney. Lots of talented Republicans contributing to West Virginia\u2019s much-needed new direction.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1360362369357148160"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "19925980",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 43,
+                        "end": 53,
+                        "probability": 0.618,
+                        "type": "Organization",
+                        "normalized_text": "US Attorney"
+                    },
+                    {
+                        "start": 73,
+                        "end": 83,
+                        "probability": 0.7965,
+                        "type": "Organization",
+                        "normalized_text": "Republicans"
+                    },
+                    {
+                        "start": 101,
+                        "end": 113,
+                        "probability": 0.6895,
+                        "type": "Place",
+                        "normalized_text": "West Virginia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "WSAZnews",
+                        "id": "19925980"
+                    },
+                    {
+                        "start": 10,
+                        "end": 23,
+                        "username": "MikeStuartWV",
+                        "id": "58118562"
+                    }
+                ]
+            },
+            "id": "1360372222574084098",
+            "created_at": "2021-02-12T23:36:27.000Z",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1360372222574084098,
+        "text": "@WSAZnews @MikeStuartWV did a great job as US Attorney. Lots of talented Republicans contributing to West Virginia\u2019s much-needed new direction.",
+        "attachments": null,
+        "author_id": 16194691,
+        "context_annotations": [],
+        "conversation_id": 1360362369357148160,
+        "created_at": "2021-02-12T23:36:27+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 43,
+                    "end": 53,
+                    "probability": 0.618,
+                    "type": "Organization",
+                    "normalized_text": "US Attorney"
+                },
+                {
+                    "start": 73,
+                    "end": 83,
+                    "probability": 0.7965,
+                    "type": "Organization",
+                    "normalized_text": "Republicans"
+                },
+                {
+                    "start": 101,
+                    "end": 113,
+                    "probability": 0.6895,
+                    "type": "Place",
+                    "normalized_text": "West Virginia"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "WSAZnews",
+                    "id": "19925980"
+                },
+                {
+                    "start": 10,
+                    "end": 23,
+                    "username": "MikeStuartWV",
+                    "id": "58118562"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 19925980,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1360362369357148160"
+                },
+                "id": 1360362369357148160,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

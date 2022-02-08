@@ -1,0 +1,442 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "940668978246041600",
+                        "name": "The New Yorker",
+                        "description": "The New Yorker"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "866714964102332417",
+                        "name": "Jared Kushner",
+                        "description": "Senior Advisor to the President of the United States Jared Kushner"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "866714964102332417",
+                        "name": "Jared Kushner",
+                        "description": "Senior Advisor to the President of the United States Jared Kushner"
+                    }
+                }
+            ],
+            "created_at": "2020-04-10T06:19:34.000Z",
+            "author_id": "872462862",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1248495821500235776",
+            "text": "@brooklynmarie @blackskagit @NewYorker Well, it started when Trump &amp; Kushner refused WHO test kits, sold our stockpile to Chin, then called Covid-19 a \u201cDem hoax\u201d for over 2 months. Fast forward to people dying while Trump &amp; Kush count their kickbacks as Governors grasp for scraps to protect healthcare workers. EVIL.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1248489728715833345"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1248489728715833345",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "brooklynmarie",
+                        "id": "1044241"
+                    },
+                    {
+                        "start": 15,
+                        "end": 27,
+                        "username": "blackskagit",
+                        "id": "20353477"
+                    },
+                    {
+                        "start": 28,
+                        "end": 38,
+                        "username": "NewYorker",
+                        "id": "14677919"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 61,
+                        "end": 65,
+                        "probability": 0.9982,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 69,
+                        "end": 75,
+                        "probability": 0.9627,
+                        "type": "Person",
+                        "normalized_text": "Kushner"
+                    },
+                    {
+                        "start": 216,
+                        "end": 220,
+                        "probability": 0.9959,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 224,
+                        "end": 227,
+                        "probability": 0.4854,
+                        "type": "Person",
+                        "normalized_text": "Kush"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1044241",
+            "reply_settings": "everyone"
+        },
+        "id": 1248495821500235776,
+        "text": "@brooklynmarie @blackskagit @NewYorker Well, it started when Trump &amp; Kushner refused WHO test kits, sold our stockpile to Chin, then called Covid-19 a \u201cDem hoax\u201d for over 2 months. Fast forward to people dying while Trump &amp; Kush count their kickbacks as Governors grasp for scraps to protect healthcare workers. EVIL.",
+        "attachments": null,
+        "author_id": 872462862,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "940668978246041600",
+                    "name": "The New Yorker",
+                    "description": "The New Yorker"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "866714964102332417",
+                    "name": "Jared Kushner",
+                    "description": "Senior Advisor to the President of the United States Jared Kushner"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "866714964102332417",
+                    "name": "Jared Kushner",
+                    "description": "Senior Advisor to the President of the United States Jared Kushner"
+                }
+            }
+        ],
+        "conversation_id": 1248489728715833345,
+        "created_at": "2020-04-10T06:19:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "brooklynmarie",
+                    "id": "1044241"
+                },
+                {
+                    "start": 15,
+                    "end": 27,
+                    "username": "blackskagit",
+                    "id": "20353477"
+                },
+                {
+                    "start": 28,
+                    "end": 38,
+                    "username": "NewYorker",
+                    "id": "14677919"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 61,
+                    "end": 65,
+                    "probability": 0.9982,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 69,
+                    "end": 75,
+                    "probability": 0.9627,
+                    "type": "Person",
+                    "normalized_text": "Kushner"
+                },
+                {
+                    "start": 216,
+                    "end": 220,
+                    "probability": 0.9959,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 224,
+                    "end": 227,
+                    "probability": 0.4854,
+                    "type": "Person",
+                    "normalized_text": "Kush"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1044241,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1248489728715833345"
+                },
+                "id": 1248489728715833345,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "created_at": "2020-04-10T06:00:11.000Z",
+            "author_id": "1044241",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 19,
+                "reply_count": 0,
+                "like_count": 76,
+                "quote_count": 2
+            },
+            "id": "1248490943889551361",
+            "text": "\u201cWhat they did not foresee was that the federal government might never come to the rescue. They did not realize this was a government failure by design\u2014not a problem to be fixed but a policy choice by President Trump that either would not or could not be undone.\u201d",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1248489728715833345"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1248489728715833345",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1044241",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 201,
+                        "end": 215,
+                        "probability": 0.9167,
+                        "type": "Person",
+                        "normalized_text": "President Trump"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1248490943889551361,
+        "text": "\u201cWhat they did not foresee was that the federal government might never come to the rescue. They did not realize this was a government failure by design\u2014not a problem to be fixed but a policy choice by President Trump that either would not or could not be undone.\u201d",
+        "attachments": null,
+        "author_id": 1044241,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1248489728715833345,
+        "created_at": "2020-04-10T06:00:11+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 201,
+                    "end": 215,
+                    "probability": 0.9167,
+                    "type": "Person",
+                    "normalized_text": "President Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1044241,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 19,
+            "reply_count": 0,
+            "like_count": 76,
+            "quote_count": 2
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1248489728715833345"
+                },
+                "id": 1248489728715833345,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

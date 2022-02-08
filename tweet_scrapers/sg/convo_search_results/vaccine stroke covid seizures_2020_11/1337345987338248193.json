@@ -1,0 +1,103 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/k6c5IzGFL0",
+                        "expanded_url": "https://youtu.be/6Axze7OaFS4",
+                        "display_url": "youtu.be/6Axze7OaFS4",
+                        "status": 200,
+                        "unwound_url": "https://www.youtube.com/watch?v=6Axze7OaFS4&feature=youtu.be"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "ManhartKimberly",
+                        "id": "1335985059111854080"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1335985059111854080",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1337345987338248193"
+                }
+            ],
+            "reply_settings": "everyone",
+            "author_id": "2888176227",
+            "conversation_id": "1337345987338248193",
+            "created_at": "2020-12-11T10:51:30.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1337349281506877441",
+            "text": "@ManhartKimberly https://t.co/k6c5IzGFL0",
+            "lang": "und",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1337349281506877441,
+        "text": "@ManhartKimberly https://t.co/k6c5IzGFL0",
+        "attachments": null,
+        "author_id": 2888176227,
+        "context_annotations": [],
+        "conversation_id": 1337345987338248193,
+        "created_at": "2020-12-11T10:51:30+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/k6c5IzGFL0",
+                    "expanded_url": "https://youtu.be/6Axze7OaFS4",
+                    "display_url": "youtu.be/6Axze7OaFS4",
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=6Axze7OaFS4&feature=youtu.be"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "ManhartKimberly",
+                    "id": "1335985059111854080"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1335985059111854080,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1337345987338248193"
+                },
+                "id": 1337345987338248193,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

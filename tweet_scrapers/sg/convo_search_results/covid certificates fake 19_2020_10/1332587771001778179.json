@@ -1,0 +1,3731 @@
+[
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 110,
+                        "end": 123,
+                        "username": "NationAfrica",
+                        "id": "25979455"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 82,
+                        "end": 105,
+                        "url": "https://t.co/ZcLOXTFqvp",
+                        "expanded_url": "https://bit.ly/3meBgTy",
+                        "display_url": "bit.ly/3meBgTy",
+                        "status": 200,
+                        "unwound_url": "https://nation.africa/kenya/news/record-covid-19-cases-as-kagwe-warns-against-fake-certificates-3212282"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 51,
+                        "end": 53,
+                        "probability": 0.856,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    }
+                ]
+            },
+            "created_at": "2020-11-28T07:54:32.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332592306847969280"
+                }
+            ],
+            "lang": "en",
+            "id": "1332593705845481481",
+            "text": "Of fake Covid-19 certificates and Kenyans  and why UAE banned Kenyan to fly there https://t.co/ZcLOXTFqvp via @NationAfrica",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332593705845481481,
+        "text": "Of fake Covid-19 certificates and Kenyans  and why UAE banned Kenyan to fly there https://t.co/ZcLOXTFqvp via @NationAfrica",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:54:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 110,
+                    "end": 123,
+                    "username": "NationAfrica",
+                    "id": "25979455"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 82,
+                    "end": 105,
+                    "url": "https://t.co/ZcLOXTFqvp",
+                    "expanded_url": "https://bit.ly/3meBgTy",
+                    "display_url": "bit.ly/3meBgTy",
+                    "status": 200,
+                    "unwound_url": "https://nation.africa/kenya/news/record-covid-19-cases-as-kagwe-warns-against-fake-certificates-3212282"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 51,
+                    "end": 53,
+                    "probability": 0.856,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332592306847969280"
+                },
+                "id": 1332592306847969280,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10029436825",
+                        "name": "Gok : le\u00e7ons de style"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857603051657482241",
+                        "name": "Destinations",
+                        "description": "Destinations"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:48:58.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332592015352221697"
+                }
+            ],
+            "lang": "en",
+            "id": "1332592306847969280",
+            "text": "And instead of explaining to Kenyans why they won\u2019t be able to travel to UAE, GoK has launched a crackdown arresting travellers found with fake Covid-free certificates. The exercise which begun on Monday, netted 35 people up until Wednesday, all of whom have appeared in court.5",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 29,
+                        "end": 35,
+                        "probability": 0.392,
+                        "type": "Person",
+                        "normalized_text": "Kenyans"
+                    },
+                    {
+                        "start": 73,
+                        "end": 75,
+                        "probability": 0.9622,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    },
+                    {
+                        "start": 78,
+                        "end": 80,
+                        "probability": 0.4012,
+                        "type": "Organization",
+                        "normalized_text": "GoK"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332592306847969280,
+        "text": "And instead of explaining to Kenyans why they won\u2019t be able to travel to UAE, GoK has launched a crackdown arresting travellers found with fake Covid-free certificates. The exercise which begun on Monday, netted 35 people up until Wednesday, all of whom have appeared in court.5",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029436825",
+                    "name": "Gok : le\u00e7ons de style"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857603051657482241",
+                    "name": "Destinations",
+                    "description": "Destinations"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:48:58+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 35,
+                    "probability": 0.392,
+                    "type": "Person",
+                    "normalized_text": "Kenyans"
+                },
+                {
+                    "start": 73,
+                    "end": 75,
+                    "probability": 0.9622,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                },
+                {
+                    "start": 78,
+                    "end": 80,
+                    "probability": 0.4012,
+                    "type": "Organization",
+                    "normalized_text": "GoK"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332592015352221697"
+                },
+                "id": 1332592015352221697,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:47:49.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332591808124227584"
+                }
+            ],
+            "lang": "en",
+            "id": "1332592015352221697",
+            "text": "Pakistan, which was on the same list, immediately said it thought the ban was related to Covid-19 as the Kenyan government chose to remain silent on why its citizens have been banned from travelling to its fourth largest trading partner.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "probability": 0.9473,
+                        "type": "Place",
+                        "normalized_text": "Pakistan"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332592015352221697,
+        "text": "Pakistan, which was on the same list, immediately said it thought the ban was related to Covid-19 as the Kenyan government chose to remain silent on why its citizens have been banned from travelling to its fourth largest trading partner.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:47:49+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "probability": 0.9473,
+                    "type": "Place",
+                    "normalized_text": "Pakistan"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332591808124227584"
+                },
+                "id": 1332591808124227584,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857603051657482241",
+                        "name": "Destinations",
+                        "description": "Destinations"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:47:00.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332591402010759169"
+                }
+            ],
+            "lang": "en",
+            "id": "1332591808124227584",
+            "text": "Dozens of people flying from Nairobi armed with Covid-free certificates were testing positive upon landing at the Dubai International Airport. It is this anomaly that eventually led to the UAE banning all new visa applications from Kenyans.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 29,
+                        "end": 35,
+                        "probability": 0.976,
+                        "type": "Place",
+                        "normalized_text": "Nairobi"
+                    },
+                    {
+                        "start": 48,
+                        "end": 52,
+                        "probability": 0.4813,
+                        "type": "Organization",
+                        "normalized_text": "Covid"
+                    },
+                    {
+                        "start": 114,
+                        "end": 140,
+                        "probability": 0.7656,
+                        "type": "Place",
+                        "normalized_text": "Dubai International Airport"
+                    },
+                    {
+                        "start": 189,
+                        "end": 191,
+                        "probability": 0.889,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332591808124227584,
+        "text": "Dozens of people flying from Nairobi armed with Covid-free certificates were testing positive upon landing at the Dubai International Airport. It is this anomaly that eventually led to the UAE banning all new visa applications from Kenyans.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857603051657482241",
+                    "name": "Destinations",
+                    "description": "Destinations"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:47:00+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 35,
+                    "probability": 0.976,
+                    "type": "Place",
+                    "normalized_text": "Nairobi"
+                },
+                {
+                    "start": 48,
+                    "end": 52,
+                    "probability": 0.4813,
+                    "type": "Organization",
+                    "normalized_text": "Covid"
+                },
+                {
+                    "start": 114,
+                    "end": 140,
+                    "probability": 0.7656,
+                    "type": "Place",
+                    "normalized_text": "Dubai International Airport"
+                },
+                {
+                    "start": 189,
+                    "end": 191,
+                    "probability": 0.889,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332591402010759169"
+                },
+                "id": 1332591402010759169,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "mmnjug",
+                        "id": "29664767"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 36,
+                        "end": 43,
+                        "probability": 0.9431,
+                        "type": "Place",
+                        "normalized_text": "Tanzania"
+                    }
+                ]
+            },
+            "created_at": "2020-11-28T07:45:58.000Z",
+            "author_id": "1205416319186821120",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332591096644440070"
+                }
+            ],
+            "lang": "en",
+            "id": "1332591547813142528",
+            "text": "@mmnjug How comes they never banned Tanzania. Who have no covid",
+            "source": "Twitter Web App",
+            "possibly_sensitive": false
+        },
+        "id": 1332591547813142528,
+        "text": "@mmnjug How comes they never banned Tanzania. Who have no covid",
+        "attachments": null,
+        "author_id": 1205416319186821120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:45:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "mmnjug",
+                    "id": "29664767"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 43,
+                    "probability": 0.9431,
+                    "type": "Place",
+                    "normalized_text": "Tanzania"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332591096644440070"
+                },
+                "id": 1332591096644440070,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:45:23.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332591348860547072"
+                }
+            ],
+            "lang": "en",
+            "id": "1332591402010759169",
+            "text": "But unlike Kenya which only requires visitors to present Covid-free certificates on arrival, the oil rich federation of seven Emirates requires visitors to undergo a mandatory test on arrival.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 11,
+                        "end": 15,
+                        "probability": 0.8445,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    },
+                    {
+                        "start": 57,
+                        "end": 61,
+                        "probability": 0.503,
+                        "type": "Organization",
+                        "normalized_text": "Covid"
+                    },
+                    {
+                        "start": 126,
+                        "end": 133,
+                        "probability": 0.4277,
+                        "type": "Place",
+                        "normalized_text": "Emirates"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332591402010759169,
+        "text": "But unlike Kenya which only requires visitors to present Covid-free certificates on arrival, the oil rich federation of seven Emirates requires visitors to undergo a mandatory test on arrival.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:45:23+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 15,
+                    "probability": 0.8445,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                },
+                {
+                    "start": 57,
+                    "end": 61,
+                    "probability": 0.503,
+                    "type": "Organization",
+                    "normalized_text": "Covid"
+                },
+                {
+                    "start": 126,
+                    "end": 133,
+                    "probability": 0.4277,
+                    "type": "Place",
+                    "normalized_text": "Emirates"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332591348860547072"
+                },
+                "id": 1332591348860547072,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:45:10.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332591096644440070"
+                }
+            ],
+            "lang": "en",
+            "id": "1332591348860547072",
+            "text": "Due to its geographical position, the UAE is a transit point for trade headed to most African countries from the United States, Europe and Asia.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 40,
+                        "probability": 0.8107,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    },
+                    {
+                        "start": 113,
+                        "end": 125,
+                        "probability": 0.9349,
+                        "type": "Place",
+                        "normalized_text": "United States"
+                    },
+                    {
+                        "start": 128,
+                        "end": 133,
+                        "probability": 0.9117,
+                        "type": "Place",
+                        "normalized_text": "Europe"
+                    },
+                    {
+                        "start": 139,
+                        "end": 142,
+                        "probability": 0.9456,
+                        "type": "Place",
+                        "normalized_text": "Asia"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332591348860547072,
+        "text": "Due to its geographical position, the UAE is a transit point for trade headed to most African countries from the United States, Europe and Asia.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:45:10+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 40,
+                    "probability": 0.8107,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                },
+                {
+                    "start": 113,
+                    "end": 125,
+                    "probability": 0.9349,
+                    "type": "Place",
+                    "normalized_text": "United States"
+                },
+                {
+                    "start": 128,
+                    "end": 133,
+                    "probability": 0.9117,
+                    "type": "Place",
+                    "normalized_text": "Europe"
+                },
+                {
+                    "start": 139,
+                    "end": 142,
+                    "probability": 0.9456,
+                    "type": "Place",
+                    "normalized_text": "Asia"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332591096644440070"
+                },
+                "id": 1332591096644440070,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857877899977687040",
+                        "name": "Construction",
+                        "description": "Construction"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857603051657482241",
+                        "name": "Destinations",
+                        "description": "Destinations"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:44:10.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332590708927193088"
+                }
+            ],
+            "lang": "en",
+            "id": "1332591096644440070",
+            "text": "UAE, home to famous business and tourism cities of Dubai and Abu Dhabi, re-opened its borders to international travellers on August 1. An estimated 50K Kenyans live and work in UAE especially in the security, hospitality, construction, medical, transport and engineering sectors.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 2,
+                        "probability": 0.8846,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    },
+                    {
+                        "start": 51,
+                        "end": 55,
+                        "probability": 0.9939,
+                        "type": "Place",
+                        "normalized_text": "Dubai"
+                    },
+                    {
+                        "start": 61,
+                        "end": 69,
+                        "probability": 0.8684,
+                        "type": "Place",
+                        "normalized_text": "Abu Dhabi"
+                    },
+                    {
+                        "start": 177,
+                        "end": 179,
+                        "probability": 0.9844,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332591096644440070,
+        "text": "UAE, home to famous business and tourism cities of Dubai and Abu Dhabi, re-opened its borders to international travellers on August 1. An estimated 50K Kenyans live and work in UAE especially in the security, hospitality, construction, medical, transport and engineering sectors.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857877899977687040",
+                    "name": "Construction",
+                    "description": "Construction"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857603051657482241",
+                    "name": "Destinations",
+                    "description": "Destinations"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:44:10+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 2,
+                    "probability": 0.8846,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                },
+                {
+                    "start": 51,
+                    "end": 55,
+                    "probability": 0.9939,
+                    "type": "Place",
+                    "normalized_text": "Dubai"
+                },
+                {
+                    "start": 61,
+                    "end": 69,
+                    "probability": 0.8684,
+                    "type": "Place",
+                    "normalized_text": "Abu Dhabi"
+                },
+                {
+                    "start": 177,
+                    "end": 179,
+                    "probability": 0.9844,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332590708927193088"
+                },
+                "id": 1332590708927193088,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:42:38.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332590636776771590"
+                }
+            ],
+            "lang": "en",
+            "id": "1332590708927193088",
+            "text": "Other countries whose visas were banned include Afghanistan, Libya, Yemen, Algeria, Iraq, Lebanon, Pakistan and Tunisia, Iran, Turkey, Syria and Somalia.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 48,
+                        "end": 58,
+                        "probability": 0.9388,
+                        "type": "Place",
+                        "normalized_text": "Afghanistan"
+                    },
+                    {
+                        "start": 61,
+                        "end": 65,
+                        "probability": 0.8315,
+                        "type": "Place",
+                        "normalized_text": "Libya"
+                    },
+                    {
+                        "start": 68,
+                        "end": 72,
+                        "probability": 0.9868,
+                        "type": "Place",
+                        "normalized_text": "Yemen"
+                    },
+                    {
+                        "start": 75,
+                        "end": 81,
+                        "probability": 0.9929,
+                        "type": "Place",
+                        "normalized_text": "Algeria"
+                    },
+                    {
+                        "start": 84,
+                        "end": 87,
+                        "probability": 0.9857,
+                        "type": "Place",
+                        "normalized_text": "Iraq"
+                    },
+                    {
+                        "start": 90,
+                        "end": 96,
+                        "probability": 0.9959,
+                        "type": "Place",
+                        "normalized_text": "Lebanon"
+                    },
+                    {
+                        "start": 99,
+                        "end": 106,
+                        "probability": 0.9964,
+                        "type": "Place",
+                        "normalized_text": "Pakistan"
+                    },
+                    {
+                        "start": 112,
+                        "end": 118,
+                        "probability": 0.9988,
+                        "type": "Place",
+                        "normalized_text": "Tunisia"
+                    },
+                    {
+                        "start": 121,
+                        "end": 124,
+                        "probability": 0.9854,
+                        "type": "Place",
+                        "normalized_text": "Iran"
+                    },
+                    {
+                        "start": 127,
+                        "end": 132,
+                        "probability": 0.9915,
+                        "type": "Place",
+                        "normalized_text": "Turkey"
+                    },
+                    {
+                        "start": 135,
+                        "end": 139,
+                        "probability": 0.9677,
+                        "type": "Place",
+                        "normalized_text": "Syria"
+                    },
+                    {
+                        "start": 145,
+                        "end": 151,
+                        "probability": 0.978,
+                        "type": "Place",
+                        "normalized_text": "Somalia"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332590708927193088,
+        "text": "Other countries whose visas were banned include Afghanistan, Libya, Yemen, Algeria, Iraq, Lebanon, Pakistan and Tunisia, Iran, Turkey, Syria and Somalia.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:42:38+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 48,
+                    "end": 58,
+                    "probability": 0.9388,
+                    "type": "Place",
+                    "normalized_text": "Afghanistan"
+                },
+                {
+                    "start": 61,
+                    "end": 65,
+                    "probability": 0.8315,
+                    "type": "Place",
+                    "normalized_text": "Libya"
+                },
+                {
+                    "start": 68,
+                    "end": 72,
+                    "probability": 0.9868,
+                    "type": "Place",
+                    "normalized_text": "Yemen"
+                },
+                {
+                    "start": 75,
+                    "end": 81,
+                    "probability": 0.9929,
+                    "type": "Place",
+                    "normalized_text": "Algeria"
+                },
+                {
+                    "start": 84,
+                    "end": 87,
+                    "probability": 0.9857,
+                    "type": "Place",
+                    "normalized_text": "Iraq"
+                },
+                {
+                    "start": 90,
+                    "end": 96,
+                    "probability": 0.9959,
+                    "type": "Place",
+                    "normalized_text": "Lebanon"
+                },
+                {
+                    "start": 99,
+                    "end": 106,
+                    "probability": 0.9964,
+                    "type": "Place",
+                    "normalized_text": "Pakistan"
+                },
+                {
+                    "start": 112,
+                    "end": 118,
+                    "probability": 0.9988,
+                    "type": "Place",
+                    "normalized_text": "Tunisia"
+                },
+                {
+                    "start": 121,
+                    "end": 124,
+                    "probability": 0.9854,
+                    "type": "Place",
+                    "normalized_text": "Iran"
+                },
+                {
+                    "start": 127,
+                    "end": 132,
+                    "probability": 0.9915,
+                    "type": "Place",
+                    "normalized_text": "Turkey"
+                },
+                {
+                    "start": 135,
+                    "end": 139,
+                    "probability": 0.9677,
+                    "type": "Place",
+                    "normalized_text": "Syria"
+                },
+                {
+                    "start": 145,
+                    "end": 151,
+                    "probability": 0.978,
+                    "type": "Place",
+                    "normalized_text": "Somalia"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332590636776771590"
+                },
+                "id": 1332590636776771590,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1332590629759676416"
+                ]
+            },
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:42:20.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589957538570240"
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 213,
+                        "end": 236,
+                        "url": "https://t.co/L4E2YdrzMg",
+                        "expanded_url": "https://twitter.com/mmnjug/status/1332590636776771590/photo/1",
+                        "display_url": "pic.twitter.com/L4E2YdrzMg"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 42,
+                        "end": 46,
+                        "probability": 0.9968,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    },
+                    {
+                        "start": 103,
+                        "end": 107,
+                        "probability": 0.9085,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    },
+                    {
+                        "start": 185,
+                        "end": 204,
+                        "probability": 0.9092,
+                        "type": "Place",
+                        "normalized_text": "United Arab Emirates"
+                    },
+                    {
+                        "start": 207,
+                        "end": 209,
+                        "probability": 0.713,
+                        "type": "Place",
+                        "normalized_text": "UAE"
+                    }
+                ]
+            },
+            "id": "1332590636776771590",
+            "text": "The results of this thriving syndicate in Kenya came out in the open on Thursday after it emerged that Kenya was among 13 countries whose citizens had been banned from traveling to the United Arab Emirates (UAE). https://t.co/L4E2YdrzMg",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332590636776771590,
+        "text": "The results of this thriving syndicate in Kenya came out in the open on Thursday after it emerged that Kenya was among 13 countries whose citizens had been banned from traveling to the United Arab Emirates (UAE). https://t.co/L4E2YdrzMg",
+        "attachments": {
+            "media_keys": [
+                "3_1332590629759676416"
+            ]
+        },
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:42:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 213,
+                    "end": 236,
+                    "url": "https://t.co/L4E2YdrzMg",
+                    "expanded_url": "https://twitter.com/mmnjug/status/1332590636776771590/photo/1",
+                    "display_url": "pic.twitter.com/L4E2YdrzMg"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 42,
+                    "end": 46,
+                    "probability": 0.9968,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                },
+                {
+                    "start": 103,
+                    "end": 107,
+                    "probability": 0.9085,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                },
+                {
+                    "start": 185,
+                    "end": 204,
+                    "probability": 0.9092,
+                    "type": "Place",
+                    "normalized_text": "United Arab Emirates"
+                },
+                {
+                    "start": 207,
+                    "end": 209,
+                    "probability": 0.713,
+                    "type": "Place",
+                    "normalized_text": "UAE"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589957538570240"
+                },
+                "id": 1332589957538570240,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:39:38.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589769973518336"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589957538570240",
+            "text": "An outbound traveller first presents a Covid-free certificate together with the plane ticket and passport at the check-in counter. The traveller then presents it for a second time before receiving a boarding pass.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589957538570240,
+        "text": "An outbound traveller first presents a Covid-free certificate together with the plane ticket and passport at the check-in counter. The traveller then presents it for a second time before receiving a boarding pass.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:39:38+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589769973518336"
+                },
+                "id": 1332589769973518336,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:38:54.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589672653090819"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589769973518336",
+            "text": "As things stand, the job of determining the validity of Covid-free certificates has since the resumption of international air travel been left to airline officials.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 56,
+                        "end": 60,
+                        "probability": 0.4538,
+                        "type": "Organization",
+                        "normalized_text": "Covid"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589769973518336,
+        "text": "As things stand, the job of determining the validity of Covid-free certificates has since the resumption of international air travel been left to airline officials.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:38:54+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 56,
+                    "end": 60,
+                    "probability": 0.4538,
+                    "type": "Organization",
+                    "normalized_text": "Covid"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589672653090819"
+                },
+                "id": 1332589672653090819,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:38:30.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589559859843074"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589672653090819",
+            "text": "Interestingly, there are Health ministry officials at the international arrivals section of the airport to ascertain whether those arriving in Kenya have the acceptable body temperature and Covid-free certificates.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 143,
+                        "end": 147,
+                        "probability": 0.9974,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589672653090819,
+        "text": "Interestingly, there are Health ministry officials at the international arrivals section of the airport to ascertain whether those arriving in Kenya have the acceptable body temperature and Covid-free certificates.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:38:30+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 143,
+                    "end": 147,
+                    "probability": 0.9974,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589559859843074"
+                },
+                "id": 1332589559859843074,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:38:04.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589446634606593"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589559859843074",
+            "text": "Worse, there is no point at the JKIA where outbound travellers meet with Ministry of Health officials who would have otherwise ascertained whether the certificates being used to travel are genuine or fake.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 32,
+                        "end": 35,
+                        "probability": 0.5112,
+                        "type": "Organization",
+                        "normalized_text": "JKIA"
+                    },
+                    {
+                        "start": 73,
+                        "end": 90,
+                        "probability": 0.8185,
+                        "type": "Organization",
+                        "normalized_text": "Ministry of Health"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589559859843074,
+        "text": "Worse, there is no point at the JKIA where outbound travellers meet with Ministry of Health officials who would have otherwise ascertained whether the certificates being used to travel are genuine or fake.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:38:04+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 32,
+                    "end": 35,
+                    "probability": 0.5112,
+                    "type": "Organization",
+                    "normalized_text": "JKIA"
+                },
+                {
+                    "start": 73,
+                    "end": 90,
+                    "probability": 0.8185,
+                    "type": "Organization",
+                    "normalized_text": "Ministry of Health"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589446634606593"
+                },
+                "id": 1332589446634606593,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:37:37.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589328883720192"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589446634606593",
+            "text": "Nairobi\u2019s Koinange Street too has a number of offices where travellers can get fake Covid-free certificates.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "probability": 0.8706,
+                        "type": "Place",
+                        "normalized_text": "Nairobi"
+                    },
+                    {
+                        "start": 10,
+                        "end": 24,
+                        "probability": 0.6236,
+                        "type": "Place",
+                        "normalized_text": "Koinange Street"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589446634606593,
+        "text": "Nairobi\u2019s Koinange Street too has a number of offices where travellers can get fake Covid-free certificates.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:37:37+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "probability": 0.8706,
+                    "type": "Place",
+                    "normalized_text": "Nairobi"
+                },
+                {
+                    "start": 10,
+                    "end": 24,
+                    "probability": 0.6236,
+                    "type": "Place",
+                    "normalized_text": "Koinange Street"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589328883720192"
+                },
+                "id": 1332589328883720192,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:37:08.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589216161800198"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589328883720192",
+            "text": "The certificates we established are mostly being given in coordination with officials of government hospitals, the same facilities that are supposed to be leading from the front in the fight against a virus that is straining health systems across the world.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589328883720192,
+        "text": "The certificates we established are mostly being given in coordination with officials of government hospitals, the same facilities that are supposed to be leading from the front in the fight against a virus that is straining health systems across the world.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:37:08+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589216161800198"
+                },
+                "id": 1332589216161800198,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:36:42.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332589146133639169"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589216161800198",
+            "text": "The fact that the real certificate is printed on an A4 without any security features apart from a stamp belonging to the hospital that issues it and the coat of arms has made it even easier for brokers to come up with fake document.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589216161800198,
+        "text": "The fact that the real certificate is printed on an A4 without any security features apart from a stamp belonging to the hospital that issues it and the coat of arms has made it even easier for brokers to come up with fake document.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:36:42+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332589146133639169"
+                },
+                "id": 1332589146133639169,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "16_1332589135941525504"
+                ]
+            },
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:36:25.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588838859010048"
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 153,
+                        "end": 176,
+                        "url": "https://t.co/BExT3m4GNo",
+                        "expanded_url": "https://twitter.com/mmnjug/status/1332589146133639169/photo/1",
+                        "display_url": "pic.twitter.com/BExT3m4GNo"
+                    }
+                ]
+            },
+            "id": "1332589146133639169",
+            "text": "For between Sh2,000 and Sh5,000, those willing to take shortcuts have the chance of getting a certificate on the spot without being subjected to a test. https://t.co/BExT3m4GNo",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589146133639169,
+        "text": "For between Sh2,000 and Sh5,000, those willing to take shortcuts have the chance of getting a certificate on the spot without being subjected to a test. https://t.co/BExT3m4GNo",
+        "attachments": {
+            "media_keys": [
+                "16_1332589135941525504"
+            ]
+        },
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:36:25+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 153,
+                    "end": 176,
+                    "url": "https://t.co/BExT3m4GNo",
+                    "expanded_url": "https://twitter.com/mmnjug/status/1332589146133639169/photo/1",
+                    "display_url": "pic.twitter.com/BExT3m4GNo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588838859010048"
+                },
+                "id": 1332588838859010048,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:36:02.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588838859010048"
+                }
+            ],
+            "lang": "en",
+            "id": "1332589051686375424",
+            "text": "It takes more than 24 hours for the results of a PCR test to come out. Furthermore, there is the unknown element of one not being sure whether the result will turn out positive or negative.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332589051686375424,
+        "text": "It takes more than 24 hours for the results of a PCR test to come out. Furthermore, there is the unknown element of one not being sure whether the result will turn out positive or negative.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:36:02+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588838859010048"
+                },
+                "id": 1332588838859010048,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:35:12.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588674610040832"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588838859010048",
+            "text": "Although the financial cost may not be an issue for many of the travellers \u2014 who will after all have spent thousands of shillings on air tickets and other expenses \u2014 it is the hustle of queuing in hospitals and waiting for the results that has created a booming black market.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588838859010048,
+        "text": "Although the financial cost may not be an issue for many of the travellers \u2014 who will after all have spent thousands of shillings on air tickets and other expenses \u2014 it is the hustle of queuing in hospitals and waiting for the results that has created a booming black market.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:35:12+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588674610040832"
+                },
+                "id": 1332588674610040832,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857603051657482241",
+                        "name": "Destinations",
+                        "description": "Destinations"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:34:32.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588593408315392"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588674610040832",
+            "text": "Ideally, those travelling to outside Kenya are supposed to check into an approved medical facility and get the test done. It costs Sh1,000 to get the test at a government facility but private hospitals charge up to Sh8,000.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 37,
+                        "end": 41,
+                        "probability": 0.9862,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588674610040832,
+        "text": "Ideally, those travelling to outside Kenya are supposed to check into an approved medical facility and get the test done. It costs Sh1,000 to get the test at a government facility but private hospitals charge up to Sh8,000.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857603051657482241",
+                    "name": "Destinations",
+                    "description": "Destinations"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:34:32+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 41,
+                    "probability": 0.9862,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588593408315392"
+                },
+                "id": 1332588593408315392,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857603051657482241",
+                        "name": "Destinations",
+                        "description": "Destinations"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:34:13.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588512701505537"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588593408315392",
+            "text": "In Kenya, it was only a matter of time before brokers took advantage of the August 1 resumption of international travel.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 3,
+                        "end": 7,
+                        "probability": 0.9904,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588593408315392,
+        "text": "In Kenya, it was only a matter of time before brokers took advantage of the August 1 resumption of international travel.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857603051657482241",
+                    "name": "Destinations",
+                    "description": "Destinations"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:34:13+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 3,
+                    "end": 7,
+                    "probability": 0.9904,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588512701505537"
+                },
+                "id": 1332588512701505537,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:33:54.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588484931047430"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588512701505537",
+            "text": "Some airlines even demand to see the certificate before one is allowed to board so that they don\u2019t incur the cost of returning a passenger who has been denied entry.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588512701505537,
+        "text": "Some airlines even demand to see the certificate before one is allowed to board so that they don\u2019t incur the cost of returning a passenger who has been denied entry.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:33:54+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588484931047430"
+                },
+                "id": 1332588484931047430,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:33:47.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588091178151936"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588484931047430",
+            "text": "The certificate, which is given after testing negative to a PCR, has to be done 72hrs before one gains entry into the country that demands it.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588484931047430,
+        "text": "The certificate, which is given after testing negative to a PCR, has to be done 72hrs before one gains entry into the country that demands it.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:33:47+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588091178151936"
+                },
+                "id": 1332588091178151936,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:33:15.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588091178151936"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588349706612736",
+            "text": "Since the resumption of international travel, most countries have been demanding all those arriving in their territories to have a Covid-free certificate as proof of having been tested and found negative.",
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588349706612736,
+        "text": "Since the resumption of international travel, most countries have been demanding all those arriving in their territories to have a Covid-free certificate as proof of having been tested and found negative.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:33:15+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588091178151936"
+                },
+                "id": 1332588091178151936,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:33:15.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332588091178151936"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588348255432706",
+            "text": "However, it appears the problem of fake certificates is becoming a major headache across the world with Brazil, France and the United Kingdom reporting in recent weeks that they had busted criminal rings selling the crucial documents in the black market.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 104,
+                        "end": 109,
+                        "probability": 0.9761,
+                        "type": "Place",
+                        "normalized_text": "Brazil"
+                    },
+                    {
+                        "start": 112,
+                        "end": 117,
+                        "probability": 0.9183,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    },
+                    {
+                        "start": 127,
+                        "end": 140,
+                        "probability": 0.5099,
+                        "type": "Organization",
+                        "normalized_text": "United Kingdom"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588348255432706,
+        "text": "However, it appears the problem of fake certificates is becoming a major headache across the world with Brazil, France and the United Kingdom reporting in recent weeks that they had busted criminal rings selling the crucial documents in the black market.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:33:15+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 104,
+                    "end": 109,
+                    "probability": 0.9761,
+                    "type": "Place",
+                    "normalized_text": "Brazil"
+                },
+                {
+                    "start": 112,
+                    "end": 117,
+                    "probability": 0.9183,
+                    "type": "Place",
+                    "normalized_text": "France"
+                },
+                {
+                    "start": 127,
+                    "end": 140,
+                    "probability": 0.5099,
+                    "type": "Organization",
+                    "normalized_text": "United Kingdom"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332588091178151936"
+                },
+                "id": 1332588091178151936,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10029436825",
+                        "name": "Gok : le\u00e7ons de style"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:32:13.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 3,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332587922546188288"
+                }
+            ],
+            "lang": "en",
+            "id": "1332588091178151936",
+            "text": "Unscrupulous GoK officials are believed to have been colluding with brokers to issue fake virus-free certs to international travellers \u2014 a requirement by health authorities in many countries across the world \u2014 putting Kenya at risk of contributing to the global spread of Covid-19",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "probability": 0.3494,
+                        "type": "Organization",
+                        "normalized_text": "Unscrupulous GoK"
+                    },
+                    {
+                        "start": 218,
+                        "end": 222,
+                        "probability": 0.9534,
+                        "type": "Place",
+                        "normalized_text": "Kenya"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332588091178151936,
+        "text": "Unscrupulous GoK officials are believed to have been colluding with brokers to issue fake virus-free certs to international travellers \u2014 a requirement by health authorities in many countries across the world \u2014 putting Kenya at risk of contributing to the global spread of Covid-19",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10029436825",
+                    "name": "Gok : le\u00e7ons de style"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:32:13+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "probability": 0.3494,
+                    "type": "Organization",
+                    "normalized_text": "Unscrupulous GoK"
+                },
+                {
+                    "start": 218,
+                    "end": 222,
+                    "probability": 0.9534,
+                    "type": "Place",
+                    "normalized_text": "Kenya"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332587922546188288"
+                },
+                "id": 1332587922546188288,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "29664767",
+            "created_at": "2020-11-28T07:31:33.000Z",
+            "author_id": "29664767",
+            "conversation_id": "1332587771001778179",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1332587771001778179"
+                }
+            ],
+            "lang": "en",
+            "id": "1332587922546188288",
+            "text": "A lapse at the Jomo Kenyatta International Airport (JKIA) in recent months could have allowed hundreds of travellers with fake Covid-free certificates to fly from Nairobi to international destinations.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 15,
+                        "end": 49,
+                        "probability": 0.7358,
+                        "type": "Organization",
+                        "normalized_text": "Jomo Kenyatta International Airport"
+                    },
+                    {
+                        "start": 163,
+                        "end": 169,
+                        "probability": 0.9756,
+                        "type": "Place",
+                        "normalized_text": "Nairobi"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "possibly_sensitive": false
+        },
+        "id": 1332587922546188288,
+        "text": "A lapse at the Jomo Kenyatta International Airport (JKIA) in recent months could have allowed hundreds of travellers with fake Covid-free certificates to fly from Nairobi to international destinations.",
+        "attachments": null,
+        "author_id": 29664767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1332587771001778179,
+        "created_at": "2020-11-28T07:31:33+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 15,
+                    "end": 49,
+                    "probability": 0.7358,
+                    "type": "Organization",
+                    "normalized_text": "Jomo Kenyatta International Airport"
+                },
+                {
+                    "start": 163,
+                    "end": 169,
+                    "probability": 0.9756,
+                    "type": "Place",
+                    "normalized_text": "Nairobi"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 29664767,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1332587771001778179"
+                },
+                "id": 1332587771001778179,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

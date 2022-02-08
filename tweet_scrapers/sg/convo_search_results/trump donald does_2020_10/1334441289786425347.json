@@ -1,0 +1,356 @@
+[
+    {
+        "data": {
+            "conversation_id": "1334441289786425347",
+            "reply_settings": "everyone",
+            "author_id": "886927458703781891",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@OMGTheMess @corybernardi",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1334445310978887680"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "886927458703781891",
+            "id": "1334676522506960897",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "OMGTheMess",
+                        "id": "1388148914"
+                    },
+                    {
+                        "start": 12,
+                        "end": 25,
+                        "username": "corybernardi",
+                        "id": "80965423"
+                    }
+                ]
+            },
+            "created_at": "2020-12-04T01:50:54.000Z",
+            "lang": "und",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1334676522506960897,
+        "text": "@OMGTheMess @corybernardi",
+        "attachments": null,
+        "author_id": 886927458703781891,
+        "context_annotations": [],
+        "conversation_id": 1334441289786425347,
+        "created_at": "2020-12-04T01:50:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "OMGTheMess",
+                    "id": "1388148914"
+                },
+                {
+                    "start": 12,
+                    "end": 25,
+                    "username": "corybernardi",
+                    "id": "80965423"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 886927458703781891,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1334445310978887680"
+                },
+                "id": 1334445310978887680,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1334441289786425347",
+            "reply_settings": "everyone",
+            "author_id": "886927458703781891",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@OMGTheMess Donald Trump self promoted voter fraud. He was predicting it from day one of his re election campaign. If there is any investigation to be had it should be in the Trump camp. Me thinks he does protest to loud",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1334441289786425347"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1388148914",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 23,
+                        "probability": 0.9946,
+                        "type": "Person",
+                        "normalized_text": "Donald Trump"
+                    },
+                    {
+                        "start": 175,
+                        "end": 179,
+                        "probability": 0.9902,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "OMGTheMess",
+                        "id": "1388148914"
+                    }
+                ]
+            },
+            "id": "1334445310978887680",
+            "created_at": "2020-12-03T10:32:09.000Z",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1334445310978887680,
+        "text": "@OMGTheMess Donald Trump self promoted voter fraud. He was predicting it from day one of his re election campaign. If there is any investigation to be had it should be in the Trump camp. Me thinks he does protest to loud",
+        "attachments": null,
+        "author_id": 886927458703781891,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1266467007987253248",
+                    "name": "George Floyd"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1334441289786425347,
+        "created_at": "2020-12-03T10:32:09+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 23,
+                    "probability": 0.9946,
+                    "type": "Person",
+                    "normalized_text": "Donald Trump"
+                },
+                {
+                    "start": 175,
+                    "end": 179,
+                    "probability": 0.9902,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "OMGTheMess",
+                    "id": "1388148914"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1388148914,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1334441289786425347"
+                },
+                "id": 1334441289786425347,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "conversation_id": "1334441289786425347",
+            "reply_settings": "everyone",
+            "author_id": "1134018665676922880",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "@OMGTheMess It\u2019s as if the President never even spoke, with all the MSM silence on the matter. It\u2019s truly disgusting.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1334441289786425347"
+                }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1388148914",
+            "id": "1334441754838200321",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "OMGTheMess",
+                        "id": "1388148914"
+                    }
+                ]
+            },
+            "created_at": "2020-12-03T10:18:01.000Z",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1334441754838200321,
+        "text": "@OMGTheMess It\u2019s as if the President never even spoke, with all the MSM silence on the matter. It\u2019s truly disgusting.",
+        "attachments": null,
+        "author_id": 1134018665676922880,
+        "context_annotations": [],
+        "conversation_id": 1334441289786425347,
+        "created_at": "2020-12-03T10:18:01+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "OMGTheMess",
+                    "id": "1388148914"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1388148914,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1334441289786425347"
+                },
+                "id": 1334441289786425347,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

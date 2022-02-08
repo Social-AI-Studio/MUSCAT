@@ -1,0 +1,99 @@
+[
+    {
+        "data": {
+            "created_at": "2021-01-15T11:34:32.000Z",
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "2361740156",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "voipguy3564",
+                        "id": "2361740156"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 31,
+                        "end": 44,
+                        "probability": 0.9042,
+                        "type": "Place",
+                        "normalized_text": "Baltimore City"
+                    }
+                ]
+            },
+            "text": "@voipguy3564 The only Surge in Baltimore City is of Useless Uncaring Politicians - who don\u2019t care about the Restaurants and Employees or anything else including the Crime and Murder",
+            "id": "1350043689855426565",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349878803170951170"
+                }
+            ],
+            "author_id": "2262011903",
+            "conversation_id": "1349878803170951170",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false
+        },
+        "id": 1350043689855426565,
+        "text": "@voipguy3564 The only Surge in Baltimore City is of Useless Uncaring Politicians - who don\u2019t care about the Restaurants and Employees or anything else including the Crime and Murder",
+        "attachments": null,
+        "author_id": 2262011903,
+        "context_annotations": [],
+        "conversation_id": 1349878803170951170,
+        "created_at": "2021-01-15T11:34:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "voipguy3564",
+                    "id": "2361740156"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 31,
+                    "end": 44,
+                    "probability": 0.9042,
+                    "type": "Place",
+                    "normalized_text": "Baltimore City"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2361740156,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349878803170951170"
+                },
+                "id": 1349878803170951170,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

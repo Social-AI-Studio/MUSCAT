@@ -1,0 +1,1023 @@
+[
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "drawolak",
+                        "id": "1290848802966917121"
+                    },
+                    {
+                        "start": 10,
+                        "end": 20,
+                        "username": "suestroud",
+                        "id": "37552089"
+                    },
+                    {
+                        "start": 21,
+                        "end": 37,
+                        "username": "thisisourshotca",
+                        "id": "1381363018060161034"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 50,
+                        "end": 55,
+                        "probability": 0.6029,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 61,
+                        "end": 67,
+                        "probability": 0.4597,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1405073967115816960",
+            "text": "@drawolak @suestroud @thisisourshotca Plus mixing Pfizer and Moderna is expressly NOT what the manufacturer recommended.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                }
+            ],
+            "author_id": "277336305",
+            "created_at": "2021-06-16T08:05:13.000Z",
+            "in_reply_to_user_id": "1290848802966917121",
+            "conversation_id": "1404826802988617732"
+        },
+        "id": 1405073967115816960,
+        "text": "@drawolak @suestroud @thisisourshotca Plus mixing Pfizer and Moderna is expressly NOT what the manufacturer recommended.",
+        "attachments": null,
+        "author_id": 277336305,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1404826802988617732,
+        "created_at": "2021-06-16T08:05:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "drawolak",
+                    "id": "1290848802966917121"
+                },
+                {
+                    "start": 10,
+                    "end": 20,
+                    "username": "suestroud",
+                    "id": "37552089"
+                },
+                {
+                    "start": 21,
+                    "end": 37,
+                    "username": "thisisourshotca",
+                    "id": "1381363018060161034"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 50,
+                    "end": 55,
+                    "probability": 0.6029,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 61,
+                    "end": 67,
+                    "probability": 0.4597,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1290848802966917121,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                },
+                "id": 1404826802988617732,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "drawolak",
+                        "id": "1290848802966917121"
+                    },
+                    {
+                        "start": 10,
+                        "end": 20,
+                        "username": "suestroud",
+                        "id": "37552089"
+                    },
+                    {
+                        "start": 21,
+                        "end": 37,
+                        "username": "thisisourshotca",
+                        "id": "1381363018060161034"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 38,
+                        "end": 43,
+                        "probability": 0.8644,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 49,
+                        "end": 55,
+                        "probability": 0.663,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    },
+                    {
+                        "start": 107,
+                        "end": 108,
+                        "probability": 0.6405,
+                        "type": "Organization",
+                        "normalized_text": "AZ"
+                    },
+                    {
+                        "start": 114,
+                        "end": 119,
+                        "probability": 0.8232,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1405073830649999360",
+            "text": "@drawolak @suestroud @thisisourshotca Pfizer and Moderna were NOT studied for mix and match effectiveness. AZ and Pfizer were. Those who are asked to mix and match Moderna with something else have zero evidence of how protective that is or is not. I'm not going to feel ok to go back to my life if I have to do that.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                }
+            ],
+            "author_id": "277336305",
+            "created_at": "2021-06-16T08:04:40.000Z",
+            "in_reply_to_user_id": "1290848802966917121",
+            "conversation_id": "1404826802988617732"
+        },
+        "id": 1405073830649999360,
+        "text": "@drawolak @suestroud @thisisourshotca Pfizer and Moderna were NOT studied for mix and match effectiveness. AZ and Pfizer were. Those who are asked to mix and match Moderna with something else have zero evidence of how protective that is or is not. I'm not going to feel ok to go back to my life if I have to do that.",
+        "attachments": null,
+        "author_id": 277336305,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1404826802988617732,
+        "created_at": "2021-06-16T08:04:40+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "drawolak",
+                    "id": "1290848802966917121"
+                },
+                {
+                    "start": 10,
+                    "end": 20,
+                    "username": "suestroud",
+                    "id": "37552089"
+                },
+                {
+                    "start": 21,
+                    "end": 37,
+                    "username": "thisisourshotca",
+                    "id": "1381363018060161034"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 38,
+                    "end": 43,
+                    "probability": 0.8644,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 49,
+                    "end": 55,
+                    "probability": 0.663,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                },
+                {
+                    "start": 107,
+                    "end": 108,
+                    "probability": 0.6405,
+                    "type": "Organization",
+                    "normalized_text": "AZ"
+                },
+                {
+                    "start": 114,
+                    "end": 119,
+                    "probability": 0.8232,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1290848802966917121,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                },
+                "id": 1404826802988617732,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "COVIDZeroPoint0",
+                        "id": "1342380888873701377"
+                    },
+                    {
+                        "start": 17,
+                        "end": 26,
+                        "username": "drawolak",
+                        "id": "1290848802966917121"
+                    },
+                    {
+                        "start": 27,
+                        "end": 43,
+                        "username": "thisisourshotca",
+                        "id": "1381363018060161034"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 58,
+                        "end": 70,
+                        "probability": 0.9977,
+                        "type": "Person",
+                        "normalized_text": "Robert Malone"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1404902542715211778",
+            "text": "@COVIDZeroPoint0 @drawolak @thisisourshotca You know that Robert Malone, the person who created mRNA vaccines, has expressed concerns about these ones that create the spike protein (which is free circulating and cykotoxic).",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1404854707877814278"
+                }
+            ],
+            "author_id": "764087995",
+            "created_at": "2021-06-15T20:44:02.000Z",
+            "in_reply_to_user_id": "1342380888873701377",
+            "conversation_id": "1404826802988617732"
+        },
+        "id": 1404902542715211778,
+        "text": "@COVIDZeroPoint0 @drawolak @thisisourshotca You know that Robert Malone, the person who created mRNA vaccines, has expressed concerns about these ones that create the spike protein (which is free circulating and cykotoxic).",
+        "attachments": null,
+        "author_id": 764087995,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1404826802988617732,
+        "created_at": "2021-06-15T20:44:02+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "COVIDZeroPoint0",
+                    "id": "1342380888873701377"
+                },
+                {
+                    "start": 17,
+                    "end": 26,
+                    "username": "drawolak",
+                    "id": "1290848802966917121"
+                },
+                {
+                    "start": 27,
+                    "end": 43,
+                    "username": "thisisourshotca",
+                    "id": "1381363018060161034"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 58,
+                    "end": 70,
+                    "probability": 0.9977,
+                    "type": "Person",
+                    "normalized_text": "Robert Malone"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1342380888873701377,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1404854707877814278"
+                },
+                "id": 1404854707877814278,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "drawolak",
+                        "id": "1290848802966917121"
+                    },
+                    {
+                        "start": 10,
+                        "end": 26,
+                        "username": "thisisourshotca",
+                        "id": "1381363018060161034"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1404858865510912002",
+            "text": "@drawolak @thisisourshotca \"everyone\" needs 2 doses?\nI'm ~40 with no comorbidities and high vitamin D levels.\nWhy do I need to get vaccinated?\nOn top of that, the vaccines don't prevent transmission or infection.",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                }
+            ],
+            "author_id": "1087694785912147968",
+            "created_at": "2021-06-15T17:50:29.000Z",
+            "in_reply_to_user_id": "1290848802966917121",
+            "conversation_id": "1404826802988617732"
+        },
+        "id": 1404858865510912002,
+        "text": "@drawolak @thisisourshotca \"everyone\" needs 2 doses?\nI'm ~40 with no comorbidities and high vitamin D levels.\nWhy do I need to get vaccinated?\nOn top of that, the vaccines don't prevent transmission or infection.",
+        "attachments": null,
+        "author_id": 1087694785912147968,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1404826802988617732,
+        "created_at": "2021-06-15T17:50:29+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "drawolak",
+                    "id": "1290848802966917121"
+                },
+                {
+                    "start": 10,
+                    "end": 26,
+                    "username": "thisisourshotca",
+                    "id": "1381363018060161034"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1290848802966917121,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                },
+                "id": 1404826802988617732,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "drawolak",
+                        "id": "1290848802966917121"
+                    },
+                    {
+                        "start": 10,
+                        "end": 26,
+                        "username": "thisisourshotca",
+                        "id": "1381363018060161034"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1404844289817972740",
+            "text": "@drawolak @thisisourshotca Lol and ironically you say your tweets are not medical advice. How is this tweet not medical advice? So irresponsible",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                }
+            ],
+            "author_id": "1102590367847890944",
+            "created_at": "2021-06-15T16:52:34.000Z",
+            "in_reply_to_user_id": "1290848802966917121",
+            "conversation_id": "1404826802988617732"
+        },
+        "id": 1404844289817972740,
+        "text": "@drawolak @thisisourshotca Lol and ironically you say your tweets are not medical advice. How is this tweet not medical advice? So irresponsible",
+        "attachments": null,
+        "author_id": 1102590367847890944,
+        "context_annotations": [],
+        "conversation_id": 1404826802988617732,
+        "created_at": "2021-06-15T16:52:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "drawolak",
+                    "id": "1290848802966917121"
+                },
+                {
+                    "start": 10,
+                    "end": 26,
+                    "username": "thisisourshotca",
+                    "id": "1381363018060161034"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1290848802966917121,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                },
+                "id": 1404826802988617732,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "drawolak",
+                        "id": "1290848802966917121"
+                    },
+                    {
+                        "start": 10,
+                        "end": 26,
+                        "username": "thisisourshotca",
+                        "id": "1381363018060161034"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1404844047001440260",
+            "text": "@drawolak @thisisourshotca So why doesn\u2019t the actual manufacture of the vaccine come out and say that??? You saying that means nothing. If something ends up causing a long term health effect will you be the one compensating me?",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                }
+            ],
+            "author_id": "1102590367847890944",
+            "created_at": "2021-06-15T16:51:36.000Z",
+            "in_reply_to_user_id": "1290848802966917121",
+            "conversation_id": "1404826802988617732"
+        },
+        "id": 1404844047001440260,
+        "text": "@drawolak @thisisourshotca So why doesn\u2019t the actual manufacture of the vaccine come out and say that??? You saying that means nothing. If something ends up causing a long term health effect will you be the one compensating me?",
+        "attachments": null,
+        "author_id": 1102590367847890944,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1404826802988617732,
+        "created_at": "2021-06-15T16:51:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "drawolak",
+                    "id": "1290848802966917121"
+                },
+                {
+                    "start": 10,
+                    "end": 26,
+                    "username": "thisisourshotca",
+                    "id": "1381363018060161034"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1290848802966917121,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1404826802988617732"
+                },
+                "id": 1404826802988617732,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

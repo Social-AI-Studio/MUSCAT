@@ -1,0 +1,849 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "stantradingman",
+                        "id": "1433925457574088713"
+                    },
+                    {
+                        "start": 32,
+                        "end": 38,
+                        "username": "Apple",
+                        "id": "380749300"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 89,
+                        "end": 90,
+                        "probability": 0.4886,
+                        "type": "Product",
+                        "normalized_text": "FB"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1275507276225355776"
+                }
+            ],
+            "id": "1277254362914578433",
+            "conversation_id": "1277254362914578433",
+            "created_at": "2020-06-28T14:55:45.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @StanTradingMan: Holy crap.  @Apple and their garbage !  A friend just shared this on FB.  I don\u2019t update my phone, I\u2019m bad. https://t.c\u2026",
+            "author_id": "1266507294369558536"
+        },
+        "id": 1277254362914578433,
+        "text": "RT @StanTradingMan: Holy crap.  @Apple and their garbage !  A friend just shared this on FB.  I don\u2019t update my phone, I\u2019m bad. https://t.c\u2026",
+        "attachments": null,
+        "author_id": 1266507294369558536,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            }
+        ],
+        "conversation_id": 1277254362914578433,
+        "created_at": "2020-06-28T14:55:45+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "stantradingman",
+                    "id": "1433925457574088713"
+                },
+                {
+                    "start": 32,
+                    "end": 38,
+                    "username": "Apple",
+                    "id": "380749300"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 90,
+                    "probability": 0.4886,
+                    "type": "Product",
+                    "normalized_text": "FB"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1275507276225355776"
+                },
+                "id": 1275507276225355776,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1275507276225355776"
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 12,
+                        "end": 16,
+                        "probability": 0.4827,
+                        "type": "Organization",
+                        "normalized_text": "apple"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 47,
+                        "end": 70,
+                        "url": "https://t.co/MGxbn4OdDD",
+                        "expanded_url": "https://twitter.com/RealTimeTradez/status/1275507276225355776",
+                        "display_url": "twitter.com/RealTimeTradez\u2026"
+                    }
+                ]
+            },
+            "id": "1275515546646335490",
+            "conversation_id": "1275515546646335490",
+            "created_at": "2020-06-23T19:46:18.000Z",
+            "reply_settings": "everyone",
+            "text": "Woah I like apple but this is not cool at all. https://t.co/MGxbn4OdDD",
+            "author_id": "1046075222"
+        },
+        "id": 1275515546646335490,
+        "text": "Woah I like apple but this is not cool at all. https://t.co/MGxbn4OdDD",
+        "attachments": null,
+        "author_id": 1046075222,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            }
+        ],
+        "conversation_id": 1275515546646335490,
+        "created_at": "2020-06-23T19:46:18+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 16,
+                    "probability": 0.4827,
+                    "type": "Organization",
+                    "normalized_text": "apple"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 47,
+                    "end": 70,
+                    "url": "https://t.co/MGxbn4OdDD",
+                    "expanded_url": "https://twitter.com/RealTimeTradez/status/1275507276225355776",
+                    "display_url": "twitter.com/RealTimeTradez\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1275507276225355776"
+                },
+                "id": 1275507276225355776,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1275507276225355776"
+                }
+            ],
+            "id": "1275508188234694656",
+            "conversation_id": "1275508188234694656",
+            "created_at": "2020-06-23T19:17:04.000Z",
+            "reply_settings": "everyone",
+            "text": "This is why I don't update my phone. https://t.co/1e0YKMMaNJ",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 37,
+                        "end": 60,
+                        "url": "https://t.co/1e0YKMMaNJ",
+                        "expanded_url": "https://twitter.com/RealTimeTradez/status/1275507276225355776",
+                        "display_url": "twitter.com/RealTimeTradez\u2026"
+                    }
+                ]
+            },
+            "author_id": "1239993254944206848"
+        },
+        "id": 1275508188234694656,
+        "text": "This is why I don't update my phone. https://t.co/1e0YKMMaNJ",
+        "attachments": null,
+        "author_id": 1239993254944206848,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            }
+        ],
+        "conversation_id": 1275508188234694656,
+        "created_at": "2020-06-23T19:17:04+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 37,
+                    "end": 60,
+                    "url": "https://t.co/1e0YKMMaNJ",
+                    "expanded_url": "https://twitter.com/RealTimeTradez/status/1275507276225355776",
+                    "display_url": "twitter.com/RealTimeTradez\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1275507276225355776"
+                },
+                "id": 1275507276225355776,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "stantradingman",
+                        "id": "1433925457574088713"
+                    },
+                    {
+                        "start": 32,
+                        "end": 38,
+                        "username": "Apple",
+                        "id": "380749300"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 89,
+                        "end": 90,
+                        "probability": 0.4886,
+                        "type": "Product",
+                        "normalized_text": "FB"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1275507276225355776"
+                }
+            ],
+            "id": "1275507452969054208",
+            "conversation_id": "1275507452969054208",
+            "created_at": "2020-06-23T19:14:09.000Z",
+            "reply_settings": "everyone",
+            "text": "RT @StanTradingMan: Holy crap.  @Apple and their garbage !  A friend just shared this on FB.  I don\u2019t update my phone, I\u2019m bad. https://t.c\u2026",
+            "author_id": "232378828"
+        },
+        "id": 1275507452969054208,
+        "text": "RT @StanTradingMan: Holy crap.  @Apple and their garbage !  A friend just shared this on FB.  I don\u2019t update my phone, I\u2019m bad. https://t.c\u2026",
+        "attachments": null,
+        "author_id": 232378828,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            }
+        ],
+        "conversation_id": 1275507452969054208,
+        "created_at": "2020-06-23T19:14:09+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 18,
+                    "username": "stantradingman",
+                    "id": "1433925457574088713"
+                },
+                {
+                    "start": 32,
+                    "end": 38,
+                    "username": "Apple",
+                    "id": "380749300"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 90,
+                    "probability": 0.4886,
+                    "type": "Product",
+                    "normalized_text": "FB"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1275507276225355776"
+                },
+                "id": 1275507276225355776,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 33,
+                "like_count": 43,
+                "quote_count": 3
+            },
+            "source": "Twitter for iPhone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 12,
+                        "end": 18,
+                        "username": "Apple",
+                        "id": "380749300"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 69,
+                        "end": 70,
+                        "probability": 0.5282,
+                        "type": "Product",
+                        "normalized_text": "FB"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 108,
+                        "end": 131,
+                        "url": "https://t.co/oPePwZ26t0",
+                        "expanded_url": "https://twitter.com/StanTradingMan/status/1275507276225355776/photo/1",
+                        "display_url": "pic.twitter.com/oPePwZ26t0"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                }
+            ],
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1275507266456821764"
+                ]
+            },
+            "possibly_sensitive": false,
+            "id": "1275507276225355776",
+            "conversation_id": "1275507276225355776",
+            "created_at": "2020-06-23T19:13:27.000Z",
+            "reply_settings": "everyone",
+            "text": "Holy crap.  @Apple and their garbage !  A friend just shared this on FB.  I don\u2019t update my phone, I\u2019m bad. https://t.co/oPePwZ26t0",
+            "author_id": "271045715"
+        },
+        "id": 1275507276225355776,
+        "text": "Holy crap.  @Apple and their garbage !  A friend just shared this on FB.  I don\u2019t update my phone, I\u2019m bad. https://t.co/oPePwZ26t0",
+        "attachments": {
+            "media_keys": [
+                "3_1275507266456821764"
+            ]
+        },
+        "author_id": 271045715,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            }
+        ],
+        "conversation_id": 1275507276225355776,
+        "created_at": "2020-06-23T19:13:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 12,
+                    "end": 18,
+                    "username": "Apple",
+                    "id": "380749300"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 69,
+                    "end": 70,
+                    "probability": 0.5282,
+                    "type": "Product",
+                    "normalized_text": "FB"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 108,
+                    "end": 131,
+                    "url": "https://t.co/oPePwZ26t0",
+                    "expanded_url": "https://twitter.com/StanTradingMan/status/1275507276225355776/photo/1",
+                    "display_url": "pic.twitter.com/oPePwZ26t0"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 33,
+            "like_count": 43,
+            "quote_count": 3
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

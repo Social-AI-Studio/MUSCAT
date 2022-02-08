@@ -1,0 +1,83 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "65273852",
+            "created_at": "2019-03-18T21:47:22.000Z",
+            "possibly_sensitive": false,
+            "id": "1107760432360669184",
+            "author_id": "65273852",
+            "source": "Twitter for iPhone",
+            "text": "Proteger \u00e9 justamente n\u00e3o compartilhar. O caso da Baleia Azul foi logo ali e ningu\u00e9m aprendeu nada",
+            "reply_settings": "everyone",
+            "conversation_id": "1107759790724390914",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 50,
+                        "end": 60,
+                        "probability": 0.8058,
+                        "type": "Person",
+                        "normalized_text": "Baleia Azul"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "pt",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1107759790724390914"
+                }
+            ]
+        },
+        "id": 1107760432360669184,
+        "text": "Proteger \u00e9 justamente n\u00e3o compartilhar. O caso da Baleia Azul foi logo ali e ningu\u00e9m aprendeu nada",
+        "attachments": null,
+        "author_id": 65273852,
+        "context_annotations": [],
+        "conversation_id": 1107759790724390914,
+        "created_at": "2019-03-18T21:47:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 50,
+                    "end": 60,
+                    "probability": 0.8058,
+                    "type": "Person",
+                    "normalized_text": "Baleia Azul"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 65273852,
+        "lang": "pt",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1107759790724390914"
+                },
+                "id": 1107759790724390914,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "conversation_id": "1088787588255645697",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/ZiPSI416Qt",
+                        "expanded_url": "https://twitter.com/exakr/status/1088682040701083648?s=21",
+                        "display_url": "twitter.com/exakr/status/1\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "mindefsg",
+                        "id": "175268768"
+                    }
+                ]
+            },
+            "author_id": "15177474",
+            "text": "@mindefsg https://t.co/ZiPSI416Qt",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "175268768",
+            "id": "1088985156356993024",
+            "created_at": "2019-01-26T02:21:08.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1088682040701083648"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1088787588255645697"
+                }
+            ],
+            "reply_settings": "everyone",
+            "lang": "und"
+        },
+        "id": 1088985156356993024,
+        "text": "@mindefsg https://t.co/ZiPSI416Qt",
+        "attachments": null,
+        "author_id": 15177474,
+        "context_annotations": [],
+        "conversation_id": 1088787588255645697,
+        "created_at": "2019-01-26T02:21:08+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/ZiPSI416Qt",
+                    "expanded_url": "https://twitter.com/exakr/status/1088682040701083648?s=21",
+                    "display_url": "twitter.com/exakr/status/1\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "mindefsg",
+                    "id": "175268768"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 175268768,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1088682040701083648"
+                },
+                "id": 1088682040701083648,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1088787588255645697"
+                },
+                "id": 1088787588255645697,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

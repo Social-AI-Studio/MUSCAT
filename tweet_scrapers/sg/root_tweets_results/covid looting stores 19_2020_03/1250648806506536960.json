@@ -1,0 +1,446 @@
+[
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1250649258669326338",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250648806506536960"
+                }
+            ],
+            "author_id": "431656464",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "847866073693081601",
+                        "name": "Liquor and spirits",
+                        "description": "Liquor and spirits"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2020-04-16T04:56:33.000Z",
+            "source": "Twitter for Android",
+            "text": "RT @SAfmRadio: On now @alanwinde More than 16 liquor outlets in the Western Cape since the Covid-19 nationwide lockdown. To prevent further\u2026",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 68,
+                        "end": 79,
+                        "probability": 0.6904,
+                        "type": "Place",
+                        "normalized_text": "Western Cape"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "SAfmRadio",
+                        "id": "84503659"
+                    },
+                    {
+                        "start": 22,
+                        "end": 32,
+                        "username": "alanwinde",
+                        "id": "104482992"
+                    }
+                ]
+            },
+            "id": "1250649258669326338",
+            "possibly_sensitive": false
+        },
+        "id": 1250649258669326338,
+        "text": "RT @SAfmRadio: On now @alanwinde More than 16 liquor outlets in the Western Cape since the Covid-19 nationwide lockdown. To prevent further\u2026",
+        "attachments": null,
+        "author_id": 431656464,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "847866073693081601",
+                    "name": "Liquor and spirits",
+                    "description": "Liquor and spirits"
+                }
+            }
+        ],
+        "conversation_id": 1250649258669326338,
+        "created_at": "2020-04-16T04:56:33+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 68,
+                    "end": 79,
+                    "probability": 0.6904,
+                    "type": "Place",
+                    "normalized_text": "Western Cape"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "SAfmRadio",
+                    "id": "84503659"
+                },
+                {
+                    "start": 22,
+                    "end": 32,
+                    "username": "alanwinde",
+                    "id": "104482992"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250648806506536960"
+                },
+                "id": 1250648806506536960,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/owMnQ0rEjN",
+                        "expanded_url": "https://twitter.com/SAfmRadio/status/1250648806506536960/photo/1",
+                        "display_url": "pic.twitter.com/owMnQ0rEjN"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 233,
+                        "end": 245,
+                        "tag": "Coronaionsa"
+                    },
+                    {
+                        "start": 246,
+                        "end": 260,
+                        "tag": "day21lockdown"
+                    },
+                    {
+                        "start": 261,
+                        "end": 273,
+                        "tag": "safmsunrise"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 53,
+                        "end": 64,
+                        "probability": 0.7299,
+                        "type": "Place",
+                        "normalized_text": "Western Cape"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 7,
+                        "end": 17,
+                        "username": "alanwinde",
+                        "id": "104482992"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1250648806506536960",
+            "author_id": "84503659",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "847866073693081601",
+                        "name": "Liquor and spirits",
+                        "description": "Liquor and spirits"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1250648780212449280"
+                ]
+            },
+            "created_at": "2020-04-16T04:54:46.000Z",
+            "source": "Twitter Web App",
+            "text": "On now @alanwinde More than 16 liquor outlets in the Western Cape since the Covid-19 nationwide lockdown. To prevent further looting of liquor stores the police have been advised that liquor should be transported to safer premises.  #Coronaionsa #day21lockdown #safmsunrise https://t.co/owMnQ0rEjN",
+            "id": "1250648806506536960",
+            "possibly_sensitive": false
+        },
+        "id": 1250648806506536960,
+        "text": "On now @alanwinde More than 16 liquor outlets in the Western Cape since the Covid-19 nationwide lockdown. To prevent further looting of liquor stores the police have been advised that liquor should be transported to safer premises.  #Coronaionsa #day21lockdown #safmsunrise https://t.co/owMnQ0rEjN",
+        "attachments": {
+            "media_keys": [
+                "3_1250648780212449280"
+            ]
+        },
+        "author_id": 84503659,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "847866073693081601",
+                    "name": "Liquor and spirits",
+                    "description": "Liquor and spirits"
+                }
+            }
+        ],
+        "conversation_id": 1250648806506536960,
+        "created_at": "2020-04-16T04:54:46+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/owMnQ0rEjN",
+                    "expanded_url": "https://twitter.com/SAfmRadio/status/1250648806506536960/photo/1",
+                    "display_url": "pic.twitter.com/owMnQ0rEjN"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 233,
+                    "end": 245,
+                    "tag": "Coronaionsa"
+                },
+                {
+                    "start": 246,
+                    "end": 260,
+                    "tag": "day21lockdown"
+                },
+                {
+                    "start": 261,
+                    "end": 273,
+                    "tag": "safmsunrise"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 53,
+                    "end": 64,
+                    "probability": 0.7299,
+                    "type": "Place",
+                    "normalized_text": "Western Cape"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 7,
+                    "end": 17,
+                    "username": "alanwinde",
+                    "id": "104482992"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

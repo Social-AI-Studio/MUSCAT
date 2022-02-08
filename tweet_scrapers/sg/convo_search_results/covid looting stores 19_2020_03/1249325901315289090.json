@@ -1,0 +1,857 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "121211932",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "SAgovnews",
+                        "id": "121211932"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 11,
+                        "end": 14,
+                        "probability": 0.8593,
+                        "type": "Place",
+                        "normalized_text": "U.S."
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1239771753259433984",
+            "conversation_id": "1249325901315289090",
+            "created_at": "2020-04-12T17:34:58.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847868745150119936",
+                        "name": "Home & family",
+                        "description": "Hobbies and interests"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "1047109035600764929",
+                        "name": "Vaping",
+                        "description": "Vaping"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "841378993408425985",
+                        "name": "Wine",
+                        "description": "Wine"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850142258871418880",
+                        "name": "Beer",
+                        "description": "Beer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1249390568070881285",
+            "text": "@SAgovnews U.S. alcohol sales have jumped, spirits up 75%, wine up 66% and beer up 42%. Cannabis use reached an all-time high in March \u2014 even as medical experts warn that marijuana and vaping, as well as tobacco, may increase the risk of COVID-19. \ud83c\uddff\ud83c\udde6\ud83d\ude4c",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1249390568070881285,
+        "text": "@SAgovnews U.S. alcohol sales have jumped, spirits up 75%, wine up 66% and beer up 42%. Cannabis use reached an all-time high in March \u2014 even as medical experts warn that marijuana and vaping, as well as tobacco, may increase the risk of COVID-19. \ud83c\uddff\ud83c\udde6\ud83d\ude4c",
+        "attachments": null,
+        "author_id": 1239771753259433984,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847868745150119936",
+                    "name": "Home & family",
+                    "description": "Hobbies and interests"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "1047109035600764929",
+                    "name": "Vaping",
+                    "description": "Vaping"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "841378993408425985",
+                    "name": "Wine",
+                    "description": "Wine"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850142258871418880",
+                    "name": "Beer",
+                    "description": "Beer"
+                }
+            }
+        ],
+        "conversation_id": 1249325901315289090,
+        "created_at": "2020-04-12T17:34:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "SAgovnews",
+                    "id": "121211932"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 11,
+                    "end": 14,
+                    "probability": 0.8593,
+                    "type": "Place",
+                    "normalized_text": "U.S."
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 121211932,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                },
+                "id": 1249325901315289090,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "235324775",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249330411014164480"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "Yve711B",
+                        "id": "235324775"
+                    },
+                    {
+                        "start": 9,
+                        "end": 19,
+                        "username": "SAgovnews",
+                        "id": "121211932"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1116163508",
+            "conversation_id": "1249325901315289090",
+            "created_at": "2020-04-12T13:59:09.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1249336255164317701",
+            "text": "@Yve711B @SAgovnews Hear hear... Looking fwd to trying some soon \ud83d\udc4d\ud83d\ude0a\ud83c\udf7a",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1249336255164317701,
+        "text": "@Yve711B @SAgovnews Hear hear... Looking fwd to trying some soon \ud83d\udc4d\ud83d\ude0a\ud83c\udf7a",
+        "attachments": null,
+        "author_id": 1116163508,
+        "context_annotations": [],
+        "conversation_id": 1249325901315289090,
+        "created_at": "2020-04-12T13:59:09+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "Yve711B",
+                    "id": "235324775"
+                },
+                {
+                    "start": 9,
+                    "end": 19,
+                    "username": "SAgovnews",
+                    "id": "121211932"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 235324775,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249330411014164480"
+                },
+                "id": 1249330411014164480,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "121211932",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "SAgovnews",
+                        "id": "121211932"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "320132402",
+            "conversation_id": "1249325901315289090",
+            "created_at": "2020-04-12T13:56:27.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1249335575955595272",
+            "text": "@SAgovnews Open them up then.",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1249335575955595272,
+        "text": "@SAgovnews Open them up then.",
+        "attachments": null,
+        "author_id": 320132402,
+        "context_annotations": [],
+        "conversation_id": 1249325901315289090,
+        "created_at": "2020-04-12T13:56:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "SAgovnews",
+                    "id": "121211932"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 121211932,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                },
+                "id": 1249325901315289090,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "121211932",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "SAgovnews",
+                        "id": "121211932"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1043575309675778048",
+            "conversation_id": "1249325901315289090",
+            "created_at": "2020-04-12T13:47:50.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1249333405495549954",
+            "text": "@SAgovnews News for dummies",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1249333405495549954,
+        "text": "@SAgovnews News for dummies",
+        "attachments": null,
+        "author_id": 1043575309675778048,
+        "context_annotations": [],
+        "conversation_id": 1249325901315289090,
+        "created_at": "2020-04-12T13:47:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "SAgovnews",
+                    "id": "121211932"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 121211932,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                },
+                "id": 1249325901315289090,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "121211932",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "SAgovnews",
+                        "id": "121211932"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1238507503928958977",
+            "conversation_id": "1249325901315289090",
+            "created_at": "2020-04-12T13:44:23.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1249332538679660544",
+            "text": "@SAgovnews \ud83e\udd14\ud83e\udd14\ud83e\udd14",
+            "lang": "und",
+            "source": "Twitter for Android"
+        },
+        "id": 1249332538679660544,
+        "text": "@SAgovnews \ud83e\udd14\ud83e\udd14\ud83e\udd14",
+        "attachments": null,
+        "author_id": 1238507503928958977,
+        "context_annotations": [],
+        "conversation_id": 1249325901315289090,
+        "created_at": "2020-04-12T13:44:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "SAgovnews",
+                    "id": "121211932"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 121211932,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                },
+                "id": 1249325901315289090,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "121211932",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 158,
+                        "end": 169,
+                        "tag": "JustSaying"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "SAgovnews",
+                        "id": "121211932"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                }
+            ],
+            "reply_settings": "everyone",
+            "author_id": "235324775",
+            "conversation_id": "1249325901315289090",
+            "created_at": "2020-04-12T13:35:56.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "834828264786898945",
+                        "name": "Drinks",
+                        "description": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks",
+                        "description": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "850142258871418880",
+                        "name": "Beer",
+                        "description": "Beer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1249330411014164480",
+            "text": "@SAgovnews Ban on Alcohol is becoming useless, since 1000's of South Africans are making their own Alcoholic Pineapple beer in the comfort of their own Home. #JustSaying",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1249330411014164480,
+        "text": "@SAgovnews Ban on Alcohol is becoming useless, since 1000's of South Africans are making their own Alcoholic Pineapple beer in the comfort of their own Home. #JustSaying",
+        "attachments": null,
+        "author_id": 235324775,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "834828264786898945",
+                    "name": "Drinks",
+                    "description": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks",
+                    "description": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "850142258871418880",
+                    "name": "Beer",
+                    "description": "Beer"
+                }
+            }
+        ],
+        "conversation_id": 1249325901315289090,
+        "created_at": "2020-04-12T13:35:56+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 158,
+                    "end": 169,
+                    "tag": "JustSaying"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "SAgovnews",
+                    "id": "121211932"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 121211932,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                },
+                "id": 1249325901315289090,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "121211932",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 32,
+                        "end": 50,
+                        "tag": "pasopisdiwagwoord"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "SAgovnews",
+                        "id": "121211932"
+                    }
+                ]
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                }
+            ],
+            "reply_settings": "everyone",
+            "author_id": "1224400260425973762",
+            "conversation_id": "1249325901315289090",
+            "created_at": "2020-04-12T13:21:46.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1249326848116482048",
+            "text": "@SAgovnews Mense gaani hoor ni, #pasopisdiwagwoord",
+            "lang": "nl",
+            "source": "Twitter for Android"
+        },
+        "id": 1249326848116482048,
+        "text": "@SAgovnews Mense gaani hoor ni, #pasopisdiwagwoord",
+        "attachments": null,
+        "author_id": 1224400260425973762,
+        "context_annotations": [],
+        "conversation_id": 1249325901315289090,
+        "created_at": "2020-04-12T13:21:46+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 32,
+                    "end": 50,
+                    "tag": "pasopisdiwagwoord"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "SAgovnews",
+                    "id": "121211932"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 121211932,
+        "lang": "nl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1249325901315289090"
+                },
+                "id": 1249325901315289090,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

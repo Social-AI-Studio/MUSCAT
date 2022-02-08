@@ -1,0 +1,81 @@
+[
+    {
+        "data": {
+            "created_at": "2020-11-17T12:47:13.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "xtemujin",
+                        "id": "145266703"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1328676549080465410"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "145266703",
+            "author_id": "49695220",
+            "conversation_id": "1328676549080465410",
+            "text": "@xtemujin I tot its a French company?",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone",
+            "id": "1328681096968454144",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1328681096968454144,
+        "text": "@xtemujin I tot its a French company?",
+        "attachments": null,
+        "author_id": 49695220,
+        "context_annotations": [],
+        "conversation_id": 1328676549080465410,
+        "created_at": "2020-11-17T12:47:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "xtemujin",
+                    "id": "145266703"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 145266703,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1328676549080465410"
+                },
+                "id": 1328676549080465410,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

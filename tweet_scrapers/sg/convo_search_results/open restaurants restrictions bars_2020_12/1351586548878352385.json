@@ -1,0 +1,317 @@
+[
+    {
+        "data": {
+            "created_at": "2021-01-19T17:51:26.000Z",
+            "author_id": "1069755139458826240",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1351588088812810245",
+            "text": "@kev_sounds It doesn\u2019t happen often, but it shouldn\u2019t happen at all.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1351587860185546754"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1351586548878352385",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "kev_sounds",
+                        "id": "996847205511303168"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "996847205511303168",
+            "reply_settings": "everyone"
+        },
+        "id": 1351588088812810245,
+        "text": "@kev_sounds It doesn\u2019t happen often, but it shouldn\u2019t happen at all.",
+        "attachments": null,
+        "author_id": 1069755139458826240,
+        "context_annotations": [],
+        "conversation_id": 1351586548878352385,
+        "created_at": "2021-01-19T17:51:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "kev_sounds",
+                    "id": "996847205511303168"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 996847205511303168,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1351587860185546754"
+                },
+                "id": 1351587860185546754,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-01-19T17:50:31.000Z",
+            "author_id": "996847205511303168",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1351587860185546754",
+            "text": "@OtakumonGo Damn that sucks",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1351586549742379009"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1351586548878352385",
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "OtakumonGo",
+                        "id": "1069755139458826240"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "1069755139458826240",
+            "reply_settings": "everyone"
+        },
+        "id": 1351587860185546754,
+        "text": "@OtakumonGo Damn that sucks",
+        "attachments": null,
+        "author_id": 996847205511303168,
+        "context_annotations": [],
+        "conversation_id": 1351586548878352385,
+        "created_at": "2021-01-19T17:50:31+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "OtakumonGo",
+                    "id": "1069755139458826240"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1069755139458826240,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1351586549742379009"
+                },
+                "id": 1351586549742379009,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-01-19T17:45:19.000Z",
+            "author_id": "1069755139458826240",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1351586549742379009",
+            "text": "Here\u2019s hoping I count as an essential worker so I can get in on my City\u2019s next vaccine phase. Tired of people casually walking into my job without a mask despite the signs and giving excuses when I offer a FREE one. Also the people that pull their masks down to talk. Just stop.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1351586548878352385"
+                }
+            ],
+            "source": "Twitter for iPhone",
+            "conversation_id": "1351586548878352385",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "1069755139458826240",
+            "reply_settings": "everyone"
+        },
+        "id": 1351586549742379009,
+        "text": "Here\u2019s hoping I count as an essential worker so I can get in on my City\u2019s next vaccine phase. Tired of people casually walking into my job without a mask despite the signs and giving excuses when I offer a FREE one. Also the people that pull their masks down to talk. Just stop.",
+        "attachments": null,
+        "author_id": 1069755139458826240,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1351586548878352385,
+        "created_at": "2021-01-19T17:45:19+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 1069755139458826240,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1351586548878352385"
+                },
+                "id": 1351586548878352385,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

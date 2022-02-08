@@ -1,0 +1,354 @@
+[
+    {
+        "data": {
+            "conversation_id": "1397699831020326912",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1397698448732921856"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878257630195712",
+                        "name": "Government",
+                        "description": "Government"
+                    }
+                }
+            ],
+            "text": "RT @JoshNeicho: Use your critical faculties when people say \u201cSingapore\u201d as a rhetorical flourish to suggest a brilliantly effective respons\u2026",
+            "id": "1397699831020326912",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "JoshNeicho",
+                        "id": "49022134"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 61,
+                        "end": 69,
+                        "probability": 0.738,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-05-26T23:43:02.000Z",
+            "author_id": "16611761"
+        },
+        "id": 1397699831020326912,
+        "text": "RT @JoshNeicho: Use your critical faculties when people say \u201cSingapore\u201d as a rhetorical flourish to suggest a brilliantly effective respons\u2026",
+        "attachments": null,
+        "author_id": 16611761,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878257630195712",
+                    "name": "Government",
+                    "description": "Government"
+                }
+            }
+        ],
+        "conversation_id": 1397699831020326912,
+        "created_at": "2021-05-26T23:43:02+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "JoshNeicho",
+                    "id": "49022134"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 61,
+                    "end": 69,
+                    "probability": 0.738,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1397698448732921856"
+                },
+                "id": 1397698448732921856,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 166,
+                        "end": 189,
+                        "url": "https://t.co/my3mDUajUr",
+                        "expanded_url": "https://twitter.com/HarryScoffin/status/1397680805607006209",
+                        "display_url": "twitter.com/HarryScoffin/s\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 152,
+                        "end": 165,
+                        "username": "HarryScoffin",
+                        "id": "16611761"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 45,
+                        "end": 53,
+                        "probability": 0.7017,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "conversation_id": "1397698448732921856",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1397680805607006209"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857878257630195712",
+                        "name": "Government",
+                        "description": "Government"
+                    }
+                }
+            ],
+            "text": "Use your critical faculties when people say \u201cSingapore\u201d as a rhetorical flourish to suggest a brilliantly effective response to Covid - fab thread from @HarryScoffin https://t.co/my3mDUajUr",
+            "id": "1397698448732921856",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-05-26T23:37:32.000Z",
+            "author_id": "49022134"
+        },
+        "id": 1397698448732921856,
+        "text": "Use your critical faculties when people say \u201cSingapore\u201d as a rhetorical flourish to suggest a brilliantly effective response to Covid - fab thread from @HarryScoffin https://t.co/my3mDUajUr",
+        "attachments": null,
+        "author_id": 49022134,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857878257630195712",
+                    "name": "Government",
+                    "description": "Government"
+                }
+            }
+        ],
+        "conversation_id": 1397698448732921856,
+        "created_at": "2021-05-26T23:37:32+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 166,
+                    "end": 189,
+                    "url": "https://t.co/my3mDUajUr",
+                    "expanded_url": "https://twitter.com/HarryScoffin/status/1397680805607006209",
+                    "display_url": "twitter.com/HarryScoffin/s\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 152,
+                    "end": 165,
+                    "username": "HarryScoffin",
+                    "id": "16611761"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 45,
+                    "end": 53,
+                    "probability": 0.7017,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1397680805607006209"
+                },
+                "id": 1397680805607006209,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

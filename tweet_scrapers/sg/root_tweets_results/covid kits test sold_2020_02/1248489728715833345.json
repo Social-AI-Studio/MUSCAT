@@ -1,0 +1,362 @@
+[
+    {
+        "data": {
+            "created_at": "2020-04-10T07:04:41.000Z",
+            "possibly_sensitive": false,
+            "id": "1248507176215138306",
+            "author_id": "281010055",
+            "source": "Twitter for iPhone",
+            "text": "Just have to watch Dirty Money, Slumdog Millionaire episode on @netflix to understand why https://t.co/jk0DXdSS0K",
+            "reply_settings": "everyone",
+            "conversation_id": "1248507176215138306",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "940668978246041600",
+                        "name": "The New Yorker",
+                        "description": "The New Yorker"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 29,
+                        "probability": 0.625,
+                        "type": "Other",
+                        "normalized_text": "Dirty Money"
+                    },
+                    {
+                        "start": 32,
+                        "end": 50,
+                        "probability": 0.4471,
+                        "type": "Other",
+                        "normalized_text": "Slumdog Millionaire"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 63,
+                        "end": 71,
+                        "username": "netflix",
+                        "id": "16573941"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "url": "https://t.co/jk0DXdSS0K",
+                        "expanded_url": "https://twitter.com/brooklynmarie/status/1248489728715833345",
+                        "display_url": "twitter.com/brooklynmarie/\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1248489728715833345"
+                }
+            ]
+        },
+        "id": 1248507176215138306,
+        "text": "Just have to watch Dirty Money, Slumdog Millionaire episode on @netflix to understand why https://t.co/jk0DXdSS0K",
+        "attachments": null,
+        "author_id": 281010055,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "940668978246041600",
+                    "name": "The New Yorker",
+                    "description": "The New Yorker"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026367762",
+                    "name": "Netflix"
+                }
+            }
+        ],
+        "conversation_id": 1248507176215138306,
+        "created_at": "2020-04-10T07:04:41+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 19,
+                    "end": 29,
+                    "probability": 0.625,
+                    "type": "Other",
+                    "normalized_text": "Dirty Money"
+                },
+                {
+                    "start": 32,
+                    "end": 50,
+                    "probability": 0.4471,
+                    "type": "Other",
+                    "normalized_text": "Slumdog Millionaire"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 63,
+                    "end": 71,
+                    "username": "netflix",
+                    "id": "16573941"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "url": "https://t.co/jk0DXdSS0K",
+                    "expanded_url": "https://twitter.com/brooklynmarie/status/1248489728715833345",
+                    "display_url": "twitter.com/brooklynmarie/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1248489728715833345"
+                },
+                "id": 1248489728715833345,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-04-10T06:04:39.000Z",
+            "possibly_sensitive": false,
+            "id": "1248492068126601216",
+            "author_id": "1169115554168344577",
+            "source": "Twitter Web App",
+            "text": "\"The first large U.S. government order to the big U.S. producer 3M, for a hundred and seventy-three million dollars\u2019 worth of N95 masks, was not placed until March 21st..\" https://t.co/Tauhbeegkm",
+            "reply_settings": "everyone",
+            "conversation_id": "1248492068126601216",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "940668978246041600",
+                        "name": "The New Yorker",
+                        "description": "The New Yorker"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 17,
+                        "end": 20,
+                        "probability": 0.7272,
+                        "type": "Place",
+                        "normalized_text": "U.S."
+                    },
+                    {
+                        "start": 50,
+                        "end": 53,
+                        "probability": 0.8451,
+                        "type": "Place",
+                        "normalized_text": "U.S."
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 172,
+                        "end": 195,
+                        "url": "https://t.co/Tauhbeegkm",
+                        "expanded_url": "https://twitter.com/brooklynmarie/status/1248489728715833345",
+                        "display_url": "twitter.com/brooklynmarie/\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1248489728715833345"
+                }
+            ]
+        },
+        "id": 1248492068126601216,
+        "text": "\"The first large U.S. government order to the big U.S. producer 3M, for a hundred and seventy-three million dollars\u2019 worth of N95 masks, was not placed until March 21st..\" https://t.co/Tauhbeegkm",
+        "attachments": null,
+        "author_id": 1169115554168344577,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "940668978246041600",
+                    "name": "The New Yorker",
+                    "description": "The New Yorker"
+                }
+            }
+        ],
+        "conversation_id": 1248492068126601216,
+        "created_at": "2020-04-10T06:04:39+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 17,
+                    "end": 20,
+                    "probability": 0.7272,
+                    "type": "Place",
+                    "normalized_text": "U.S."
+                },
+                {
+                    "start": 50,
+                    "end": 53,
+                    "probability": 0.8451,
+                    "type": "Place",
+                    "normalized_text": "U.S."
+                }
+            ],
+            "urls": [
+                {
+                    "start": 172,
+                    "end": 195,
+                    "url": "https://t.co/Tauhbeegkm",
+                    "expanded_url": "https://twitter.com/brooklynmarie/status/1248489728715833345",
+                    "display_url": "twitter.com/brooklynmarie/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1248489728715833345"
+                },
+                "id": 1248489728715833345,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 56,
+                        "probability": 0.3862,
+                        "type": "Organization",
+                        "normalized_text": "Apple"
+                    },
+                    {
+                        "start": 60,
+                        "end": 65,
+                        "probability": 0.4512,
+                        "type": "Product",
+                        "normalized_text": "Google"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "url": "https://t.co/XqfOiOiBDh",
+                        "expanded_url": "https://twitter.com/shecurity/status/1274512157091213312/photo/1",
+                        "display_url": "pic.twitter.com/XqfOiOiBDh"
+                    }
+                ]
+            },
+            "author_id": "1265984128538771457",
+            "attachments": {
+                "media_keys": [
+                    "3_1274512153438031875"
+                ]
+            },
+            "text": "I\u2019ve seen some concern about this from friends, so: Apple &amp; Google just added their COVID-19 tracking option (it\u2019s not a secret download)\n\nIt\u2019s an opt in function that allows you easy control over the exposure tracking apps (which still need to be gov developed) https://t.co/XqfOiOiBDh",
+            "possibly_sensitive": false,
+            "id": "1274512157091213312",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-06-21T01:19:12.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026378521",
+                        "name": "Google "
+                    }
+                }
+            ],
+            "conversation_id": "1274512157091213312",
+            "lang": "en"
+        },
+        "id": 1274512157091213312,
+        "text": "I\u2019ve seen some concern about this from friends, so: Apple &amp; Google just added their COVID-19 tracking option (it\u2019s not a secret download)\n\nIt\u2019s an opt in function that allows you easy control over the exposure tracking apps (which still need to be gov developed) https://t.co/XqfOiOiBDh",
+        "attachments": {
+            "media_keys": [
+                "3_1274512153438031875"
+            ]
+        },
+        "author_id": 1265984128538771457,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026378521",
+                    "name": "Google "
+                }
+            }
+        ],
+        "conversation_id": 1274512157091213312,
+        "created_at": "2020-06-21T01:19:12+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "probability": 0.3862,
+                    "type": "Organization",
+                    "normalized_text": "Apple"
+                },
+                {
+                    "start": 60,
+                    "end": 65,
+                    "probability": 0.4512,
+                    "type": "Product",
+                    "normalized_text": "Google"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 267,
+                    "end": 290,
+                    "url": "https://t.co/XqfOiOiBDh",
+                    "expanded_url": "https://twitter.com/shecurity/status/1274512157091213312/photo/1",
+                    "display_url": "pic.twitter.com/XqfOiOiBDh"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

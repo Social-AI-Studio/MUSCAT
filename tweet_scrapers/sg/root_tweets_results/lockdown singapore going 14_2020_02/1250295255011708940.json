@@ -1,0 +1,867 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 229,
+                        "end": 252,
+                        "url": "https://t.co/AgdkX1WmDK",
+                        "expanded_url": "http://bit.ly/38M2Zoj",
+                        "display_url": "bit.ly/38M2Zoj",
+                        "unwound_url": "https://block.fiverr.com/?url=aHR0cDovL3d3dy5maXZlcnIuY29tL3NoYXJlL3JFQTkwYj8=&uuid=a78debd9-66ba-11ec-9b05-504a5743426b&vid="
+                    },
+                    {
+                        "start": 253,
+                        "end": 276,
+                        "url": "https://t.co/poQsu9gLIb",
+                        "expanded_url": "https://twitter.com/motokorich/status/1250295255011708940",
+                        "display_url": "twitter.com/motokorich/sta\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 113,
+                        "end": 121,
+                        "tag": "bitcoin"
+                    },
+                    {
+                        "start": 122,
+                        "end": 133,
+                        "tag": "boywithluv"
+                    },
+                    {
+                        "start": 134,
+                        "end": 151,
+                        "tag": "DigitalMarketing"
+                    },
+                    {
+                        "start": 152,
+                        "end": 160,
+                        "tag": "promote"
+                    },
+                    {
+                        "start": 161,
+                        "end": 170,
+                        "tag": "Taehyung"
+                    },
+                    {
+                        "start": 171,
+                        "end": 186,
+                        "tag": "cryptocurrency"
+                    },
+                    {
+                        "start": 187,
+                        "end": 198,
+                        "tag": "blockchain"
+                    },
+                    {
+                        "start": 199,
+                        "end": 208,
+                        "tag": "jungkook"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1250855106611822592",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250295255011708940"
+                }
+            ],
+            "author_id": "1249270744950829056",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency",
+                        "description": "Bitcoin Cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "844438182523383808",
+                        "name": "BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857879016971186177",
+                        "name": "Marketing",
+                        "description": "Marketing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "857879456773357569",
+                        "name": "Technology",
+                        "description": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1001503516555337728",
+                        "name": "Blockchain",
+                        "description": "Blockchain"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "89",
+                        "name": "Music Album",
+                        "description": "A music album like The Dark Side of the Moon"
+                    },
+                    "entity": {
+                        "id": "1116705914436763648",
+                        "name": "Map of the Soul: Persona",
+                        "description": "BTS' new album"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "132",
+                        "name": "Song"
+                    },
+                    "entity": {
+                        "id": "1116693822619045890",
+                        "name": "Boy With Luv",
+                        "description": "Boy With Luv by BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "895369816558534656",
+                        "name": "V (BTS)",
+                        "description": "V (\ubdd4) - member of BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "895369861504749568",
+                        "name": "Jungkook",
+                        "description": "Jungkook (\uc815\uad6d) - member of BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "895369816558534656",
+                        "name": "V (BTS)",
+                        "description": "V (\ubdd4) - member of BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "54",
+                        "name": "Musician",
+                        "description": "A musician in the world, like Adele or Bob Dylan"
+                    },
+                    "entity": {
+                        "id": "895369861504749568",
+                        "name": "Jungkook",
+                        "description": "Jungkook (\uc815\uad6d) - member of BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "55",
+                        "name": "Music Genre",
+                        "description": "A category for a musical style, like Pop, Rock, or Rap"
+                    },
+                    "entity": {
+                        "id": "888105153038958593",
+                        "name": "K-pop",
+                        "description": "K-Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847888632711061504",
+                        "name": "Personal finance",
+                        "description": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies",
+                        "description": "Cryptocurrency"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2020-04-16T18:34:31.000Z",
+            "source": "Twitter Web App",
+            "text": "EveryBody Want To Become Success In This Digital World. I Know How To Develop Your Business In Digital Platform.\n#bitcoin #boywithluv #DigitalMarketing #promote #Taehyung #cryptocurrency #blockchain #jungkook\n\nVisit My Proposal: https://t.co/AgdkX1WmDK https://t.co/poQsu9gLIb",
+            "id": "1250855106611822592",
+            "possibly_sensitive": false
+        },
+        "id": 1250855106611822592,
+        "text": "EveryBody Want To Become Success In This Digital World. I Know How To Develop Your Business In Digital Platform.\n#bitcoin #boywithluv #DigitalMarketing #promote #Taehyung #cryptocurrency #blockchain #jungkook\n\nVisit My Proposal: https://t.co/AgdkX1WmDK https://t.co/poQsu9gLIb",
+        "attachments": null,
+        "author_id": 1249270744950829056,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596794716162",
+                    "name": "Financial services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1007360414114435072",
+                    "name": "Bitcoin cryptocurrency",
+                    "description": "Bitcoin Cryptocurrency"
+                }
+            },
+            {
+                "domain": {
+                    "id": "54",
+                    "name": "Musician",
+                    "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                    "id": "844438182523383808",
+                    "name": "BTS"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857879016971186177",
+                    "name": "Marketing",
+                    "description": "Marketing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "857879456773357569",
+                    "name": "Technology",
+                    "description": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1001503516555337728",
+                    "name": "Blockchain",
+                    "description": "Blockchain"
+                }
+            },
+            {
+                "domain": {
+                    "id": "89",
+                    "name": "Music Album",
+                    "description": "A music album like The Dark Side of the Moon"
+                },
+                "entity": {
+                    "id": "1116705914436763648",
+                    "name": "Map of the Soul: Persona",
+                    "description": "BTS' new album"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "132",
+                    "name": "Song"
+                },
+                "entity": {
+                    "id": "1116693822619045890",
+                    "name": "Boy With Luv",
+                    "description": "Boy With Luv by BTS"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "895369816558534656",
+                    "name": "V (BTS)",
+                    "description": "V (\ubdd4) - member of BTS"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "895369861504749568",
+                    "name": "Jungkook",
+                    "description": "Jungkook (\uc815\uad6d) - member of BTS"
+                }
+            },
+            {
+                "domain": {
+                    "id": "54",
+                    "name": "Musician",
+                    "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                    "id": "895369816558534656",
+                    "name": "V (BTS)",
+                    "description": "V (\ubdd4) - member of BTS"
+                }
+            },
+            {
+                "domain": {
+                    "id": "54",
+                    "name": "Musician",
+                    "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                    "id": "895369861504749568",
+                    "name": "Jungkook",
+                    "description": "Jungkook (\uc815\uad6d) - member of BTS"
+                }
+            },
+            {
+                "domain": {
+                    "id": "55",
+                    "name": "Music Genre",
+                    "description": "A category for a musical style, like Pop, Rock, or Rap"
+                },
+                "entity": {
+                    "id": "888105153038958593",
+                    "name": "K-pop",
+                    "description": "K-Pop"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847888632711061504",
+                    "name": "Personal finance",
+                    "description": "Personal finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "913142676819648512",
+                    "name": "Cryptocurrencies",
+                    "description": "Cryptocurrency"
+                }
+            }
+        ],
+        "conversation_id": 1250855106611822592,
+        "created_at": "2020-04-16T18:34:31+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 229,
+                    "end": 252,
+                    "url": "https://t.co/AgdkX1WmDK",
+                    "expanded_url": "http://bit.ly/38M2Zoj",
+                    "display_url": "bit.ly/38M2Zoj",
+                    "unwound_url": "https://block.fiverr.com/?url=aHR0cDovL3d3dy5maXZlcnIuY29tL3NoYXJlL3JFQTkwYj8=&uuid=a78debd9-66ba-11ec-9b05-504a5743426b&vid="
+                },
+                {
+                    "start": 253,
+                    "end": 276,
+                    "url": "https://t.co/poQsu9gLIb",
+                    "expanded_url": "https://twitter.com/motokorich/status/1250295255011708940",
+                    "display_url": "twitter.com/motokorich/sta\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 113,
+                    "end": 121,
+                    "tag": "bitcoin"
+                },
+                {
+                    "start": 122,
+                    "end": 133,
+                    "tag": "boywithluv"
+                },
+                {
+                    "start": 134,
+                    "end": 151,
+                    "tag": "DigitalMarketing"
+                },
+                {
+                    "start": 152,
+                    "end": 160,
+                    "tag": "promote"
+                },
+                {
+                    "start": 161,
+                    "end": 170,
+                    "tag": "Taehyung"
+                },
+                {
+                    "start": 171,
+                    "end": 186,
+                    "tag": "cryptocurrency"
+                },
+                {
+                    "start": 187,
+                    "end": 198,
+                    "tag": "blockchain"
+                },
+                {
+                    "start": 199,
+                    "end": 208,
+                    "tag": "jungkook"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250295255011708940"
+                },
+                "id": 1250295255011708940,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/AAtS4GreCx",
+                        "expanded_url": "https://twitter.com/motokorich/status/1250295255011708940",
+                        "display_url": "twitter.com/motokorich/sta\u2026"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1250431750401970177",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250295255011708940"
+                }
+            ],
+            "author_id": "252698620",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2020-04-15T14:32:15.000Z",
+            "source": "Twitter for Android",
+            "text": "What great news \ud83e\udd2e https://t.co/AAtS4GreCx",
+            "id": "1250431750401970177",
+            "possibly_sensitive": false
+        },
+        "id": 1250431750401970177,
+        "text": "What great news \ud83e\udd2e https://t.co/AAtS4GreCx",
+        "attachments": null,
+        "author_id": 252698620,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250431750401970177,
+        "created_at": "2020-04-15T14:32:15+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/AAtS4GreCx",
+                    "expanded_url": "https://twitter.com/motokorich/status/1250295255011708940",
+                    "display_url": "twitter.com/motokorich/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250295255011708940"
+                },
+                "id": 1250295255011708940,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 63,
+                        "end": 86,
+                        "url": "https://t.co/2i8Wx2IFtb",
+                        "expanded_url": "https://twitter.com/motokorich/status/1250295255011708940",
+                        "display_url": "twitter.com/motokorich/sta\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 40,
+                        "end": 49,
+                        "tag": "COVID\u30fc19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 51,
+                        "end": 62,
+                        "username": "MalawiGovt",
+                        "id": "2189970192"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1250431500039798784",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250295255011708940"
+                }
+            ],
+            "author_id": "1220125695742967809",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2020-04-15T14:31:16.000Z",
+            "source": "Twitter for Android",
+            "text": "Lessons for all of us, together in this #COVID\u30fc19 \n@MalawiGovt https://t.co/2i8Wx2IFtb",
+            "id": "1250431500039798784",
+            "possibly_sensitive": false
+        },
+        "id": 1250431500039798784,
+        "text": "Lessons for all of us, together in this #COVID\u30fc19 \n@MalawiGovt https://t.co/2i8Wx2IFtb",
+        "attachments": null,
+        "author_id": 1220125695742967809,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250431500039798784,
+        "created_at": "2020-04-15T14:31:16+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 63,
+                    "end": 86,
+                    "url": "https://t.co/2i8Wx2IFtb",
+                    "expanded_url": "https://twitter.com/motokorich/status/1250295255011708940",
+                    "display_url": "twitter.com/motokorich/sta\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 40,
+                    "end": 49,
+                    "tag": "COVID\u30fc19"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 51,
+                    "end": 62,
+                    "username": "MalawiGovt",
+                    "id": "2189970192"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250295255011708940"
+                },
+                "id": 1250295255011708940,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

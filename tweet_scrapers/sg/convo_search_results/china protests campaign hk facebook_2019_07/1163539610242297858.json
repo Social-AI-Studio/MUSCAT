@@ -1,0 +1,1055 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1163606295234207744"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "jc_stubbs",
+                        "id": "833057665"
+                    },
+                    {
+                        "start": 11,
+                        "end": 21,
+                        "username": "leejane71",
+                        "id": "361056247"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 28,
+                        "end": 32,
+                        "probability": 0.8622,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    },
+                    {
+                        "start": 85,
+                        "end": 86,
+                        "probability": 0.8692,
+                        "type": "Organization",
+                        "normalized_text": "FB"
+                    },
+                    {
+                        "start": 92,
+                        "end": 98,
+                        "probability": 0.7416,
+                        "type": "Organization",
+                        "normalized_text": "Twitter"
+                    },
+                    {
+                        "start": 153,
+                        "end": 154,
+                        "probability": 0.4004,
+                        "type": "Organization",
+                        "normalized_text": "HK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 167,
+                        "end": 190,
+                        "url": "https://t.co/AcdJ2US92N",
+                        "expanded_url": "https://reut.rs/31Q5vpf",
+                        "display_url": "reut.rs/31Q5vpf",
+                        "status": 200,
+                        "unwound_url": "https://www.reuters.com/article/us-hongkong-protests-twitter/china-cries-foul-over-facebook-twitter-block-of-fake-accounts-idUSKCN1VA0RQ"
+                    }
+                ]
+            },
+            "created_at": "2019-08-21T00:21:20.000Z",
+            "text": "@jc_stubbs @leejane71 MORE: China says it has a right to put out its own views after FB and Twitter block state-backed social media campaign directed at HK protests - https://t.co/AcdJ2US92N",
+            "lang": "en",
+            "in_reply_to_user_id": "543807018",
+            "id": "1163969296910999553",
+            "author_id": "543807018",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1163539610242297858",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                }
+            ]
+        },
+        "id": 1163969296910999553,
+        "text": "@jc_stubbs @leejane71 MORE: China says it has a right to put out its own views after FB and Twitter block state-backed social media campaign directed at HK protests - https://t.co/AcdJ2US92N",
+        "attachments": null,
+        "author_id": 543807018,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            }
+        ],
+        "conversation_id": 1163539610242297858,
+        "created_at": "2019-08-21T00:21:20+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "jc_stubbs",
+                    "id": "833057665"
+                },
+                {
+                    "start": 11,
+                    "end": 21,
+                    "username": "leejane71",
+                    "id": "361056247"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 28,
+                    "end": 32,
+                    "probability": 0.8622,
+                    "type": "Place",
+                    "normalized_text": "China"
+                },
+                {
+                    "start": 85,
+                    "end": 86,
+                    "probability": 0.8692,
+                    "type": "Organization",
+                    "normalized_text": "FB"
+                },
+                {
+                    "start": 92,
+                    "end": 98,
+                    "probability": 0.7416,
+                    "type": "Organization",
+                    "normalized_text": "Twitter"
+                },
+                {
+                    "start": 153,
+                    "end": 154,
+                    "probability": 0.4004,
+                    "type": "Organization",
+                    "normalized_text": "HK"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 167,
+                    "end": 190,
+                    "url": "https://t.co/AcdJ2US92N",
+                    "expanded_url": "https://reut.rs/31Q5vpf",
+                    "display_url": "reut.rs/31Q5vpf",
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/article/us-hongkong-protests-twitter/china-cries-foul-over-facebook-twitter-block-of-fake-accounts-idUSKCN1VA0RQ"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 543807018,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1163606295234207744"
+                },
+                "id": 1163606295234207744,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1163561427489218563"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "jc_stubbs",
+                        "id": "833057665"
+                    },
+                    {
+                        "start": 106,
+                        "end": 116,
+                        "username": "leejane71",
+                        "id": "361056247"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/43j8hNntsr",
+                        "expanded_url": "http://bit.ly/2OZjAPx",
+                        "display_url": "bit.ly/2OZjAPx",
+                        "status": 200,
+                        "unwound_url": "https://www.reuters.com/video/watch/idPclK?now=true"
+                    }
+                ]
+            },
+            "created_at": "2019-08-20T00:18:54.000Z",
+            "text": "@jc_stubbs And see examples of the posts identified in this latest takedown https://t.co/43j8hNntsr \u2013 via @leejane71",
+            "lang": "en",
+            "in_reply_to_user_id": "543807018",
+            "id": "1163606295234207744",
+            "author_id": "543807018",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1163539610242297858",
+            "possibly_sensitive": false
+        },
+        "id": 1163606295234207744,
+        "text": "@jc_stubbs And see examples of the posts identified in this latest takedown https://t.co/43j8hNntsr \u2013 via @leejane71",
+        "attachments": null,
+        "author_id": 543807018,
+        "context_annotations": [],
+        "conversation_id": 1163539610242297858,
+        "created_at": "2019-08-20T00:18:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "jc_stubbs",
+                    "id": "833057665"
+                },
+                {
+                    "start": 106,
+                    "end": 116,
+                    "username": "leejane71",
+                    "id": "361056247"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/43j8hNntsr",
+                    "expanded_url": "http://bit.ly/2OZjAPx",
+                    "display_url": "bit.ly/2OZjAPx",
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/video/watch/idPclK?now=true"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 543807018,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1163561427489218563"
+                },
+                "id": 1163561427489218563,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "eculliford",
+                        "id": "543807018"
+                    },
+                    {
+                        "start": 12,
+                        "end": 20,
+                        "username": "Reuters",
+                        "id": "1652541"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 29,
+                        "end": 36,
+                        "probability": 0.6021,
+                        "type": "Organization",
+                        "normalized_text": "Facebook"
+                    },
+                    {
+                        "start": 42,
+                        "end": 48,
+                        "probability": 0.6278,
+                        "type": "Product",
+                        "normalized_text": "Twitter"
+                    },
+                    {
+                        "start": 72,
+                        "end": 85,
+                        "probability": 0.455,
+                        "type": "Place",
+                        "normalized_text": "mainland China"
+                    }
+                ]
+            },
+            "created_at": "2019-08-19T22:40:44.000Z",
+            "text": "@eculliford @Reuters What do Facebook and Twitter afraid of? Truth from mainland China?",
+            "lang": "en",
+            "in_reply_to_user_id": "543807018",
+            "id": "1163581590917828609",
+            "author_id": "1084749518401425408",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "conversation_id": "1163539610242297858",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10047963346",
+                        "name": "Reuters",
+                        "description": "Reuters"
+                    }
+                }
+            ]
+        },
+        "id": 1163581590917828609,
+        "text": "@eculliford @Reuters What do Facebook and Twitter afraid of? Truth from mainland China?",
+        "attachments": null,
+        "author_id": 1084749518401425408,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10047963346",
+                    "name": "Reuters",
+                    "description": "Reuters"
+                }
+            }
+        ],
+        "conversation_id": 1163539610242297858,
+        "created_at": "2019-08-19T22:40:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "eculliford",
+                    "id": "543807018"
+                },
+                {
+                    "start": 12,
+                    "end": 20,
+                    "username": "Reuters",
+                    "id": "1652541"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 29,
+                    "end": 36,
+                    "probability": 0.6021,
+                    "type": "Organization",
+                    "normalized_text": "Facebook"
+                },
+                {
+                    "start": 42,
+                    "end": 48,
+                    "probability": 0.6278,
+                    "type": "Product",
+                    "normalized_text": "Twitter"
+                },
+                {
+                    "start": 72,
+                    "end": 85,
+                    "probability": 0.455,
+                    "type": "Place",
+                    "normalized_text": "mainland China"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 543807018,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                },
+                "id": 1163539610242297858,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "eculliford",
+                        "id": "543807018"
+                    },
+                    {
+                        "start": 12,
+                        "end": 20,
+                        "username": "Reuters",
+                        "id": "1652541"
+                    }
+                ]
+            },
+            "created_at": "2019-08-19T21:55:38.000Z",
+            "text": "@eculliford @Reuters Ridiculous. Now u western media don't say free of speech? Everyone has right to express their opinion no matter who they support NOT following your preference. Understand? \nDon't be so double standarded! \ud83d\ude21\ud83d\ude21\ud83d\ude21",
+            "lang": "en",
+            "in_reply_to_user_id": "543807018",
+            "id": "1163570240719974401",
+            "author_id": "3316231533",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "conversation_id": "1163539610242297858",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10047963346",
+                        "name": "Reuters",
+                        "description": "Reuters"
+                    }
+                }
+            ]
+        },
+        "id": 1163570240719974401,
+        "text": "@eculliford @Reuters Ridiculous. Now u western media don't say free of speech? Everyone has right to express their opinion no matter who they support NOT following your preference. Understand? \nDon't be so double standarded! \ud83d\ude21\ud83d\ude21\ud83d\ude21",
+        "attachments": null,
+        "author_id": 3316231533,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10047963346",
+                    "name": "Reuters",
+                    "description": "Reuters"
+                }
+            }
+        ],
+        "conversation_id": 1163539610242297858,
+        "created_at": "2019-08-19T21:55:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "eculliford",
+                    "id": "543807018"
+                },
+                {
+                    "start": 12,
+                    "end": 20,
+                    "username": "Reuters",
+                    "id": "1652541"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 543807018,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                },
+                "id": 1163539610242297858,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 110,
+                        "end": 120,
+                        "username": "jc_stubbs",
+                        "id": "833057665"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 6,
+                        "end": 13,
+                        "probability": 0.4418,
+                        "type": "Organization",
+                        "normalized_text": "Facebook"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 81,
+                        "end": 104,
+                        "url": "https://t.co/8D8BCQ00PV",
+                        "expanded_url": "https://reut.rs/2KH0hqf",
+                        "display_url": "reut.rs/2KH0hqf",
+                        "status": 200,
+                        "unwound_url": "https://www.reuters.com/article/us-facebook-disinformation-factbox/factbox-track-facebooks-fight-against-disinformation-campaigns-in-2019-idUSKCN1V91V4"
+                    }
+                ]
+            },
+            "created_at": "2019-08-19T21:20:36.000Z",
+            "text": "Track Facebook's takedowns of 'coordinated inauthentic behavior' so far in 2019: https://t.co/8D8BCQ00PV (H/T @jc_stubbs)",
+            "lang": "en",
+            "in_reply_to_user_id": "543807018",
+            "id": "1163561427489218563",
+            "author_id": "543807018",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "conversation_id": "1163539610242297858",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                }
+            ]
+        },
+        "id": 1163561427489218563,
+        "text": "Track Facebook's takedowns of 'coordinated inauthentic behavior' so far in 2019: https://t.co/8D8BCQ00PV (H/T @jc_stubbs)",
+        "attachments": null,
+        "author_id": 543807018,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            }
+        ],
+        "conversation_id": 1163539610242297858,
+        "created_at": "2019-08-19T21:20:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 110,
+                    "end": 120,
+                    "username": "jc_stubbs",
+                    "id": "833057665"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 6,
+                    "end": 13,
+                    "probability": 0.4418,
+                    "type": "Organization",
+                    "normalized_text": "Facebook"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 104,
+                    "url": "https://t.co/8D8BCQ00PV",
+                    "expanded_url": "https://reut.rs/2KH0hqf",
+                    "display_url": "reut.rs/2KH0hqf",
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/article/us-facebook-disinformation-factbox/factbox-track-facebooks-fight-against-disinformation-campaigns-in-2019-idUSKCN1V91V4"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 543807018,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                },
+                "id": 1163539610242297858,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "eculliford",
+                        "id": "543807018"
+                    },
+                    {
+                        "start": 12,
+                        "end": 20,
+                        "username": "Reuters",
+                        "id": "1652541"
+                    }
+                ]
+            },
+            "created_at": "2019-08-19T20:55:28.000Z",
+            "text": "@eculliford @Reuters But they can\u2019t do that here?",
+            "lang": "en",
+            "in_reply_to_user_id": "543807018",
+            "id": "1163555101883228166",
+            "author_id": "831499170229927936",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "conversation_id": "1163539610242297858",
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10047963346",
+                        "name": "Reuters",
+                        "description": "Reuters"
+                    }
+                }
+            ]
+        },
+        "id": 1163555101883228166,
+        "text": "@eculliford @Reuters But they can\u2019t do that here?",
+        "attachments": null,
+        "author_id": 831499170229927936,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10047963346",
+                    "name": "Reuters",
+                    "description": "Reuters"
+                }
+            }
+        ],
+        "conversation_id": 1163539610242297858,
+        "created_at": "2019-08-19T20:55:28+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "eculliford",
+                    "id": "543807018"
+                },
+                {
+                    "start": 12,
+                    "end": 20,
+                    "username": "Reuters",
+                    "id": "1652541"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 543807018,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1163539610242297858"
+                },
+                "id": 1163539610242297858,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

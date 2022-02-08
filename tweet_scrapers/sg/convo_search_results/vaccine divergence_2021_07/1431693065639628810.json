@@ -1,0 +1,231 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "timesofindia",
+                        "id": "134758540"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 24,
+                        "end": 28,
+                        "probability": 0.9485,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    },
+                    {
+                        "start": 39,
+                        "end": 43,
+                        "probability": 0.4317,
+                        "type": "Organization",
+                        "normalized_text": "Delta"
+                    },
+                    {
+                        "start": 56,
+                        "end": 60,
+                        "probability": 0.8303,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1431693065639628810"
+                }
+            ],
+            "created_at": "2021-08-28T22:11:52.000Z",
+            "author_id": "1007109279625564160",
+            "lang": "en",
+            "id": "1431741346180571137",
+            "in_reply_to_user_id": "134758540",
+            "conversation_id": "1431693065639628810",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@timesofindia No wonder India produced Delta to counter China's Corona!",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1431741346180571137,
+        "text": "@timesofindia No wonder India produced Delta to counter China's Corona!",
+        "attachments": null,
+        "author_id": 1007109279625564160,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1431693065639628810,
+        "created_at": "2021-08-28T22:11:52+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "timesofindia",
+                    "id": "134758540"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 24,
+                    "end": 28,
+                    "probability": 0.9485,
+                    "type": "Place",
+                    "normalized_text": "India"
+                },
+                {
+                    "start": 39,
+                    "end": 43,
+                    "probability": 0.4317,
+                    "type": "Organization",
+                    "normalized_text": "Delta"
+                },
+                {
+                    "start": 56,
+                    "end": 60,
+                    "probability": 0.8303,
+                    "type": "Place",
+                    "normalized_text": "China"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 134758540,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1431693065639628810"
+                },
+                "id": 1431693065639628810,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "timesofindia",
+                        "id": "134758540"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1431693065639628810"
+                }
+            ],
+            "created_at": "2021-08-28T19:18:55.000Z",
+            "author_id": "4292988256",
+            "lang": "en",
+            "id": "1431697825713229827",
+            "in_reply_to_user_id": "134758540",
+            "conversation_id": "1431693065639628810",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@timesofindia Says W.H.O...????",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android"
+        },
+        "id": 1431697825713229827,
+        "text": "@timesofindia Says W.H.O...????",
+        "attachments": null,
+        "author_id": 4292988256,
+        "context_annotations": [],
+        "conversation_id": 1431693065639628810,
+        "created_at": "2021-08-28T19:18:55+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "timesofindia",
+                    "id": "134758540"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 134758540,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1431693065639628810"
+                },
+                "id": 1431693065639628810,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

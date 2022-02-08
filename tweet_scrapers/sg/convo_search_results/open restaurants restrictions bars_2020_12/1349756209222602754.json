@@ -1,0 +1,1342 @@
+[
+    {
+        "data": {
+            "text": "@ed_murillo That\u2019s a very silly thing to believe",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "376202500",
+            "created_at": "2021-01-15T00:46:34.000Z",
+            "lang": "en",
+            "id": "1349880621150175236",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "ed_murillo",
+                        "id": "376202500"
+                    }
+                ]
+            },
+            "author_id": "15793117",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349879868067094531"
+                }
+            ]
+        },
+        "id": 1349880621150175236,
+        "text": "@ed_murillo That\u2019s a very silly thing to believe",
+        "attachments": null,
+        "author_id": 15793117,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-15T00:46:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "ed_murillo",
+                    "id": "376202500"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 376202500,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349879868067094531"
+                },
+                "id": 1349879868067094531,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj Time to open everything, Trump is out of office in a few days. New strain, more deaths are of no concern to Dem leaders.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-15T00:43:34.000Z",
+            "lang": "en",
+            "id": "1349879868067094531",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 34,
+                        "end": 38,
+                        "probability": 0.9981,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ]
+            },
+            "author_id": "376202500",
+            "source": "Twitter for Android",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                }
+            ]
+        },
+        "id": 1349879868067094531,
+        "text": "@colintj Time to open everything, Trump is out of office in a few days. New strain, more deaths are of no concern to Dem leaders.",
+        "attachments": null,
+        "author_id": 376202500,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            }
+        ],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-15T00:43:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 34,
+                    "end": 38,
+                    "probability": 0.9981,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                },
+                "id": 1349756209222602754,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj Personally, I think restaurants should have previously remained open with capacity restrictions, distancing etc. bars different story.  But for her to now come out and state we should start lifting restrictions is ludacrious.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-14T19:03:58.000Z",
+            "lang": "en",
+            "id": "1349794403976679430",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ]
+            },
+            "author_id": "1012527528421003265",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                }
+            ]
+        },
+        "id": 1349794403976679430,
+        "text": "@colintj Personally, I think restaurants should have previously remained open with capacity restrictions, distancing etc. bars different story.  But for her to now come out and state we should start lifting restrictions is ludacrious.",
+        "attachments": null,
+        "author_id": 1012527528421003265,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T19:03:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                },
+                "id": 1349756209222602754,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj I\u2019d be great at both lol",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-14T18:20:13.000Z",
+            "lang": "en",
+            "id": "1349783395673497601",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ]
+            },
+            "author_id": "445335263",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349783248310833153"
+                }
+            ]
+        },
+        "id": 1349783395673497601,
+        "text": "@colintj I\u2019d be great at both lol",
+        "attachments": null,
+        "author_id": 445335263,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T18:20:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349783248310833153"
+                },
+                "id": 1349783248310833153,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@RegionRat14 a michigan sports blog i read makes the point that all football head coaches should have some kid who grew up playing madden just to deal with going for it/time management. same thing here.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847868745150119936",
+                        "name": "Home & family",
+                        "description": "Hobbies and interests"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "847527946864607232",
+                        "name": "Mobile gaming",
+                        "description": "Mobile gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "71",
+                        "name": "Video Game",
+                        "description": "A video game like Overwatch"
+                    },
+                    "entity": {
+                        "id": "10027559736",
+                        "name": "EA Sports Madden NFL",
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "445335263",
+            "created_at": "2021-01-14T18:19:38.000Z",
+            "lang": "en",
+            "id": "1349783248310833153",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "RegionRat14",
+                        "id": "445335263"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 15,
+                        "end": 22,
+                        "probability": 0.6423,
+                        "type": "Organization",
+                        "normalized_text": "michigan"
+                    }
+                ]
+            },
+            "author_id": "15793117",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349778910276440065"
+                }
+            ]
+        },
+        "id": 1349783248310833153,
+        "text": "@RegionRat14 a michigan sports blog i read makes the point that all football head coaches should have some kid who grew up playing madden just to deal with going for it/time management. same thing here.",
+        "attachments": null,
+        "author_id": 15793117,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847868745150119936",
+                    "name": "Home & family",
+                    "description": "Hobbies and interests"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "847527946864607232",
+                    "name": "Mobile gaming",
+                    "description": "Mobile gaming"
+                }
+            },
+            {
+                "domain": {
+                    "id": "71",
+                    "name": "Video Game",
+                    "description": "A video game like Overwatch"
+                },
+                "entity": {
+                    "id": "10027559736",
+                    "name": "EA Sports Madden NFL",
+                    "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+                }
+            }
+        ],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T18:19:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "RegionRat14",
+                    "id": "445335263"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 15,
+                    "end": 22,
+                    "probability": 0.6423,
+                    "type": "Organization",
+                    "normalized_text": "michigan"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 445335263,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349778910276440065"
+                },
+                "id": 1349778910276440065,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj They should hire me then",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-14T18:02:24.000Z",
+            "lang": "en",
+            "id": "1349778910276440065",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ]
+            },
+            "author_id": "445335263",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349778715010588678"
+                }
+            ]
+        },
+        "id": 1349778910276440065,
+        "text": "@colintj They should hire me then",
+        "attachments": null,
+        "author_id": 445335263,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T18:02:24+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349778715010588678"
+                },
+                "id": 1349778715010588678,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@RegionRat14 absolutely. there's lots of evidence for it. easy example: how long did it take before the accepted evidence re: the outdoors filtered to government leaders? months. \n\nthere's no playbook for this stuff and they can't just read twitter all day.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "445335263",
+            "created_at": "2021-01-14T18:01:37.000Z",
+            "lang": "en",
+            "id": "1349778715010588678",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "RegionRat14",
+                        "id": "445335263"
+                    }
+                ]
+            },
+            "author_id": "15793117",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349777485316161537"
+                }
+            ]
+        },
+        "id": 1349778715010588678,
+        "text": "@RegionRat14 absolutely. there's lots of evidence for it. easy example: how long did it take before the accepted evidence re: the outdoors filtered to government leaders? months. \n\nthere's no playbook for this stuff and they can't just read twitter all day.",
+        "attachments": null,
+        "author_id": 15793117,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            }
+        ],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T18:01:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "RegionRat14",
+                    "id": "445335263"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 445335263,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349777485316161537"
+                },
+                "id": 1349777485316161537,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj You believe they\u2019re just this ignorant?",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-14T17:56:44.000Z",
+            "lang": "en",
+            "id": "1349777485316161537",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ]
+            },
+            "author_id": "445335263",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349777390348734469"
+                }
+            ]
+        },
+        "id": 1349777485316161537,
+        "text": "@colintj You believe they\u2019re just this ignorant?",
+        "attachments": null,
+        "author_id": 445335263,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T17:56:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349777390348734469"
+                },
+                "id": 1349777390348734469,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@RegionRat14 there's no good evidence for that",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "445335263",
+            "created_at": "2021-01-14T17:56:22.000Z",
+            "lang": "en",
+            "id": "1349777390348734469",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "RegionRat14",
+                        "id": "445335263"
+                    }
+                ]
+            },
+            "author_id": "15793117",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349774266703732741"
+                }
+            ]
+        },
+        "id": 1349777390348734469,
+        "text": "@RegionRat14 there's no good evidence for that",
+        "attachments": null,
+        "author_id": 15793117,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T17:56:22+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "RegionRat14",
+                    "id": "445335263"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 445335263,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349774266703732741"
+                },
+                "id": 1349774266703732741,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj I think they\u2019re making a conscious choice that they know has repercussions but do not care, yes.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-14T17:43:57.000Z",
+            "lang": "en",
+            "id": "1349774266703732741",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ]
+            },
+            "author_id": "445335263",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349774036935573504"
+                }
+            ]
+        },
+        "id": 1349774266703732741,
+        "text": "@colintj I think they\u2019re making a conscious choice that they know has repercussions but do not care, yes.",
+        "attachments": null,
+        "author_id": 445335263,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T17:43:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349774036935573504"
+                },
+                "id": 1349774036935573504,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@RegionRat14 knowing implies caring unless your perspective on government leaders is totally poisoned.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "445335263",
+            "created_at": "2021-01-14T17:43:02.000Z",
+            "lang": "en",
+            "id": "1349774036935573504",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "RegionRat14",
+                        "id": "445335263"
+                    }
+                ]
+            },
+            "author_id": "15793117",
+            "source": "Tweetbot for i\u039fS",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349773403113320455"
+                }
+            ]
+        },
+        "id": 1349774036935573504,
+        "text": "@RegionRat14 knowing implies caring unless your perspective on government leaders is totally poisoned.",
+        "attachments": null,
+        "author_id": 15793117,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T17:43:02+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "RegionRat14",
+                    "id": "445335263"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 445335263,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349773403113320455"
+                },
+                "id": 1349773403113320455,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Tweetbot for i\u039fS",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj They know. They don\u2019t care. We were better off just never shutting down than opening now.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-14T17:40:31.000Z",
+            "lang": "en",
+            "id": "1349773403113320455",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ]
+            },
+            "author_id": "445335263",
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                }
+            ]
+        },
+        "id": 1349773403113320455,
+        "text": "@colintj They know. They don\u2019t care. We were better off just never shutting down than opening now.",
+        "attachments": null,
+        "author_id": 445335263,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T17:40:31+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                },
+                "id": 1349756209222602754,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@johnpmaxwell i mean, it's definitely circulating in populations across the country, but afaik there's no regular surveillance data by region or metro area or something.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "in_reply_to_user_id": "24340791",
+            "created_at": "2021-01-14T16:46:19.000Z",
+            "lang": "en",
+            "id": "1349759764591476736",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "johnpmaxwell",
+                        "id": "24340791"
+                    }
+                ]
+            },
+            "author_id": "15793117",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349757874608730114"
+                }
+            ]
+        },
+        "id": 1349759764591476736,
+        "text": "@johnpmaxwell i mean, it's definitely circulating in populations across the country, but afaik there's no regular surveillance data by region or metro area or something.",
+        "attachments": null,
+        "author_id": 15793117,
+        "context_annotations": [],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T16:46:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "johnpmaxwell",
+                    "id": "24340791"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 24340791,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349757874608730114"
+                },
+                "id": 1349757874608730114,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@colintj has it shown up in the data yet? i know you commented on basketball being at the wrong time as the new strain began to spread.",
+            "reply_settings": "everyone",
+            "conversation_id": "1349756209222602754",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "706083902411055104",
+                        "name": "Basketball"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "15793117",
+            "created_at": "2021-01-14T16:38:49.000Z",
+            "lang": "en",
+            "id": "1349757874608730114",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "colintj",
+                        "id": "15793117"
+                    }
+                ]
+            },
+            "author_id": "24340791",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                }
+            ]
+        },
+        "id": 1349757874608730114,
+        "text": "@colintj has it shown up in the data yet? i know you commented on basketball being at the wrong time as the new strain began to spread.",
+        "attachments": null,
+        "author_id": 24340791,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "706083902411055104",
+                    "name": "Basketball"
+                }
+            }
+        ],
+        "conversation_id": 1349756209222602754,
+        "created_at": "2021-01-14T16:38:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "colintj",
+                    "id": "15793117"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 15793117,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1349756209222602754"
+                },
+                "id": 1349756209222602754,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

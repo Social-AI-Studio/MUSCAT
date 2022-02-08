@@ -1,0 +1,644 @@
+[
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 247,
+                        "end": 270,
+                        "url": "https://t.co/raI3YdGnXV",
+                        "expanded_url": "https://www.channelnewsasia.com/news/world/french-users-sue-muslim-prayer-app-over-alleged-us-army-links-13626344",
+                        "display_url": "channelnewsasia.com/news/world/fre\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.channelnewsasia.com/world/french-users-sue-muslim-prayer-app-over-alleged-us-army-links-565281"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 94,
+                        "end": 99,
+                        "probability": 0.9213,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    }
+                ]
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1329722146503921665"
+                }
+            ],
+            "author_id": "403338386",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1047123725525479425",
+                        "name": "Information security",
+                        "description": "Information Security"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1195376898001403904",
+                        "name": "Data Privacy and Protection"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "id": "1331164468915671040",
+            "text": "French users are now intending to sue the creators of Muslim Pro. \n\n\"The lawsuit, revealed by France's RTL radio, accuses the company of data protection offences, abuse of trust, endangering other people's lives and conspiracy to commit murder.\"\n\nhttps://t.co/raI3YdGnXV",
+            "conversation_id": "1328659900403167238",
+            "in_reply_to_user_id": "403338386",
+            "created_at": "2020-11-24T09:15:15.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1331164468915671040,
+        "text": "French users are now intending to sue the creators of Muslim Pro. \n\n\"The lawsuit, revealed by France's RTL radio, accuses the company of data protection offences, abuse of trust, endangering other people's lives and conspiracy to commit murder.\"\n\nhttps://t.co/raI3YdGnXV",
+        "attachments": null,
+        "author_id": 403338386,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1047123725525479425",
+                    "name": "Information security",
+                    "description": "Information Security"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1195376898001403904",
+                    "name": "Data Privacy and Protection"
+                }
+            }
+        ],
+        "conversation_id": 1328659900403167238,
+        "created_at": "2020-11-24T09:15:15+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 247,
+                    "end": 270,
+                    "url": "https://t.co/raI3YdGnXV",
+                    "expanded_url": "https://www.channelnewsasia.com/news/world/french-users-sue-muslim-prayer-app-over-alleged-us-army-links-13626344",
+                    "display_url": "channelnewsasia.com/news/world/fre\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.channelnewsasia.com/world/french-users-sue-muslim-prayer-app-over-alleged-us-army-links-565281"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 94,
+                    "end": 99,
+                    "probability": 0.9213,
+                    "type": "Place",
+                    "normalized_text": "France"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 403338386,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1329722146503921665"
+                },
+                "id": 1329722146503921665,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 190,
+                        "end": 213,
+                        "url": "https://t.co/e0fRPkUrGg",
+                        "expanded_url": "https://www.straitstimes.com/singapore/spore-based-muslim-pro-app-developers-not-aware-of-data-being-sold-to-us-military-pdpc",
+                        "display_url": "straitstimes.com/singapore/spor\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1485195244107091971/GOm6bg5y?format=jpg&name=orig",
+                                "width": 780,
+                                "height": 520
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1485195244107091971/GOm6bg5y?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "S\u2019pore-based Muslim Pro app developers say no data sold to US military; PDPC investigating",
+                        "description": "Developers said they have done their due diligence to protect the app's nearly 100 million global users. . Read more at straitstimes.com.",
+                        "unwound_url": "https://www.straitstimes.com/singapore/spore-based-muslim-pro-app-developers-not-aware-of-data-being-sold-to-us-military-pdpc"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "probability": 0.8947,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 177,
+                        "end": 178,
+                        "probability": 0.65,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    }
+                ]
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1328678291985883136"
+                }
+            ],
+            "author_id": "403338386",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847544972781826048",
+                        "name": "Careers",
+                        "description": "Careers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1047123725525479425",
+                        "name": "Information security",
+                        "description": "Information Security"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1088509400464031744",
+                        "name": "US Military",
+                        "description": "US Military"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1195376898001403904",
+                        "name": "Data Privacy and Protection"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "1088509400464031744",
+                        "name": "US Military",
+                        "description": "US Military"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1329722146503921665",
+            "text": "Singapore's privacy watchdog, the Personal Data Protection Commission (PDPC), is now investigating claims made in the Vice article, as Muslim Pro deny that any data was sold to US military: https://t.co/e0fRPkUrGg",
+            "conversation_id": "1328659900403167238",
+            "in_reply_to_user_id": "403338386",
+            "created_at": "2020-11-20T09:43:59.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1329722146503921665,
+        "text": "Singapore's privacy watchdog, the Personal Data Protection Commission (PDPC), is now investigating claims made in the Vice article, as Muslim Pro deny that any data was sold to US military: https://t.co/e0fRPkUrGg",
+        "attachments": null,
+        "author_id": 403338386,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847544972781826048",
+                    "name": "Careers",
+                    "description": "Careers"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1047123725525479425",
+                    "name": "Information security",
+                    "description": "Information Security"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1088509400464031744",
+                    "name": "US Military",
+                    "description": "US Military"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1195376898001403904",
+                    "name": "Data Privacy and Protection"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "1088509400464031744",
+                    "name": "US Military",
+                    "description": "US Military"
+                }
+            }
+        ],
+        "conversation_id": 1328659900403167238,
+        "created_at": "2020-11-20T09:43:59+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 190,
+                    "end": 213,
+                    "url": "https://t.co/e0fRPkUrGg",
+                    "expanded_url": "https://www.straitstimes.com/singapore/spore-based-muslim-pro-app-developers-not-aware-of-data-being-sold-to-us-military-pdpc",
+                    "display_url": "straitstimes.com/singapore/spor\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1485195244107091971/GOm6bg5y?format=jpg&name=orig",
+                            "width": 780,
+                            "height": 520
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1485195244107091971/GOm6bg5y?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "S\u2019pore-based Muslim Pro app developers say no data sold to US military; PDPC investigating",
+                    "description": "Developers said they have done their due diligence to protect the app's nearly 100 million global users. . Read more at straitstimes.com.",
+                    "unwound_url": "https://www.straitstimes.com/singapore/spore-based-muslim-pro-app-developers-not-aware-of-data-being-sold-to-us-military-pdpc"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "probability": 0.8947,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 177,
+                    "end": 178,
+                    "probability": 0.65,
+                    "type": "Place",
+                    "normalized_text": "US"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 403338386,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1328678291985883136"
+                },
+                "id": 1328678291985883136,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 185,
+                        "end": 208,
+                        "url": "https://t.co/WzbDFeuetB",
+                        "expanded_url": "https://www.straitstimes.com/singapore/singapore-based-muslim-pro-app-developer-denies-selling-user-data-to-us-military",
+                        "display_url": "straitstimes.com/singapore/sing\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.straitstimes.com/singapore/singapore-based-muslim-pro-app-developer-denies-selling-user-data-to-us-military"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 30,
+                        "end": 46,
+                        "probability": 0.2398,
+                        "type": "Organization",
+                        "normalized_text": "The Straits Times"
+                    }
+                ]
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1328659900403167238"
+                }
+            ],
+            "author_id": "403338386",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "848921413196984320",
+                        "name": "Computer programming",
+                        "description": "Computer programming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "1238186761110433792",
+                        "name": "Mobile development"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1328678291985883136",
+            "text": "\"App developer Bitsmedia told The Straits Times on Tuesday (Nov 17) that it will be immediately terminating its relationships with its data partners, without specifying who they are.\"\n\nhttps://t.co/WzbDFeuetB",
+            "conversation_id": "1328659900403167238",
+            "in_reply_to_user_id": "403338386",
+            "created_at": "2020-11-17T12:36:05.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1328678291985883136,
+        "text": "\"App developer Bitsmedia told The Straits Times on Tuesday (Nov 17) that it will be immediately terminating its relationships with its data partners, without specifying who they are.\"\n\nhttps://t.co/WzbDFeuetB",
+        "attachments": null,
+        "author_id": 403338386,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "848921413196984320",
+                    "name": "Computer programming",
+                    "description": "Computer programming"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "1238186761110433792",
+                    "name": "Mobile development"
+                }
+            }
+        ],
+        "conversation_id": 1328659900403167238,
+        "created_at": "2020-11-17T12:36:05+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 185,
+                    "end": 208,
+                    "url": "https://t.co/WzbDFeuetB",
+                    "expanded_url": "https://www.straitstimes.com/singapore/singapore-based-muslim-pro-app-developer-denies-selling-user-data-to-us-military",
+                    "display_url": "straitstimes.com/singapore/sing\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.straitstimes.com/singapore/singapore-based-muslim-pro-app-developer-denies-selling-user-data-to-us-military"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 30,
+                    "end": 46,
+                    "probability": 0.2398,
+                    "type": "Organization",
+                    "normalized_text": "The Straits Times"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 403338386,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1328659900403167238"
+                },
+                "id": 1328659900403167238,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

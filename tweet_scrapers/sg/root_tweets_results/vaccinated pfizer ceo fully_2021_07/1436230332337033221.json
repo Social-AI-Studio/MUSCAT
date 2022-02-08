@@ -1,0 +1,3864 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 57,
+                        "end": 59,
+                        "probability": 0.8866,
+                        "type": "Place",
+                        "normalized_text": "\u30c9\u30a4\u30c4"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 81,
+                        "end": 104,
+                        "url": "https://t.co/vXOd5TkFkw",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "author_id": "938638221482668032",
+            "text": "Biontech\u306f5\u6b73\u304b\u308911\u6b73\u306e\u30ef\u30af\u30c1\u30f3\u3092\u958b\u767a\u4e2d\u3002\u8fd1\u3044\u3046\u3061\u306b\u63a5\u7a2e\u53ef\u80fd\u306b\u3002\u5b50\u3069\u3082\u7528\u306b\u91cf\u3092\u6e1b\u3089\u3057\u3066\u6cbb\u9a13\u4e2d\u3060\u305d\u3046\u3067\u3059\u3002\u30c9\u30a4\u30c4\u3067\u306f3G,2G\u30eb\u30fc\u30eb\u306f6\u6b73\u304b\u3089\u9069\u7528\u3067\u3059\u3002 https://t.co/vXOd5TkFkw",
+            "possibly_sensitive": false,
+            "id": "1437713418631487490",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-14T09:42:45.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1437713418631487490",
+            "lang": "ja"
+        },
+        "id": 1437713418631487490,
+        "text": "Biontech\u306f5\u6b73\u304b\u308911\u6b73\u306e\u30ef\u30af\u30c1\u30f3\u3092\u958b\u767a\u4e2d\u3002\u8fd1\u3044\u3046\u3061\u306b\u63a5\u7a2e\u53ef\u80fd\u306b\u3002\u5b50\u3069\u3082\u7528\u306b\u91cf\u3092\u6e1b\u3089\u3057\u3066\u6cbb\u9a13\u4e2d\u3060\u305d\u3046\u3067\u3059\u3002\u30c9\u30a4\u30c4\u3067\u306f3G,2G\u30eb\u30fc\u30eb\u306f6\u6b73\u304b\u3089\u9069\u7528\u3067\u3059\u3002 https://t.co/vXOd5TkFkw",
+        "attachments": null,
+        "author_id": 938638221482668032,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1437713418631487490,
+        "created_at": "2021-09-14T09:42:45+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 57,
+                    "end": 59,
+                    "probability": 0.8866,
+                    "type": "Place",
+                    "normalized_text": "\u30c9\u30a4\u30c4"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 81,
+                    "end": 104,
+                    "url": "https://t.co/vXOd5TkFkw",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2965912317",
+            "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+            "possibly_sensitive": false,
+            "id": "1436483889711747132",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-11T00:17:02.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436483889711747132",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "DENTDOURS1",
+                        "id": "1084901051000672257"
+                    }
+                ]
+            },
+            "lang": "fr"
+        },
+        "id": 1436483889711747132,
+        "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+        "attachments": null,
+        "author_id": 2965912317,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436483889711747132,
+        "created_at": "2021-09-11T00:17:02+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "DENTDOURS1",
+                    "id": "1084901051000672257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                },
+                "id": 1436285493956726811,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "58982469",
+            "attachments": {
+                "media_keys": [
+                    "3_1436462690889867290"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 233,
+                        "end": 256,
+                        "url": "https://t.co/S6D9ghdUyV",
+                        "expanded_url": "https://www.aargauerzeitung.ch/news-service/inland-schweiz/impf-nebenwirkungen-herzmuskelentzuendung-nach-covid-impfung-swissmedic-zaehlt-123-faelle-ld.2184634",
+                        "display_url": "aargauerzeitung.ch/news-service/i\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1483483353659621378/sdyPRDCN?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 675
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1483483353659621378/sdyPRDCN?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Impfnebenwirkungen: Swissmedic meldet 123 Herzmuskelentz\u00fcndung",
+                        "description": "Bis Anfang Monat hat Swissmedic\u00a0gut 6'600 Verdachtsf\u00e4lle von Nebenwirkungen bei Corona-Impfungen ausgewertet. Insgesamt verzeichnete die Zulassungsstelle rund 20'000 Meldungen.",
+                        "unwound_url": "https://www.aargauerzeitung.ch/news-service/inland-schweiz/impf-nebenwirkungen-herzmuskelentzuendung-nach-covid-impfung-swissmedic-zaehlt-123-faelle-ld.2184634"
+                    },
+                    {
+                        "start": 257,
+                        "end": 280,
+                        "url": "https://t.co/Y1h6kyBMUr",
+                        "expanded_url": "https://twitter.com/quantumposition/status/1436462707146989590/photo/1",
+                        "display_url": "pic.twitter.com/Y1h6kyBMUr"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/4EATe3bspu",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 148,
+                        "end": 157,
+                        "tag": "BioNTech"
+                    },
+                    {
+                        "start": 158,
+                        "end": 173,
+                        "tag": "BioNtechPfizer"
+                    },
+                    {
+                        "start": 174,
+                        "end": 188,
+                        "tag": "Kinderimpfung"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 189,
+                        "end": 198,
+                        "username": "BMG_Bund",
+                        "id": "2478349112"
+                    },
+                    {
+                        "start": 199,
+                        "end": 204,
+                        "username": "BILD",
+                        "id": "9204502"
+                    },
+                    {
+                        "start": 205,
+                        "end": 210,
+                        "username": "welt",
+                        "id": "8720562"
+                    },
+                    {
+                        "start": 211,
+                        "end": 215,
+                        "username": "fdp",
+                        "id": "39475170"
+                    },
+                    {
+                        "start": 216,
+                        "end": 232,
+                        "username": "FREIEWAEHLER_BV",
+                        "id": "1536245851"
+                    }
+                ]
+            },
+            "text": "In meinen Augen sind das Verbrecher, die -ohne Not f\u00fcr Kinder- deren Gesundheit erbarmungslos f\u00fcr monet\u00e4re Interessen b\u00f6swillig auf\u2018s Spiel setzen! #BioNTech #BioNtechPfizer #Kinderimpfung @BMG_Bund @BILD @welt @fdp @FREIEWAEHLER_BV https://t.co/S6D9ghdUyV https://t.co/Y1h6kyBMUr https://t.co/4EATe3bspu",
+            "possibly_sensitive": false,
+            "id": "1436462707146989590",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T22:52:52.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436462707146989590",
+            "lang": "de"
+        },
+        "id": 1436462707146989590,
+        "text": "In meinen Augen sind das Verbrecher, die -ohne Not f\u00fcr Kinder- deren Gesundheit erbarmungslos f\u00fcr monet\u00e4re Interessen b\u00f6swillig auf\u2018s Spiel setzen! #BioNTech #BioNtechPfizer #Kinderimpfung @BMG_Bund @BILD @welt @fdp @FREIEWAEHLER_BV https://t.co/S6D9ghdUyV https://t.co/Y1h6kyBMUr https://t.co/4EATe3bspu",
+        "attachments": {
+            "media_keys": [
+                "3_1436462690889867290"
+            ]
+        },
+        "author_id": 58982469,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436462707146989590,
+        "created_at": "2021-09-10T22:52:52+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 233,
+                    "end": 256,
+                    "url": "https://t.co/S6D9ghdUyV",
+                    "expanded_url": "https://www.aargauerzeitung.ch/news-service/inland-schweiz/impf-nebenwirkungen-herzmuskelentzuendung-nach-covid-impfung-swissmedic-zaehlt-123-faelle-ld.2184634",
+                    "display_url": "aargauerzeitung.ch/news-service/i\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1483483353659621378/sdyPRDCN?format=jpg&name=orig",
+                            "width": 1200,
+                            "height": 675
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1483483353659621378/sdyPRDCN?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Impfnebenwirkungen: Swissmedic meldet 123 Herzmuskelentz\u00fcndung",
+                    "description": "Bis Anfang Monat hat Swissmedic\u00a0gut 6'600 Verdachtsf\u00e4lle von Nebenwirkungen bei Corona-Impfungen ausgewertet. Insgesamt verzeichnete die Zulassungsstelle rund 20'000 Meldungen.",
+                    "unwound_url": "https://www.aargauerzeitung.ch/news-service/inland-schweiz/impf-nebenwirkungen-herzmuskelentzuendung-nach-covid-impfung-swissmedic-zaehlt-123-faelle-ld.2184634"
+                },
+                {
+                    "start": 257,
+                    "end": 280,
+                    "url": "https://t.co/Y1h6kyBMUr",
+                    "expanded_url": "https://twitter.com/quantumposition/status/1436462707146989590/photo/1",
+                    "display_url": "pic.twitter.com/Y1h6kyBMUr"
+                },
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/4EATe3bspu",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 148,
+                    "end": 157,
+                    "tag": "BioNTech"
+                },
+                {
+                    "start": 158,
+                    "end": 173,
+                    "tag": "BioNtechPfizer"
+                },
+                {
+                    "start": 174,
+                    "end": 188,
+                    "tag": "Kinderimpfung"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 189,
+                    "end": 198,
+                    "username": "BMG_Bund",
+                    "id": "2478349112"
+                },
+                {
+                    "start": 199,
+                    "end": 204,
+                    "username": "BILD",
+                    "id": "9204502"
+                },
+                {
+                    "start": 205,
+                    "end": 210,
+                    "username": "welt",
+                    "id": "8720562"
+                },
+                {
+                    "start": 211,
+                    "end": 215,
+                    "username": "fdp",
+                    "id": "39475170"
+                },
+                {
+                    "start": 216,
+                    "end": 232,
+                    "username": "FREIEWAEHLER_BV",
+                    "id": "1536245851"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1019602876166017026",
+            "attachments": {
+                "media_keys": [
+                    "7_1436452660778086401"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 14,
+                        "end": 37,
+                        "url": "https://t.co/UHBqTcU0d7",
+                        "expanded_url": "https://twitter.com/donramloli/status/1436452704390418436/video/1",
+                        "display_url": "pic.twitter.com/UHBqTcU0d7"
+                    },
+                    {
+                        "start": 38,
+                        "end": 61,
+                        "url": "https://t.co/PYrAND5d11",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "Schlimmmmmmmn https://t.co/UHBqTcU0d7 https://t.co/PYrAND5d11",
+            "possibly_sensitive": true,
+            "id": "1436452704390418436",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T22:13:07.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436452704390418436",
+            "lang": "de"
+        },
+        "id": 1436452704390418436,
+        "text": "Schlimmmmmmmn https://t.co/UHBqTcU0d7 https://t.co/PYrAND5d11",
+        "attachments": {
+            "media_keys": [
+                "7_1436452660778086401"
+            ]
+        },
+        "author_id": 1019602876166017026,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436452704390418436,
+        "created_at": "2021-09-10T22:13:07+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 14,
+                    "end": 37,
+                    "url": "https://t.co/UHBqTcU0d7",
+                    "expanded_url": "https://twitter.com/donramloli/status/1436452704390418436/video/1",
+                    "display_url": "pic.twitter.com/UHBqTcU0d7"
+                },
+                {
+                    "start": 38,
+                    "end": 61,
+                    "url": "https://t.co/PYrAND5d11",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": true,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1290366135737647104",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 16,
+                        "end": 39,
+                        "url": "https://t.co/zNXXwmxydG",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "D\u00f6nerverk\u00e4ufer! https://t.co/zNXXwmxydG",
+            "possibly_sensitive": false,
+            "id": "1436451900128481284",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T22:09:55.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436451900128481284",
+            "lang": "de"
+        },
+        "id": 1436451900128481284,
+        "text": "D\u00f6nerverk\u00e4ufer! https://t.co/zNXXwmxydG",
+        "attachments": null,
+        "author_id": 1290366135737647104,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436451900128481284,
+        "created_at": "2021-09-10T22:09:55+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 16,
+                    "end": 39,
+                    "url": "https://t.co/zNXXwmxydG",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1556419213",
+            "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+            "possibly_sensitive": false,
+            "id": "1436449974745772032",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T22:02:16.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436449974745772032",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "DENTDOURS1",
+                        "id": "1084901051000672257"
+                    }
+                ]
+            },
+            "lang": "fr"
+        },
+        "id": 1436449974745772032,
+        "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+        "attachments": null,
+        "author_id": 1556419213,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436449974745772032,
+        "created_at": "2021-09-10T22:02:16+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "DENTDOURS1",
+                    "id": "1084901051000672257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                },
+                "id": 1436285493956726811,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1272604731643441157",
+            "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+            "possibly_sensitive": false,
+            "id": "1436434943824044033",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T21:02:32.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436434943824044033",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "DENTDOURS1",
+                        "id": "1084901051000672257"
+                    }
+                ]
+            },
+            "lang": "fr"
+        },
+        "id": 1436434943824044033,
+        "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+        "attachments": null,
+        "author_id": 1272604731643441157,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436434943824044033,
+        "created_at": "2021-09-10T21:02:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "DENTDOURS1",
+                    "id": "1084901051000672257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                },
+                "id": 1436285493956726811,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1250745739099201537",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/hgOWc83rXA",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "Verbrecherbande. https://t.co/hgOWc83rXA",
+            "possibly_sensitive": false,
+            "id": "1436434305119625263",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T21:00:00.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436434305119625263",
+            "lang": "de"
+        },
+        "id": 1436434305119625263,
+        "text": "Verbrecherbande. https://t.co/hgOWc83rXA",
+        "attachments": null,
+        "author_id": 1250745739099201537,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436434305119625263,
+        "created_at": "2021-09-10T21:00:00+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/hgOWc83rXA",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1241374383853142017",
+            "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+            "possibly_sensitive": false,
+            "id": "1436433207919058966",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T20:55:39.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436433207919058966",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "DENTDOURS1",
+                        "id": "1084901051000672257"
+                    }
+                ]
+            },
+            "lang": "fr"
+        },
+        "id": 1436433207919058966,
+        "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+        "attachments": null,
+        "author_id": 1241374383853142017,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436433207919058966,
+        "created_at": "2021-09-10T20:55:39+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "DENTDOURS1",
+                    "id": "1084901051000672257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                },
+                "id": 1436285493956726811,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "704455728",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 2,
+                        "end": 25,
+                        "url": "https://t.co/qB9uN1KqTm",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "\ud83e\udd14 https://t.co/qB9uN1KqTm",
+            "possibly_sensitive": false,
+            "id": "1436408079495614469",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T19:15:47.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436408079495614469",
+            "lang": "und"
+        },
+        "id": 1436408079495614469,
+        "text": "\ud83e\udd14 https://t.co/qB9uN1KqTm",
+        "attachments": null,
+        "author_id": 704455728,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436408079495614469,
+        "created_at": "2021-09-10T19:15:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 2,
+                    "end": 25,
+                    "url": "https://t.co/qB9uN1KqTm",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1392932296752304128",
+            "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+            "possibly_sensitive": false,
+            "id": "1436407559729131525",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T19:13:44.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436407559729131525",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "DENTDOURS1",
+                        "id": "1084901051000672257"
+                    }
+                ]
+            },
+            "lang": "fr"
+        },
+        "id": 1436407559729131525,
+        "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+        "attachments": null,
+        "author_id": 1392932296752304128,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436407559729131525,
+        "created_at": "2021-09-10T19:13:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "DENTDOURS1",
+                    "id": "1084901051000672257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                },
+                "id": 1436285493956726811,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1382391727051395080",
+            "text": "RT @PeterBorbe: Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfst\u2026",
+            "possibly_sensitive": false,
+            "id": "1436387640144707588",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T17:54:34.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436302765924528129"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436387640144707588",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "PeterBorbe",
+                        "id": "3568692616"
+                    }
+                ]
+            },
+            "lang": "de"
+        },
+        "id": 1436387640144707588,
+        "text": "RT @PeterBorbe: Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfst\u2026",
+        "attachments": null,
+        "author_id": 1382391727051395080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436387640144707588,
+        "created_at": "2021-09-10T17:54:34+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "PeterBorbe",
+                    "id": "3568692616"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436302765924528129"
+                },
+                "id": 1436302765924528129,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1258280250632478721",
+            "text": "RT @PeterBorbe: Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfst\u2026",
+            "possibly_sensitive": false,
+            "id": "1436385916436758536",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T17:47:43.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436302765924528129"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436385916436758536",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "PeterBorbe",
+                        "id": "3568692616"
+                    }
+                ]
+            },
+            "lang": "de"
+        },
+        "id": 1436385916436758536,
+        "text": "RT @PeterBorbe: Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfst\u2026",
+        "attachments": null,
+        "author_id": 1258280250632478721,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436385916436758536,
+        "created_at": "2021-09-10T17:47:43+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "PeterBorbe",
+                    "id": "3568692616"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436302765924528129"
+                },
+                "id": 1436302765924528129,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "3568692616",
+            "text": "RT @PeterBorbe: Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfst\u2026",
+            "possibly_sensitive": false,
+            "id": "1436385497128095749",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T17:46:03.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436302765924528129"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436385497128095749",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "PeterBorbe",
+                        "id": "3568692616"
+                    }
+                ]
+            },
+            "lang": "de"
+        },
+        "id": 1436385497128095749,
+        "text": "RT @PeterBorbe: Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfst\u2026",
+        "attachments": null,
+        "author_id": 3568692616,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436385497128095749,
+        "created_at": "2021-09-10T17:46:03+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "PeterBorbe",
+                    "id": "3568692616"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436302765924528129"
+                },
+                "id": 1436302765924528129,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1392221271505653761",
+            "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+            "possibly_sensitive": false,
+            "id": "1436324273828794371",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T13:42:47.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436324273828794371",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "DENTDOURS1",
+                        "id": "1084901051000672257"
+                    }
+                ]
+            },
+            "lang": "fr"
+        },
+        "id": 1436324273828794371,
+        "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES",
+        "attachments": null,
+        "author_id": 1392221271505653761,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436324273828794371,
+        "created_at": "2021-09-10T13:42:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "DENTDOURS1",
+                    "id": "1084901051000672257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                },
+                "id": 1436285493956726811,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "3568692616",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 137,
+                        "end": 160,
+                        "url": "https://t.co/wqkyrc9kmA",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 116,
+                        "end": 126,
+                        "tag": "Impfstoff"
+                    },
+                    {
+                        "start": 127,
+                        "end": 136,
+                        "tag": "Biontech"
+                    }
+                ]
+            },
+            "text": "Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfstoff #Biontech https://t.co/wqkyrc9kmA",
+            "possibly_sensitive": false,
+            "id": "1436302765924528129",
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 1,
+                "like_count": 10,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T12:17:19.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436302765924528129",
+            "lang": "de"
+        },
+        "id": 1436302765924528129,
+        "text": "Bin mal gespannt, wann der erste pr\u00e4natale Impfstoff kommt, der den F\u00f6ten gleich in die Fruchtblase gespritzt wird! #Impfstoff #Biontech https://t.co/wqkyrc9kmA",
+        "attachments": null,
+        "author_id": 3568692616,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436302765924528129,
+        "created_at": "2021-09-10T12:17:19+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 137,
+                    "end": 160,
+                    "url": "https://t.co/wqkyrc9kmA",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 116,
+                    "end": 126,
+                    "tag": "Impfstoff"
+                },
+                {
+                    "start": 127,
+                    "end": 136,
+                    "tag": "Biontech"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "889090381748588547",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 72,
+                        "end": 95,
+                        "url": "https://t.co/GLwRiIyErM",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "Das geht doch mit Riesenschritten voran. \nWann sind die S\u00e4uglinge dran? https://t.co/GLwRiIyErM",
+            "possibly_sensitive": false,
+            "id": "1436299977190424579",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T12:06:14.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436299977190424579",
+            "lang": "de"
+        },
+        "id": 1436299977190424579,
+        "text": "Das geht doch mit Riesenschritten voran. \nWann sind die S\u00e4uglinge dran? https://t.co/GLwRiIyErM",
+        "attachments": null,
+        "author_id": 889090381748588547,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436299977190424579,
+        "created_at": "2021-09-10T12:06:14+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 72,
+                    "end": 95,
+                    "url": "https://t.co/GLwRiIyErM",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2988525155",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 7,
+                        "end": 30,
+                        "url": "https://t.co/o8Tsecxicn",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "1 Tag? https://t.co/o8Tsecxicn",
+            "possibly_sensitive": false,
+            "id": "1436288865636077589",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T11:22:05.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436288865636077589",
+            "lang": "und"
+        },
+        "id": 1436288865636077589,
+        "text": "1 Tag? https://t.co/o8Tsecxicn",
+        "attachments": null,
+        "author_id": 2988525155,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436288865636077589,
+        "created_at": "2021-09-10T11:22:05+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 7,
+                    "end": 30,
+                    "url": "https://t.co/o8Tsecxicn",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1418581111303770120",
+            "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES https://t.\u2026",
+            "possibly_sensitive": false,
+            "id": "1436286003342348291",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T11:10:42.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436286003342348291",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "DENTDOURS1",
+                        "id": "1084901051000672257"
+                    }
+                ]
+            },
+            "lang": "fr"
+        },
+        "id": 1436286003342348291,
+        "text": "RT @DENTDOURS1: \ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES https://t.\u2026",
+        "attachments": null,
+        "author_id": 1418581111303770120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436286003342348291,
+        "created_at": "2021-09-10T11:10:42+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "DENTDOURS1",
+                    "id": "1084901051000672257"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1436285493956726811"
+                },
+                "id": 1436285493956726811,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1084901051000672257",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 113,
+                        "end": 136,
+                        "url": "https://t.co/YEIMQPTc9P",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "\ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES https://t.co/YEIMQPTc9P",
+            "possibly_sensitive": false,
+            "id": "1436285493956726811",
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 1
+            },
+            "created_at": "2021-09-10T11:08:41.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "conversation_id": "1436285493956726811",
+            "lang": "fr"
+        },
+        "id": 1436285493956726811,
+        "text": "\ud83c\udde9\ud83c\uddea BIONTECH PARTENAIRE ALLEMAND DE L'AM\u00c9RICAIN PFIZER PR\u00c9VOIT UN VACCIN POUR LES 5-11 ANS DANS QUELQUES SEMAINES https://t.co/YEIMQPTc9P",
+        "attachments": null,
+        "author_id": 1084901051000672257,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436285493956726811,
+        "created_at": "2021-09-10T11:08:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/YEIMQPTc9P",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "fr",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1378846836505591814",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 249,
+                        "end": 272,
+                        "url": "https://t.co/lpp2j6qpcm",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 200,
+                        "end": 219,
+                        "tag": "DieGanzeWeltImpfen"
+                    }
+                ]
+            },
+            "text": "WIESO verhalten sich ALLE Regierenden dieser Welt so wie mein Avatar? \nEs ist hinl\u00e4nglich bekannt, das Kinder sich weder gro\u00dfartig infizieren, noch schwere Krankheitsverl\u00e4ufe haben - aber Hauptsache, #DieGanzeWeltImpfen - ohne Sinn &amp; Verstand!! https://t.co/lpp2j6qpcm",
+            "possibly_sensitive": false,
+            "id": "1436285259994251265",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T11:07:45.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436285259994251265",
+            "lang": "de"
+        },
+        "id": 1436285259994251265,
+        "text": "WIESO verhalten sich ALLE Regierenden dieser Welt so wie mein Avatar? \nEs ist hinl\u00e4nglich bekannt, das Kinder sich weder gro\u00dfartig infizieren, noch schwere Krankheitsverl\u00e4ufe haben - aber Hauptsache, #DieGanzeWeltImpfen - ohne Sinn &amp; Verstand!! https://t.co/lpp2j6qpcm",
+        "attachments": null,
+        "author_id": 1378846836505591814,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436285259994251265,
+        "created_at": "2021-09-10T11:07:45+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 249,
+                    "end": 272,
+                    "url": "https://t.co/lpp2j6qpcm",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 200,
+                    "end": 219,
+                    "tag": "DieGanzeWeltImpfen"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1426099499861168130",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 217,
+                        "end": 240,
+                        "url": "https://t.co/X1ieexQnW0",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "\u201eEs sieht gut aus, alles l\u00e4uft nach Plan\u201c\nWenn die Produktion und Abf\u00fcllung schon vor der Zulassung auf Hochtouren l\u00e4uft, ist klar, dass Zulassung und Empfehlung nur Makulatur sind. Das Ergebnis steht schon fest \ud83e\udd37\u200d\u2640\ufe0f https://t.co/X1ieexQnW0",
+            "possibly_sensitive": false,
+            "id": "1436281847818997762",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T10:54:12.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436281847818997762",
+            "lang": "de"
+        },
+        "id": 1436281847818997762,
+        "text": "\u201eEs sieht gut aus, alles l\u00e4uft nach Plan\u201c\nWenn die Produktion und Abf\u00fcllung schon vor der Zulassung auf Hochtouren l\u00e4uft, ist klar, dass Zulassung und Empfehlung nur Makulatur sind. Das Ergebnis steht schon fest \ud83e\udd37\u200d\u2640\ufe0f https://t.co/X1ieexQnW0",
+        "attachments": null,
+        "author_id": 1426099499861168130,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436281847818997762,
+        "created_at": "2021-09-10T10:54:12+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 217,
+                    "end": 240,
+                    "url": "https://t.co/X1ieexQnW0",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1334660076230090754",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 30,
+                        "end": 53,
+                        "url": "https://t.co/deQyGEHAL1",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 15,
+                        "end": 29,
+                        "tag": "ArrestDrosten"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 14,
+                        "username": "IntlCrimCourt",
+                        "id": "61731614"
+                    }
+                ]
+            },
+            "text": "@IntlCrimCourt #ArrestDrosten https://t.co/deQyGEHAL1",
+            "possibly_sensitive": false,
+            "id": "1436278757178978304",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T10:41:55.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "in_reply_to_user_id": "61731614",
+            "conversation_id": "1436278757178978304",
+            "lang": "und"
+        },
+        "id": 1436278757178978304,
+        "text": "@IntlCrimCourt #ArrestDrosten https://t.co/deQyGEHAL1",
+        "attachments": null,
+        "author_id": 1334660076230090754,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436278757178978304,
+        "created_at": "2021-09-10T10:41:55+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 30,
+                    "end": 53,
+                    "url": "https://t.co/deQyGEHAL1",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 29,
+                    "tag": "ArrestDrosten"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 14,
+                    "username": "IntlCrimCourt",
+                    "id": "61731614"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 61731614,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1050836688421965826",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 17,
+                        "end": 40,
+                        "url": "https://t.co/uAh1C9Syd4",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "Diese Verbrecher https://t.co/uAh1C9Syd4",
+            "geo": {
+                "place_id": "f03f4fd22fd009d8"
+            },
+            "possibly_sensitive": false,
+            "id": "1436271253799817219",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T10:12:06.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436271253799817219",
+            "lang": "de"
+        },
+        "id": 1436271253799817219,
+        "text": "Diese Verbrecher https://t.co/uAh1C9Syd4",
+        "attachments": null,
+        "author_id": 1050836688421965826,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436271253799817219,
+        "created_at": "2021-09-10T10:12:06+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 17,
+                    "end": 40,
+                    "url": "https://t.co/uAh1C9Syd4",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "f03f4fd22fd009d8"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1006411098109693957",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/pIoK6miavp",
+                        "expanded_url": "https://youtu.be/Yc1snE4xqNo",
+                        "display_url": "youtu.be/Yc1snE4xqNo",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1476594669769437190/j9vGWbva?format=jpg&name=orig",
+                                "width": 480,
+                                "height": 360
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1476594669769437190/j9vGWbva?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "ICH HABE MICH GEIRRT! Es tut mir leid.",
+                        "description": "\u201cEiner neuen Wahrheit ist nichts sch\u00e4dlicher als ein alter Irrtum\" sagte schon Johann Wolfgang von Goethe. Also will ich es nun zugeben: Ich habe mich geirrt...",
+                        "unwound_url": "https://www.youtube.com/watch?v=Yc1snE4xqNo&feature=youtu.be"
+                    },
+                    {
+                        "start": 43,
+                        "end": 66,
+                        "url": "https://t.co/KQEKkfNc2s",
+                        "expanded_url": "https://youtu.be/VM-sNKNd-CU",
+                        "display_url": "youtu.be/VM-sNKNd-CU"
+                    },
+                    {
+                        "start": 96,
+                        "end": 119,
+                        "url": "https://t.co/L4nA2DJKqq",
+                        "expanded_url": "https://youtu.be/qw9g7_viwLE",
+                        "display_url": "youtu.be/qw9g7_viwLE",
+                        "status": 200,
+                        "title": "- YouTube",
+                        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                        "unwound_url": "https://www.youtube.com/watch?v=qw9g7_viwLE&feature=youtu.be"
+                    },
+                    {
+                        "start": 120,
+                        "end": 143,
+                        "url": "https://t.co/7MvgMau2Rp",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "G. Kaiser\nhttps://t.co/pIoK6miavp\nE. Wolff https://t.co/KQEKkfNc2s\nDie Pandemie in den Rohdaten\nhttps://t.co/L4nA2DJKqq https://t.co/7MvgMau2Rp",
+            "possibly_sensitive": false,
+            "id": "1436251952506187791",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T08:55:24.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436251952506187791",
+            "lang": "de"
+        },
+        "id": 1436251952506187791,
+        "text": "G. Kaiser\nhttps://t.co/pIoK6miavp\nE. Wolff https://t.co/KQEKkfNc2s\nDie Pandemie in den Rohdaten\nhttps://t.co/L4nA2DJKqq https://t.co/7MvgMau2Rp",
+        "attachments": null,
+        "author_id": 1006411098109693957,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436251952506187791,
+        "created_at": "2021-09-10T08:55:24+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/pIoK6miavp",
+                    "expanded_url": "https://youtu.be/Yc1snE4xqNo",
+                    "display_url": "youtu.be/Yc1snE4xqNo",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1476594669769437190/j9vGWbva?format=jpg&name=orig",
+                            "width": 480,
+                            "height": 360
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1476594669769437190/j9vGWbva?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "ICH HABE MICH GEIRRT! Es tut mir leid.",
+                    "description": "\u201cEiner neuen Wahrheit ist nichts sch\u00e4dlicher als ein alter Irrtum\" sagte schon Johann Wolfgang von Goethe. Also will ich es nun zugeben: Ich habe mich geirrt...",
+                    "unwound_url": "https://www.youtube.com/watch?v=Yc1snE4xqNo&feature=youtu.be"
+                },
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/KQEKkfNc2s",
+                    "expanded_url": "https://youtu.be/VM-sNKNd-CU",
+                    "display_url": "youtu.be/VM-sNKNd-CU"
+                },
+                {
+                    "start": 96,
+                    "end": 119,
+                    "url": "https://t.co/L4nA2DJKqq",
+                    "expanded_url": "https://youtu.be/qw9g7_viwLE",
+                    "display_url": "youtu.be/qw9g7_viwLE",
+                    "status": 200,
+                    "title": "- YouTube",
+                    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                    "unwound_url": "https://www.youtube.com/watch?v=qw9g7_viwLE&feature=youtu.be"
+                },
+                {
+                    "start": 120,
+                    "end": 143,
+                    "url": "https://t.co/7MvgMau2Rp",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1329210489151377408",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 69,
+                        "end": 92,
+                        "url": "https://t.co/7e4maqxBk7",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 18,
+                        "tag": "Versuchskaninchen"
+                    },
+                    {
+                        "start": 19,
+                        "end": 37,
+                        "tag": "Sch\u00fctztEureKinder"
+                    },
+                    {
+                        "start": 38,
+                        "end": 57,
+                        "tag": "Impfnebenwirkungen"
+                    },
+                    {
+                        "start": 58,
+                        "end": 68,
+                        "tag": "COVID1984"
+                    }
+                ]
+            },
+            "text": "#Versuchskaninchen #Sch\u00fctztEureKinder #Impfnebenwirkungen #COVID1984 https://t.co/7e4maqxBk7",
+            "possibly_sensitive": false,
+            "id": "1436244820570386438",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T08:27:04.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436244820570386438",
+            "lang": "und"
+        },
+        "id": 1436244820570386438,
+        "text": "#Versuchskaninchen #Sch\u00fctztEureKinder #Impfnebenwirkungen #COVID1984 https://t.co/7e4maqxBk7",
+        "attachments": null,
+        "author_id": 1329210489151377408,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436244820570386438,
+        "created_at": "2021-09-10T08:27:04+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 69,
+                    "end": 92,
+                    "url": "https://t.co/7e4maqxBk7",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 18,
+                    "tag": "Versuchskaninchen"
+                },
+                {
+                    "start": 19,
+                    "end": 37,
+                    "tag": "Sch\u00fctztEureKinder"
+                },
+                {
+                    "start": 38,
+                    "end": 57,
+                    "tag": "Impfnebenwirkungen"
+                },
+                {
+                    "start": 58,
+                    "end": 68,
+                    "tag": "COVID1984"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1377763830961475586",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 134,
+                        "end": 157,
+                        "url": "https://t.co/z1Fvao9hNd",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "Morgen werden sie uns ins Stoffe f\u00fcr unsere Haustiere andienen. die Geldgier ist grenzenlos. Und das Volk macht gr\u00f6\u00dftenteils brav mit https://t.co/z1Fvao9hNd",
+            "possibly_sensitive": false,
+            "id": "1436239817059229696",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T08:07:11.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436239817059229696",
+            "lang": "de"
+        },
+        "id": 1436239817059229696,
+        "text": "Morgen werden sie uns ins Stoffe f\u00fcr unsere Haustiere andienen. die Geldgier ist grenzenlos. Und das Volk macht gr\u00f6\u00dftenteils brav mit https://t.co/z1Fvao9hNd",
+        "attachments": null,
+        "author_id": 1377763830961475586,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436239817059229696,
+        "created_at": "2021-09-10T08:07:11+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 134,
+                    "end": 157,
+                    "url": "https://t.co/z1Fvao9hNd",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1212810706443091970",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/WH6qWbzSlX",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 55,
+                        "end": 60,
+                        "tag": "WELT"
+                    },
+                    {
+                        "start": 232,
+                        "end": 242,
+                        "tag": "Impfstoff"
+                    }
+                ]
+            },
+            "text": "Erschreckend in welchem Umfang ein Pharmaproduzent bei #WELT Werbung ohne jegliche kritische Gegenstimme machen darf. Hier m\u00fcssen s\u00e4mtliche Alarmglocken angehen! Lasst unsere J\u00fcngsten endlich in Frieden! Keinen experimentellen mrna #Impfstoff bei kleinen Kindern einsetzen! https://t.co/WH6qWbzSlX",
+            "possibly_sensitive": false,
+            "id": "1436238370615738370",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T08:01:26.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436238370615738370",
+            "lang": "de"
+        },
+        "id": 1436238370615738370,
+        "text": "Erschreckend in welchem Umfang ein Pharmaproduzent bei #WELT Werbung ohne jegliche kritische Gegenstimme machen darf. Hier m\u00fcssen s\u00e4mtliche Alarmglocken angehen! Lasst unsere J\u00fcngsten endlich in Frieden! Keinen experimentellen mrna #Impfstoff bei kleinen Kindern einsetzen! https://t.co/WH6qWbzSlX",
+        "attachments": null,
+        "author_id": 1212810706443091970,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436238370615738370,
+        "created_at": "2021-09-10T08:01:26+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/WH6qWbzSlX",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 55,
+                    "end": 60,
+                    "tag": "WELT"
+                },
+                {
+                    "start": 232,
+                    "end": 242,
+                    "tag": "Impfstoff"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1239567022293483522",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/Nge8zAgMDD",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c https://t.co/Nge8zAgMDD",
+            "possibly_sensitive": false,
+            "id": "1436237969225142274",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T07:59:50.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436237969225142274",
+            "lang": "und"
+        },
+        "id": 1436237969225142274,
+        "text": "\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c https://t.co/Nge8zAgMDD",
+        "attachments": null,
+        "author_id": 1239567022293483522,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436237969225142274,
+        "created_at": "2021-09-10T07:59:50+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/Nge8zAgMDD",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "52683525",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/z9LXavnH70",
+                        "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                        "display_url": "twitter.com/DerInformant_/\u2026"
+                    }
+                ]
+            },
+            "text": "Das schlimmste ist, dass es f\u00fcr diesen Rotz tats\u00e4chlich einen Markt gibt! https://t.co/z9LXavnH70",
+            "possibly_sensitive": false,
+            "id": "1436231669686706176",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-10T07:34:48.000Z",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1436231669686706176",
+            "lang": "de"
+        },
+        "id": 1436231669686706176,
+        "text": "Das schlimmste ist, dass es f\u00fcr diesen Rotz tats\u00e4chlich einen Markt gibt! https://t.co/z9LXavnH70",
+        "attachments": null,
+        "author_id": 52683525,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436231669686706176,
+        "created_at": "2021-09-10T07:34:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/z9LXavnH70",
+                    "expanded_url": "https://twitter.com/DerInformant_/status/1436230332337033221",
+                    "display_url": "twitter.com/DerInformant_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

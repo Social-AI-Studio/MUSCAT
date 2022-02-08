@@ -1,0 +1,1866 @@
+[
+    {
+        "data": {
+            "created_at": "2020-12-30T08:49:38.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344203631654924289"
+                }
+            ],
+            "in_reply_to_user_id": "1223484072778821638",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "venkat_id",
+                        "id": "1223484072778821638"
+                    },
+                    {
+                        "start": 11,
+                        "end": 23,
+                        "username": "DaktarBatra",
+                        "id": "67896667"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "52095925",
+            "source": "Twitter Web App",
+            "id": "1344203985415073792",
+            "text": "@venkat_id @DaktarBatra I believe pfizer will most likely be available in Indian markets by Feb end or March. Moderna is not likely to apply till late 2021."
+        },
+        "id": 1344203985415073792,
+        "text": "@venkat_id @DaktarBatra I believe pfizer will most likely be available in Indian markets by Feb end or March. Moderna is not likely to apply till late 2021.",
+        "attachments": null,
+        "author_id": 52095925,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:49:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "venkat_id",
+                    "id": "1223484072778821638"
+                },
+                {
+                    "start": 11,
+                    "end": 23,
+                    "username": "DaktarBatra",
+                    "id": "67896667"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1223484072778821638,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344203631654924289"
+                },
+                "id": 1344203631654924289,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:49:30.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344203466437115905"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 129,
+                        "end": 132,
+                        "probability": 0.4605,
+                        "type": "Person",
+                        "normalized_text": "Bell"
+                    },
+                    {
+                        "start": 145,
+                        "end": 150,
+                        "probability": 0.5211,
+                        "type": "Other",
+                        "normalized_text": "Pfizer"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "pseudo_sapiens",
+                        "id": "52095925"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "1223484072778821638",
+            "source": "Twitter for Android",
+            "id": "1344203949243396096",
+            "text": "@pseudo_sapiens Only when millions are vaccinated with the Oxford vaccine can we truly know, in my opinion. Even with respect to Bell's palsy in Pfizer vaccine,  the same applies."
+        },
+        "id": 1344203949243396096,
+        "text": "@pseudo_sapiens Only when millions are vaccinated with the Oxford vaccine can we truly know, in my opinion. Even with respect to Bell's palsy in Pfizer vaccine,  the same applies.",
+        "attachments": null,
+        "author_id": 1223484072778821638,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:49:30+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 129,
+                    "end": 132,
+                    "probability": 0.4605,
+                    "type": "Person",
+                    "normalized_text": "Bell"
+                },
+                {
+                    "start": 145,
+                    "end": 150,
+                    "probability": 0.5211,
+                    "type": "Other",
+                    "normalized_text": "Pfizer"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "pseudo_sapiens",
+                    "id": "52095925"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344203466437115905"
+                },
+                "id": 1344203466437115905,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:48:14.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344199845012152323"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 57,
+                        "probability": 0.6394,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 183,
+                        "end": 187,
+                        "probability": 0.997,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "pseudo_sapiens",
+                        "id": "52095925"
+                    },
+                    {
+                        "start": 16,
+                        "end": 28,
+                        "username": "DaktarBatra",
+                        "id": "67896667"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "1223484072778821638",
+            "source": "Twitter for Android",
+            "id": "1344203631654924289",
+            "text": "@pseudo_sapiens @DaktarBatra My personal feeling is Pfizer may not be available atleast for next 6 months, and perhaps not in 2021 even. Moderna will likely not apply for approval in India, ever."
+        },
+        "id": 1344203631654924289,
+        "text": "@pseudo_sapiens @DaktarBatra My personal feeling is Pfizer may not be available atleast for next 6 months, and perhaps not in 2021 even. Moderna will likely not apply for approval in India, ever.",
+        "attachments": null,
+        "author_id": 1223484072778821638,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:48:14+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 57,
+                    "probability": 0.6394,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 183,
+                    "end": 187,
+                    "probability": 0.997,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "pseudo_sapiens",
+                    "id": "52095925"
+                },
+                {
+                    "start": 16,
+                    "end": 28,
+                    "username": "DaktarBatra",
+                    "id": "67896667"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344199845012152323"
+                },
+                "id": 1344199845012152323,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:47:35.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344202173685485569"
+                }
+            ],
+            "in_reply_to_user_id": "1223484072778821638",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "venkat_id",
+                        "id": "1223484072778821638"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "52095925",
+            "source": "Twitter Web App",
+            "id": "1344203466437115905",
+            "text": "@venkat_id It really makes no sense at all to not approve pfizer ASAP given the global data numbers if especially they are willing to approve SII or BB (which doesn't even has phase 3 data!!)"
+        },
+        "id": 1344203466437115905,
+        "text": "@venkat_id It really makes no sense at all to not approve pfizer ASAP given the global data numbers if especially they are willing to approve SII or BB (which doesn't even has phase 3 data!!)",
+        "attachments": null,
+        "author_id": 52095925,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:47:35+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "venkat_id",
+                    "id": "1223484072778821638"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 1223484072778821638,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344202173685485569"
+                },
+                "id": 1344202173685485569,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:42:26.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344198063502491648"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "pseudo_sapiens",
+                        "id": "52095925"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "author_id": "1223484072778821638",
+            "source": "Twitter for Android",
+            "id": "1344202173685485569",
+            "text": "@pseudo_sapiens Completely concur with your assessment. A few virologists have expressed concerns regarding the neurological SAEs and the pathogenicity of the 'harmless' adenovirus vector.  Two cases of transverse myelitis in the vaccine group with one being probably due to vaccine.Coincidence?"
+        },
+        "id": 1344202173685485569,
+        "text": "@pseudo_sapiens Completely concur with your assessment. A few virologists have expressed concerns regarding the neurological SAEs and the pathogenicity of the 'harmless' adenovirus vector.  Two cases of transverse myelitis in the vaccine group with one being probably due to vaccine.Coincidence?",
+        "attachments": null,
+        "author_id": 1223484072778821638,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:42:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "pseudo_sapiens",
+                    "id": "52095925"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344198063502491648"
+                },
+                "id": 1344198063502491648,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:41:23.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344199539016667137"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "pseudo_sapiens",
+                        "id": "52095925"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "67896667",
+            "source": "Twitter for Android",
+            "id": "1344201908190203904",
+            "text": "@pseudo_sapiens Hmmm. They're not going to have spares for a while. Makes business sense for them to bring some of it into the open market. Hopefully there's going to be another option for those who are unconvinced of its efficacy."
+        },
+        "id": 1344201908190203904,
+        "text": "@pseudo_sapiens Hmmm. They're not going to have spares for a while. Makes business sense for them to bring some of it into the open market. Hopefully there's going to be another option for those who are unconvinced of its efficacy.",
+        "attachments": null,
+        "author_id": 67896667,
+        "context_annotations": [],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:41:23+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "pseudo_sapiens",
+                    "id": "52095925"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344199539016667137"
+                },
+                "id": 1344199539016667137,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:39:45.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344200858955759622"
+                }
+            ],
+            "in_reply_to_user_id": "1214068302604992512",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "52095925",
+            "source": "Twitter Web App",
+            "id": "1344201498389958656",
+            "text": "@bipolar_biped Yep, it is one because pfizer itself is not rushing with it cuz of the global demand crisis &amp; also because govt I believe is trying to provide the market share advantage to both SII &amp; BB."
+        },
+        "id": 1344201498389958656,
+        "text": "@bipolar_biped Yep, it is one because pfizer itself is not rushing with it cuz of the global demand crisis &amp; also because govt I believe is trying to provide the market share advantage to both SII &amp; BB.",
+        "attachments": null,
+        "author_id": 52095925,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:39:45+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 1214068302604992512,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344200858955759622"
+                },
+                "id": 1344200858955759622,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:37:13.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344198690609590272"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "pseudo_sapiens",
+                        "id": "52095925"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "1214068302604992512",
+            "source": "Twitter for Android",
+            "id": "1344200858955759622",
+            "text": "@pseudo_sapiens If that's the case, why is pfizer application still in apparent limbo?? After all it has been proven effective elsewhere... \n\nI will not be surprised if there is some strong arm tactics going on to approve chadox first..."
+        },
+        "id": 1344200858955759622,
+        "text": "@pseudo_sapiens If that's the case, why is pfizer application still in apparent limbo?? After all it has been proven effective elsewhere... \n\nI will not be surprised if there is some strong arm tactics going on to approve chadox first...",
+        "attachments": null,
+        "author_id": 1214068302604992512,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:37:13+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "pseudo_sapiens",
+                    "id": "52095925"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344198690609590272"
+                },
+                "id": 1344198690609590272,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:33:11.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344199539016667137"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 81,
+                        "end": 86,
+                        "probability": 0.6242,
+                        "type": "Organization",
+                        "normalized_text": "pfizer"
+                    },
+                    {
+                        "start": 108,
+                        "end": 114,
+                        "probability": 0.4137,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DaktarBatra",
+                        "id": "67896667"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "52095925",
+            "source": "Twitter Web App",
+            "id": "1344199845012152323",
+            "text": "@DaktarBatra Given the data availability the question of data safety atleast for pfizer is pretty moot now. Moderna won't be available before April end or May, I am saying this based on demand logistics issues."
+        },
+        "id": 1344199845012152323,
+        "text": "@DaktarBatra Given the data availability the question of data safety atleast for pfizer is pretty moot now. Moderna won't be available before April end or May, I am saying this based on demand logistics issues.",
+        "attachments": null,
+        "author_id": 52095925,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:33:11+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 81,
+                    "end": 86,
+                    "probability": 0.6242,
+                    "type": "Organization",
+                    "normalized_text": "pfizer"
+                },
+                {
+                    "start": 108,
+                    "end": 114,
+                    "probability": 0.4137,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DaktarBatra",
+                    "id": "67896667"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344199539016667137"
+                },
+                "id": 1344199539016667137,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:31:58.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344199031837184000"
+                }
+            ],
+            "in_reply_to_user_id": "67896667",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 33,
+                        "end": 38,
+                        "probability": 0.5647,
+                        "type": "Organization",
+                        "normalized_text": "pfizer"
+                    },
+                    {
+                        "start": 83,
+                        "end": 88,
+                        "probability": 0.5405,
+                        "type": "Place",
+                        "normalized_text": "Indian"
+                    },
+                    {
+                        "start": 253,
+                        "end": 255,
+                        "probability": 0.4045,
+                        "type": "Organization",
+                        "normalized_text": "SII"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "DaktarBatra",
+                        "id": "67896667"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "author_id": "52095925",
+            "source": "Twitter Web App",
+            "id": "1344199539016667137",
+            "text": "@DaktarBatra I am kind of hoping pfizer will go through with its plan to launch in Indian markets too, I think they are going slow because they are already overwhelmed with global demand &amp; the govt is in a hurry to providemarket share advantage to BB &amp; SII but we should get pfizer by Feb mid"
+        },
+        "id": 1344199539016667137,
+        "text": "@DaktarBatra I am kind of hoping pfizer will go through with its plan to launch in Indian markets too, I think they are going slow because they are already overwhelmed with global demand &amp; the govt is in a hurry to providemarket share advantage to BB &amp; SII but we should get pfizer by Feb mid",
+        "attachments": null,
+        "author_id": 52095925,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:31:58+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 33,
+                    "end": 38,
+                    "probability": 0.5647,
+                    "type": "Organization",
+                    "normalized_text": "pfizer"
+                },
+                {
+                    "start": 83,
+                    "end": 88,
+                    "probability": 0.5405,
+                    "type": "Place",
+                    "normalized_text": "Indian"
+                },
+                {
+                    "start": 253,
+                    "end": 255,
+                    "probability": 0.4045,
+                    "type": "Organization",
+                    "normalized_text": "SII"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "DaktarBatra",
+                    "id": "67896667"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 67896667,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344199031837184000"
+                },
+                "id": 1344199031837184000,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:29:57.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344198063502491648"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "pseudo_sapiens",
+                        "id": "52095925"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "author_id": "67896667",
+            "source": "Twitter for Android",
+            "id": "1344199031837184000",
+            "text": "@pseudo_sapiens As a healthcare worker is it going to be possible to buy or import them? I mean like in a month or two."
+        },
+        "id": 1344199031837184000,
+        "text": "@pseudo_sapiens As a healthcare worker is it going to be possible to buy or import them? I mean like in a month or two.",
+        "attachments": null,
+        "author_id": 67896667,
+        "context_annotations": [],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:29:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "pseudo_sapiens",
+                    "id": "52095925"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344198063502491648"
+                },
+                "id": 1344198063502491648,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2020-12-30T08:28:36.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1344198063502491648"
+                }
+            ],
+            "in_reply_to_user_id": "52095925",
+            "conversation_id": "1344198063502491648",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 75,
+                        "end": 76,
+                        "probability": 0.9449,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    },
+                    {
+                        "start": 98,
+                        "end": 102,
+                        "probability": 0.9821,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "author_id": "52095925",
+            "source": "Twitter Web App",
+            "id": "1344198690609590272",
+            "text": "Because the moto of our regulator is - bhed chaal. What is good enough for UK, is good enough for India too logic."
+        },
+        "id": 1344198690609590272,
+        "text": "Because the moto of our regulator is - bhed chaal. What is good enough for UK, is good enough for India too logic.",
+        "attachments": null,
+        "author_id": 52095925,
+        "context_annotations": [],
+        "conversation_id": 1344198063502491648,
+        "created_at": "2020-12-30T08:28:36+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 75,
+                    "end": 76,
+                    "probability": 0.9449,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                },
+                {
+                    "start": 98,
+                    "end": 102,
+                    "probability": 0.9821,
+                    "type": "Place",
+                    "normalized_text": "India"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 52095925,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1344198063502491648"
+                },
+                "id": 1344198063502491648,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

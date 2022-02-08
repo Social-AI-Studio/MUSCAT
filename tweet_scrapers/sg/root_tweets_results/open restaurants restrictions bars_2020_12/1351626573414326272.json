@@ -1,0 +1,155 @@
+[
+    {
+        "data": {
+            "author_id": "19628117",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 3,
+                        "end": 26,
+                        "url": "https://t.co/k05SVmU4c7",
+                        "expanded_url": "https://twitter.com/cam_langford/status/1351626573414326272",
+                        "display_url": "twitter.com/cam_langford/s\u2026"
+                    }
+                ]
+            },
+            "text": "hm https://t.co/k05SVmU4c7",
+            "possibly_sensitive": false,
+            "id": "1351626774086561798",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-01-19T20:25:09.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1351626573414326272"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "TweetDeck",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "998665458063560704",
+                        "name": "Greg Abbott",
+                        "description": "US Governor of Texas, Greg Abbott"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "998665458063560704",
+                        "name": "Greg Abbott",
+                        "description": "US Governor of Texas, Greg Abbott"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1351626774086561798",
+            "lang": "und"
+        },
+        "id": 1351626774086561798,
+        "text": "hm https://t.co/k05SVmU4c7",
+        "attachments": null,
+        "author_id": 19628117,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "998665458063560704",
+                    "name": "Greg Abbott",
+                    "description": "US Governor of Texas, Greg Abbott"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "998665458063560704",
+                    "name": "Greg Abbott",
+                    "description": "US Governor of Texas, Greg Abbott"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1351626774086561798,
+        "created_at": "2021-01-19T20:25:09+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 3,
+                    "end": 26,
+                    "url": "https://t.co/k05SVmU4c7",
+                    "expanded_url": "https://twitter.com/cam_langford/status/1351626573414326272",
+                    "display_url": "twitter.com/cam_langford/s\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1351626573414326272"
+                },
+                "id": 1351626573414326272,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    }
+]

@@ -1,0 +1,508 @@
+[
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1379487512041816065"
+                }
+            ],
+            "conversation_id": "1379488410201690113",
+            "id": "1379488410201690113",
+            "source": "Tweetbot for Mac",
+            "author_id": "75865924",
+            "lang": "und",
+            "created_at": "2021-04-06T17:37:21.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 36,
+                        "end": 59,
+                        "url": "https://t.co/bZNrLZSN1O",
+                        "expanded_url": "https://twitter.com/Iceland_Review/status/1379482370198405130?s=20",
+                        "display_url": "twitter.com/Iceland_Review\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "mh120480",
+                        "id": "26709473"
+                    },
+                    {
+                        "start": 18,
+                        "end": 34,
+                        "username": "drehumdiebolzen",
+                        "id": "275216362"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "RT @mh120480: via @drehumdiebolzen  https://t.co/bZNrLZSN1O",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1379488410201690113,
+        "text": "RT @mh120480: via @drehumdiebolzen  https://t.co/bZNrLZSN1O",
+        "attachments": null,
+        "author_id": 75865924,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379488410201690113,
+        "created_at": "2021-04-06T17:37:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 36,
+                    "end": 59,
+                    "url": "https://t.co/bZNrLZSN1O",
+                    "expanded_url": "https://twitter.com/Iceland_Review/status/1379482370198405130?s=20",
+                    "display_url": "twitter.com/Iceland_Review\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "mh120480",
+                    "id": "26709473"
+                },
+                {
+                    "start": 18,
+                    "end": 34,
+                    "username": "drehumdiebolzen",
+                    "id": "275216362"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1379487512041816065"
+                },
+                "id": 1379487512041816065,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Tweetbot for Mac",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1379482370198405130"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1379483657669373962"
+                }
+            ],
+            "conversation_id": "1363535426053672960",
+            "id": "1379487512041816065",
+            "source": "Twitter Web App",
+            "in_reply_to_user_id": "26709473",
+            "author_id": "26709473",
+            "lang": "und",
+            "created_at": "2021-04-06T17:33:47.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 22,
+                        "end": 45,
+                        "url": "https://t.co/bZNrLZSN1O",
+                        "expanded_url": "https://twitter.com/Iceland_Review/status/1379482370198405130?s=20",
+                        "display_url": "twitter.com/Iceland_Review\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 4,
+                        "end": 20,
+                        "username": "drehumdiebolzen",
+                        "id": "275216362"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "via @drehumdiebolzen  https://t.co/bZNrLZSN1O",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1379487512041816065,
+        "text": "via @drehumdiebolzen  https://t.co/bZNrLZSN1O",
+        "attachments": null,
+        "author_id": 26709473,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1363535426053672960,
+        "created_at": "2021-04-06T17:33:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 22,
+                    "end": 45,
+                    "url": "https://t.co/bZNrLZSN1O",
+                    "expanded_url": "https://twitter.com/Iceland_Review/status/1379482370198405130?s=20",
+                    "display_url": "twitter.com/Iceland_Review\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 4,
+                    "end": 20,
+                    "username": "drehumdiebolzen",
+                    "id": "275216362"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26709473,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1379482370198405130"
+                },
+                "id": 1379482370198405130,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379483657669373962"
+                },
+                "id": 1379483657669373962,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1379482370198405130"
+                }
+            ],
+            "conversation_id": "1379484701426122755",
+            "id": "1379484701426122755",
+            "source": "Twitter for iPhone",
+            "author_id": "275216362",
+            "lang": "de",
+            "created_at": "2021-04-06T17:22:37.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 113,
+                        "end": 136,
+                        "url": "https://t.co/NqHkbomNas",
+                        "expanded_url": "https://twitter.com/Iceland_Review/status/1379482370198405130",
+                        "display_url": "twitter.com/Iceland_Review\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "Nachdem also 2020 haupts\u00e4chlich Europ\u00e4erinnen auf Island waren, werden es 2021 wohl eher US Amerikanerinnen sein https://t.co/NqHkbomNas",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            }
+        },
+        "id": 1379484701426122755,
+        "text": "Nachdem also 2020 haupts\u00e4chlich Europ\u00e4erinnen auf Island waren, werden es 2021 wohl eher US Amerikanerinnen sein https://t.co/NqHkbomNas",
+        "attachments": null,
+        "author_id": 275216362,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379484701426122755,
+        "created_at": "2021-04-06T17:22:37+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 113,
+                    "end": 136,
+                    "url": "https://t.co/NqHkbomNas",
+                    "expanded_url": "https://twitter.com/Iceland_Review/status/1379482370198405130",
+                    "display_url": "twitter.com/Iceland_Review\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "de",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1379482370198405130"
+                },
+                "id": 1379482370198405130,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1379482370198405130"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1379483657669373962"
+                }
+            ],
+            "conversation_id": "1363535426053672960",
+            "id": "1379484413302571027",
+            "source": "Twitter for iPhone",
+            "in_reply_to_user_id": "26709473",
+            "author_id": "275216362",
+            "lang": "und",
+            "created_at": "2021-04-06T17:21:28.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/NqHkbomNas",
+                        "expanded_url": "https://twitter.com/iceland_review/status/1379482370198405130",
+                        "display_url": "twitter.com/iceland_review\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "mh120480",
+                        "id": "26709473"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "text": "@mh120480 https://t.co/NqHkbomNas",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            }
+        },
+        "id": 1379484413302571027,
+        "text": "@mh120480 https://t.co/NqHkbomNas",
+        "attachments": null,
+        "author_id": 275216362,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1363535426053672960,
+        "created_at": "2021-04-06T17:21:28+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/NqHkbomNas",
+                    "expanded_url": "https://twitter.com/iceland_review/status/1379482370198405130",
+                    "display_url": "twitter.com/iceland_review\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "mh120480",
+                    "id": "26709473"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 26709473,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1379482370198405130"
+                },
+                "id": 1379482370198405130,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379483657669373962"
+                },
+                "id": 1379483657669373962,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

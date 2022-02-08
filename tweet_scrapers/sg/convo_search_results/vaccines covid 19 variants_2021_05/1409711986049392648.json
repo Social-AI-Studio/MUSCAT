@@ -1,0 +1,446 @@
+[
+    {
+        "data": {
+            "in_reply_to_user_id": "620136960",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "cgtnamerica",
+                        "id": "620136960"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 99,
+                        "end": 115,
+                        "probability": 0.4519,
+                        "type": "Organization",
+                        "normalized_text": "Johnson & Johnson"
+                    },
+                    {
+                        "start": 118,
+                        "end": 124,
+                        "probability": 0.5574,
+                        "type": "Organization",
+                        "normalized_text": "Moderna"
+                    },
+                    {
+                        "start": 127,
+                        "end": 137,
+                        "probability": 0.5926,
+                        "type": "Organization",
+                        "normalized_text": "AstraZeneca"
+                    },
+                    {
+                        "start": 140,
+                        "end": 148,
+                        "probability": 0.5351,
+                        "type": "Organization",
+                        "normalized_text": "Sputnik V"
+                    },
+                    {
+                        "start": 151,
+                        "end": 159,
+                        "probability": 0.4725,
+                        "type": "Organization",
+                        "normalized_text": "Sinopharm"
+                    },
+                    {
+                        "start": 162,
+                        "end": 175,
+                        "probability": 0.3278,
+                        "type": "Organization",
+                        "normalized_text": "Bharat Biotech"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 209,
+                        "end": 232,
+                        "url": "https://t.co/cuwcFUZuYt",
+                        "expanded_url": "https://bit.ly/39Gmkcy",
+                        "display_url": "bit.ly/39Gmkcy",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487585243615969280/SSfEF_fC?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 630
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1487585243615969280/SSfEF_fC?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Comparing vaccines: country of origin, safety, price, efficacy, and approval",
+                        "description": "Here are the available vaccines: Pfizer, One of the world\u2019s largest pharmaceutical companies, based in New York, in collaboration with German ...",
+                        "unwound_url": "https://lifewithnofears.blogspot.com/2021/04/comparing-vaccines-country-of-origin.html"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1150773957798162433",
+                        "name": "CGTN"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "1329443614888378368",
+                        "name": "Moderna Vaccine"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "847896837532995585",
+                        "name": "Biology",
+                        "description": "Biology"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597222604800",
+                        "name": "Beauty/Hygiene"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10024011911",
+                        "name": "Johnson & Johnson"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "850395585941086209",
+                        "name": "Beauty",
+                        "description": "Beauty"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1409711986049392648"
+                }
+            ],
+            "id": "1409714549335363588",
+            "conversation_id": "1409711986049392648",
+            "created_at": "2021-06-29T03:25:14.000Z",
+            "reply_settings": "everyone",
+            "text": "@cgtnamerica Comparing vaccines: country of origin, safety, price, efficacy, and approval\n\nPfizer, Johnson &amp; Johnson, Moderna, AstraZeneca, Sputnik V, Sinopharm, Bharat Biotech (COVAXIN), Medicago (CoVLP) https://t.co/cuwcFUZuYt",
+            "author_id": "1240484072641761280"
+        },
+        "id": 1409714549335363588,
+        "text": "@cgtnamerica Comparing vaccines: country of origin, safety, price, efficacy, and approval\n\nPfizer, Johnson &amp; Johnson, Moderna, AstraZeneca, Sputnik V, Sinopharm, Bharat Biotech (COVAXIN), Medicago (CoVLP) https://t.co/cuwcFUZuYt",
+        "attachments": null,
+        "author_id": 1240484072641761280,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1150773957798162433",
+                    "name": "CGTN"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "1329443614888378368",
+                    "name": "Moderna Vaccine"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "847896837532995585",
+                    "name": "Biology",
+                    "description": "Biology"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597222604800",
+                    "name": "Beauty/Hygiene"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10024011911",
+                    "name": "Johnson & Johnson"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "850395585941086209",
+                    "name": "Beauty",
+                    "description": "Beauty"
+                }
+            }
+        ],
+        "conversation_id": 1409711986049392648,
+        "created_at": "2021-06-29T03:25:14+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "cgtnamerica",
+                    "id": "620136960"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 99,
+                    "end": 115,
+                    "probability": 0.4519,
+                    "type": "Organization",
+                    "normalized_text": "Johnson & Johnson"
+                },
+                {
+                    "start": 118,
+                    "end": 124,
+                    "probability": 0.5574,
+                    "type": "Organization",
+                    "normalized_text": "Moderna"
+                },
+                {
+                    "start": 127,
+                    "end": 137,
+                    "probability": 0.5926,
+                    "type": "Organization",
+                    "normalized_text": "AstraZeneca"
+                },
+                {
+                    "start": 140,
+                    "end": 148,
+                    "probability": 0.5351,
+                    "type": "Organization",
+                    "normalized_text": "Sputnik V"
+                },
+                {
+                    "start": 151,
+                    "end": 159,
+                    "probability": 0.4725,
+                    "type": "Organization",
+                    "normalized_text": "Sinopharm"
+                },
+                {
+                    "start": 162,
+                    "end": 175,
+                    "probability": 0.3278,
+                    "type": "Organization",
+                    "normalized_text": "Bharat Biotech"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 209,
+                    "end": 232,
+                    "url": "https://t.co/cuwcFUZuYt",
+                    "expanded_url": "https://bit.ly/39Gmkcy",
+                    "display_url": "bit.ly/39Gmkcy",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487585243615969280/SSfEF_fC?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 630
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1487585243615969280/SSfEF_fC?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Comparing vaccines: country of origin, safety, price, efficacy, and approval",
+                    "description": "Here are the available vaccines: Pfizer, One of the world\u2019s largest pharmaceutical companies, based in New York, in collaboration with German ...",
+                    "unwound_url": "https://lifewithnofears.blogspot.com/2021/04/comparing-vaccines-country-of-origin.html"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 620136960,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1409711986049392648"
+                },
+                "id": 1409711986049392648,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

@@ -1,0 +1,340 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1412494810095648769"
+                }
+            ],
+            "id": "1412498175039098886",
+            "conversation_id": "1412498175039098886",
+            "created_at": "2021-07-06T19:46:22.000Z",
+            "reply_settings": "everyone",
+            "text": "I literally cannot believe people believe this\u2026 https://t.co/RQnHNtmVPn",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 48,
+                        "end": 71,
+                        "url": "https://t.co/RQnHNtmVPn",
+                        "expanded_url": "https://twitter.com/thejournal_ie/status/1412494810095648769",
+                        "display_url": "twitter.com/thejournal_ie/\u2026"
+                    }
+                ]
+            },
+            "author_id": "41003602"
+        },
+        "id": 1412498175039098886,
+        "text": "I literally cannot believe people believe this\u2026 https://t.co/RQnHNtmVPn",
+        "attachments": null,
+        "author_id": 41003602,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1412498175039098886,
+        "created_at": "2021-07-06T19:46:22+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 48,
+                    "end": 71,
+                    "url": "https://t.co/RQnHNtmVPn",
+                    "expanded_url": "https://twitter.com/thejournal_ie/status/1412494810095648769",
+                    "display_url": "twitter.com/thejournal_ie/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1412494810095648769"
+                },
+                "id": 1412494810095648769,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "attachments": {
+                "media_keys": [
+                    "3_1412497401496092686"
+                ]
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1412494810095648769"
+                }
+            ],
+            "id": "1412497406181183493",
+            "conversation_id": "1412497406181183493",
+            "created_at": "2021-07-06T19:43:19.000Z",
+            "reply_settings": "everyone",
+            "text": "Better still have chunky chains in them somewhere https://t.co/0JjGUtzNpz https://t.co/CXlCyRxj5K",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 50,
+                        "end": 73,
+                        "url": "https://t.co/0JjGUtzNpz",
+                        "expanded_url": "https://twitter.com/FKAWineOClock/status/1412497406181183493/photo/1",
+                        "display_url": "pic.twitter.com/0JjGUtzNpz"
+                    },
+                    {
+                        "start": 74,
+                        "end": 97,
+                        "url": "https://t.co/CXlCyRxj5K",
+                        "expanded_url": "https://twitter.com/thejournal_ie/status/1412494810095648769",
+                        "display_url": "twitter.com/thejournal_ie/\u2026"
+                    }
+                ]
+            },
+            "author_id": "1363891859433652224"
+        },
+        "id": 1412497406181183493,
+        "text": "Better still have chunky chains in them somewhere https://t.co/0JjGUtzNpz https://t.co/CXlCyRxj5K",
+        "attachments": {
+            "media_keys": [
+                "3_1412497401496092686"
+            ]
+        },
+        "author_id": 1363891859433652224,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1412497406181183493,
+        "created_at": "2021-07-06T19:43:19+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 50,
+                    "end": 73,
+                    "url": "https://t.co/0JjGUtzNpz",
+                    "expanded_url": "https://twitter.com/FKAWineOClock/status/1412497406181183493/photo/1",
+                    "display_url": "pic.twitter.com/0JjGUtzNpz"
+                },
+                {
+                    "start": 74,
+                    "end": 97,
+                    "url": "https://t.co/CXlCyRxj5K",
+                    "expanded_url": "https://twitter.com/thejournal_ie/status/1412494810095648769",
+                    "display_url": "twitter.com/thejournal_ie/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1412494810095648769"
+                },
+                "id": 1412494810095648769,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1412494810095648769"
+                }
+            ],
+            "id": "1412496463175852036",
+            "conversation_id": "1412496463175852036",
+            "created_at": "2021-07-06T19:39:34.000Z",
+            "reply_settings": "everyone",
+            "text": "Imagine, this has to be clarified! https://t.co/r1G4ApfvkP",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 35,
+                        "end": 58,
+                        "url": "https://t.co/r1G4ApfvkP",
+                        "expanded_url": "https://twitter.com/thejournal_ie/status/1412494810095648769",
+                        "display_url": "twitter.com/thejournal_ie/\u2026"
+                    }
+                ]
+            },
+            "author_id": "386959428"
+        },
+        "id": 1412496463175852036,
+        "text": "Imagine, this has to be clarified! https://t.co/r1G4ApfvkP",
+        "attachments": null,
+        "author_id": 386959428,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1412496463175852036,
+        "created_at": "2021-07-06T19:39:34+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 35,
+                    "end": 58,
+                    "url": "https://t.co/r1G4ApfvkP",
+                    "expanded_url": "https://twitter.com/thejournal_ie/status/1412494810095648769",
+                    "display_url": "twitter.com/thejournal_ie/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1412494810095648769"
+                },
+                "id": 1412494810095648769,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

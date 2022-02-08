@@ -1,0 +1,524 @@
+[
+    {
+        "data": {
+            "text": "RT @Worldstagegroup: U.S. President Joe Biden has withdrawn 73 budget cuts worth a combined 27.4 billion dollars, proposed by Donald Trump\u2026",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "Worldstagegroup",
+                        "id": "372338722"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 21,
+                        "end": 24,
+                        "probability": 0.8854,
+                        "type": "Place",
+                        "normalized_text": "U.S."
+                    },
+                    {
+                        "start": 36,
+                        "end": 44,
+                        "probability": 0.8245,
+                        "type": "Person",
+                        "normalized_text": "Joe Biden"
+                    },
+                    {
+                        "start": 126,
+                        "end": 137,
+                        "probability": 0.9949,
+                        "type": "Person",
+                        "normalized_text": "Donald Trump"
+                    }
+                ]
+            },
+            "id": "1356304512705830914",
+            "source": "Twitter for Android",
+            "author_id": "128002776",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1356304512705830914",
+            "lang": "en",
+            "created_at": "2021-02-01T18:12:49.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1356230909050167303"
+                }
+            ],
+            "reply_settings": "everyone"
+        },
+        "id": 1356304512705830914,
+        "text": "RT @Worldstagegroup: U.S. President Joe Biden has withdrawn 73 budget cuts worth a combined 27.4 billion dollars, proposed by Donald Trump\u2026",
+        "attachments": null,
+        "author_id": 128002776,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356304512705830914,
+        "created_at": "2021-02-01T18:12:49+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "Worldstagegroup",
+                    "id": "372338722"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 21,
+                    "end": 24,
+                    "probability": 0.8854,
+                    "type": "Place",
+                    "normalized_text": "U.S."
+                },
+                {
+                    "start": 36,
+                    "end": 44,
+                    "probability": 0.8245,
+                    "type": "Person",
+                    "normalized_text": "Joe Biden"
+                },
+                {
+                    "start": 126,
+                    "end": 137,
+                    "probability": 0.9949,
+                    "type": "Person",
+                    "normalized_text": "Donald Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1356230909050167303"
+                },
+                "id": 1356230909050167303,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "attachments": {
+                "media_keys": [
+                    "3_1356230907284365321"
+                ]
+            },
+            "text": "U.S. President Joe Biden has withdrawn 73 budget cuts worth a combined 27.4 billion dollars, proposed by Donald Trump during the final week of his presidency, according to a letter addressed to Congress leaders.  #DonaldTrump #PresidentJoeBiden\n\nhttps://t.co/M6QLzmV5EU https://t.co/6xIg6XmB69",
+            "id": "1356230909050167303",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 213,
+                        "end": 225,
+                        "tag": "DonaldTrump"
+                    },
+                    {
+                        "start": 226,
+                        "end": 244,
+                        "tag": "PresidentJoeBiden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 246,
+                        "end": 269,
+                        "url": "https://t.co/M6QLzmV5EU",
+                        "expanded_url": "https://www.worldstagegroup.com/biden-withdraws-27-4b-in-spending-cuts-proposed-by-trump-white-house/",
+                        "display_url": "worldstagegroup.com/biden-withdraw\u2026",
+                        "status": 200,
+                        "unwound_url": "https://www.worldstagegroup.com/biden-withdraws-27-4b-in-spending-cuts-proposed-by-trump-white-house/"
+                    },
+                    {
+                        "start": 270,
+                        "end": 293,
+                        "url": "https://t.co/6xIg6XmB69",
+                        "expanded_url": "https://twitter.com/Worldstagegroup/status/1356230909050167303/photo/1",
+                        "display_url": "pic.twitter.com/6xIg6XmB69"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 3,
+                        "probability": 0.8369,
+                        "type": "Place",
+                        "normalized_text": "U.S."
+                    },
+                    {
+                        "start": 15,
+                        "end": 23,
+                        "probability": 0.7324,
+                        "type": "Person",
+                        "normalized_text": "Joe Biden"
+                    },
+                    {
+                        "start": 105,
+                        "end": 116,
+                        "probability": 0.9947,
+                        "type": "Person",
+                        "normalized_text": "Donald Trump"
+                    },
+                    {
+                        "start": 194,
+                        "end": 201,
+                        "probability": 0.7518,
+                        "type": "Organization",
+                        "normalized_text": "Congress"
+                    }
+                ]
+            },
+            "source": "Blog2Social APP",
+            "author_id": "372338722",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1356230909050167303",
+            "lang": "en",
+            "created_at": "2021-02-01T13:20:20.000Z",
+            "reply_settings": "everyone"
+        },
+        "id": 1356230909050167303,
+        "text": "U.S. President Joe Biden has withdrawn 73 budget cuts worth a combined 27.4 billion dollars, proposed by Donald Trump during the final week of his presidency, according to a letter addressed to Congress leaders.  #DonaldTrump #PresidentJoeBiden\n\nhttps://t.co/M6QLzmV5EU https://t.co/6xIg6XmB69",
+        "attachments": {
+            "media_keys": [
+                "3_1356230907284365321"
+            ]
+        },
+        "author_id": 372338722,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1356230909050167303,
+        "created_at": "2021-02-01T13:20:20+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 213,
+                    "end": 225,
+                    "tag": "DonaldTrump"
+                },
+                {
+                    "start": 226,
+                    "end": 244,
+                    "tag": "PresidentJoeBiden"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 246,
+                    "end": 269,
+                    "url": "https://t.co/M6QLzmV5EU",
+                    "expanded_url": "https://www.worldstagegroup.com/biden-withdraws-27-4b-in-spending-cuts-proposed-by-trump-white-house/",
+                    "display_url": "worldstagegroup.com/biden-withdraw\u2026",
+                    "status": 200,
+                    "unwound_url": "https://www.worldstagegroup.com/biden-withdraws-27-4b-in-spending-cuts-proposed-by-trump-white-house/"
+                },
+                {
+                    "start": 270,
+                    "end": 293,
+                    "url": "https://t.co/6xIg6XmB69",
+                    "expanded_url": "https://twitter.com/Worldstagegroup/status/1356230909050167303/photo/1",
+                    "display_url": "pic.twitter.com/6xIg6XmB69"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "probability": 0.8369,
+                    "type": "Place",
+                    "normalized_text": "U.S."
+                },
+                {
+                    "start": 15,
+                    "end": 23,
+                    "probability": 0.7324,
+                    "type": "Person",
+                    "normalized_text": "Joe Biden"
+                },
+                {
+                    "start": 105,
+                    "end": 116,
+                    "probability": 0.9947,
+                    "type": "Person",
+                    "normalized_text": "Donald Trump"
+                },
+                {
+                    "start": 194,
+                    "end": 201,
+                    "probability": 0.7518,
+                    "type": "Organization",
+                    "normalized_text": "Congress"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Blog2Social APP",
+        "withheld": null
+    }
+]

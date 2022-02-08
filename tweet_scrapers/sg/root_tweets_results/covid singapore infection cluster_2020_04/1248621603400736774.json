@@ -1,0 +1,819 @@
+[
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 83,
+                        "end": 91,
+                        "probability": 0.6481,
+                        "type": "Person",
+                        "normalized_text": "Americans"
+                    },
+                    {
+                        "start": 119,
+                        "end": 123,
+                        "probability": 0.7987,
+                        "type": "Place",
+                        "normalized_text": "Wuhan"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "bianyuyue272727",
+                        "id": "2805741664"
+                    },
+                    {
+                        "start": 21,
+                        "end": 30,
+                        "username": "SCMPNews",
+                        "id": "23922797"
+                    },
+                    {
+                        "start": 31,
+                        "end": 45,
+                        "username": "hongfenghuang",
+                        "id": "906879276791734272"
+                    }
+                ]
+            },
+            "author_id": "1077040357500747776",
+            "id": "1248701516250263552",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1248625779484708866"
+                }
+            ],
+            "text": "RT @bianyuyue272727: @SCMPNews @hongfenghuang Mutated versions of \u2018A\u2019 were seen in Americans reported to have lived in Wuhan, and a large n\u2026",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2020-04-10T19:56:55.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1248701516250263552",
+            "source": "Twitter for iPhone",
+            "reply_settings": "everyone"
+        },
+        "id": 1248701516250263552,
+        "text": "RT @bianyuyue272727: @SCMPNews @hongfenghuang Mutated versions of \u2018A\u2019 were seen in Americans reported to have lived in Wuhan, and a large n\u2026",
+        "attachments": null,
+        "author_id": 1077040357500747776,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1248701516250263552,
+        "created_at": "2020-04-10T19:56:55+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 83,
+                    "end": 91,
+                    "probability": 0.6481,
+                    "type": "Person",
+                    "normalized_text": "Americans"
+                },
+                {
+                    "start": 119,
+                    "end": 123,
+                    "probability": 0.7987,
+                    "type": "Place",
+                    "normalized_text": "Wuhan"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "bianyuyue272727",
+                    "id": "2805741664"
+                },
+                {
+                    "start": 21,
+                    "end": 30,
+                    "username": "SCMPNews",
+                    "id": "23922797"
+                },
+                {
+                    "start": 31,
+                    "end": 45,
+                    "username": "hongfenghuang",
+                    "id": "906879276791734272"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1248625779484708866"
+                },
+                "id": 1248625779484708866,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2805741664",
+            "id": "1248626442893529088",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1248621603400736774"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1248611493320392709"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "username": "WHO",
+                        "id": "14499829"
+                    },
+                    {
+                        "start": 5,
+                        "end": 20,
+                        "username": "Laurie_Garrett",
+                        "id": "299273962"
+                    },
+                    {
+                        "start": 21,
+                        "end": 30,
+                        "username": "WHOSEARO",
+                        "id": "1545915336"
+                    },
+                    {
+                        "start": 31,
+                        "end": 39,
+                        "username": "WHOWPRO",
+                        "id": "3794682452"
+                    },
+                    {
+                        "start": 40,
+                        "end": 48,
+                        "username": "WHOEMRO",
+                        "id": "259372802"
+                    },
+                    {
+                        "start": 49,
+                        "end": 57,
+                        "username": "WHOAFRO",
+                        "id": "544389588"
+                    },
+                    {
+                        "start": 58,
+                        "end": 69,
+                        "username": "WHO_Europe",
+                        "id": "125403342"
+                    },
+                    {
+                        "start": 70,
+                        "end": 78,
+                        "username": "pahowho",
+                        "id": "20629893"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 79,
+                        "end": 102,
+                        "url": "https://t.co/Mmf4puE3j9",
+                        "expanded_url": "https://twitter.com/bianyuyue272727/status/1248621603400736774?s=19",
+                        "display_url": "twitter.com/bianyuyue27272\u2026"
+                    }
+                ]
+            },
+            "text": "@WHO @Laurie_Garrett @WHOSEARO @WHOWPRO @WHOEMRO @WHOAFRO @WHO_Europe @pahowho https://t.co/Mmf4puE3j9",
+            "lang": "und",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "14499829",
+            "created_at": "2020-04-10T14:58:37.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1248599013605113856",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone"
+        },
+        "id": 1248626442893529088,
+        "text": "@WHO @Laurie_Garrett @WHOSEARO @WHOWPRO @WHOEMRO @WHOAFRO @WHO_Europe @pahowho https://t.co/Mmf4puE3j9",
+        "attachments": null,
+        "author_id": 2805741664,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1248599013605113856,
+        "created_at": "2020-04-10T14:58:37+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "username": "WHO",
+                    "id": "14499829"
+                },
+                {
+                    "start": 5,
+                    "end": 20,
+                    "username": "Laurie_Garrett",
+                    "id": "299273962"
+                },
+                {
+                    "start": 21,
+                    "end": 30,
+                    "username": "WHOSEARO",
+                    "id": "1545915336"
+                },
+                {
+                    "start": 31,
+                    "end": 39,
+                    "username": "WHOWPRO",
+                    "id": "3794682452"
+                },
+                {
+                    "start": 40,
+                    "end": 48,
+                    "username": "WHOEMRO",
+                    "id": "259372802"
+                },
+                {
+                    "start": 49,
+                    "end": 57,
+                    "username": "WHOAFRO",
+                    "id": "544389588"
+                },
+                {
+                    "start": 58,
+                    "end": 69,
+                    "username": "WHO_Europe",
+                    "id": "125403342"
+                },
+                {
+                    "start": 70,
+                    "end": 78,
+                    "username": "pahowho",
+                    "id": "20629893"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 79,
+                    "end": 102,
+                    "url": "https://t.co/Mmf4puE3j9",
+                    "expanded_url": "https://twitter.com/bianyuyue272727/status/1248621603400736774?s=19",
+                    "display_url": "twitter.com/bianyuyue27272\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14499829,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1248621603400736774"
+                },
+                "id": 1248621603400736774,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1248611493320392709"
+                },
+                "id": 1248611493320392709,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 98,
+                        "end": 102,
+                        "probability": 0.8453,
+                        "type": "Place",
+                        "normalized_text": "Wuhan"
+                    },
+                    {
+                        "start": 174,
+                        "end": 175,
+                        "probability": 0.9634,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    },
+                    {
+                        "start": 181,
+                        "end": 189,
+                        "probability": 0.9674,
+                        "type": "Place",
+                        "normalized_text": "Australia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "SCMPNews",
+                        "id": "23922797"
+                    },
+                    {
+                        "start": 10,
+                        "end": 24,
+                        "username": "hongfenghuang",
+                        "id": "906879276791734272"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 192,
+                        "end": 215,
+                        "url": "https://t.co/Mmf4puE3j9",
+                        "expanded_url": "https://twitter.com/bianyuyue272727/status/1248621603400736774?s=19",
+                        "display_url": "twitter.com/bianyuyue27272\u2026"
+                    }
+                ]
+            },
+            "author_id": "2805741664",
+            "id": "1248625779484708866",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1248621603400736774"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1248564848717262849"
+                }
+            ],
+            "text": "@SCMPNews @hongfenghuang Mutated versions of \u2018A\u2019 were seen in Americans reported to have lived in Wuhan, and a large number of A-type viruses were found in patients from the US and Australia.\nhttps://t.co/Mmf4puE3j9",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "23922797",
+            "created_at": "2020-04-10T14:55:58.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1248564848717262849",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone"
+        },
+        "id": 1248625779484708866,
+        "text": "@SCMPNews @hongfenghuang Mutated versions of \u2018A\u2019 were seen in Americans reported to have lived in Wuhan, and a large number of A-type viruses were found in patients from the US and Australia.\nhttps://t.co/Mmf4puE3j9",
+        "attachments": null,
+        "author_id": 2805741664,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1248564848717262849,
+        "created_at": "2020-04-10T14:55:58+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "probability": 0.8453,
+                    "type": "Place",
+                    "normalized_text": "Wuhan"
+                },
+                {
+                    "start": 174,
+                    "end": 175,
+                    "probability": 0.9634,
+                    "type": "Place",
+                    "normalized_text": "US"
+                },
+                {
+                    "start": 181,
+                    "end": 189,
+                    "probability": 0.9674,
+                    "type": "Place",
+                    "normalized_text": "Australia"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "SCMPNews",
+                    "id": "23922797"
+                },
+                {
+                    "start": 10,
+                    "end": 24,
+                    "username": "hongfenghuang",
+                    "id": "906879276791734272"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 192,
+                    "end": 215,
+                    "url": "https://t.co/Mmf4puE3j9",
+                    "expanded_url": "https://twitter.com/bianyuyue272727/status/1248621603400736774?s=19",
+                    "display_url": "twitter.com/bianyuyue27272\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 23922797,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1248621603400736774"
+                },
+                "id": 1248621603400736774,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1248564848717262849"
+                },
+                "id": 1248564848717262849,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "2805741664",
+            "id": "1248625201236983808",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1248621603400736774"
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "username": "WHO",
+                        "id": "14499829"
+                    },
+                    {
+                        "start": 5,
+                        "end": 9,
+                        "username": "CNN",
+                        "id": "759251"
+                    },
+                    {
+                        "start": 10,
+                        "end": 26,
+                        "username": "SpokespersonCHN",
+                        "id": "1183698123719200768"
+                    },
+                    {
+                        "start": 27,
+                        "end": 38,
+                        "username": "ajitxsingh",
+                        "id": "3161331104"
+                    },
+                    {
+                        "start": 39,
+                        "end": 47,
+                        "username": "CarlZha",
+                        "id": "65172298"
+                    },
+                    {
+                        "start": 48,
+                        "end": 63,
+                        "username": "ElliottZaagman",
+                        "id": "1609936267"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 64,
+                        "end": 87,
+                        "url": "https://t.co/3Xa1phy0fp",
+                        "expanded_url": "https://twitter.com/bianyuyue272727/status/1248621603400736774",
+                        "display_url": "twitter.com/bianyuyue27272\u2026"
+                    }
+                ]
+            },
+            "text": "@WHO @CNN @SpokespersonCHN @ajitxsingh @CarlZha @ElliottZaagman https://t.co/3Xa1phy0fp",
+            "lang": "und",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "14499829",
+            "created_at": "2020-04-10T14:53:40.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10040667043",
+                        "name": "CNN"
+                    }
+                }
+            ],
+            "conversation_id": "1248625201236983808",
+            "source": "Twitter for Android",
+            "reply_settings": "everyone"
+        },
+        "id": 1248625201236983808,
+        "text": "@WHO @CNN @SpokespersonCHN @ajitxsingh @CarlZha @ElliottZaagman https://t.co/3Xa1phy0fp",
+        "attachments": null,
+        "author_id": 2805741664,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10040667043",
+                    "name": "CNN"
+                }
+            }
+        ],
+        "conversation_id": 1248625201236983808,
+        "created_at": "2020-04-10T14:53:40+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "username": "WHO",
+                    "id": "14499829"
+                },
+                {
+                    "start": 5,
+                    "end": 9,
+                    "username": "CNN",
+                    "id": "759251"
+                },
+                {
+                    "start": 10,
+                    "end": 26,
+                    "username": "SpokespersonCHN",
+                    "id": "1183698123719200768"
+                },
+                {
+                    "start": 27,
+                    "end": 38,
+                    "username": "ajitxsingh",
+                    "id": "3161331104"
+                },
+                {
+                    "start": 39,
+                    "end": 47,
+                    "username": "CarlZha",
+                    "id": "65172298"
+                },
+                {
+                    "start": 48,
+                    "end": 63,
+                    "username": "ElliottZaagman",
+                    "id": "1609936267"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 64,
+                    "end": 87,
+                    "url": "https://t.co/3Xa1phy0fp",
+                    "expanded_url": "https://twitter.com/bianyuyue272727/status/1248621603400736774",
+                    "display_url": "twitter.com/bianyuyue27272\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 14499829,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1248621603400736774"
+                },
+                "id": 1248621603400736774,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

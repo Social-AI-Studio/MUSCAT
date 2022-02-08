@@ -1,0 +1,947 @@
+[
+    {
+        "data": {
+            "created_at": "2021-01-22T04:41:28.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352304154266521605"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 259,
+                        "end": 282,
+                        "url": "https://t.co/5Xoz5yxrgL",
+                        "expanded_url": "https://news.sky.com/story/covid-19-analysis-shows-one-vaccine-dose-leaves-uks-over-60s-seriously-vulnerable-12192949",
+                        "display_url": "news.sky.com/story/covid-19\u2026",
+                        "status": 200,
+                        "unwound_url": "https://news.sky.com/story/covid-19-analysis-shows-one-vaccine-dose-leaves-uks-over-60s-seriously-vulnerable-12192949"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 20,
+                        "probability": 0.9606,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "382258069",
+            "conversation_id": "1352085372910637061",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "author_id": "382258069",
+            "source": "Twitter Web App",
+            "id": "1352476451333951490",
+            "text": "VERY troubling for UK &amp; others who's pursued a one dose policy to get masses vaccinated w/limited vaccines. An Israeli suggests that w/people over 60, efficacy of one dose is just 33%, a massive overestimated of the immunity from one dose of the vaccine.\nhttps://t.co/5Xoz5yxrgL"
+        },
+        "id": 1352476451333951490,
+        "text": "VERY troubling for UK &amp; others who's pursued a one dose policy to get masses vaccinated w/limited vaccines. An Israeli suggests that w/people over 60, efficacy of one dose is just 33%, a massive overestimated of the immunity from one dose of the vaccine.\nhttps://t.co/5Xoz5yxrgL",
+        "attachments": null,
+        "author_id": 382258069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1352085372910637061,
+        "created_at": "2021-01-22T04:41:28+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 259,
+                    "end": 282,
+                    "url": "https://t.co/5Xoz5yxrgL",
+                    "expanded_url": "https://news.sky.com/story/covid-19-analysis-shows-one-vaccine-dose-leaves-uks-over-60s-seriously-vulnerable-12192949",
+                    "display_url": "news.sky.com/story/covid-19\u2026",
+                    "status": 200,
+                    "unwound_url": "https://news.sky.com/story/covid-19-analysis-shows-one-vaccine-dose-leaves-uks-over-60s-seriously-vulnerable-12192949"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 19,
+                    "end": 20,
+                    "probability": 0.9606,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 382258069,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352304154266521605"
+                },
+                "id": 1352304154266521605,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-01-21T17:16:49.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352303556133580800"
+                }
+            ],
+            "in_reply_to_user_id": "382258069",
+            "conversation_id": "1352085372910637061",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "author_id": "382258069",
+            "source": "Twitter Web App",
+            "id": "1352304154266521605",
+            "text": "STOP ALL incoming flights for a period, and/or mandate testing of ALL passengers and fully enforced 14 day quarantine, followed by further testing!   It's NOT that hard.  This levels of Gov't incompetence is truly hard to find!  Amateur hour!"
+        },
+        "id": 1352304154266521605,
+        "text": "STOP ALL incoming flights for a period, and/or mandate testing of ALL passengers and fully enforced 14 day quarantine, followed by further testing!   It's NOT that hard.  This levels of Gov't incompetence is truly hard to find!  Amateur hour!",
+        "attachments": null,
+        "author_id": 382258069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1352085372910637061,
+        "created_at": "2021-01-21T17:16:49+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 382258069,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352303556133580800"
+                },
+                "id": 1352303556133580800,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-01-21T17:14:27.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352303421207048193"
+                }
+            ],
+            "in_reply_to_user_id": "382258069",
+            "conversation_id": "1352085372910637061",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 8,
+                        "end": 13,
+                        "probability": 0.5875,
+                        "type": "Place",
+                        "normalized_text": "Canada"
+                    },
+                    {
+                        "start": 45,
+                        "end": 52,
+                        "probability": 0.998,
+                        "type": "Place",
+                        "normalized_text": "Montreal"
+                    },
+                    {
+                        "start": 136,
+                        "end": 140,
+                        "probability": 0.9528,
+                        "type": "Place",
+                        "normalized_text": "Haiti"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "author_id": "382258069",
+            "source": "Twitter Web App",
+            "id": "1352303556133580800",
+            "text": "\"Health Canada added TS663 \u2014 which landed in Montreal on Jan. 17 \u2014 to its online list of COVID-impacted flights. Two other flights from Haiti earlier this month \u2014TS663 and TS665 \u2014 were deemed to have all rows affected by passengers who subsequently tested positive for the virus\""
+        },
+        "id": 1352303556133580800,
+        "text": "\"Health Canada added TS663 \u2014 which landed in Montreal on Jan. 17 \u2014 to its online list of COVID-impacted flights. Two other flights from Haiti earlier this month \u2014TS663 and TS665 \u2014 were deemed to have all rows affected by passengers who subsequently tested positive for the virus\"",
+        "attachments": null,
+        "author_id": 382258069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1352085372910637061,
+        "created_at": "2021-01-21T17:14:27+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 8,
+                    "end": 13,
+                    "probability": 0.5875,
+                    "type": "Place",
+                    "normalized_text": "Canada"
+                },
+                {
+                    "start": 45,
+                    "end": 52,
+                    "probability": 0.998,
+                    "type": "Place",
+                    "normalized_text": "Montreal"
+                },
+                {
+                    "start": 136,
+                    "end": 140,
+                    "probability": 0.9528,
+                    "type": "Place",
+                    "normalized_text": "Haiti"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 382258069,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352303421207048193"
+                },
+                "id": 1352303421207048193,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-01-21T17:13:54.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352085802013122560"
+                }
+            ],
+            "in_reply_to_user_id": "382258069",
+            "conversation_id": "1352085372910637061",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 81,
+                        "end": 94,
+                        "probability": 0.7475,
+                        "type": "Place",
+                        "normalized_text": "Port-au-Prince"
+                    },
+                    {
+                        "start": 99,
+                        "end": 106,
+                        "probability": 0.6499,
+                        "type": "Place",
+                        "normalized_text": "Montreal"
+                    },
+                    {
+                        "start": 149,
+                        "end": 154,
+                        "probability": 0.86,
+                        "type": "Place",
+                        "normalized_text": "Canada"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "author_id": "382258069",
+            "source": "Twitter Web App",
+            "id": "1352303421207048193",
+            "text": "\"For the third time in 10 days, so many passengers on an Air Transat flight from Port-au-Prince to Montreal tested positive for COVID-19 that Health Canada deemed the entire plane impacted by the virus\"..."
+        },
+        "id": 1352303421207048193,
+        "text": "\"For the third time in 10 days, so many passengers on an Air Transat flight from Port-au-Prince to Montreal tested positive for COVID-19 that Health Canada deemed the entire plane impacted by the virus\"...",
+        "attachments": null,
+        "author_id": 382258069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1352085372910637061,
+        "created_at": "2021-01-21T17:13:54+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 81,
+                    "end": 94,
+                    "probability": 0.7475,
+                    "type": "Place",
+                    "normalized_text": "Port-au-Prince"
+                },
+                {
+                    "start": 99,
+                    "end": 106,
+                    "probability": 0.6499,
+                    "type": "Place",
+                    "normalized_text": "Montreal"
+                },
+                {
+                    "start": 149,
+                    "end": 154,
+                    "probability": 0.86,
+                    "type": "Place",
+                    "normalized_text": "Canada"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 382258069,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352085802013122560"
+                },
+                "id": 1352085802013122560,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-01-21T02:51:53.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352085802013122560"
+                }
+            ],
+            "in_reply_to_user_id": "382258069",
+            "conversation_id": "1352085372910637061",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "Vic_Turbendian",
+                        "id": "382258069"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "author_id": "29441401",
+            "source": "Twitter for iPhone",
+            "id": "1352086485403623427",
+            "text": "@Vic_Turbendian Same for European football?"
+        },
+        "id": 1352086485403623427,
+        "text": "@Vic_Turbendian Same for European football?",
+        "attachments": null,
+        "author_id": 29441401,
+        "context_annotations": [],
+        "conversation_id": 1352085372910637061,
+        "created_at": "2021-01-21T02:51:53+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "Vic_Turbendian",
+                    "id": "382258069"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 382258069,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352085802013122560"
+                },
+                "id": 1352085802013122560,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-01-21T02:49:10.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352085557455843328"
+                }
+            ],
+            "in_reply_to_user_id": "382258069",
+            "conversation_id": "1352085372910637061",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "author_id": "382258069",
+            "source": "Twitter Web App",
+            "id": "1352085802013122560",
+            "text": "If there are no spectators in the stands, why do players need to travel from city to city?   Amateur hour on so many levels!"
+        },
+        "id": 1352085802013122560,
+        "text": "If there are no spectators in the stands, why do players need to travel from city to city?   Amateur hour on so many levels!",
+        "attachments": null,
+        "author_id": 382258069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1352085372910637061,
+        "created_at": "2021-01-21T02:49:10+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 382258069,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352085557455843328"
+                },
+                "id": 1352085557455843328,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-01-21T02:48:12.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1352085372910637061"
+                }
+            ],
+            "in_reply_to_user_id": "382258069",
+            "conversation_id": "1352085372910637061",
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 8,
+                        "end": 13,
+                        "probability": 0.5687,
+                        "type": "Organization",
+                        "normalized_text": "Hockey"
+                    }
+                ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "829003678765821984",
+                        "name": "Hockey"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "839161975712067584",
+                        "name": "Travel Actions",
+                        "description": "This entity includes all conversations about travel and vacation."
+                    }
+                }
+            ],
+            "author_id": "382258069",
+            "source": "Twitter Web App",
+            "id": "1352085557455843328",
+            "text": "Why are Hockey players travelling around in a \"state of emergency\"?  Our leaders are joke!"
+        },
+        "id": 1352085557455843328,
+        "text": "Why are Hockey players travelling around in a \"state of emergency\"?  Our leaders are joke!",
+        "attachments": null,
+        "author_id": 382258069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "829003678765821984",
+                    "name": "Hockey"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "839161975712067584",
+                    "name": "Travel Actions",
+                    "description": "This entity includes all conversations about travel and vacation."
+                }
+            }
+        ],
+        "conversation_id": 1352085372910637061,
+        "created_at": "2021-01-21T02:48:12+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 8,
+                    "end": 13,
+                    "probability": 0.5687,
+                    "type": "Organization",
+                    "normalized_text": "Hockey"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 382258069,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1352085372910637061"
+                },
+                "id": 1352085372910637061,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

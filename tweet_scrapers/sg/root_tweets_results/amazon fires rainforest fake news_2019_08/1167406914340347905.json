@@ -1,0 +1,544 @@
+[
+    {
+        "data": {
+            "id": "1167459846880448513",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847868745150119936",
+                        "name": "Home & family",
+                        "description": "Hobbies and interests"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2019-08-30T15:31:32.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "PeaceOnEarth222",
+                        "id": "2814756798"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "62053582",
+            "source": "Twitter Web App",
+            "text": "RT @PeaceOnEarth222: True: \"As far as I can tell, there has been more coverage of the fake ecological \u2018crisis\u2019 in the Brazilian Amazon on t\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1167456309437972480"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1167459846880448513"
+        },
+        "id": 1167459846880448513,
+        "text": "RT @PeaceOnEarth222: True: \"As far as I can tell, there has been more coverage of the fake ecological \u2018crisis\u2019 in the Brazilian Amazon on t\u2026",
+        "attachments": null,
+        "author_id": 62053582,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "783335558466506752",
+                    "name": "Online"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026792024",
+                    "name": "Amazon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847868745150119936",
+                    "name": "Home & family",
+                    "description": "Hobbies and interests"
+                }
+            }
+        ],
+        "conversation_id": 1167459846880448513,
+        "created_at": "2019-08-30T15:31:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "PeaceOnEarth222",
+                    "id": "2814756798"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1167456309437972480"
+                },
+                "id": 1167456309437972480,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/fkQeYk4967",
+                        "expanded_url": "https://twitter.com/spikedonline/status/1167406914340347905",
+                        "display_url": "twitter.com/spikedonline/s\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 263,
+                        "end": 276,
+                        "tag": "GiletsJaunes"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 107,
+                        "end": 112,
+                        "probability": 0.6815,
+                        "type": "Organization",
+                        "normalized_text": "Amazon"
+                    },
+                    {
+                        "start": 121,
+                        "end": 123,
+                        "probability": 0.9232,
+                        "type": "Organization",
+                        "normalized_text": "BBC"
+                    },
+                    {
+                        "start": 222,
+                        "end": 237,
+                        "probability": 0.8936,
+                        "type": "Person",
+                        "normalized_text": "President Macron"
+                    }
+                ]
+            },
+            "id": "1167456309437972480",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1065659570578612224",
+                        "name": "BBC",
+                        "description": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "822153632002904064",
+                        "name": "Emmanuel Macron",
+                        "description": "Emmanuel Macron"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "822153632002904064",
+                        "name": "Emmanuel Macron",
+                        "description": "Emmanuel Macron"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847868745150119936",
+                        "name": "Home & family",
+                        "description": "Hobbies and interests"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2019-08-30T15:17:29.000Z",
+            "reply_settings": "everyone",
+            "author_id": "2814756798",
+            "source": "Twitter Web App",
+            "text": "True: \"As far as I can tell, there has been more coverage of the fake ecological \u2018crisis\u2019 in the Brazilian Amazon on the BBC website over the past fortnight than there has been of the very real political crisis afflicting President Macron over the past year\" and #GiletsJaunes. https://t.co/fkQeYk4967",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1167406914340347905"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1167456309437972480"
+        },
+        "id": 1167456309437972480,
+        "text": "True: \"As far as I can tell, there has been more coverage of the fake ecological \u2018crisis\u2019 in the Brazilian Amazon on the BBC website over the past fortnight than there has been of the very real political crisis afflicting President Macron over the past year\" and #GiletsJaunes. https://t.co/fkQeYk4967",
+        "attachments": null,
+        "author_id": 2814756798,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1065659570578612224",
+                    "name": "BBC",
+                    "description": "BBC"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "822153632002904064",
+                    "name": "Emmanuel Macron",
+                    "description": "Emmanuel Macron"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596706635776",
+                    "name": "Retail"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "783335558466506752",
+                    "name": "Online"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026792024",
+                    "name": "Amazon"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847868745150119936",
+                    "name": "Home & family",
+                    "description": "Hobbies and interests"
+                }
+            }
+        ],
+        "conversation_id": 1167456309437972480,
+        "created_at": "2019-08-30T15:17:29+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/fkQeYk4967",
+                    "expanded_url": "https://twitter.com/spikedonline/status/1167406914340347905",
+                    "display_url": "twitter.com/spikedonline/s\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 263,
+                    "end": 276,
+                    "tag": "GiletsJaunes"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 107,
+                    "end": 112,
+                    "probability": 0.6815,
+                    "type": "Organization",
+                    "normalized_text": "Amazon"
+                },
+                {
+                    "start": 121,
+                    "end": 123,
+                    "probability": 0.9232,
+                    "type": "Organization",
+                    "normalized_text": "BBC"
+                },
+                {
+                    "start": 222,
+                    "end": 237,
+                    "probability": 0.8936,
+                    "type": "Person",
+                    "normalized_text": "President Macron"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1167406914340347905"
+                },
+                "id": 1167406914340347905,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

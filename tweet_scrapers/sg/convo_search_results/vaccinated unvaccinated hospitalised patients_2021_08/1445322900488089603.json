@@ -1,0 +1,800 @@
+[
+    {
+        "data": {
+            "text": "@beingrichard @guardian 'with Covid' = deathly for the vulnerable vax or no.  BBC in Wales: \"nearly 13% of hospital patients with confirmed Covid were unvaccinated\" meaning 87% ARE vaccinated.  Logical with delta + high vax % in Wales but mild symptoms does NOT equal hospitalised https://t.co/p1VSA61Zoh",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "beingrichard",
+                        "id": "192870646"
+                    },
+                    {
+                        "start": 14,
+                        "end": 23,
+                        "username": "guardian",
+                        "id": "87818409"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/p1VSA61Zoh",
+                        "expanded_url": "https://bbc.com/news/uk-wales-58680204.amp",
+                        "display_url": "bbc.com/news/uk-wales-\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1471905686355283971/iNScyXfp?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 576
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1471905686355283971/iNScyXfp?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "A third of Covid cases in Wales unvaccinated - BBC News",
+                        "description": "A third of Covid cases are among the unvaccinated, new Public Health Wales figures show.",
+                        "unwound_url": "https://www.bbc.com/news/uk-wales-58680204.amp"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 85,
+                        "end": 89,
+                        "probability": 0.9867,
+                        "type": "Place",
+                        "normalized_text": "Wales"
+                    },
+                    {
+                        "start": 229,
+                        "end": 233,
+                        "probability": 0.9905,
+                        "type": "Place",
+                        "normalized_text": "Wales"
+                    }
+                ]
+            },
+            "id": "1445662241550786568",
+            "source": "Twitter Web App",
+            "author_id": "83674545",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1065659570578612224",
+                        "name": "BBC",
+                        "description": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1066122339568386048",
+                        "name": "The Guardian",
+                        "description": "The Guardian"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1445322900488089603",
+            "lang": "en",
+            "created_at": "2021-10-06T08:08:32.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1445572935159189508"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "192870646"
+        },
+        "id": 1445662241550786568,
+        "text": "@beingrichard @guardian 'with Covid' = deathly for the vulnerable vax or no.  BBC in Wales: \"nearly 13% of hospital patients with confirmed Covid were unvaccinated\" meaning 87% ARE vaccinated.  Logical with delta + high vax % in Wales but mild symptoms does NOT equal hospitalised https://t.co/p1VSA61Zoh",
+        "attachments": null,
+        "author_id": 83674545,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1065659570578612224",
+                    "name": "BBC",
+                    "description": "BBC"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1066122339568386048",
+                    "name": "The Guardian",
+                    "description": "The Guardian"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1445322900488089603,
+        "created_at": "2021-10-06T08:08:32+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "beingrichard",
+                    "id": "192870646"
+                },
+                {
+                    "start": 14,
+                    "end": 23,
+                    "username": "guardian",
+                    "id": "87818409"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 281,
+                    "end": 304,
+                    "url": "https://t.co/p1VSA61Zoh",
+                    "expanded_url": "https://bbc.com/news/uk-wales-58680204.amp",
+                    "display_url": "bbc.com/news/uk-wales-\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1471905686355283971/iNScyXfp?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 576
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1471905686355283971/iNScyXfp?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "A third of Covid cases in Wales unvaccinated - BBC News",
+                    "description": "A third of Covid cases are among the unvaccinated, new Public Health Wales figures show.",
+                    "unwound_url": "https://www.bbc.com/news/uk-wales-58680204.amp"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 85,
+                    "end": 89,
+                    "probability": 0.9867,
+                    "type": "Place",
+                    "normalized_text": "Wales"
+                },
+                {
+                    "start": 229,
+                    "end": 233,
+                    "probability": 0.9905,
+                    "type": "Place",
+                    "normalized_text": "Wales"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 192870646,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1445572935159189508"
+                },
+                "id": 1445572935159189508,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@appleqwerty @guardian 'With Covid' I'm told by family, not 'from Covid'. Was due for a lung transplant. But symptoms of vax side effects and bad Covid very similar in some cases, they say. 'With Covid' fairly meaningless. This is a good but tragic visual on vax side FX in UK: https://t.co/yjjUKpVzRt",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "appleqwerty",
+                        "id": "83674545"
+                    },
+                    {
+                        "start": 13,
+                        "end": 22,
+                        "username": "guardian",
+                        "id": "87818409"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/yjjUKpVzRt",
+                        "expanded_url": "https://twitter.com/1121_nobody/status/1441663411994066960?t=vxieUBIfNPOluVSpkrX6bg&s=19",
+                        "display_url": "twitter.com/1121_nobody/st\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 274,
+                        "end": 275,
+                        "probability": 0.9783,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    }
+                ]
+            },
+            "id": "1445572935159189508",
+            "source": "Twitter for Android",
+            "author_id": "192870646",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1066122339568386048",
+                        "name": "The Guardian",
+                        "description": "The Guardian"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1445322900488089603",
+            "lang": "en",
+            "created_at": "2021-10-06T02:13:39.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1441663411994066960"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1445506523279466498"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "83674545"
+        },
+        "id": 1445572935159189508,
+        "text": "@appleqwerty @guardian 'With Covid' I'm told by family, not 'from Covid'. Was due for a lung transplant. But symptoms of vax side effects and bad Covid very similar in some cases, they say. 'With Covid' fairly meaningless. This is a good but tragic visual on vax side FX in UK: https://t.co/yjjUKpVzRt",
+        "attachments": null,
+        "author_id": 192870646,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1066122339568386048",
+                    "name": "The Guardian",
+                    "description": "The Guardian"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1445322900488089603,
+        "created_at": "2021-10-06T02:13:39+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "appleqwerty",
+                    "id": "83674545"
+                },
+                {
+                    "start": 13,
+                    "end": 22,
+                    "username": "guardian",
+                    "id": "87818409"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/yjjUKpVzRt",
+                    "expanded_url": "https://twitter.com/1121_nobody/status/1441663411994066960?t=vxieUBIfNPOluVSpkrX6bg&s=19",
+                    "display_url": "twitter.com/1121_nobody/st\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 274,
+                    "end": 275,
+                    "probability": 0.9783,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 83674545,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1441663411994066960"
+                },
+                "id": 1441663411994066960,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1445506523279466498"
+                },
+                "id": 1445506523279466498,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@beingrichard @guardian Indeed. We need to consider all safe options but are going down the blame game/'comorbid' excuse OR the 'vax %/mandate going to solve it all' hope and pray routes. More than fishy - you know that hasn't saved your friend. With respect, is covid confirmed as his cause of death?",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "beingrichard",
+                        "id": "192870646"
+                    },
+                    {
+                        "start": 14,
+                        "end": 23,
+                        "username": "guardian",
+                        "id": "87818409"
+                    }
+                ]
+            },
+            "id": "1445506523279466498",
+            "source": "Twitter Web App",
+            "author_id": "83674545",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1066122339568386048",
+                        "name": "The Guardian",
+                        "description": "The Guardian"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1445322900488089603",
+            "lang": "en",
+            "created_at": "2021-10-05T21:49:46.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1445503901319401479"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "192870646"
+        },
+        "id": 1445506523279466498,
+        "text": "@beingrichard @guardian Indeed. We need to consider all safe options but are going down the blame game/'comorbid' excuse OR the 'vax %/mandate going to solve it all' hope and pray routes. More than fishy - you know that hasn't saved your friend. With respect, is covid confirmed as his cause of death?",
+        "attachments": null,
+        "author_id": 83674545,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1066122339568386048",
+                    "name": "The Guardian",
+                    "description": "The Guardian"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1445322900488089603,
+        "created_at": "2021-10-05T21:49:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "beingrichard",
+                    "id": "192870646"
+                },
+                {
+                    "start": 14,
+                    "end": 23,
+                    "username": "guardian",
+                    "id": "87818409"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 192870646,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1445503901319401479"
+                },
+                "id": 1445503901319401479,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "text": "@appleqwerty Thank, you, David. Yes, a big shock. Esp. as he'd had Covid pre vax. I think only pushing research favouring forever vaxxing (as @Guardian today) &amp; not highlighting issues like vaxxing already immune, is irresponsible &amp; fishy. Same goes for supps which do no harm and may do good.",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "appleqwerty",
+                        "id": "83674545"
+                    },
+                    {
+                        "start": 142,
+                        "end": 151,
+                        "username": "guardian",
+                        "id": "87818409"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 25,
+                        "end": 29,
+                        "probability": 0.9242,
+                        "type": "Person",
+                        "normalized_text": "David"
+                    }
+                ]
+            },
+            "id": "1445503901319401479",
+            "source": "Twitter for Android",
+            "author_id": "192870646",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1066122339568386048",
+                        "name": "The Guardian",
+                        "description": "The Guardian"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1445322900488089603",
+            "lang": "en",
+            "created_at": "2021-10-05T21:39:20.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1445322900488089603"
+                }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "83674545"
+        },
+        "id": 1445503901319401479,
+        "text": "@appleqwerty Thank, you, David. Yes, a big shock. Esp. as he'd had Covid pre vax. I think only pushing research favouring forever vaxxing (as @Guardian today) &amp; not highlighting issues like vaxxing already immune, is irresponsible &amp; fishy. Same goes for supps which do no harm and may do good.",
+        "attachments": null,
+        "author_id": 192870646,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1066122339568386048",
+                    "name": "The Guardian",
+                    "description": "The Guardian"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1445322900488089603,
+        "created_at": "2021-10-05T21:39:20+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "appleqwerty",
+                    "id": "83674545"
+                },
+                {
+                    "start": 142,
+                    "end": 151,
+                    "username": "guardian",
+                    "id": "87818409"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 29,
+                    "probability": 0.9242,
+                    "type": "Person",
+                    "normalized_text": "David"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 83674545,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1445322900488089603"
+                },
+                "id": 1445322900488089603,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

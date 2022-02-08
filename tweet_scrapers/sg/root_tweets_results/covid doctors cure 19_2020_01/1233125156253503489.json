@@ -1,0 +1,121 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1233125156253503489"
+                }
+            ],
+            "created_at": "2020-02-27T20:24:18.000Z",
+            "author_id": "985912937696014337",
+            "entities": {
+                "cashtags": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "tag": "NLNK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 32,
+                        "end": 55,
+                        "url": "https://t.co/HgyuwEYpwk",
+                        "expanded_url": "https://twitter.com/ACInvestorBlog/status/1233125156253503489",
+                        "display_url": "twitter.com/ACInvestorBlog\u2026"
+                    }
+                ]
+            },
+            "lang": "en",
+            "id": "1233125726770982914",
+            "conversation_id": "1233125726770982914",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "text": "$NLNK adding with you, nice DD! https://t.co/HgyuwEYpwk",
+            "reply_settings": "everyone",
+            "source": "TweetDeck"
+        },
+        "id": 1233125726770982914,
+        "text": "$NLNK adding with you, nice DD! https://t.co/HgyuwEYpwk",
+        "attachments": null,
+        "author_id": 985912937696014337,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1233125726770982914,
+        "created_at": "2020-02-27T20:24:18+00:00",
+        "entities": {
+            "cashtags": [
+                {
+                    "start": 0,
+                    "end": 5,
+                    "tag": "NLNK"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 32,
+                    "end": 55,
+                    "url": "https://t.co/HgyuwEYpwk",
+                    "expanded_url": "https://twitter.com/ACInvestorBlog/status/1233125156253503489",
+                    "display_url": "twitter.com/ACInvestorBlog\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1233125156253503489"
+                },
+                "id": 1233125156253503489,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    }
+]

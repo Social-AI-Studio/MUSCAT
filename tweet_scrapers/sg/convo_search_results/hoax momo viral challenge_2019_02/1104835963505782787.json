@@ -1,0 +1,428 @@
+[
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1104835963505782787",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1105132541856559105"
+                }
+            ],
+            "in_reply_to_user_id": "24778120",
+            "author_id": "27912613",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2019-03-11T16:48:13.000Z",
+            "source": "Twitter for Android",
+            "text": "@Aidrow So was I. Co-workers told me about it and it really perplexed me at the time.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 15,
+                        "end": 27,
+                        "probability": 0.4321,
+                        "type": "Person",
+                        "normalized_text": "I. Co-workers"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "Aidrow",
+                        "id": "24778120"
+                    }
+                ]
+            },
+            "id": "1105148433898196992",
+            "possibly_sensitive": false
+        },
+        "id": 1105148433898196992,
+        "text": "@Aidrow So was I. Co-workers told me about it and it really perplexed me at the time.",
+        "attachments": null,
+        "author_id": 27912613,
+        "context_annotations": [],
+        "conversation_id": 1104835963505782787,
+        "created_at": "2019-03-11T16:48:13+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 15,
+                    "end": 27,
+                    "probability": 0.4321,
+                    "type": "Person",
+                    "normalized_text": "I. Co-workers"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "Aidrow",
+                    "id": "24778120"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 24778120,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1105132541856559105"
+                },
+                "id": 1105132541856559105,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "lang": "en",
+            "conversation_id": "1104835963505782787",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1104937845616140288"
+                }
+            ],
+            "in_reply_to_user_id": "27912613",
+            "author_id": "24778120",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "825063794967662592",
+                        "name": "Candy",
+                        "description": "Candy"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2019-03-11T15:45:05.000Z",
+            "source": "Twitter for Android",
+            "text": "@mwallebeck Thanks, that is a great article... although it references the razor blade in Halloween candy a hoax also... and I beleive that that actually happened in Devon this past Haloween... I'm really happy that this is a hoax though...",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 89,
+                        "end": 97,
+                        "probability": 0.9599,
+                        "type": "Other",
+                        "normalized_text": "Halloween"
+                    },
+                    {
+                        "start": 165,
+                        "end": 169,
+                        "probability": 0.4566,
+                        "type": "Place",
+                        "normalized_text": "Devon"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 11,
+                        "username": "mwallebeck",
+                        "id": "27912613"
+                    }
+                ]
+            },
+            "id": "1105132541856559105",
+            "possibly_sensitive": false
+        },
+        "id": 1105132541856559105,
+        "text": "@mwallebeck Thanks, that is a great article... although it references the razor blade in Halloween candy a hoax also... and I beleive that that actually happened in Devon this past Haloween... I'm really happy that this is a hoax though...",
+        "attachments": null,
+        "author_id": 24778120,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "825063794967662592",
+                    "name": "Candy",
+                    "description": "Candy"
+                }
+            }
+        ],
+        "conversation_id": 1104835963505782787,
+        "created_at": "2019-03-11T15:45:05+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 89,
+                    "end": 97,
+                    "probability": 0.9599,
+                    "type": "Other",
+                    "normalized_text": "Halloween"
+                },
+                {
+                    "start": 165,
+                    "end": 169,
+                    "probability": 0.4566,
+                    "type": "Place",
+                    "normalized_text": "Devon"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 11,
+                    "username": "mwallebeck",
+                    "id": "27912613"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 27912613,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1104937845616140288"
+                },
+                "id": 1104937845616140288,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 43,
+                        "end": 66,
+                        "url": "https://t.co/TOif2hSrPZ",
+                        "expanded_url": "https://www-m.cnn.com/2019/02/28/health/momo-challenge-youtube-trnd/index.html",
+                        "display_url": "www-m.cnn.com/2019/02/28/hea\u2026"
+                    },
+                    {
+                        "start": 68,
+                        "end": 91,
+                        "url": "https://t.co/3WjJZ60EZA",
+                        "expanded_url": "https://www.wired.com/story/momo-hoax-viral-scares-advice/",
+                        "display_url": "wired.com/story/momo-hoa\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1425179759227588611/To-K7A4e?format=jpg&name=orig",
+                                "width": 1280,
+                                "height": 670
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1425179759227588611/To-K7A4e?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "How to Not Fall for Viral Scares",
+                        "description": "The Momo challenge isn\u2019t the first hoax about kids to go viral, and it won\u2019t be the last. Don\u2019t panic: Here\u2019s what to remember.",
+                        "unwound_url": "https://www.wired.com/story/momo-hoax-viral-scares-advice/"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "Aidrow",
+                        "id": "24778120"
+                    }
+                ]
+            },
+            "lang": "en",
+            "conversation_id": "1104835963505782787",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1104835963505782787"
+                }
+            ],
+            "in_reply_to_user_id": "24778120",
+            "author_id": "27912613",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2019-03-11T02:51:25.000Z",
+            "source": "Twitter for Android",
+            "text": "@Aidrow Don't believe everything you read. https://t.co/TOif2hSrPZ\n\nhttps://t.co/3WjJZ60EZA\n\nHaving said that, having the talk  about being able to discuss things with your child is never a bad thing.",
+            "id": "1104937845616140288",
+            "possibly_sensitive": false
+        },
+        "id": 1104937845616140288,
+        "text": "@Aidrow Don't believe everything you read. https://t.co/TOif2hSrPZ\n\nhttps://t.co/3WjJZ60EZA\n\nHaving said that, having the talk  about being able to discuss things with your child is never a bad thing.",
+        "attachments": null,
+        "author_id": 27912613,
+        "context_annotations": [],
+        "conversation_id": 1104835963505782787,
+        "created_at": "2019-03-11T02:51:25+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 43,
+                    "end": 66,
+                    "url": "https://t.co/TOif2hSrPZ",
+                    "expanded_url": "https://www-m.cnn.com/2019/02/28/health/momo-challenge-youtube-trnd/index.html",
+                    "display_url": "www-m.cnn.com/2019/02/28/hea\u2026"
+                },
+                {
+                    "start": 68,
+                    "end": 91,
+                    "url": "https://t.co/3WjJZ60EZA",
+                    "expanded_url": "https://www.wired.com/story/momo-hoax-viral-scares-advice/",
+                    "display_url": "wired.com/story/momo-hoa\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1425179759227588611/To-K7A4e?format=jpg&name=orig",
+                            "width": 1280,
+                            "height": 670
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1425179759227588611/To-K7A4e?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "How to Not Fall for Viral Scares",
+                    "description": "The Momo challenge isn\u2019t the first hoax about kids to go viral, and it won\u2019t be the last. Don\u2019t panic: Here\u2019s what to remember.",
+                    "unwound_url": "https://www.wired.com/story/momo-hoax-viral-scares-advice/"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "Aidrow",
+                    "id": "24778120"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 24778120,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1104835963505782787"
+                },
+                "id": 1104835963505782787,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,1044 @@
+[
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026427301",
+                        "name": "Domino's Pizza"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "842486778841849856",
+                        "name": "Pork recipes",
+                        "description": "Pork"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 34,
+                        "end": 42,
+                        "probability": 0.903,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 269,
+                        "end": 292,
+                        "url": "https://t.co/fyqQuDj82c",
+                        "expanded_url": "https://twitter.com/outrorida/status/1180897241495752704",
+                        "display_url": "twitter.com/outrorida/stat\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "2891554722",
+            "id": "1181333118550081536",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1180897241495752704"
+                }
+            ],
+            "created_at": "2019-10-07T22:18:58.000Z",
+            "conversation_id": "1181333118550081536",
+            "text": "What the actual fuck? I\u2019m so glad Singapore constantly audits and reviews eateries, especially ones with a halal cert. People here have been taught to not bring pork into halal outlets. Not that we\u2019ve never had anyone breach this but it\u2019s often dealt with immediately. https://t.co/fyqQuDj82c"
+        },
+        "id": 1181333118550081536,
+        "text": "What the actual fuck? I\u2019m so glad Singapore constantly audits and reviews eateries, especially ones with a halal cert. People here have been taught to not bring pork into halal outlets. Not that we\u2019ve never had anyone breach this but it\u2019s often dealt with immediately. https://t.co/fyqQuDj82c",
+        "attachments": null,
+        "author_id": 2891554722,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596161376261",
+                    "name": "Dining"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597017083904",
+                    "name": "QSR"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026427301",
+                    "name": "Domino's Pizza"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10041893684",
+                    "name": "Instagram"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "842486778841849856",
+                    "name": "Pork recipes",
+                    "description": "Pork"
+                }
+            }
+        ],
+        "conversation_id": 1181333118550081536,
+        "created_at": "2019-10-07T22:18:58+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 34,
+                    "end": 42,
+                    "probability": 0.903,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 269,
+                    "end": 292,
+                    "url": "https://t.co/fyqQuDj82c",
+                    "expanded_url": "https://twitter.com/outrorida/status/1180897241495752704",
+                    "display_url": "twitter.com/outrorida/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1180897241495752704"
+                },
+                "id": 1180897241495752704,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Instagram",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "860133563332648963",
+                        "name": "Cuisines",
+                        "description": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "842486778841849856",
+                        "name": "Pork recipes",
+                        "description": "Pork"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "847865239886417922",
+                        "name": "Fast food",
+                        "description": "Fast food"
+                    }
+                }
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 157,
+                        "end": 169,
+                        "tag": "whopperpork"
+                    },
+                    {
+                        "start": 170,
+                        "end": 189,
+                        "tag": "burgerkingthailand"
+                    },
+                    {
+                        "start": 190,
+                        "end": 203,
+                        "tag": "foodiefriday"
+                    },
+                    {
+                        "start": 204,
+                        "end": 213,
+                        "tag": "fastfood"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 70,
+                        "end": 77,
+                        "probability": 0.9596,
+                        "type": "Place",
+                        "normalized_text": "Thailand"
+                    },
+                    {
+                        "start": 107,
+                        "end": 115,
+                        "probability": 0.9986,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 118,
+                        "end": 125,
+                        "probability": 0.7353,
+                        "type": "Place",
+                        "normalized_text": "Malaysia"
+                    },
+                    {
+                        "start": 129,
+                        "end": 137,
+                        "probability": 0.9727,
+                        "type": "Place",
+                        "normalized_text": "Indonesia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 214,
+                        "end": 237,
+                        "url": "https://t.co/4lRBnux0sd",
+                        "expanded_url": "https://www.instagram.com/p/B2oZX8MHsrO/?igshid=gziemv6il3rj",
+                        "display_url": "instagram.com/p/B2oZX8MHsrO/\u2026"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "1401849492",
+            "id": "1175007423255498753",
+            "created_at": "2019-09-20T11:22:54.000Z",
+            "conversation_id": "1175007423255498753",
+            "text": "Chapter 108 Act 3: That's my first time having the whopper in Pork in Thailand which I don't get to eat in Singapore, Malaysia &amp; Indonesia due to halal. #whopperpork #burgerkingthailand #foodiefriday #fastfood https://t.co/4lRBnux0sd"
+        },
+        "id": 1175007423255498753,
+        "text": "Chapter 108 Act 3: That's my first time having the whopper in Pork in Thailand which I don't get to eat in Singapore, Malaysia &amp; Indonesia due to halal. #whopperpork #burgerkingthailand #foodiefriday #fastfood https://t.co/4lRBnux0sd",
+        "attachments": null,
+        "author_id": 1401849492,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "860133563332648963",
+                    "name": "Cuisines",
+                    "description": "Cuisines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "842486778841849856",
+                    "name": "Pork recipes",
+                    "description": "Pork"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "847865239886417922",
+                    "name": "Fast food",
+                    "description": "Fast food"
+                }
+            }
+        ],
+        "conversation_id": 1175007423255498753,
+        "created_at": "2019-09-20T11:22:54+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 157,
+                    "end": 169,
+                    "tag": "whopperpork"
+                },
+                {
+                    "start": 170,
+                    "end": 189,
+                    "tag": "burgerkingthailand"
+                },
+                {
+                    "start": 190,
+                    "end": 203,
+                    "tag": "foodiefriday"
+                },
+                {
+                    "start": 204,
+                    "end": 213,
+                    "tag": "fastfood"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 70,
+                    "end": 77,
+                    "probability": 0.9596,
+                    "type": "Place",
+                    "normalized_text": "Thailand"
+                },
+                {
+                    "start": 107,
+                    "end": 115,
+                    "probability": 0.9986,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 118,
+                    "end": 125,
+                    "probability": 0.7353,
+                    "type": "Place",
+                    "normalized_text": "Malaysia"
+                },
+                {
+                    "start": 129,
+                    "end": 137,
+                    "probability": 0.9727,
+                    "type": "Place",
+                    "normalized_text": "Indonesia"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 214,
+                    "end": 237,
+                    "url": "https://t.co/4lRBnux0sd",
+                    "expanded_url": "https://www.instagram.com/p/B2oZX8MHsrO/?igshid=gziemv6il3rj",
+                    "display_url": "instagram.com/p/B2oZX8MHsrO/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Instagram",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "842486778841849856",
+                        "name": "Pork recipes",
+                        "description": "Pork"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 125,
+                        "end": 133,
+                        "probability": 0.9747,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "11803762",
+            "id": "1173700342971871233",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1173688213254430722"
+                }
+            ],
+            "created_at": "2019-09-16T20:49:02.000Z",
+            "conversation_id": "1173700342971871233",
+            "text": "RT @CICILSIPTIC: \ud83c\uddf2\ud83c\uddfe Malaysian start-up Phuture Foods is set to launch its plant-based halal pork (made with mung beans) in Singapore by the\u2026"
+        },
+        "id": 1173700342971871233,
+        "text": "RT @CICILSIPTIC: \ud83c\uddf2\ud83c\uddfe Malaysian start-up Phuture Foods is set to launch its plant-based halal pork (made with mung beans) in Singapore by the\u2026",
+        "attachments": null,
+        "author_id": 11803762,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "842486778841849856",
+                    "name": "Pork recipes",
+                    "description": "Pork"
+                }
+            }
+        ],
+        "conversation_id": 1173700342971871233,
+        "created_at": "2019-09-16T20:49:02+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 125,
+                    "end": 133,
+                    "probability": 0.9747,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1173688213254430722"
+                },
+                "id": 1173688213254430722,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Hootsuite Inc.",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "842486778841849856",
+                        "name": "Pork recipes",
+                        "description": "Pork"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 108,
+                        "end": 116,
+                        "probability": 0.9823,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 243,
+                        "end": 251,
+                        "probability": 0.5121,
+                        "type": "Person",
+                        "normalized_text": "Swine Flu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 253,
+                        "end": 276,
+                        "url": "https://t.co/sncGiM5nD7",
+                        "expanded_url": "http://ow.ly/jHwY50wbrYf",
+                        "display_url": "ow.ly/jHwY50wbrYf"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "77065743",
+            "id": "1173688213254430722",
+            "created_at": "2019-09-16T20:00:50.000Z",
+            "conversation_id": "1173688213254430722",
+            "text": "\ud83c\uddf2\ud83c\uddfe Malaysian start-up Phuture Foods is set to launch its plant-based halal pork (made with mung beans) in Singapore by the end of 2019. The product targets the Asian market and comes at a time when the pork industry there is contending with Swine Flu.\n\nhttps://t.co/sncGiM5nD7"
+        },
+        "id": 1173688213254430722,
+        "text": "\ud83c\uddf2\ud83c\uddfe Malaysian start-up Phuture Foods is set to launch its plant-based halal pork (made with mung beans) in Singapore by the end of 2019. The product targets the Asian market and comes at a time when the pork industry there is contending with Swine Flu.\n\nhttps://t.co/sncGiM5nD7",
+        "attachments": null,
+        "author_id": 77065743,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "842486778841849856",
+                    "name": "Pork recipes",
+                    "description": "Pork"
+                }
+            }
+        ],
+        "conversation_id": 1173688213254430722,
+        "created_at": "2019-09-16T20:00:50+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 108,
+                    "end": 116,
+                    "probability": 0.9823,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 243,
+                    "end": 251,
+                    "probability": 0.5121,
+                    "type": "Person",
+                    "normalized_text": "Swine Flu"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 253,
+                    "end": 276,
+                    "url": "https://t.co/sncGiM5nD7",
+                    "expanded_url": "http://ow.ly/jHwY50wbrYf",
+                    "display_url": "ow.ly/jHwY50wbrYf"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Hootsuite Inc.",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "825047692124442624",
+                        "name": "Food",
+                        "description": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "824777229892661248",
+                        "name": "Generic Food",
+                        "description": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "842486778841849856",
+                        "name": "Pork recipes",
+                        "description": "Pork"
+                    }
+                }
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 83,
+                        "end": 91,
+                        "probability": 0.904,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "author_id": "2971153099",
+            "id": "1167030593252552704",
+            "created_at": "2019-08-29T11:05:50.000Z",
+            "conversation_id": "1167030593252552704",
+            "text": "Now that I've officially stopped consuming pork, I'm loving the halal options that Singapore has."
+        },
+        "id": 1167030593252552704,
+        "text": "Now that I've officially stopped consuming pork, I'm loving the halal options that Singapore has.",
+        "attachments": null,
+        "author_id": 2971153099,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "825047692124442624",
+                    "name": "Food",
+                    "description": "Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "824777229892661248",
+                    "name": "Generic Food",
+                    "description": "Generic Food"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "842486778841849856",
+                    "name": "Pork recipes",
+                    "description": "Pork"
+                }
+            }
+        ],
+        "conversation_id": 1167030593252552704,
+        "created_at": "2019-08-29T11:05:50+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 83,
+                    "end": 91,
+                    "probability": 0.904,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

@@ -1,0 +1,3924 @@
+[
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1417093918722768897"
+                }
+            ],
+            "author_id": "10365942",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1417094867067408386",
+            "text": "@djlavoie @moorehn yeah, it\u2019s fishy. pretty sure we\u2019ll see more of this in the next couple of weeks.",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "djlavoie",
+                        "id": "18142405"
+                    },
+                    {
+                        "start": 10,
+                        "end": 18,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "18142405",
+            "created_at": "2021-07-19T12:11:59.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1417094867067408386,
+        "text": "@djlavoie @moorehn yeah, it\u2019s fishy. pretty sure we\u2019ll see more of this in the next couple of weeks.",
+        "attachments": null,
+        "author_id": 10365942,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-19T12:11:59+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "djlavoie",
+                    "id": "18142405"
+                },
+                {
+                    "start": 10,
+                    "end": 18,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 18142405,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1417093918722768897"
+                },
+                "id": 1417093918722768897,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 46,
+                        "end": 69,
+                        "url": "https://t.co/YLUdLuPo6i",
+                        "expanded_url": "https://twitter.com/Olympics/status/1416938478701408256",
+                        "display_url": "twitter.com/Olympics/statu\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 26,
+                        "end": 31,
+                        "tag": "Pass"
+                    },
+                    {
+                        "start": 32,
+                        "end": 45,
+                        "tag": "MythDebunked"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1416938478701408256"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "22242945",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1103026158382141440",
+                        "name": "Tokyo 2020 Summer Olympics",
+                        "description": "Tokyo 2020 Summer Olympics "
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1407828664981458949",
+                        "name": "Tokyo 2020 Summer Olympics (Limited Topics)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "875831678505074688",
+                        "name": "Gymnastics",
+                        "description": "Gymnastics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "12",
+                        "name": "Sports Team",
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                    },
+                    "entity": {
+                        "id": "1414956998630678528",
+                        "name": "Turkey Olympic Team",
+                        "description": "A league for all teams for all sports for the country: Turkey"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1417052890699603968",
+            "text": "@moorehn Athlete tested ! #Pass #MythDebunked https://t.co/YLUdLuPo6i",
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-19T09:25:11.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1417052890699603968,
+        "text": "@moorehn Athlete tested ! #Pass #MythDebunked https://t.co/YLUdLuPo6i",
+        "attachments": null,
+        "author_id": 22242945,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1103026158382141440",
+                    "name": "Tokyo 2020 Summer Olympics",
+                    "description": "Tokyo 2020 Summer Olympics "
+                }
+            },
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1407828664981458949",
+                    "name": "Tokyo 2020 Summer Olympics (Limited Topics)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "875831678505074688",
+                    "name": "Gymnastics",
+                    "description": "Gymnastics"
+                }
+            },
+            {
+                "domain": {
+                    "id": "12",
+                    "name": "Sports Team",
+                    "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                },
+                "entity": {
+                    "id": "1414956998630678528",
+                    "name": "Turkey Olympic Team",
+                    "description": "A league for all teams for all sports for the country: Turkey"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-19T09:25:11+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 46,
+                    "end": 69,
+                    "url": "https://t.co/YLUdLuPo6i",
+                    "expanded_url": "https://twitter.com/Olympics/status/1416938478701408256",
+                    "display_url": "twitter.com/Olympics/statu\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 26,
+                    "end": 31,
+                    "tag": "Pass"
+                },
+                {
+                    "start": 32,
+                    "end": 45,
+                    "tag": "MythDebunked"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1416938478701408256"
+                },
+                "id": 1416938478701408256,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 103,
+                        "end": 126,
+                        "url": "https://t.co/pnzwSH9rGs",
+                        "expanded_url": "https://twitter.com/MFWitches/status/1416144365106384896",
+                        "display_url": "twitter.com/MFWitches/stat\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "djlavoie",
+                        "id": "18142405"
+                    },
+                    {
+                        "start": 10,
+                        "end": 18,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1416144365106384896"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1416857742644584448"
+                }
+            ],
+            "author_id": "10365942",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1417023485046493186",
+            "text": "@djlavoie @moorehn started a couple of days ago with uncredited screenshots of a tweet. like this one: https://t.co/pnzwSH9rGs",
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "18142405",
+            "created_at": "2021-07-19T07:28:20.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1417023485046493186,
+        "text": "@djlavoie @moorehn started a couple of days ago with uncredited screenshots of a tweet. like this one: https://t.co/pnzwSH9rGs",
+        "attachments": null,
+        "author_id": 10365942,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-19T07:28:20+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 103,
+                    "end": 126,
+                    "url": "https://t.co/pnzwSH9rGs",
+                    "expanded_url": "https://twitter.com/MFWitches/status/1416144365106384896",
+                    "display_url": "twitter.com/MFWitches/stat\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "djlavoie",
+                    "id": "18142405"
+                },
+                {
+                    "start": 10,
+                    "end": 18,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 18142405,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1416144365106384896"
+                },
+                "id": 1416144365106384896,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416857742644584448"
+                },
+                "id": 1416857742644584448,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "17992636",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416956572782170112",
+            "text": "@moorehn Ten not twenty toes in the shower at one time might prove difficult.",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-19T03:02:27.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416956572782170112,
+        "text": "@moorehn Ten not twenty toes in the shower at one time might prove difficult.",
+        "attachments": null,
+        "author_id": 17992636,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-19T03:02:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "351012642",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416933635899281409",
+            "text": "@moorehn The cardboard bed is kind of cool, in that it can be recycled after",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-19T01:31:18.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416933635899281409,
+        "text": "@moorehn The cardboard bed is kind of cool, in that it can be recycled after",
+        "attachments": null,
+        "author_id": 351012642,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-19T01:31:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "1165029595868909568",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416910280487931904",
+            "text": "@moorehn \ud83d\ude04\ud83d\ude04\ud83d\ude04Keeping young athletes from having sex. So optimistic, and realistic.",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T23:58:30.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416910280487931904,
+        "text": "@moorehn \ud83d\ude04\ud83d\ude04\ud83d\ude04Keeping young athletes from having sex. So optimistic, and realistic.",
+        "attachments": null,
+        "author_id": 1165029595868909568,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T23:58:30+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPad",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "389102203",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416895859103453185",
+            "text": "@moorehn Whomever orchestrated this scheme clearly thinks that sex only ever happens on beds",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T23:01:12.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416895859103453185,
+        "text": "@moorehn Whomever orchestrated this scheme clearly thinks that sex only ever happens on beds",
+        "attachments": null,
+        "author_id": 389102203,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T23:01:12+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416855418115137539"
+                }
+            ],
+            "author_id": "17698956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1416856154806837251",
+            "text": "@djlavoie Thanks very much for adding this. Do we know where the other narrative started?",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "djlavoie",
+                        "id": "18142405"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "18142405",
+            "created_at": "2021-07-18T20:23:25.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416856154806837251,
+        "text": "@djlavoie Thanks very much for adding this. Do we know where the other narrative started?",
+        "attachments": null,
+        "author_id": 17698956,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:23:25+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "djlavoie",
+                    "id": "18142405"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 18142405,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416855418115137539"
+                },
+                "id": 1416855418115137539,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 20,
+                        "end": 43,
+                        "url": "https://t.co/yxGBKwkjHE",
+                        "expanded_url": "https://twitter.com/pyroxena/status/1416855171934523393/photo/1",
+                        "display_url": "pic.twitter.com/yxGBKwkjHE"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "lukedones",
+                        "id": "19877062"
+                    },
+                    {
+                        "start": 11,
+                        "end": 19,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "lang": "und",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416854074515812352"
+                }
+            ],
+            "author_id": "1312459224",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "16_1416855158080688129"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1416855171934523393",
+            "text": "@lukedones @moorehn https://t.co/yxGBKwkjHE",
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "19877062",
+            "created_at": "2021-07-18T20:19:31.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416855171934523393,
+        "text": "@lukedones @moorehn https://t.co/yxGBKwkjHE",
+        "attachments": {
+            "media_keys": [
+                "16_1416855158080688129"
+            ]
+        },
+        "author_id": 1312459224,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:19:31+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 20,
+                    "end": 43,
+                    "url": "https://t.co/yxGBKwkjHE",
+                    "expanded_url": "https://twitter.com/pyroxena/status/1416855171934523393/photo/1",
+                    "display_url": "pic.twitter.com/yxGBKwkjHE"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 10,
+                    "username": "lukedones",
+                    "id": "19877062"
+                },
+                {
+                    "start": 11,
+                    "end": 19,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 19877062,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416854074515812352"
+                },
+                "id": 1416854074515812352,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "TweetDeck",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416853201257652224"
+                }
+            ],
+            "author_id": "1036451",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "1282740577637785602",
+                        "name": "Water sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "1284196127642812417",
+                        "name": "Synchronized swimming"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416855105845010438",
+            "text": "@moorehn '96 Olympics in Atlanta (until the bomb went off) was a huge mingle fest of athletes and civilians. I wish I got the name of that Russian synchronized swimmer.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 25,
+                        "end": 31,
+                        "probability": 0.9948,
+                        "type": "Place",
+                        "normalized_text": "Atlanta"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T20:19:15.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416855105845010438,
+        "text": "@moorehn '96 Olympics in Atlanta (until the bomb went off) was a huge mingle fest of athletes and civilians. I wish I got the name of that Russian synchronized swimmer.",
+        "attachments": null,
+        "author_id": 1036451,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "1282740577637785602",
+                    "name": "Water sports"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "1284196127642812417",
+                    "name": "Synchronized swimming"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:19:15+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 25,
+                    "end": 31,
+                    "probability": 0.9948,
+                    "type": "Place",
+                    "normalized_text": "Atlanta"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416853201257652224"
+                },
+                "id": 1416853201257652224,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "19877062",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1416854074515812352",
+            "text": "@moorehn Sex on anti-pigeon spikes will be an event in the 2024 games.",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T20:15:09.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416854074515812352,
+        "text": "@moorehn Sex on anti-pigeon spikes will be an event in the 2024 games.",
+        "attachments": null,
+        "author_id": 19877062,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:15:09+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416853395059642378"
+                }
+            ],
+            "author_id": "17698956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1416853668951957506",
+            "text": "@MichaelAHiener I'm not judging anyone",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "MichaelAHiener",
+                        "id": "2272372957"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "2272372957",
+            "created_at": "2021-07-18T20:13:33.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416853668951957506,
+        "text": "@MichaelAHiener I'm not judging anyone",
+        "attachments": null,
+        "author_id": 17698956,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:13:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 15,
+                    "username": "MichaelAHiener",
+                    "id": "2272372957"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2272372957,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416853395059642378"
+                },
+                "id": 1416853395059642378,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "TweetDeck",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416853201257652224"
+                }
+            ],
+            "author_id": "88293767",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "1286005603643486208",
+                        "name": "Pole vault"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416853564631232522",
+            "text": "@moorehn pole vaulting",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T20:13:08.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416853564631232522,
+        "text": "@moorehn pole vaulting",
+        "attachments": null,
+        "author_id": 88293767,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "1286005603643486208",
+                    "name": "Pole vault"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:13:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416853201257652224"
+                },
+                "id": 1416853201257652224,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "2272372957",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416853395059642378",
+            "text": "@moorehn Some may be into that.",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T20:12:27.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416853395059642378,
+        "text": "@moorehn Some may be into that.",
+        "attachments": null,
+        "author_id": 2272372957,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:12:27+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 232,
+                        "end": 255,
+                        "url": "https://t.co/OMs319OiWy",
+                        "expanded_url": "https://time.com/7554/a-brief-history-of-sex-at-the-olympics/",
+                        "display_url": "time.com/7554/a-brief-h\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1464799219072618498/VxcjuqK0?format=jpg&name=orig",
+                                "width": 1024,
+                                "height": 512
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1464799219072618498/VxcjuqK0?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "A Brief History of Sex at the Olympics",
+                        "description": "Are we really that surprised?",
+                        "unwound_url": "https://time.com/7554/a-brief-history-of-sex-at-the-olympics/"
+                    },
+                    {
+                        "start": 256,
+                        "end": 279,
+                        "url": "https://t.co/q6H1raumXz",
+                        "expanded_url": "https://twitter.com/moorehn/status/1416853201257652224/photo/1",
+                        "display_url": "pic.twitter.com/q6H1raumXz"
+                    },
+                    {
+                        "start": 256,
+                        "end": 279,
+                        "url": "https://t.co/q6H1raumXz",
+                        "expanded_url": "https://twitter.com/moorehn/status/1416853201257652224/photo/1",
+                        "display_url": "pic.twitter.com/q6H1raumXz"
+                    },
+                    {
+                        "start": 256,
+                        "end": 279,
+                        "url": "https://t.co/q6H1raumXz",
+                        "expanded_url": "https://twitter.com/moorehn/status/1416853201257652224/photo/1",
+                        "display_url": "pic.twitter.com/q6H1raumXz"
+                    }
+                ]
+            },
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841343561764873"
+                }
+            ],
+            "author_id": "17698956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1103026158382141440",
+                        "name": "Tokyo 2020 Summer Olympics",
+                        "description": "Tokyo 2020 Summer Olympics "
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1407828664981458949",
+                        "name": "Tokyo 2020 Summer Olympics (Limited Topics)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "attachments": {
+                "media_keys": [
+                    "3_1416853193569538054",
+                    "3_1416853193556955143",
+                    "3_1416853193561083907"
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "id": "1416853201257652224",
+            "text": "While the Tokyo Olympics' decision to use cardboard beds to prevent shenanigans is admittedly hilarious, there is a long history of sex panics around the Olympics. Not family-friendly reading! \n\nYou can revisit some of them here: \n\nhttps://t.co/OMs319OiWy https://t.co/q6H1raumXz",
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T20:11:41.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416853201257652224,
+        "text": "While the Tokyo Olympics' decision to use cardboard beds to prevent shenanigans is admittedly hilarious, there is a long history of sex panics around the Olympics. Not family-friendly reading! \n\nYou can revisit some of them here: \n\nhttps://t.co/OMs319OiWy https://t.co/q6H1raumXz",
+        "attachments": {
+            "media_keys": [
+                "3_1416853193569538054",
+                "3_1416853193556955143",
+                "3_1416853193561083907"
+            ]
+        },
+        "author_id": 17698956,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1103026158382141440",
+                    "name": "Tokyo 2020 Summer Olympics",
+                    "description": "Tokyo 2020 Summer Olympics "
+                }
+            },
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1407828664981458949",
+                    "name": "Tokyo 2020 Summer Olympics (Limited Topics)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T20:11:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 232,
+                    "end": 255,
+                    "url": "https://t.co/OMs319OiWy",
+                    "expanded_url": "https://time.com/7554/a-brief-history-of-sex-at-the-olympics/",
+                    "display_url": "time.com/7554/a-brief-h\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1464799219072618498/VxcjuqK0?format=jpg&name=orig",
+                            "width": 1024,
+                            "height": 512
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1464799219072618498/VxcjuqK0?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "A Brief History of Sex at the Olympics",
+                    "description": "Are we really that surprised?",
+                    "unwound_url": "https://time.com/7554/a-brief-history-of-sex-at-the-olympics/"
+                },
+                {
+                    "start": 256,
+                    "end": 279,
+                    "url": "https://t.co/q6H1raumXz",
+                    "expanded_url": "https://twitter.com/moorehn/status/1416853201257652224/photo/1",
+                    "display_url": "pic.twitter.com/q6H1raumXz"
+                },
+                {
+                    "start": 256,
+                    "end": 279,
+                    "url": "https://t.co/q6H1raumXz",
+                    "expanded_url": "https://twitter.com/moorehn/status/1416853201257652224/photo/1",
+                    "display_url": "pic.twitter.com/q6H1raumXz"
+                },
+                {
+                    "start": 256,
+                    "end": 279,
+                    "url": "https://t.co/q6H1raumXz",
+                    "expanded_url": "https://twitter.com/moorehn/status/1416853201257652224/photo/1",
+                    "display_url": "pic.twitter.com/q6H1raumXz"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841343561764873"
+                },
+                "id": 1416841343561764873,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416842862059208707"
+                }
+            ],
+            "author_id": "17698956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1416846010278715396",
+            "text": "@MrFettfinger Womp womp",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "MrFettfinger",
+                        "id": "827615504013606912"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "827615504013606912",
+            "created_at": "2021-07-18T19:43:07.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416846010278715396,
+        "text": "@MrFettfinger Womp womp",
+        "attachments": null,
+        "author_id": 17698956,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:43:07+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "username": "MrFettfinger",
+                    "id": "827615504013606912"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 827615504013606912,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416842862059208707"
+                },
+                "id": 1416842862059208707,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841725230784512"
+                }
+            ],
+            "author_id": "17698956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1416845951117967362",
+            "text": "@baddestmamajama Seems like they didn't think it through! Maybe they'll put little spikes on the floor too, who knows what they can do with cardboard",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 16,
+                        "username": "baddestmamajama",
+                        "id": "568519130"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "568519130",
+            "created_at": "2021-07-18T19:42:53.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416845951117967362,
+        "text": "@baddestmamajama Seems like they didn't think it through! Maybe they'll put little spikes on the floor too, who knows what they can do with cardboard",
+        "attachments": null,
+        "author_id": 17698956,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:42:53+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 16,
+                    "username": "baddestmamajama",
+                    "id": "568519130"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 568519130,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841725230784512"
+                },
+                "id": 1416841725230784512,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter Web App",
+            "lang": "und",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "1320556729810120704",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416845473931927572",
+            "text": "@moorehn \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:40:59.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416845473931927572,
+        "text": "@moorehn \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "attachments": null,
+        "author_id": 1320556729810120704,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:40:59+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "759770848500805632",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "864925500627484672",
+                        "name": "Family and life stages",
+                        "description": "Family and Life Stages"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847545943922692096",
+                        "name": "College students",
+                        "description": "College students"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "852219717016141824",
+                        "name": "College life",
+                        "description": "College Life"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "id": "1416843918520500226",
+            "text": "@moorehn Shitty mattresses have totally curtailed sex in college dorms\u2026 great plan",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:34:48.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416843918520500226,
+        "text": "@moorehn Shitty mattresses have totally curtailed sex in college dorms\u2026 great plan",
+        "attachments": null,
+        "author_id": 759770848500805632,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "864925500627484672",
+                    "name": "Family and life stages",
+                    "description": "Family and Life Stages"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "847545943922692096",
+                    "name": "College students",
+                    "description": "College students"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "852219717016141824",
+                    "name": "College life",
+                    "description": "College Life"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:34:48+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841737633468417"
+                }
+            ],
+            "author_id": "198034921",
+            "geo": {
+                "place_id": "000c7ae04f0a875b"
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1416843906386472960",
+            "text": "@CarmenN1955 @moorehn I know, right!? These are athletes were talking about.",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 12,
+                        "username": "CarmenN1955",
+                        "id": "707709149698588672"
+                    },
+                    {
+                        "start": 13,
+                        "end": 21,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "707709149698588672",
+            "created_at": "2021-07-18T19:34:45.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416843906386472960,
+        "text": "@CarmenN1955 @moorehn I know, right!? These are athletes were talking about.",
+        "attachments": null,
+        "author_id": 198034921,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:34:45+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 12,
+                    "username": "CarmenN1955",
+                    "id": "707709149698588672"
+                },
+                {
+                    "start": 13,
+                    "end": 21,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "000c7ae04f0a875b"
+        },
+        "in_reply_to_user_id": 707709149698588672,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841737633468417"
+                },
+                "id": 1416841737633468417,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "827615504013606912",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1416842862059208707",
+            "text": "@moorehn Weird. I heard an interview with the designer of these beds on German radio earlier this week. He was asked if you could have sex on them and he laughed and said (according to the German interpreter) \"Yes, of course, sex is no problem at all. These beds can take up to 200kg.\"",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:30:36.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416842862059208707,
+        "text": "@moorehn Weird. I heard an interview with the designer of these beds on German radio earlier this week. He was asked if you could have sex on them and he laughed and said (according to the German interpreter) \"Yes, of course, sex is no problem at all. These beds can take up to 200kg.\"",
+        "attachments": null,
+        "author_id": 827615504013606912,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:30:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "707709149698588672",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1416841737633468417",
+            "text": "@moorehn Ya cause beds are the only place people have sex!",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:26:08.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416841737633468417,
+        "text": "@moorehn Ya cause beds are the only place people have sex!",
+        "attachments": null,
+        "author_id": 707709149698588672,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:26:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841343561764873"
+                }
+            ],
+            "author_id": "568519130",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "id": "1416841725230784512",
+            "text": "@moorehn Also, there is a floor.",
+            "conversation_id": "1416841007816224768",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:26:05.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416841725230784512,
+        "text": "@moorehn Also, there is a floor.",
+        "attachments": null,
+        "author_id": 568519130,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:26:05+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841343561764873"
+                },
+                "id": 1416841343561764873,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841343561764873"
+                }
+            ],
+            "author_id": "40378366",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1416841679521427460",
+            "text": "@moorehn Japan says viral news is not the case.  Beds designed pre-pandemic and support 440lbs.",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 9,
+                        "end": 13,
+                        "probability": 0.823,
+                        "type": "Place",
+                        "normalized_text": "Japan"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "moorehn",
+                        "id": "17698956"
+                    }
+                ]
+            },
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:25:54.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416841679521427460,
+        "text": "@moorehn Japan says viral news is not the case.  Beds designed pre-pandemic and support 440lbs.",
+        "attachments": null,
+        "author_id": 40378366,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:25:54+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 9,
+                    "end": 13,
+                    "probability": 0.823,
+                    "type": "Place",
+                    "normalized_text": "Japan"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "username": "moorehn",
+                    "id": "17698956"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841343561764873"
+                },
+                "id": 1416841343561764873,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841088858460166"
+                }
+            ],
+            "author_id": "17698956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 39,
+                "quote_count": 0
+            },
+            "id": "1416841343561764873",
+            "text": "Definitely fooled the most agile people on earth with some cardboard, the IOC truly never misses",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 74,
+                        "end": 76,
+                        "probability": 0.8713,
+                        "type": "Organization",
+                        "normalized_text": "IOC"
+                    }
+                ]
+            },
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:24:34.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416841343561764873,
+        "text": "Definitely fooled the most agile people on earth with some cardboard, the IOC truly never misses",
+        "attachments": null,
+        "author_id": 17698956,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:24:34+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 74,
+                    "end": 76,
+                    "probability": 0.8713,
+                    "type": "Organization",
+                    "normalized_text": "IOC"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 39,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841088858460166"
+                },
+                "id": 1416841088858460166,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                }
+            ],
+            "author_id": "17698956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                    },
+                    "entity": {
+                        "id": "1052311702081945600",
+                        "name": "Heidi Moore",
+                        "description": "Heidi Moore"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 15,
+                "quote_count": 1
+            },
+            "id": "1416841088858460166",
+            "text": "Love too run an Olympics without understanding human biology",
+            "conversation_id": "1416841007816224768",
+            "in_reply_to_user_id": "17698956",
+            "created_at": "2021-07-18T19:23:33.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1416841088858460166,
+        "text": "Love too run an Olympics without understanding human biology",
+        "attachments": null,
+        "author_id": 17698956,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            },
+            {
+                "domain": {
+                    "id": "94",
+                    "name": "Journalist",
+                    "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                    "id": "1052311702081945600",
+                    "name": "Heidi Moore",
+                    "description": "Heidi Moore"
+                }
+            }
+        ],
+        "conversation_id": 1416841007816224768,
+        "created_at": "2021-07-18T19:23:33+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 17698956,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 15,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1416841007816224768"
+                },
+                "id": 1416841007816224768,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

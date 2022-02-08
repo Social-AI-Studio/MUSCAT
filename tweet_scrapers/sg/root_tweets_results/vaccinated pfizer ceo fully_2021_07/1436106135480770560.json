@@ -1,0 +1,760 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 105,
+                        "end": 128,
+                        "url": "https://t.co/GVt7FOKskA",
+                        "expanded_url": "https://rt.com/news/533981-israel-covid19-vaccine-fourth-dose/",
+                        "display_url": "rt.com/news/533981-is\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=orig",
+                                "width": 980,
+                                "height": 551
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "\u2018This is life from now on\u2019: Israel\u2019s coronavirus czar warns people to prepare for a \u2018fourth injection\u2019 of Covid vaccine \u2014 RT World News",
+                        "description": "With over 2.5 million Israelis already inoculated with three Covid-19 vaccine doses, the national coronavirus czar, Salman Zarka, has said preparations need to begin for an eventual fourth jab due to the virus\u2019 growing variants.",
+                        "unwound_url": "https://www.rt.com/news/533981-israel-covid19-vaccine-fourth-dose/"
+                    },
+                    {
+                        "start": 175,
+                        "end": 198,
+                        "url": "https://t.co/tl5pihMW6A",
+                        "expanded_url": "https://rt.com/usa/533806-fauci-third-vaccine-dose/",
+                        "display_url": "rt.com/usa/533806-fau\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1444824960824795138/s5vFxXIE?format=jpg&name=orig",
+                                "width": 980,
+                                "height": 551
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1444824960824795138/s5vFxXIE?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Americans will \u2018likely\u2019 need 3rd Covid shot to qualify as \u2018fully vaccinated,\u2019 Fauci says as booster battle rages at FDA \u2014 RT USA News",
+                        "description": "What it means to be \u201cfully vaccinated\u201d is set to change, Covid adviser Anthony Fauci said, suggesting the standard regimen will soon include three doses, amid reports that FDA staff voiced concerns over a rushed booster roll-out.",
+                        "unwound_url": "https://www.rt.com/usa/533806-fauci-third-vaccine-dose/"
+                    },
+                    {
+                        "start": 253,
+                        "end": 276,
+                        "url": "https://t.co/tGF1XKE1WS",
+                        "expanded_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html",
+                        "display_url": "cnbc.com/2021/04/15/pfi\u2026",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=orig",
+                                "width": 2850,
+                                "height": 2062
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Pfizer CEO says third Covid vaccine dose likely needed within 12 months",
+                        "description": "Pfizer\u00a0CEO Albert Bourla said people will \"likely\" need a third dose of a Covid-19 vaccine within 12 months of getting fully vaccinated.",
+                        "unwound_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html"
+                    },
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/7Y9b87Mv6X",
+                        "expanded_url": "https://twitter.com/hartab/status/1436106135480770560",
+                        "display_url": "twitter.com/hartab/status/\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 202,
+                        "end": 207,
+                        "probability": 0.5052,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "id": "1436111539870871553",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10001466882",
+                        "name": "MLB Baseball",
+                        "description": "All the latest action from Major League Baseball."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1356030943530602497",
+                        "name": "Blue Jays at Yankees"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1114657018055237632",
+                        "name": "Gio Urshela"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "769193663230468096",
+                        "name": "Baseball"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "26",
+                        "name": "Sports League",
+                        "description": ""
+                    },
+                    "entity": {
+                        "id": "769193602169704448",
+                        "name": "MLB"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "60",
+                        "name": "Athlete",
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                    },
+                    "entity": {
+                        "id": "1114657018055237632",
+                        "name": "Gio Urshela"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-09T23:37:27.000Z",
+            "reply_settings": "everyone",
+            "author_id": "15256416",
+            "source": "Twitter Web App",
+            "text": "vaccine mandates \"..2.5 million Israelis ..inoculated with three ..doses ..preparations ..fourth jab..\": https://t.co/GVt7FOKskA \"..Fauci ..fully vaccinated ..three doses..\": https://t.co/tl5pihMW6A \"..Pfizer CEO ..need to get vaccinated ..annually..\": https://t.co/tGF1XKE1WS https://t.co/7Y9b87Mv6X",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436106135480770560"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1436111539870871553"
+        },
+        "id": 1436111539870871553,
+        "text": "vaccine mandates \"..2.5 million Israelis ..inoculated with three ..doses ..preparations ..fourth jab..\": https://t.co/GVt7FOKskA \"..Fauci ..fully vaccinated ..three doses..\": https://t.co/tl5pihMW6A \"..Pfizer CEO ..need to get vaccinated ..annually..\": https://t.co/tGF1XKE1WS https://t.co/7Y9b87Mv6X",
+        "attachments": null,
+        "author_id": 15256416,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10001466882",
+                    "name": "MLB Baseball",
+                    "description": "All the latest action from Major League Baseball."
+                }
+            },
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1356030943530602497",
+                    "name": "Blue Jays at Yankees"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1114657018055237632",
+                    "name": "Gio Urshela"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "769193663230468096",
+                    "name": "Baseball"
+                }
+            },
+            {
+                "domain": {
+                    "id": "26",
+                    "name": "Sports League",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "769193602169704448",
+                    "name": "MLB"
+                }
+            },
+            {
+                "domain": {
+                    "id": "60",
+                    "name": "Athlete",
+                    "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                },
+                "entity": {
+                    "id": "1114657018055237632",
+                    "name": "Gio Urshela"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1436111539870871553,
+        "created_at": "2021-09-09T23:37:27+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 105,
+                    "end": 128,
+                    "url": "https://t.co/GVt7FOKskA",
+                    "expanded_url": "https://rt.com/news/533981-israel-covid19-vaccine-fourth-dose/",
+                    "display_url": "rt.com/news/533981-is\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=orig",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1470707232736169985/fnJrrYSX?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "\u2018This is life from now on\u2019: Israel\u2019s coronavirus czar warns people to prepare for a \u2018fourth injection\u2019 of Covid vaccine \u2014 RT World News",
+                    "description": "With over 2.5 million Israelis already inoculated with three Covid-19 vaccine doses, the national coronavirus czar, Salman Zarka, has said preparations need to begin for an eventual fourth jab due to the virus\u2019 growing variants.",
+                    "unwound_url": "https://www.rt.com/news/533981-israel-covid19-vaccine-fourth-dose/"
+                },
+                {
+                    "start": 175,
+                    "end": 198,
+                    "url": "https://t.co/tl5pihMW6A",
+                    "expanded_url": "https://rt.com/usa/533806-fauci-third-vaccine-dose/",
+                    "display_url": "rt.com/usa/533806-fau\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1444824960824795138/s5vFxXIE?format=jpg&name=orig",
+                            "width": 980,
+                            "height": 551
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1444824960824795138/s5vFxXIE?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Americans will \u2018likely\u2019 need 3rd Covid shot to qualify as \u2018fully vaccinated,\u2019 Fauci says as booster battle rages at FDA \u2014 RT USA News",
+                    "description": "What it means to be \u201cfully vaccinated\u201d is set to change, Covid adviser Anthony Fauci said, suggesting the standard regimen will soon include three doses, amid reports that FDA staff voiced concerns over a rushed booster roll-out.",
+                    "unwound_url": "https://www.rt.com/usa/533806-fauci-third-vaccine-dose/"
+                },
+                {
+                    "start": 253,
+                    "end": 276,
+                    "url": "https://t.co/tGF1XKE1WS",
+                    "expanded_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html",
+                    "display_url": "cnbc.com/2021/04/15/pfi\u2026",
+                    "images": [
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=orig",
+                            "width": 2850,
+                            "height": 2062
+                        },
+                        {
+                            "url": "https://pbs.twimg.com/news_img/1486779061422764032/62_yUai8?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                        }
+                    ],
+                    "status": 200,
+                    "title": "Pfizer CEO says third Covid vaccine dose likely needed within 12 months",
+                    "description": "Pfizer\u00a0CEO Albert Bourla said people will \"likely\" need a third dose of a Covid-19 vaccine within 12 months of getting fully vaccinated.",
+                    "unwound_url": "https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html"
+                },
+                {
+                    "start": 277,
+                    "end": 300,
+                    "url": "https://t.co/7Y9b87Mv6X",
+                    "expanded_url": "https://twitter.com/hartab/status/1436106135480770560",
+                    "display_url": "twitter.com/hartab/status/\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 202,
+                    "end": 207,
+                    "probability": 0.5052,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436106135480770560"
+                },
+                "id": 1436106135480770560,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 45,
+                        "end": 68,
+                        "url": "https://t.co/wau4qYpUxQ",
+                        "expanded_url": "https://twitter.com/hartab/status/1436106135480770560/video/1",
+                        "display_url": "pic.twitter.com/wau4qYpUxQ"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "probability": 0.2579,
+                        "type": "Organization",
+                        "normalized_text": "Yankee Stadium"
+                    }
+                ]
+            },
+            "id": "1436106135480770560",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10001466882",
+                        "name": "MLB Baseball",
+                        "description": "All the latest action from Major League Baseball."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1356030943530602497",
+                        "name": "Blue Jays at Yankees"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1114657018055237632",
+                        "name": "Gio Urshela"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "769193663230468096",
+                        "name": "Baseball"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "26",
+                        "name": "Sports League",
+                        "description": ""
+                    },
+                    "entity": {
+                        "id": "769193602169704448",
+                        "name": "MLB"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "60",
+                        "name": "Athlete",
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                    },
+                    "entity": {
+                        "id": "1114657018055237632",
+                        "name": "Gio Urshela"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 10,
+                "quote_count": 1
+            },
+            "created_at": "2021-09-09T23:15:58.000Z",
+            "reply_settings": "everyone",
+            "author_id": "156799166",
+            "source": "Twitter for iPhone",
+            "text": "Yankee Stadium \ud83d\ude0d\ud83d\ude0d\nGio Urshela de Inicialista https://t.co/wau4qYpUxQ",
+            "attachments": {
+                "media_keys": [
+                    "7_1436106076974456832"
+                ]
+            },
+            "lang": "es",
+            "possibly_sensitive": false,
+            "conversation_id": "1436106135480770560"
+        },
+        "id": 1436106135480770560,
+        "text": "Yankee Stadium \ud83d\ude0d\ud83d\ude0d\nGio Urshela de Inicialista https://t.co/wau4qYpUxQ",
+        "attachments": {
+            "media_keys": [
+                "7_1436106076974456832"
+            ]
+        },
+        "author_id": 156799166,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10001466882",
+                    "name": "MLB Baseball",
+                    "description": "All the latest action from Major League Baseball."
+                }
+            },
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1356030943530602497",
+                    "name": "Blue Jays at Yankees"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1114657018055237632",
+                    "name": "Gio Urshela"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "769193663230468096",
+                    "name": "Baseball"
+                }
+            },
+            {
+                "domain": {
+                    "id": "26",
+                    "name": "Sports League",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "769193602169704448",
+                    "name": "MLB"
+                }
+            },
+            {
+                "domain": {
+                    "id": "60",
+                    "name": "Athlete",
+                    "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                },
+                "entity": {
+                    "id": "1114657018055237632",
+                    "name": "Gio Urshela"
+                }
+            }
+        ],
+        "conversation_id": 1436106135480770560,
+        "created_at": "2021-09-09T23:15:58+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/wau4qYpUxQ",
+                    "expanded_url": "https://twitter.com/hartab/status/1436106135480770560/video/1",
+                    "display_url": "pic.twitter.com/wau4qYpUxQ"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 13,
+                    "probability": 0.2579,
+                    "type": "Organization",
+                    "normalized_text": "Yankee Stadium"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "es",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 1
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

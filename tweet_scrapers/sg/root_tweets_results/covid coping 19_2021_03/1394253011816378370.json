@@ -1,0 +1,107 @@
+[
+    {
+        "data": {
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 25,
+                        "end": 48,
+                        "url": "https://t.co/GWmGqMt1wf",
+                        "expanded_url": "https://twitter.com/Margutta/status/1394253011816378370",
+                        "display_url": "twitter.com/Margutta/statu\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "ja",
+            "id": "1394253517913661443",
+            "text": "\u304a\u3084\u3064\u3092\u6765\u5712\u8005\u304b\u3089\u7d20\u624b\u3067\u3068\u3044\u3046\u306e\u306f\u3084\u3081\u305f\u65b9\u304c\u3044\u3044 https://t.co/GWmGqMt1wf",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1394253011816378370"
+                }
+            ],
+            "author_id": "23060110",
+            "created_at": "2021-05-17T11:28:37.000Z",
+            "conversation_id": "1394253517913661443"
+        },
+        "id": 1394253517913661443,
+        "text": "\u304a\u3084\u3064\u3092\u6765\u5712\u8005\u304b\u3089\u7d20\u624b\u3067\u3068\u3044\u3046\u306e\u306f\u3084\u3081\u305f\u65b9\u304c\u3044\u3044 https://t.co/GWmGqMt1wf",
+        "attachments": null,
+        "author_id": 23060110,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1394253517913661443,
+        "created_at": "2021-05-17T11:28:37+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 25,
+                    "end": 48,
+                    "url": "https://t.co/GWmGqMt1wf",
+                    "expanded_url": "https://twitter.com/Margutta/status/1394253011816378370",
+                    "display_url": "twitter.com/Margutta/statu\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1394253011816378370"
+                },
+                "id": 1394253011816378370,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

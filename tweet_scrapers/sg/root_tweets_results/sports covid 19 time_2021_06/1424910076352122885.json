@@ -1,0 +1,443 @@
+[
+    {
+        "data": {
+            "conversation_id": "1424912053035323395",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 84,
+                        "end": 107,
+                        "url": "https://t.co/8WMMc3aR1u",
+                        "expanded_url": "https://twitter.com/cbcsports/status/1424910076352122885",
+                        "display_url": "twitter.com/cbcsports/stat\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 2,
+                        "probability": 0.9636,
+                        "type": "Organization",
+                        "normalized_text": "NFL"
+                    }
+                ]
+            },
+            "author_id": "23144675",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10000612773",
+                        "name": "NFL Football",
+                        "description": "Football action from around the National Football League."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10032425201",
+                        "name": "NFL Football"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10033407327",
+                        "name": "Futebol NFL"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                    },
+                    "entity": {
+                        "id": "10042261464",
+                        "name": "F\u00fatbol Americano de la NFL"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "902246646100090880",
+                        "name": "Lamar Jackson",
+                        "description": "Lamar Jackson"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "689566306014617600",
+                        "name": "American football"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "12",
+                        "name": "Sports Team",
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                    },
+                    "entity": {
+                        "id": "689566310217359360",
+                        "name": "Baltimore Ravens"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "26",
+                        "name": "Sports League",
+                        "description": ""
+                    },
+                    "entity": {
+                        "id": "689566314835259392",
+                        "name": "NFL"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "60",
+                        "name": "Athlete",
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                    },
+                    "entity": {
+                        "id": "902246646100090880",
+                        "name": "Lamar Jackson",
+                        "description": "Lamar Jackson"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597491040257",
+                        "name": "Sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10042758256",
+                        "name": "NFL"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847901256525856769",
+                        "name": "Fantasy sports",
+                        "description": "Fantasy sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "893160411498926080",
+                        "name": "Fantasy football",
+                        "description": "Fantasy Football"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "NFL fantasy pools need to know who refuses vaccinations.  Otherwise  bedlam awaits. https://t.co/8WMMc3aR1u",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1424910076352122885"
+                }
+            ],
+            "possibly_sensitive": false,
+            "id": "1424912053035323395",
+            "created_at": "2021-08-10T01:54:41.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1424912053035323395,
+        "text": "NFL fantasy pools need to know who refuses vaccinations.  Otherwise  bedlam awaits. https://t.co/8WMMc3aR1u",
+        "attachments": null,
+        "author_id": 23144675,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10000612773",
+                    "name": "NFL Football",
+                    "description": "Football action from around the National Football League."
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10032425201",
+                    "name": "NFL Football"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10033407327",
+                    "name": "Futebol NFL"
+                }
+            },
+            {
+                "domain": {
+                    "id": "3",
+                    "name": "TV Shows",
+                    "description": "Television shows from around the world"
+                },
+                "entity": {
+                    "id": "10042261464",
+                    "name": "F\u00fatbol Americano de la NFL"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "902246646100090880",
+                    "name": "Lamar Jackson",
+                    "description": "Lamar Jackson"
+                }
+            },
+            {
+                "domain": {
+                    "id": "11",
+                    "name": "Sport",
+                    "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                    "id": "689566306014617600",
+                    "name": "American football"
+                }
+            },
+            {
+                "domain": {
+                    "id": "12",
+                    "name": "Sports Team",
+                    "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                },
+                "entity": {
+                    "id": "689566310217359360",
+                    "name": "Baltimore Ravens"
+                }
+            },
+            {
+                "domain": {
+                    "id": "26",
+                    "name": "Sports League",
+                    "description": ""
+                },
+                "entity": {
+                    "id": "689566314835259392",
+                    "name": "NFL"
+                }
+            },
+            {
+                "domain": {
+                    "id": "60",
+                    "name": "Athlete",
+                    "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                },
+                "entity": {
+                    "id": "902246646100090880",
+                    "name": "Lamar Jackson",
+                    "description": "Lamar Jackson"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597491040257",
+                    "name": "Sports"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10042758256",
+                    "name": "NFL"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847901256525856769",
+                    "name": "Fantasy sports",
+                    "description": "Fantasy sports"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "893160411498926080",
+                    "name": "Fantasy football",
+                    "description": "Fantasy Football"
+                }
+            }
+        ],
+        "conversation_id": 1424912053035323395,
+        "created_at": "2021-08-10T01:54:41+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 84,
+                    "end": 107,
+                    "url": "https://t.co/8WMMc3aR1u",
+                    "expanded_url": "https://twitter.com/cbcsports/status/1424910076352122885",
+                    "display_url": "twitter.com/cbcsports/stat\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 2,
+                    "probability": 0.9636,
+                    "type": "Organization",
+                    "normalized_text": "NFL"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1424910076352122885"
+                },
+                "id": 1424910076352122885,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

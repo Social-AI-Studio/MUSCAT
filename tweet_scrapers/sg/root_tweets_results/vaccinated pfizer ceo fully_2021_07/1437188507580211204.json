@@ -1,0 +1,1250 @@
+[
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                }
+            ],
+            "id": "1437784489204277277",
+            "conversation_id": "1437784489204277277",
+            "created_at": "2021-09-14T14:25:09.000Z",
+            "reply_settings": "everyone",
+            "text": "Exact dit. \n\ud83d\udc47\ud83d\udc47\ud83d\udc47 https://t.co/kvgJlfMZVz",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 16,
+                        "end": 39,
+                        "url": "https://t.co/kvgJlfMZVz",
+                        "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                        "display_url": "twitter.com/wouterstb/stat\u2026"
+                    }
+                ]
+            },
+            "author_id": "115969385"
+        },
+        "id": 1437784489204277277,
+        "text": "Exact dit. \n\ud83d\udc47\ud83d\udc47\ud83d\udc47 https://t.co/kvgJlfMZVz",
+        "attachments": null,
+        "author_id": 115969385,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437784489204277277,
+        "created_at": "2021-09-14T14:25:09+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 16,
+                    "end": 39,
+                    "url": "https://t.co/kvgJlfMZVz",
+                    "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                    "display_url": "twitter.com/wouterstb/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                },
+                "id": 1437188507580211204,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "nl",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                }
+            ],
+            "id": "1437549724836450305",
+            "conversation_id": "1437549724836450305",
+            "created_at": "2021-09-13T22:52:17.000Z",
+            "reply_settings": "everyone",
+            "text": "Precies, als ik die CEO was en ik wist dat ze perfect werken en geen bijwerkingen heeft dan eistte ik een hele lading vaccins op voor mezelf en familie.\n\nDat doet ie niet, dus dan weet je genoeg. https://t.co/U4oAqDRhuO",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 196,
+                        "end": 219,
+                        "url": "https://t.co/U4oAqDRhuO",
+                        "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                        "display_url": "twitter.com/wouterstb/stat\u2026"
+                    }
+                ]
+            },
+            "author_id": "1243916611414822913"
+        },
+        "id": 1437549724836450305,
+        "text": "Precies, als ik die CEO was en ik wist dat ze perfect werken en geen bijwerkingen heeft dan eistte ik een hele lading vaccins op voor mezelf en familie.\n\nDat doet ie niet, dus dan weet je genoeg. https://t.co/U4oAqDRhuO",
+        "attachments": null,
+        "author_id": 1243916611414822913,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437549724836450305,
+        "created_at": "2021-09-13T22:52:17+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 196,
+                    "end": 219,
+                    "url": "https://t.co/U4oAqDRhuO",
+                    "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                    "display_url": "twitter.com/wouterstb/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "nl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                },
+                "id": 1437188507580211204,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                }
+            ],
+            "id": "1437450176923324418",
+            "conversation_id": "1437450176923324418",
+            "created_at": "2021-09-13T16:16:43.000Z",
+            "reply_settings": "everyone",
+            "text": "Don't get high on your own supply, a famous drug dealer saying goes, big pharma : addictive drug dealers!!!!! https://t.co/SDWEnFcCNz",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 110,
+                        "end": 133,
+                        "url": "https://t.co/SDWEnFcCNz",
+                        "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                        "display_url": "twitter.com/wouterstb/stat\u2026"
+                    }
+                ]
+            },
+            "author_id": "63241284"
+        },
+        "id": 1437450176923324418,
+        "text": "Don't get high on your own supply, a famous drug dealer saying goes, big pharma : addictive drug dealers!!!!! https://t.co/SDWEnFcCNz",
+        "attachments": null,
+        "author_id": 63241284,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437450176923324418,
+        "created_at": "2021-09-13T16:16:43+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 110,
+                    "end": 133,
+                    "url": "https://t.co/SDWEnFcCNz",
+                    "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                    "display_url": "twitter.com/wouterstb/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                },
+                "id": 1437188507580211204,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "nl",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                }
+            ],
+            "id": "1437449765034373125",
+            "conversation_id": "1437449765034373125",
+            "created_at": "2021-09-13T16:15:05.000Z",
+            "reply_settings": "everyone",
+            "text": "Wijze spreuk van een oude man: \"Een schoenmaker draagt zelf geen schoenen.\" https://t.co/TEJoppukNB",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/TEJoppukNB",
+                        "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                        "display_url": "twitter.com/wouterstb/stat\u2026"
+                    }
+                ]
+            },
+            "author_id": "1433657016560537600"
+        },
+        "id": 1437449765034373125,
+        "text": "Wijze spreuk van een oude man: \"Een schoenmaker draagt zelf geen schoenen.\" https://t.co/TEJoppukNB",
+        "attachments": null,
+        "author_id": 1433657016560537600,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437449765034373125,
+        "created_at": "2021-09-13T16:15:05+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/TEJoppukNB",
+                    "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                    "display_url": "twitter.com/wouterstb/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "nl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                },
+                "id": 1437188507580211204,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "und",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                }
+            ],
+            "id": "1437388735461613570",
+            "conversation_id": "1437388735461613570",
+            "created_at": "2021-09-13T12:12:34.000Z",
+            "reply_settings": "everyone",
+            "text": ". https://t.co/ATnWR9M6U3",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 2,
+                        "end": 25,
+                        "url": "https://t.co/ATnWR9M6U3",
+                        "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                        "display_url": "twitter.com/wouterstb/stat\u2026"
+                    }
+                ]
+            },
+            "author_id": "113624868"
+        },
+        "id": 1437388735461613570,
+        "text": ". https://t.co/ATnWR9M6U3",
+        "attachments": null,
+        "author_id": 113624868,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437388735461613570,
+        "created_at": "2021-09-13T12:12:34+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 2,
+                    "end": 25,
+                    "url": "https://t.co/ATnWR9M6U3",
+                    "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                    "display_url": "twitter.com/wouterstb/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                },
+                "id": 1437188507580211204,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "und",
+            "attachments": {
+                "media_keys": [
+                    "3_1437338251103195137"
+                ]
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                }
+            ],
+            "id": "1437338253548531714",
+            "conversation_id": "1437338253548531714",
+            "created_at": "2021-09-13T08:51:58.000Z",
+            "reply_settings": "everyone",
+            "text": "https://t.co/k0MuolBYQJ https://t.co/M7DYgklmJ1",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 0,
+                        "end": 23,
+                        "url": "https://t.co/k0MuolBYQJ",
+                        "expanded_url": "https://twitter.com/HansHaagen1/status/1437338253548531714/photo/1",
+                        "display_url": "pic.twitter.com/k0MuolBYQJ"
+                    },
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "url": "https://t.co/M7DYgklmJ1",
+                        "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                        "display_url": "twitter.com/wouterstb/stat\u2026"
+                    }
+                ]
+            },
+            "author_id": "1258761360961351682"
+        },
+        "id": 1437338253548531714,
+        "text": "https://t.co/k0MuolBYQJ https://t.co/M7DYgklmJ1",
+        "attachments": {
+            "media_keys": [
+                "3_1437338251103195137"
+            ]
+        },
+        "author_id": 1258761360961351682,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437338253548531714,
+        "created_at": "2021-09-13T08:51:58+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 0,
+                    "end": 23,
+                    "url": "https://t.co/k0MuolBYQJ",
+                    "expanded_url": "https://twitter.com/HansHaagen1/status/1437338253548531714/photo/1",
+                    "display_url": "pic.twitter.com/k0MuolBYQJ"
+                },
+                {
+                    "start": 24,
+                    "end": 47,
+                    "url": "https://t.co/M7DYgklmJ1",
+                    "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                    "display_url": "twitter.com/wouterstb/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                },
+                "id": 1437188507580211204,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for Android",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 27,
+                        "end": 39,
+                        "username": "hugodejonge",
+                        "id": "29785926"
+                    },
+                    {
+                        "start": 43,
+                        "end": 55,
+                        "username": "jpaternotte",
+                        "id": "25893416"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 111,
+                        "end": 134,
+                        "url": "https://t.co/Wt9zJNexhK",
+                        "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                        "display_url": "twitter.com/wouterstb/stat\u2026"
+                    }
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "lang": "nl",
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                }
+            ],
+            "id": "1437193482192437250",
+            "conversation_id": "1437193482192437250",
+            "created_at": "2021-09-12T23:16:42.000Z",
+            "reply_settings": "everyone",
+            "text": "Eigenwijze klootzakken van @hugodejonge en @jpaternotte denken daar helaas anders over. Stelletje dorpsgekken. https://t.co/Wt9zJNexhK",
+            "author_id": "1351651175909765124"
+        },
+        "id": 1437193482192437250,
+        "text": "Eigenwijze klootzakken van @hugodejonge en @jpaternotte denken daar helaas anders over. Stelletje dorpsgekken. https://t.co/Wt9zJNexhK",
+        "attachments": null,
+        "author_id": 1351651175909765124,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1437193482192437250,
+        "created_at": "2021-09-12T23:16:42+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 27,
+                    "end": 39,
+                    "username": "hugodejonge",
+                    "id": "29785926"
+                },
+                {
+                    "start": 43,
+                    "end": 55,
+                    "username": "jpaternotte",
+                    "id": "25893416"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 111,
+                    "end": 134,
+                    "url": "https://t.co/Wt9zJNexhK",
+                    "expanded_url": "https://twitter.com/wouterstb/status/1437188507580211204",
+                    "display_url": "twitter.com/wouterstb/stat\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "nl",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1437188507580211204"
+                },
+                "id": 1437188507580211204,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

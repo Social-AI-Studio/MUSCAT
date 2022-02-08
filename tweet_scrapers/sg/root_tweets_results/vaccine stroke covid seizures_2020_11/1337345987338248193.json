@@ -1,0 +1,557 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "ManhartKimberly",
+                        "id": "1335985059111854080"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 57,
+                        "end": 62,
+                        "probability": 0.5033,
+                        "type": "Organization",
+                        "normalized_text": "Pfizer"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1337345987338248193"
+                }
+            ],
+            "created_at": "2021-01-16T13:22:07.000Z",
+            "author_id": "1290809623432364036",
+            "lang": "en",
+            "id": "1350433151651344385",
+            "conversation_id": "1350433151651344385",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @ManhartKimberly: People died as a direct result from Pfizer-BioNTech COVID-19 vaccine. Fact-checkers say it is not true but it is. 4 ca\u2026",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1350433151651344385,
+        "text": "RT @ManhartKimberly: People died as a direct result from Pfizer-BioNTech COVID-19 vaccine. Fact-checkers say it is not true but it is. 4 ca\u2026",
+        "attachments": null,
+        "author_id": 1290809623432364036,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1350433151651344385,
+        "created_at": "2021-01-16T13:22:07+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 19,
+                    "username": "ManhartKimberly",
+                    "id": "1335985059111854080"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 57,
+                    "end": 62,
+                    "probability": 0.5033,
+                    "type": "Organization",
+                    "normalized_text": "Pfizer"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1337345987338248193"
+                },
+                "id": 1337345987338248193,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1337345987338248193"
+                }
+            ],
+            "created_at": "2020-12-11T10:40:53.000Z",
+            "author_id": "1335985059111854080",
+            "lang": "en",
+            "id": "1337346609483575296",
+            "conversation_id": "1337346609483575296",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 2
+            },
+            "text": "Also reported were severe allergic response, including anaphylaxis, wheezing, shortness of breath, loss of consciousness,  swelling of throat, face, neck and extremities, blurred vision lasting several days, vomiting, dizziness ...Not good https://t.co/BD7wmuLKq0",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 240,
+                        "end": 263,
+                        "url": "https://t.co/BD7wmuLKq0",
+                        "expanded_url": "https://twitter.com/ManhartKimberly/status/1337345987338248193",
+                        "display_url": "twitter.com/ManhartKimberl\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter Web App"
+        },
+        "id": 1337346609483575296,
+        "text": "Also reported were severe allergic response, including anaphylaxis, wheezing, shortness of breath, loss of consciousness,  swelling of throat, face, neck and extremities, blurred vision lasting several days, vomiting, dizziness ...Not good https://t.co/BD7wmuLKq0",
+        "attachments": null,
+        "author_id": 1335985059111854080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1337346609483575296,
+        "created_at": "2020-12-11T10:40:53+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 240,
+                    "end": 263,
+                    "url": "https://t.co/BD7wmuLKq0",
+                    "expanded_url": "https://twitter.com/ManhartKimberly/status/1337345987338248193",
+                    "display_url": "twitter.com/ManhartKimberl\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 2
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1337345987338248193"
+                },
+                "id": 1337345987338248193,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752773120",
+                        "name": "Pharma"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10032761422",
+                        "name": "Pfizer"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "probability": 0.3864,
+                        "type": "Other",
+                        "normalized_text": "Pfizer"
+                    },
+                    {
+                        "start": 259,
+                        "end": 261,
+                        "probability": 0.5814,
+                        "type": "Organization",
+                        "normalized_text": "FDA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/VXDjqQq00T",
+                        "expanded_url": "https://twitter.com/ManhartKimberly/status/1337345987338248193/photo/1",
+                        "display_url": "pic.twitter.com/VXDjqQq00T"
+                    }
+                ]
+            },
+            "created_at": "2020-12-11T10:38:24.000Z",
+            "author_id": "1335985059111854080",
+            "lang": "en",
+            "id": "1337345987338248193",
+            "conversation_id": "1337345987338248193",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 1
+            },
+            "text": "People died as a direct result from Pfizer-BioNTech COVID-19 vaccine. Fact-checkers say it is not true but it is. 4 cases of Bell\u2019s Palsy partial facial paralysis after fevers over 104, nerve damage, seizures, miscarriage, heart attack and stroke within hrs. FDA says it's safe https://t.co/VXDjqQq00T",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1337345966412795905"
+                ]
+            },
+            "source": "Twitter Web App"
+        },
+        "id": 1337345987338248193,
+        "text": "People died as a direct result from Pfizer-BioNTech COVID-19 vaccine. Fact-checkers say it is not true but it is. 4 cases of Bell\u2019s Palsy partial facial paralysis after fevers over 104, nerve damage, seizures, miscarriage, heart attack and stroke within hrs. FDA says it's safe https://t.co/VXDjqQq00T",
+        "attachments": {
+            "media_keys": [
+                "3_1337345966412795905"
+            ]
+        },
+        "author_id": 1335985059111854080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596740190208",
+                    "name": "CPG"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752773120",
+                    "name": "Pharma"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10032761422",
+                    "name": "Pfizer"
+                }
+            }
+        ],
+        "conversation_id": 1337345987338248193,
+        "created_at": "2020-12-11T10:38:24+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 36,
+                    "end": 41,
+                    "probability": 0.3864,
+                    "type": "Other",
+                    "normalized_text": "Pfizer"
+                },
+                {
+                    "start": 259,
+                    "end": 261,
+                    "probability": 0.5814,
+                    "type": "Organization",
+                    "normalized_text": "FDA"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "url": "https://t.co/VXDjqQq00T",
+                    "expanded_url": "https://twitter.com/ManhartKimberly/status/1337345987338248193/photo/1",
+                    "display_url": "pic.twitter.com/VXDjqQq00T"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

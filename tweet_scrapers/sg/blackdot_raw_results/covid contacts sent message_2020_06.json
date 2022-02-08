@@ -1,0 +1,375 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1278685520197898240",
+                        "name": "Ghislaine Maxwell"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "TRUMP MAY HAVE SENT A MESSAGE TO MAXWELL IN HIS COVID PRESS BRIEFING, WISHING HER WELL, ALLUDING TO HIS 'NUMEROUS CONTACTS' WITH HER OVER THE YEARS\". SHE WAS A PROCURED THE GIRLS FOR POWERFUL CLIENTS.\nWAS TRUMP ONE!!? IS HE TELEGRAPHING PARDON AS HE DID WITH STONE? FOR SILENCE!! https://t.co/IGOefHSl4Z",
+            "id": "1285876074652499968",
+            "reply_settings": "everyone",
+            "geo": {
+                "place_id": "1c69a67ad480e1b1"
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "entities": {
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/IGOefHSl4Z",
+                        "expanded_url": "https://twitter.com/woodruffbets/status/1285689059831099392",
+                        "display_url": "twitter.com/woodruffbets/s\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.9987,
+                        "type": "Person",
+                        "normalized_text": "TRUMP"
+                    },
+                    {
+                        "start": 33,
+                        "end": 39,
+                        "probability": 0.826,
+                        "type": "Person",
+                        "normalized_text": "MAXWELL"
+                    },
+                    {
+                        "start": 205,
+                        "end": 209,
+                        "probability": 0.9973,
+                        "type": "Person",
+                        "normalized_text": "TRUMP"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1285689059831099392"
+                }
+            ],
+            "conversation_id": "1285876074652499968",
+            "author_id": "1257043635645960196",
+            "created_at": "2020-07-22T09:55:21.000Z",
+            "lang": "en",
+            "source": "Twitter for Android"
+        },
+        "id": 1285876074652499968,
+        "text": "TRUMP MAY HAVE SENT A MESSAGE TO MAXWELL IN HIS COVID PRESS BRIEFING, WISHING HER WELL, ALLUDING TO HIS 'NUMEROUS CONTACTS' WITH HER OVER THE YEARS\". SHE WAS A PROCURED THE GIRLS FOR POWERFUL CLIENTS.\nWAS TRUMP ONE!!? IS HE TELEGRAPHING PARDON AS HE DID WITH STONE? FOR SILENCE!! https://t.co/IGOefHSl4Z",
+        "attachments": null,
+        "author_id": 1257043635645960196,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1278685520197898240",
+                    "name": "Ghislaine Maxwell"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1285876074652499968,
+        "created_at": "2020-07-22T09:55:21+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 280,
+                    "end": 303,
+                    "url": "https://t.co/IGOefHSl4Z",
+                    "expanded_url": "https://twitter.com/woodruffbets/status/1285689059831099392",
+                    "display_url": "twitter.com/woodruffbets/s\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "probability": 0.9987,
+                    "type": "Person",
+                    "normalized_text": "TRUMP"
+                },
+                {
+                    "start": 33,
+                    "end": 39,
+                    "probability": 0.826,
+                    "type": "Person",
+                    "normalized_text": "MAXWELL"
+                },
+                {
+                    "start": 205,
+                    "end": 209,
+                    "probability": 0.9973,
+                    "type": "Person",
+                    "normalized_text": "TRUMP"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "1c69a67ad480e1b1"
+        },
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1285689059831099392"
+                },
+                "id": 1285689059831099392,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "Is this message being sent to close contacts of #COVID19 cases? Find out more here \ud83d\udc49\ud83c\udffb https://t.co/wZkczRdJxm\n\n#Singapore #factcheck https://t.co/3ymKMdzIl3",
+            "attachments": {
+                "media_keys": [
+                    "3_1285867134145359872"
+                ]
+            },
+            "id": "1285867253892706305",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "possibly_sensitive": false,
+            "entities": {
+                "urls": [
+                    {
+                        "start": 86,
+                        "end": 109,
+                        "url": "https://t.co/wZkczRdJxm",
+                        "expanded_url": "https://bit.ly/3jr1sJH",
+                        "display_url": "bit.ly/3jr1sJH"
+                    },
+                    {
+                        "start": 133,
+                        "end": 156,
+                        "url": "https://t.co/3ymKMdzIl3",
+                        "expanded_url": "https://twitter.com/BDRFactCheck/status/1285867253892706305/photo/1",
+                        "display_url": "pic.twitter.com/3ymKMdzIl3"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 48,
+                        "end": 56,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "start": 111,
+                        "end": 121,
+                        "tag": "Singapore"
+                    },
+                    {
+                        "start": 122,
+                        "end": 132,
+                        "tag": "factcheck"
+                    }
+                ]
+            },
+            "conversation_id": "1285867253892706305",
+            "author_id": "1037962426954604549",
+            "created_at": "2020-07-22T09:20:18.000Z",
+            "lang": "en",
+            "source": "Twitter Web App"
+        },
+        "id": 1285867253892706305,
+        "text": "Is this message being sent to close contacts of #COVID19 cases? Find out more here \ud83d\udc49\ud83c\udffb https://t.co/wZkczRdJxm\n\n#Singapore #factcheck https://t.co/3ymKMdzIl3",
+        "attachments": {
+            "media_keys": [
+                "3_1285867134145359872"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1285867253892706305,
+        "created_at": "2020-07-22T09:20:18+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 86,
+                    "end": 109,
+                    "url": "https://t.co/wZkczRdJxm",
+                    "expanded_url": "https://bit.ly/3jr1sJH",
+                    "display_url": "bit.ly/3jr1sJH"
+                },
+                {
+                    "start": 133,
+                    "end": 156,
+                    "url": "https://t.co/3ymKMdzIl3",
+                    "expanded_url": "https://twitter.com/BDRFactCheck/status/1285867253892706305/photo/1",
+                    "display_url": "pic.twitter.com/3ymKMdzIl3"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 48,
+                    "end": 56,
+                    "tag": "COVID19"
+                },
+                {
+                    "start": 111,
+                    "end": 121,
+                    "tag": "Singapore"
+                },
+                {
+                    "start": 122,
+                    "end": 132,
+                    "tag": "factcheck"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

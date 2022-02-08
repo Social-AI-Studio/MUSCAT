@@ -1,0 +1,586 @@
+[
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "author_id": "17089670",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 27,
+                        "end": 43,
+                        "probability": 0.4536,
+                        "type": "Organization",
+                        "normalized_text": "Virginia Sheridan"
+                    },
+                    {
+                        "start": 46,
+                        "end": 55,
+                        "probability": 0.7977,
+                        "type": "Person",
+                        "normalized_text": "Helen Ames"
+                    },
+                    {
+                        "start": 59,
+                        "end": 70,
+                        "probability": 0.6955,
+                        "type": "Person",
+                        "normalized_text": "Prin Bacalan"
+                    },
+                    {
+                        "start": 138,
+                        "end": 142,
+                        "probability": 0.8836,
+                        "type": "Place",
+                        "normalized_text": "Italy"
+                    },
+                    {
+                        "start": 152,
+                        "end": 153,
+                        "probability": 0.7885,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    },
+                    {
+                        "start": 163,
+                        "end": 178,
+                        "probability": 0.5358,
+                        "type": "Organization",
+                        "normalized_text": "Turkish Airlines"
+                    },
+                    {
+                        "start": 188,
+                        "end": 189,
+                        "probability": 0.9455,
+                        "type": "Place",
+                        "normalized_text": "NY"
+                    },
+                    {
+                        "start": 215,
+                        "end": 219,
+                        "probability": 0.9016,
+                        "type": "Place",
+                        "normalized_text": "Dubai"
+                    },
+                    {
+                        "start": 229,
+                        "end": 230,
+                        "probability": 0.5575,
+                        "type": "Place",
+                        "normalized_text": "US"
+                    },
+                    {
+                        "start": 234,
+                        "end": 235,
+                        "probability": 0.9573,
+                        "type": "Place",
+                        "normalized_text": "UK"
+                    },
+                    {
+                        "start": 242,
+                        "end": 255,
+                        "probability": 0.3512,
+                        "type": "Organization",
+                        "normalized_text": "Allianz Travel"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "created_at": "2021-05-27T16:40:05.000Z",
+            "in_reply_to_user_id": "17089670",
+            "id": "1397955779605450752",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1397955777512591364"
+                }
+            ],
+            "text": "The account will be led by Virginia Sheridan, Helen Ames &amp; Prin Bacalan. It joins our growing list of clients including representation of Italy via our UK office, Turkish Airlines, I Love NY, South African Tourism, Dubai Tourism US + UK, and Allianz Travel, among others.",
+            "conversation_id": "1397955775025266690",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596144668673",
+                        "name": "Airline"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029296341",
+                        "name": "Allianz"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "865154676961853441",
+                        "name": "Turkish Airlines",
+                        "description": "Turkish Airlines"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "839159814991167489",
+                        "name": "Travel",
+                        "description": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "839160129752686593",
+                        "name": "General Travel",
+                        "description": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "847894353708068864",
+                        "name": "Investing",
+                        "description": "Investing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "849076200261603328",
+                        "name": "Air travel",
+                        "description": "Air travel"
+                    }
+                }
+            ],
+            "possibly_sensitive": false
+        },
+        "id": 1397955779605450752,
+        "text": "The account will be led by Virginia Sheridan, Helen Ames &amp; Prin Bacalan. It joins our growing list of clients including representation of Italy via our UK office, Turkish Airlines, I Love NY, South African Tourism, Dubai Tourism US + UK, and Allianz Travel, among others.",
+        "attachments": null,
+        "author_id": 17089670,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597302226944",
+                    "name": "Transportation"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596144668673",
+                    "name": "Airline"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596794716162",
+                    "name": "Financial services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029296341",
+                    "name": "Allianz"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "865154676961853441",
+                    "name": "Turkish Airlines",
+                    "description": "Turkish Airlines"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "839159814991167489",
+                    "name": "Travel",
+                    "description": "Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "781974596148793345",
+                    "name": "Business & finance"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "839160129752686593",
+                    "name": "General Travel",
+                    "description": "General Travel"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "847894353708068864",
+                    "name": "Investing",
+                    "description": "Investing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "849076200261603328",
+                    "name": "Air travel",
+                    "description": "Air travel"
+                }
+            }
+        ],
+        "conversation_id": 1397955775025266690,
+        "created_at": "2021-05-27T16:40:05+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 27,
+                    "end": 43,
+                    "probability": 0.4536,
+                    "type": "Organization",
+                    "normalized_text": "Virginia Sheridan"
+                },
+                {
+                    "start": 46,
+                    "end": 55,
+                    "probability": 0.7977,
+                    "type": "Person",
+                    "normalized_text": "Helen Ames"
+                },
+                {
+                    "start": 59,
+                    "end": 70,
+                    "probability": 0.6955,
+                    "type": "Person",
+                    "normalized_text": "Prin Bacalan"
+                },
+                {
+                    "start": 138,
+                    "end": 142,
+                    "probability": 0.8836,
+                    "type": "Place",
+                    "normalized_text": "Italy"
+                },
+                {
+                    "start": 152,
+                    "end": 153,
+                    "probability": 0.7885,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                },
+                {
+                    "start": 163,
+                    "end": 178,
+                    "probability": 0.5358,
+                    "type": "Organization",
+                    "normalized_text": "Turkish Airlines"
+                },
+                {
+                    "start": 188,
+                    "end": 189,
+                    "probability": 0.9455,
+                    "type": "Place",
+                    "normalized_text": "NY"
+                },
+                {
+                    "start": 215,
+                    "end": 219,
+                    "probability": 0.9016,
+                    "type": "Place",
+                    "normalized_text": "Dubai"
+                },
+                {
+                    "start": 229,
+                    "end": 230,
+                    "probability": 0.5575,
+                    "type": "Place",
+                    "normalized_text": "US"
+                },
+                {
+                    "start": 234,
+                    "end": 235,
+                    "probability": 0.9573,
+                    "type": "Place",
+                    "normalized_text": "UK"
+                },
+                {
+                    "start": 242,
+                    "end": 255,
+                    "probability": 0.3512,
+                    "type": "Organization",
+                    "normalized_text": "Allianz Travel"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17089670,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1397955777512591364"
+                },
+                "id": 1397955777512591364,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "reply_settings": "everyone",
+            "author_id": "17089670",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 3,
+                        "probability": 0.6655,
+                        "type": "Person",
+                        "normalized_text": "FINN"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "lang": "en",
+            "created_at": "2021-05-27T16:40:04.000Z",
+            "in_reply_to_user_id": "17089670",
+            "id": "1397955777512591364",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1397955775025266690"
+                }
+            ],
+            "text": "FINN will direct a comprehensive branding and PR campaign creating a refreshed image and online presence, conducting comprehensive media relations, developing high-end brand partnerships and implementing social media that conveys the property\u2019s distinctive beauty and style.",
+            "conversation_id": "1397955775025266690",
+            "source": "Twitter Web App",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "857879016971186177",
+                        "name": "Marketing",
+                        "description": "Marketing"
+                    }
+                }
+            ],
+            "possibly_sensitive": false
+        },
+        "id": 1397955777512591364,
+        "text": "FINN will direct a comprehensive branding and PR campaign creating a refreshed image and online presence, conducting comprehensive media relations, developing high-end brand partnerships and implementing social media that conveys the property\u2019s distinctive beauty and style.",
+        "attachments": null,
+        "author_id": 17089670,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "857879016971186177",
+                    "name": "Marketing",
+                    "description": "Marketing"
+                }
+            }
+        ],
+        "conversation_id": 1397955775025266690,
+        "created_at": "2021-05-27T16:40:04+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 3,
+                    "probability": 0.6655,
+                    "type": "Person",
+                    "normalized_text": "FINN"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17089670,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1397955775025266690"
+                },
+                "id": 1397955775025266690,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

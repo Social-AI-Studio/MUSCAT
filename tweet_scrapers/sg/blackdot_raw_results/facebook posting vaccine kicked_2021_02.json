@@ -1,0 +1,376 @@
+[
+    {
+        "data": {
+            "author_id": "950060335620268037",
+            "conversation_id": "1372386012769497089",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 112,
+                        "end": 135,
+                        "url": "https://t.co/6WSFdw6eic",
+                        "expanded_url": "http://bit.ly/38OTdna",
+                        "display_url": "bit.ly/38OTdna",
+                        "status": 200,
+                        "unwound_url": "https://blackdotresearch.sg/vaccinewatch-are-people-posting-about-vaccine-injuries-being-kicked-off-facebook/"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 85,
+                        "end": 92,
+                        "probability": 0.5291,
+                        "type": "Organization",
+                        "normalized_text": "Facebook"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2021-03-18T03:14:57.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1372378623877910529"
+                }
+            ],
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1372386012769497089",
+            "text": "RT @BDRFactCheck: Are individuals who post about 'vaccine injuries' being kicked off Facebook? Find out here \ud83d\udc49\ud83c\udffb https://t.co/6WSFdw6eic\n\n#C\u2026",
+            "source": "Cal Fact Check",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone"
+        },
+        "id": 1372386012769497089,
+        "text": "RT @BDRFactCheck: Are individuals who post about 'vaccine injuries' being kicked off Facebook? Find out here \ud83d\udc49\ud83c\udffb https://t.co/6WSFdw6eic\n\n#C\u2026",
+        "attachments": null,
+        "author_id": 950060335620268037,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1372386012769497089,
+        "created_at": "2021-03-18T03:14:57+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 112,
+                    "end": 135,
+                    "url": "https://t.co/6WSFdw6eic",
+                    "expanded_url": "http://bit.ly/38OTdna",
+                    "display_url": "bit.ly/38OTdna",
+                    "status": 200,
+                    "unwound_url": "https://blackdotresearch.sg/vaccinewatch-are-people-posting-about-vaccine-injuries-being-kicked-off-facebook/"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 85,
+                    "end": 92,
+                    "probability": 0.5291,
+                    "type": "Organization",
+                    "normalized_text": "Facebook"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1372378623877910529"
+                },
+                "id": 1372378623877910529,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Cal Fact Check",
+        "withheld": null
+    },
+    {
+        "data": {
+            "author_id": "1037962426954604549",
+            "conversation_id": "1372378623877910529",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 94,
+                        "end": 117,
+                        "url": "https://t.co/6WSFdw6eic",
+                        "expanded_url": "http://bit.ly/38OTdna",
+                        "display_url": "bit.ly/38OTdna",
+                        "status": 200,
+                        "unwound_url": "https://blackdotresearch.sg/vaccinewatch-are-people-posting-about-vaccine-injuries-being-kicked-off-facebook/"
+                    },
+                    {
+                        "start": 139,
+                        "end": 162,
+                        "url": "https://t.co/B7GX0p1Vry",
+                        "expanded_url": "https://twitter.com/BDRFactCheck/status/1372378623877910529/photo/1",
+                        "display_url": "pic.twitter.com/B7GX0p1Vry"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 119,
+                        "end": 127,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "start": 128,
+                        "end": 138,
+                        "tag": "FactCheck"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 67,
+                        "end": 74,
+                        "probability": 0.5408,
+                        "type": "Organization",
+                        "normalized_text": "Facebook"
+                    }
+                ]
+            },
+            "lang": "en",
+            "created_at": "2021-03-18T02:45:36.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1372378623877910529",
+            "text": "Are individuals who post about 'vaccine injuries' being kicked off Facebook? Find out here \ud83d\udc49\ud83c\udffb https://t.co/6WSFdw6eic\n\n#COVID19 #FactCheck https://t.co/B7GX0p1Vry",
+            "source": "Twitter Web App",
+            "possibly_sensitive": false,
+            "attachments": {
+                "media_keys": [
+                    "3_1372378343010574339"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1372378623877910529,
+        "text": "Are individuals who post about 'vaccine injuries' being kicked off Facebook? Find out here \ud83d\udc49\ud83c\udffb https://t.co/6WSFdw6eic\n\n#COVID19 #FactCheck https://t.co/B7GX0p1Vry",
+        "attachments": {
+            "media_keys": [
+                "3_1372378343010574339"
+            ]
+        },
+        "author_id": 1037962426954604549,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10029202045",
+                    "name": "Facebook"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1372378623877910529,
+        "created_at": "2021-03-18T02:45:36+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 94,
+                    "end": 117,
+                    "url": "https://t.co/6WSFdw6eic",
+                    "expanded_url": "http://bit.ly/38OTdna",
+                    "display_url": "bit.ly/38OTdna",
+                    "status": 200,
+                    "unwound_url": "https://blackdotresearch.sg/vaccinewatch-are-people-posting-about-vaccine-injuries-being-kicked-off-facebook/"
+                },
+                {
+                    "start": 139,
+                    "end": 162,
+                    "url": "https://t.co/B7GX0p1Vry",
+                    "expanded_url": "https://twitter.com/BDRFactCheck/status/1372378623877910529/photo/1",
+                    "display_url": "pic.twitter.com/B7GX0p1Vry"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 119,
+                    "end": 127,
+                    "tag": "COVID19"
+                },
+                {
+                    "start": 128,
+                    "end": 138,
+                    "tag": "FactCheck"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 67,
+                    "end": 74,
+                    "probability": 0.5408,
+                    "type": "Organization",
+                    "normalized_text": "Facebook"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

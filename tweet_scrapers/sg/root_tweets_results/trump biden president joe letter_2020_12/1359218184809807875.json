@@ -1,0 +1,159 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1040671094246522880",
+                        "name": "Joe Neguse",
+                        "description": "US Representative, Joe Neguse (CO-2)"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1040671094246522880",
+                        "name": "Joe Neguse",
+                        "description": "US Representative, Joe Neguse (CO-2)"
+                    }
+                }
+            ],
+            "created_at": "2021-02-09T19:10:42.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 209,
+                        "end": 232,
+                        "url": "https://t.co/NYzMLzpLY4",
+                        "expanded_url": "https://twitter.com/Maroonsista/status/1359218184809807875/photo/1",
+                        "display_url": "pic.twitter.com/NYzMLzpLY4"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 17,
+                        "end": 34,
+                        "tag": "ImpeachmentTrial"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 192,
+                        "end": 206,
+                        "probability": 0.6584,
+                        "type": "Person",
+                        "normalized_text": "Rep. Joe Neguse"
+                    }
+                ]
+            },
+            "author_id": "16619905",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 13,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1359218184809807875",
+            "text": "is watching this #ImpeachmentTrial just knowing someone is going to say something painfully dumb, but I'm watching this full thing anyway. It's kicking off OK though from what I'm seeing with Rep. Joe Neguse. https://t.co/NYzMLzpLY4",
+            "source": "Twitter Web App",
+            "conversation_id": "1359218184809807875",
+            "possibly_sensitive": false,
+            "attachments": {
+                "media_keys": [
+                    "3_1359217983932006401"
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1359218184809807875,
+        "text": "is watching this #ImpeachmentTrial just knowing someone is going to say something painfully dumb, but I'm watching this full thing anyway. It's kicking off OK though from what I'm seeing with Rep. Joe Neguse. https://t.co/NYzMLzpLY4",
+        "attachments": {
+            "media_keys": [
+                "3_1359217983932006401"
+            ]
+        },
+        "author_id": 16619905,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1040671094246522880",
+                    "name": "Joe Neguse",
+                    "description": "US Representative, Joe Neguse (CO-2)"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1040671094246522880",
+                    "name": "Joe Neguse",
+                    "description": "US Representative, Joe Neguse (CO-2)"
+                }
+            }
+        ],
+        "conversation_id": 1359218184809807875,
+        "created_at": "2021-02-09T19:10:42+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 209,
+                    "end": 232,
+                    "url": "https://t.co/NYzMLzpLY4",
+                    "expanded_url": "https://twitter.com/Maroonsista/status/1359218184809807875/photo/1",
+                    "display_url": "pic.twitter.com/NYzMLzpLY4"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 17,
+                    "end": 34,
+                    "tag": "ImpeachmentTrial"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 192,
+                    "end": 206,
+                    "probability": 0.6584,
+                    "type": "Person",
+                    "normalized_text": "Rep. Joe Neguse"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 13,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

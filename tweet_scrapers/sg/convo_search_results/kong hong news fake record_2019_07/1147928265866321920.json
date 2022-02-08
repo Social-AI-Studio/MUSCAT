@@ -1,0 +1,108 @@
+[
+    {
+        "data": {
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1147928265866321920"
+                }
+            ],
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "id": "1148244285919244294",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "cbcradio",
+                        "id": "17679977"
+                    }
+                ]
+            },
+            "author_id": "124673539",
+            "in_reply_to_user_id": "17679977",
+            "created_at": "2019-07-08T14:55:45.000Z",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1105110947335593985",
+                        "name": "CBC",
+                        "description": "CBC"
+                    }
+                }
+            ],
+            "text": "@cbcradio It is football :)",
+            "reply_settings": "everyone",
+            "conversation_id": "1147928265866321920",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            }
+        },
+        "id": 1148244285919244294,
+        "text": "@cbcradio It is football :)",
+        "attachments": null,
+        "author_id": 124673539,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1105110947335593985",
+                    "name": "CBC",
+                    "description": "CBC"
+                }
+            }
+        ],
+        "conversation_id": 1147928265866321920,
+        "created_at": "2019-07-08T14:55:45+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "cbcradio",
+                    "id": "17679977"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 17679977,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1147928265866321920"
+                },
+                "id": 1147928265866321920,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

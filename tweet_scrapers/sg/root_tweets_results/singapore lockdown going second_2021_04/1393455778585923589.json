@@ -1,0 +1,230 @@
+[
+    {
+        "data": {
+            "source": "Twitter for Android",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1111325550629445633",
+                        "name": "M.K. Stalin",
+                        "description": "M.K. Stalin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1374739114398937090",
+                        "name": "MK Stalin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1374746287141130242",
+                        "name": "Udhayanidhi Stalin"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1111325550629445633",
+                        "name": "M.K. Stalin",
+                        "description": "M.K. Stalin"
+                    }
+                }
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "mkstalin",
+                        "id": "2163039523"
+                    },
+                    {
+                        "start": 10,
+                        "end": 23,
+                        "username": "CMOTamilnadu",
+                        "id": "844890761409777664"
+                    },
+                    {
+                        "start": 24,
+                        "end": 31,
+                        "username": "RAKRI1",
+                        "id": "113598615"
+                    },
+                    {
+                        "start": 32,
+                        "end": 44,
+                        "username": "Udhaystalin",
+                        "id": "234034661"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 45,
+                        "end": 68,
+                        "url": "https://t.co/AfsjxevGx5",
+                        "expanded_url": "https://twitter.com/itisprashanth/status/1393455778585923589",
+                        "display_url": "twitter.com/itisprashanth/\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1393494168492658690",
+            "text": "@mkstalin @CMOTamilnadu @RAKRI1 @Udhaystalin https://t.co/AfsjxevGx5",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1393455778585923589"
+                }
+            ],
+            "author_id": "1943375215",
+            "created_at": "2021-05-15T09:11:14.000Z",
+            "in_reply_to_user_id": "2163039523",
+            "conversation_id": "1393494168492658690"
+        },
+        "id": 1393494168492658690,
+        "text": "@mkstalin @CMOTamilnadu @RAKRI1 @Udhaystalin https://t.co/AfsjxevGx5",
+        "attachments": null,
+        "author_id": 1943375215,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1111325550629445633",
+                    "name": "M.K. Stalin",
+                    "description": "M.K. Stalin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1374739114398937090",
+                    "name": "MK Stalin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1374746287141130242",
+                    "name": "Udhayanidhi Stalin"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1111325550629445633",
+                    "name": "M.K. Stalin",
+                    "description": "M.K. Stalin"
+                }
+            }
+        ],
+        "conversation_id": 1393494168492658690,
+        "created_at": "2021-05-15T09:11:14+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "mkstalin",
+                    "id": "2163039523"
+                },
+                {
+                    "start": 10,
+                    "end": 23,
+                    "username": "CMOTamilnadu",
+                    "id": "844890761409777664"
+                },
+                {
+                    "start": 24,
+                    "end": 31,
+                    "username": "RAKRI1",
+                    "id": "113598615"
+                },
+                {
+                    "start": 32,
+                    "end": 44,
+                    "username": "Udhaystalin",
+                    "id": "234034661"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 45,
+                    "end": 68,
+                    "url": "https://t.co/AfsjxevGx5",
+                    "expanded_url": "https://twitter.com/itisprashanth/status/1393455778585923589",
+                    "display_url": "twitter.com/itisprashanth/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2163039523,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1393455778585923589"
+                },
+                "id": 1393455778585923589,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

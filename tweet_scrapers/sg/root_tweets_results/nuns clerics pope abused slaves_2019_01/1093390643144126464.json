@@ -1,0 +1,247 @@
+[
+    {
+        "data": {
+            "author_id": "256033064",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806597775282421760",
+                        "name": "Pope Francis",
+                        "description": "Pope Francis"
+                    }
+                }
+            ],
+            "lang": "en",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.8973,
+                        "type": "Person",
+                        "normalized_text": "Jesus"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 10,
+                        "end": 33,
+                        "url": "https://t.co/gW6XEw8Qh6",
+                        "expanded_url": "https://twitter.com/girishalva/status/1093390643144126464",
+                        "display_url": "twitter.com/girishalva/sta\u2026"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "id": "1093406600671313920",
+            "text": "Jesus \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/gW6XEw8Qh6",
+            "created_at": "2019-02-07T07:10:22.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "conversation_id": "1093406600671313920",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1093390643144126464"
+                }
+            ]
+        },
+        "id": 1093406600671313920,
+        "text": "Jesus \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/gW6XEw8Qh6",
+        "attachments": null,
+        "author_id": 256033064,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806597775282421760",
+                    "name": "Pope Francis",
+                    "description": "Pope Francis"
+                }
+            }
+        ],
+        "conversation_id": 1093406600671313920,
+        "created_at": "2019-02-07T07:10:22+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 4,
+                    "probability": 0.8973,
+                    "type": "Person",
+                    "normalized_text": "Jesus"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 10,
+                    "end": 33,
+                    "url": "https://t.co/gW6XEw8Qh6",
+                    "expanded_url": "https://twitter.com/girishalva/status/1093390643144126464",
+                    "display_url": "twitter.com/girishalva/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1093390643144126464"
+                },
+                "id": 1093390643144126464,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "in_reply_to_user_id": "827185873301037056",
+            "author_id": "137613839",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "806597775282421760",
+                        "name": "Pope Francis",
+                        "description": "Pope Francis"
+                    }
+                }
+            ],
+            "lang": "und",
+            "reply_settings": "everyone",
+            "id": "1093391524274962437",
+            "text": "@rightlog_in https://t.co/l0UJDzbWTB",
+            "created_at": "2019-02-07T06:10:28.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 13,
+                        "end": 36,
+                        "url": "https://t.co/l0UJDzbWTB",
+                        "expanded_url": "https://twitter.com/girishalva/status/1093390643144126464?s=19",
+                        "display_url": "twitter.com/girishalva/sta\u2026"
+                    }
+                ]
+            },
+            "conversation_id": "1093154848898334720",
+            "possibly_sensitive": false,
+            "source": "Twitter for Android",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1093390643144126464"
+                },
+                {
+                    "type": "replied_to",
+                    "id": "1093154848898334720"
+                }
+            ]
+        },
+        "id": 1093391524274962437,
+        "text": "@rightlog_in https://t.co/l0UJDzbWTB",
+        "attachments": null,
+        "author_id": 137613839,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "806597775282421760",
+                    "name": "Pope Francis",
+                    "description": "Pope Francis"
+                }
+            }
+        ],
+        "conversation_id": 1093154848898334720,
+        "created_at": "2019-02-07T06:10:28+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 13,
+                    "end": 36,
+                    "url": "https://t.co/l0UJDzbWTB",
+                    "expanded_url": "https://twitter.com/girishalva/status/1093390643144126464?s=19",
+                    "display_url": "twitter.com/girishalva/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 827185873301037056,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1093390643144126464"
+                },
+                "id": 1093390643144126464,
+                "type": "quoted"
+            },
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1093154848898334720"
+                },
+                "id": 1093154848898334720,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

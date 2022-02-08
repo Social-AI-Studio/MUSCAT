@@ -1,0 +1,386 @@
+[
+    {
+        "data": {
+            "id": "1232682563551936512",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-02-26T15:03:19.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "JackKSoh",
+                        "id": "860712123889885184"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 15,
+                        "end": 27,
+                        "tag": "Coronavirus"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 44,
+                        "end": 52,
+                        "probability": 0.9953,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "50581606",
+            "source": "Twitter for Android",
+            "text": "RT @JackKSoh: .#Coronavirus: 2 new cases in Singapore, 93 cases in total. 62 patients have been discharged and 7 remain in the ICU. South K\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1232659253883588608"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1232682563551936512"
+        },
+        "id": 1232682563551936512,
+        "text": "RT @JackKSoh: .#Coronavirus: 2 new cases in Singapore, 93 cases in total. 62 patients have been discharged and 7 remain in the ICU. South K\u2026",
+        "attachments": null,
+        "author_id": 50581606,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1232682563551936512,
+        "created_at": "2020-02-26T15:03:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 12,
+                    "username": "JackKSoh",
+                    "id": "860712123889885184"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 15,
+                    "end": 27,
+                    "tag": "Coronavirus"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 44,
+                    "end": 52,
+                    "probability": 0.9953,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1232659253883588608"
+                },
+                "id": 1232659253883588608,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 222,
+                        "end": 245,
+                        "url": "https://t.co/ejdD8IXP61",
+                        "expanded_url": "https://str.sg/JNp6",
+                        "display_url": "str.sg/JNp6"
+                    },
+                    {
+                        "start": 246,
+                        "end": 269,
+                        "url": "https://t.co/AxBYknkmDY",
+                        "expanded_url": "https://twitter.com/JackKSoh/status/1232659253883588608/photo/1",
+                        "display_url": "pic.twitter.com/AxBYknkmDY"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 1,
+                        "end": 13,
+                        "tag": "Coronavirus"
+                    },
+                    {
+                        "start": 206,
+                        "end": 214,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "start": 215,
+                        "end": 220,
+                        "tag": "\u6b66\u6c49\u80ba\u708e"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "probability": 0.9958,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 118,
+                        "end": 128,
+                        "probability": 0.8837,
+                        "type": "Place",
+                        "normalized_text": "South Korea"
+                    },
+                    {
+                        "start": 131,
+                        "end": 135,
+                        "probability": 0.9593,
+                        "type": "Place",
+                        "normalized_text": "Italy"
+                    },
+                    {
+                        "start": 138,
+                        "end": 142,
+                        "probability": 0.9897,
+                        "type": "Place",
+                        "normalized_text": "Japan"
+                    },
+                    {
+                        "start": 146,
+                        "end": 149,
+                        "probability": 0.9799,
+                        "type": "Place",
+                        "normalized_text": "Iran"
+                    },
+                    {
+                        "start": 176,
+                        "end": 184,
+                        "probability": 0.9907,
+                        "type": "Place",
+                        "normalized_text": "Singapore"
+                    },
+                    {
+                        "start": 195,
+                        "end": 199,
+                        "probability": 0.973,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    }
+                ]
+            },
+            "id": "1232659253883588608",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 1
+            },
+            "created_at": "2020-02-26T13:30:42.000Z",
+            "reply_settings": "everyone",
+            "author_id": "860712123889885184",
+            "source": "Twitter Web App",
+            "text": ".#Coronavirus: 2 new cases in Singapore, 93 cases in total. 62 patients have been discharged and 7 remain in the ICU. South Korea, Italy, Japan &amp; Iran now have more cases than Singapore, besides China\n\n#COVID19 #\u6b66\u6c49\u80ba\u708e \nhttps://t.co/ejdD8IXP61 https://t.co/AxBYknkmDY",
+            "attachments": {
+                "media_keys": [
+                    "3_1232657038284427264"
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1232659253883588608"
+        },
+        "id": 1232659253883588608,
+        "text": ".#Coronavirus: 2 new cases in Singapore, 93 cases in total. 62 patients have been discharged and 7 remain in the ICU. South Korea, Italy, Japan &amp; Iran now have more cases than Singapore, besides China\n\n#COVID19 #\u6b66\u6c49\u80ba\u708e \nhttps://t.co/ejdD8IXP61 https://t.co/AxBYknkmDY",
+        "attachments": {
+            "media_keys": [
+                "3_1232657038284427264"
+            ]
+        },
+        "author_id": 860712123889885184,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1232659253883588608,
+        "created_at": "2020-02-26T13:30:42+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 222,
+                    "end": 245,
+                    "url": "https://t.co/ejdD8IXP61",
+                    "expanded_url": "https://str.sg/JNp6",
+                    "display_url": "str.sg/JNp6"
+                },
+                {
+                    "start": 246,
+                    "end": 269,
+                    "url": "https://t.co/AxBYknkmDY",
+                    "expanded_url": "https://twitter.com/JackKSoh/status/1232659253883588608/photo/1",
+                    "display_url": "pic.twitter.com/AxBYknkmDY"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 1,
+                    "end": 13,
+                    "tag": "Coronavirus"
+                },
+                {
+                    "start": 206,
+                    "end": 214,
+                    "tag": "COVID19"
+                },
+                {
+                    "start": 215,
+                    "end": 220,
+                    "tag": "\u6b66\u6c49\u80ba\u708e"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "probability": 0.9958,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 118,
+                    "end": 128,
+                    "probability": 0.8837,
+                    "type": "Place",
+                    "normalized_text": "South Korea"
+                },
+                {
+                    "start": 131,
+                    "end": 135,
+                    "probability": 0.9593,
+                    "type": "Place",
+                    "normalized_text": "Italy"
+                },
+                {
+                    "start": 138,
+                    "end": 142,
+                    "probability": 0.9897,
+                    "type": "Place",
+                    "normalized_text": "Japan"
+                },
+                {
+                    "start": 146,
+                    "end": 149,
+                    "probability": 0.9799,
+                    "type": "Place",
+                    "normalized_text": "Iran"
+                },
+                {
+                    "start": 176,
+                    "end": 184,
+                    "probability": 0.9907,
+                    "type": "Place",
+                    "normalized_text": "Singapore"
+                },
+                {
+                    "start": 195,
+                    "end": 199,
+                    "probability": 0.973,
+                    "type": "Place",
+                    "normalized_text": "China"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

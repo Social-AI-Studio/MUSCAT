@@ -1,0 +1,678 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "877326946253684737",
+                        "name": "United States Senate",
+                        "description": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "897916387829481472",
+                        "name": "United States House of Representatives",
+                        "description": "United States House of Representatives"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "MohitKopinion",
+                        "id": "1328726355362529281"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 27,
+                        "probability": 0.9983,
+                        "type": "Person",
+                        "normalized_text": "Joe Biden"
+                    },
+                    {
+                        "start": 47,
+                        "end": 66,
+                        "probability": 0.4513,
+                        "type": "Organization",
+                        "normalized_text": "Speaker of the House"
+                    },
+                    {
+                        "start": 89,
+                        "end": 94,
+                        "probability": 0.5459,
+                        "type": "Organization",
+                        "normalized_text": "Senate"
+                    },
+                    {
+                        "start": 111,
+                        "end": 115,
+                        "probability": 0.9963,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1359884129286803459"
+                }
+            ],
+            "created_at": "2021-02-11T16:18:46.000Z",
+            "author_id": "934517509440536576",
+            "lang": "en",
+            "id": "1359899690121183233",
+            "conversation_id": "1359899690121183233",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "RT @MohitKopinion: Joe Biden wrote a letter to Speaker of the House and President of the Senate informing that Trump's border wall construc\u2026",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1359899690121183233,
+        "text": "RT @MohitKopinion: Joe Biden wrote a letter to Speaker of the House and President of the Senate informing that Trump's border wall construc\u2026",
+        "attachments": null,
+        "author_id": 934517509440536576,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "877326946253684737",
+                    "name": "United States Senate",
+                    "description": "United States Senate"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "897916387829481472",
+                    "name": "United States House of Representatives",
+                    "description": "United States House of Representatives"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            }
+        ],
+        "conversation_id": 1359899690121183233,
+        "created_at": "2021-02-11T16:18:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 17,
+                    "username": "MohitKopinion",
+                    "id": "1328726355362529281"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 19,
+                    "end": 27,
+                    "probability": 0.9983,
+                    "type": "Person",
+                    "normalized_text": "Joe Biden"
+                },
+                {
+                    "start": 47,
+                    "end": 66,
+                    "probability": 0.4513,
+                    "type": "Organization",
+                    "normalized_text": "Speaker of the House"
+                },
+                {
+                    "start": 89,
+                    "end": 94,
+                    "probability": 0.5459,
+                    "type": "Organization",
+                    "normalized_text": "Senate"
+                },
+                {
+                    "start": 111,
+                    "end": 115,
+                    "probability": 0.9963,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1359884129286803459"
+                },
+                "id": 1359884129286803459,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "US President Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "877326946253684737",
+                        "name": "United States Senate",
+                        "description": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "897916387829481472",
+                        "name": "United States House of Representatives",
+                        "description": "United States House of Representatives"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "961705302700654593",
+                        "name": "United States Congress",
+                        "description": "United States Congress"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "probability": 0.9975,
+                        "type": "Person",
+                        "normalized_text": "Joe Biden"
+                    },
+                    {
+                        "start": 28,
+                        "end": 47,
+                        "probability": 0.5899,
+                        "type": "Organization",
+                        "normalized_text": "Speaker of the House"
+                    },
+                    {
+                        "start": 70,
+                        "end": 75,
+                        "probability": 0.5332,
+                        "type": "Organization",
+                        "normalized_text": "Senate"
+                    },
+                    {
+                        "start": 92,
+                        "end": 96,
+                        "probability": 0.9963,
+                        "type": "Person",
+                        "normalized_text": "Trump"
+                    },
+                    {
+                        "start": 155,
+                        "end": 159,
+                        "probability": 0.9899,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 197,
+                        "end": 220,
+                        "url": "https://t.co/NPYtNmg7xM",
+                        "expanded_url": "https://twitter.com/MohitKopinion/status/1359884129286803459/photo/1",
+                        "display_url": "pic.twitter.com/NPYtNmg7xM"
+                    }
+                ]
+            },
+            "created_at": "2021-02-11T15:16:56.000Z",
+            "author_id": "1328726355362529281",
+            "lang": "en",
+            "id": "1359884129286803459",
+            "conversation_id": "1359884129286803459",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "text": "Joe Biden wrote a letter to Speaker of the House and President of the Senate informing that Trump's border wall construction is now terminated. Last month Biden signed an executive order for same. https://t.co/NPYtNmg7xM",
+            "reply_settings": "everyone",
+            "attachments": {
+                "media_keys": [
+                    "3_1359884126031994890"
+                ]
+            },
+            "source": "Twitter for Android"
+        },
+        "id": 1359884129286803459,
+        "text": "Joe Biden wrote a letter to Speaker of the House and President of the Senate informing that Trump's border wall construction is now terminated. Last month Biden signed an executive order for same. https://t.co/NPYtNmg7xM",
+        "attachments": {
+            "media_keys": [
+                "3_1359884126031994890"
+            ]
+        },
+        "author_id": 1328726355362529281,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "799022225751871488",
+                    "name": "Donald Trump",
+                    "description": "US President Donald Trump"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            },
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "877326946253684737",
+                    "name": "United States Senate",
+                    "description": "United States Senate"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "897916387829481472",
+                    "name": "United States House of Representatives",
+                    "description": "United States House of Representatives"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "961705302700654593",
+                    "name": "United States Congress",
+                    "description": "United States Congress"
+                }
+            }
+        ],
+        "conversation_id": 1359884129286803459,
+        "created_at": "2021-02-11T15:16:56+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 0,
+                    "end": 8,
+                    "probability": 0.9975,
+                    "type": "Person",
+                    "normalized_text": "Joe Biden"
+                },
+                {
+                    "start": 28,
+                    "end": 47,
+                    "probability": 0.5899,
+                    "type": "Organization",
+                    "normalized_text": "Speaker of the House"
+                },
+                {
+                    "start": 70,
+                    "end": 75,
+                    "probability": 0.5332,
+                    "type": "Organization",
+                    "normalized_text": "Senate"
+                },
+                {
+                    "start": 92,
+                    "end": 96,
+                    "probability": 0.9963,
+                    "type": "Person",
+                    "normalized_text": "Trump"
+                },
+                {
+                    "start": 155,
+                    "end": 159,
+                    "probability": 0.9899,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 197,
+                    "end": 220,
+                    "url": "https://t.co/NPYtNmg7xM",
+                    "expanded_url": "https://twitter.com/MohitKopinion/status/1359884129286803459/photo/1",
+                    "display_url": "pic.twitter.com/NPYtNmg7xM"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    }
+]

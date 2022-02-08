@@ -1,0 +1,867 @@
+[
+    {
+        "data": {
+            "id": "1358048291620020226",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-06T13:41:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "MarkTFitz",
+                        "id": "482120066"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 122,
+                        "end": 127,
+                        "tag": "Iran"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 56,
+                        "probability": 0.9932,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 97,
+                        "end": 102,
+                        "probability": 0.9578,
+                        "type": "Person",
+                        "normalized_text": "Pompeo"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "558903596",
+            "source": "Twitter Web App",
+            "text": "RT @MarkTFitz: Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy. htt\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1357759613551140865"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1358048291620020226"
+        },
+        "id": 1358048291620020226,
+        "text": "RT @MarkTFitz: Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy. htt\u2026",
+        "attachments": null,
+        "author_id": 558903596,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1358048291620020226,
+        "created_at": "2021-02-06T13:41:58+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "MarkTFitz",
+                    "id": "482120066"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 127,
+                    "tag": "Iran"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "probability": 0.9932,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                },
+                {
+                    "start": 97,
+                    "end": 102,
+                    "probability": 0.9578,
+                    "type": "Person",
+                    "normalized_text": "Pompeo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1357759613551140865"
+                },
+                "id": 1357759613551140865,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1357977205268119559",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-06T08:59:30.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "MarkTFitz",
+                        "id": "482120066"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 122,
+                        "end": 127,
+                        "tag": "Iran"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 56,
+                        "probability": 0.9936,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 97,
+                        "end": 102,
+                        "probability": 0.9646,
+                        "type": "Person",
+                        "normalized_text": "Pompeo"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1002229429",
+            "source": "Twitter for Android",
+            "text": "RT @MarkTFitz: Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy.",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1357759613551140865"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1357977205268119559"
+        },
+        "id": 1357977205268119559,
+        "text": "RT @MarkTFitz: Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy.",
+        "attachments": null,
+        "author_id": 1002229429,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1357977205268119559,
+        "created_at": "2021-02-06T08:59:30+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "MarkTFitz",
+                    "id": "482120066"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 127,
+                    "tag": "Iran"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "probability": 0.9936,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                },
+                {
+                    "start": 97,
+                    "end": 102,
+                    "probability": 0.9646,
+                    "type": "Person",
+                    "normalized_text": "Pompeo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1357759613551140865"
+                },
+                "id": 1357759613551140865,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 66,
+                        "end": 89,
+                        "url": "https://t.co/ch2TDPMqt7",
+                        "expanded_url": "https://twitter.com/tparsi/status/1357757099053371396",
+                        "display_url": "twitter.com/tparsi/status/\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 27,
+                        "end": 31,
+                        "probability": 0.9878,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 48,
+                        "end": 51,
+                        "probability": 0.9028,
+                        "type": "Place",
+                        "normalized_text": "Iran"
+                    }
+                ]
+            },
+            "id": "1357969592128319488",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-06T08:29:15.000Z",
+            "reply_settings": "everyone",
+            "author_id": "1327775185",
+            "source": "Twitter for iPad",
+            "text": "Regime changers don\u2019t want Biden to re-join the Iran nuclear\u00a0deal https://t.co/ch2TDPMqt7",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357757099053371396"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1357969592128319488"
+        },
+        "id": 1357969592128319488,
+        "text": "Regime changers don\u2019t want Biden to re-join the Iran nuclear\u00a0deal https://t.co/ch2TDPMqt7",
+        "attachments": null,
+        "author_id": 1327775185,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1357969592128319488,
+        "created_at": "2021-02-06T08:29:15+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 66,
+                    "end": 89,
+                    "url": "https://t.co/ch2TDPMqt7",
+                    "expanded_url": "https://twitter.com/tparsi/status/1357757099053371396",
+                    "display_url": "twitter.com/tparsi/status/\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 27,
+                    "end": 31,
+                    "probability": 0.9878,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                },
+                {
+                    "start": 48,
+                    "end": 51,
+                    "probability": 0.9028,
+                    "type": "Place",
+                    "normalized_text": "Iran"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357757099053371396"
+                },
+                "id": 1357757099053371396,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1357777465318404105",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-05T19:45:48.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "MarkTFitz",
+                        "id": "482120066"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 122,
+                        "end": 127,
+                        "tag": "Iran"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 52,
+                        "end": 56,
+                        "probability": 0.9932,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 97,
+                        "end": 102,
+                        "probability": 0.9578,
+                        "type": "Person",
+                        "normalized_text": "Pompeo"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "831637482",
+            "source": "Twitter Web App",
+            "text": "RT @MarkTFitz: Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy. htt\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1357759613551140865"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1357777465318404105"
+        },
+        "id": 1357777465318404105,
+        "text": "RT @MarkTFitz: Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy. htt\u2026",
+        "attachments": null,
+        "author_id": 831637482,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1357777465318404105,
+        "created_at": "2021-02-05T19:45:48+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 13,
+                    "username": "MarkTFitz",
+                    "id": "482120066"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 122,
+                    "end": 127,
+                    "tag": "Iran"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 52,
+                    "end": 56,
+                    "probability": 0.9932,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                },
+                {
+                    "start": 97,
+                    "end": 102,
+                    "probability": 0.9578,
+                    "type": "Person",
+                    "normalized_text": "Pompeo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1357759613551140865"
+                },
+                "id": 1357759613551140865,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 121,
+                        "end": 144,
+                        "url": "https://t.co/N7MmQKDlvY",
+                        "expanded_url": "https://twitter.com/tparsi/status/1357757099053371396",
+                        "display_url": "twitter.com/tparsi/status/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 107,
+                        "end": 112,
+                        "tag": "Iran"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 37,
+                        "end": 41,
+                        "probability": 0.9927,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                    },
+                    {
+                        "start": 82,
+                        "end": 87,
+                        "probability": 0.9653,
+                        "type": "Person",
+                        "normalized_text": "Pompeo"
+                    }
+                ]
+            },
+            "id": "1357759613551140865",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 0,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "created_at": "2021-02-05T18:34:52.000Z",
+            "reply_settings": "everyone",
+            "author_id": "482120066",
+            "source": "Twitter Web App",
+            "text": "Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy. https://t.co/N7MmQKDlvY",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1357757099053371396"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1357759613551140865"
+        },
+        "id": 1357759613551140865,
+        "text": "Extraordinary hutzpah to demand that Biden, in the name of bipartisanship, retain Pompeo's divisive failed #Iran policy. https://t.co/N7MmQKDlvY",
+        "attachments": null,
+        "author_id": 482120066,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "10040395078",
+                    "name": "Joe Biden",
+                    "description": "US President Joe Biden"
+                }
+            }
+        ],
+        "conversation_id": 1357759613551140865,
+        "created_at": "2021-02-05T18:34:52+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 121,
+                    "end": 144,
+                    "url": "https://t.co/N7MmQKDlvY",
+                    "expanded_url": "https://twitter.com/tparsi/status/1357757099053371396",
+                    "display_url": "twitter.com/tparsi/status/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 107,
+                    "end": 112,
+                    "tag": "Iran"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 37,
+                    "end": 41,
+                    "probability": 0.9927,
+                    "type": "Person",
+                    "normalized_text": "Biden"
+                },
+                {
+                    "start": 82,
+                    "end": 87,
+                    "probability": 0.9653,
+                    "type": "Person",
+                    "normalized_text": "Pompeo"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 18,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1357757099053371396"
+                },
+                "id": 1357757099053371396,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

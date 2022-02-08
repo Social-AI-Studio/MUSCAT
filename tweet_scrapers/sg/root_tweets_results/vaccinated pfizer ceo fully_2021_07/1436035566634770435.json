@@ -1,0 +1,468 @@
+[
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 249,
+                        "end": 272,
+                        "url": "https://t.co/zuBbB5vh9b",
+                        "expanded_url": "https://twitter.com/softcrush/status/1436035566634770435",
+                        "display_url": "twitter.com/softcrush/stat\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 59,
+                        "end": 67,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "start": 92,
+                        "end": 103,
+                        "tag": "vaccinated"
+                    },
+                    {
+                        "start": 134,
+                        "end": 143,
+                        "tag": "fakenews"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 199,
+                        "end": 203,
+                        "username": "ABC",
+                        "id": "28785486"
+                    },
+                    {
+                        "start": 204,
+                        "end": 212,
+                        "username": "CBSNews",
+                        "id": "15012486"
+                    },
+                    {
+                        "start": 213,
+                        "end": 221,
+                        "username": "NBCNews",
+                        "id": "14173315"
+                    },
+                    {
+                        "start": 222,
+                        "end": 226,
+                        "username": "CNN",
+                        "id": "759251"
+                    }
+                ]
+            },
+            "conversation_id": "1436054698994413576",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436035566634770435"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596157181956",
+                        "name": "Online Site"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1065650820518051840",
+                        "name": "ABC News",
+                        "description": "ABC News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1065661450843123712",
+                        "name": "NBC News",
+                        "description": "NBC News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "1283510930819526657",
+                        "name": "CBS News"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "80% of the population vaccinated.  Deaths are increasing.  #COVID19 is not being stopped by #vaccinated people.  \n\nDo not believe the #fakenews.  If the chart showed declining deaths, the scriveners @ABC @CBSNews @NBCNews @CNN would be telling you. https://t.co/zuBbB5vh9b",
+            "id": "1436054698994413576",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "source": "Twitter for Android",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-09T19:51:35.000Z",
+            "author_id": "16511208"
+        },
+        "id": 1436054698994413576,
+        "text": "80% of the population vaccinated.  Deaths are increasing.  #COVID19 is not being stopped by #vaccinated people.  \n\nDo not believe the #fakenews.  If the chart showed declining deaths, the scriveners @ABC @CBSNews @NBCNews @CNN would be telling you. https://t.co/zuBbB5vh9b",
+        "attachments": null,
+        "author_id": 16511208,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "45",
+                    "name": "Brand Vertical",
+                    "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                    "id": "781974597310615553",
+                    "name": "Entertainment"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596157181956",
+                    "name": "Online Site"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974597105094656",
+                    "name": "TV/Movies Related"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1065650820518051840",
+                    "name": "ABC News",
+                    "description": "ABC News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1065661450843123712",
+                    "name": "NBC News",
+                    "description": "NBC News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "1283510930819526657",
+                    "name": "CBS News"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436054698994413576,
+        "created_at": "2021-09-09T19:51:35+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 249,
+                    "end": 272,
+                    "url": "https://t.co/zuBbB5vh9b",
+                    "expanded_url": "https://twitter.com/softcrush/status/1436035566634770435",
+                    "display_url": "twitter.com/softcrush/stat\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 59,
+                    "end": 67,
+                    "tag": "COVID19"
+                },
+                {
+                    "start": 92,
+                    "end": 103,
+                    "tag": "vaccinated"
+                },
+                {
+                    "start": 134,
+                    "end": 143,
+                    "tag": "fakenews"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 199,
+                    "end": 203,
+                    "username": "ABC",
+                    "id": "28785486"
+                },
+                {
+                    "start": 204,
+                    "end": 212,
+                    "username": "CBSNews",
+                    "id": "15012486"
+                },
+                {
+                    "start": 213,
+                    "end": 221,
+                    "username": "NBCNews",
+                    "id": "14173315"
+                },
+                {
+                    "start": 222,
+                    "end": 226,
+                    "username": "CNN",
+                    "id": "759251"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436035566634770435"
+                },
+                "id": 1436035566634770435,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 29,
+                        "end": 52,
+                        "url": "https://t.co/uDcr4iEJu6",
+                        "expanded_url": "https://twitter.com/softcrush/status/1436035566634770435",
+                        "display_url": "twitter.com/softcrush/stat\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "tag": "Covid"
+                    },
+                    {
+                        "start": 7,
+                        "end": 19,
+                        "tag": "FramingBias"
+                    },
+                    {
+                        "start": 20,
+                        "end": 28,
+                        "tag": "Britain"
+                    }
+                ]
+            },
+            "conversation_id": "1436047564512628741",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1436035566634770435"
+                }
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "text": "#Covid #FramingBias #Britain https://t.co/uDcr4iEJu6",
+            "id": "1436047564512628741",
+            "reply_settings": "everyone",
+            "lang": "und",
+            "source": "Twitter Web App",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-09-09T19:23:14.000Z",
+            "author_id": "104506958"
+        },
+        "id": 1436047564512628741,
+        "text": "#Covid #FramingBias #Britain https://t.co/uDcr4iEJu6",
+        "attachments": null,
+        "author_id": 104506958,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1436047564512628741,
+        "created_at": "2021-09-09T19:23:14+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 29,
+                    "end": 52,
+                    "url": "https://t.co/uDcr4iEJu6",
+                    "expanded_url": "https://twitter.com/softcrush/status/1436035566634770435",
+                    "display_url": "twitter.com/softcrush/stat\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 0,
+                    "end": 6,
+                    "tag": "Covid"
+                },
+                {
+                    "start": 7,
+                    "end": 19,
+                    "tag": "FramingBias"
+                },
+                {
+                    "start": 20,
+                    "end": 28,
+                    "tag": "Britain"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1436035566634770435"
+                },
+                "id": 1436035566634770435,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

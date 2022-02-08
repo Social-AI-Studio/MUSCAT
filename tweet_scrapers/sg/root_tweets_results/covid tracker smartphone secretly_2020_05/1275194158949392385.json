@@ -1,0 +1,279 @@
+[
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 65,
+                        "end": 72,
+                        "tag": "iphone"
+                    },
+                    {
+                        "start": 73,
+                        "end": 81,
+                        "tag": "COVID19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 82,
+                        "end": 105,
+                        "url": "https://t.co/cyk03nfgvF",
+                        "expanded_url": "https://twitter.com/KashFida/status/1275194158949392385/photo/1",
+                        "display_url": "pic.twitter.com/cyk03nfgvF"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 18,
+                        "end": 24,
+                        "probability": 0.6274,
+                        "type": "Product",
+                        "normalized_text": "Twitter"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                    },
+                    "entity": {
+                        "id": "10024011738",
+                        "name": "Apple - iPhone"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "848920371311001600",
+                        "name": "Technology",
+                        "description": "Technology and computing"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "848985956778561538",
+                        "name": "Mobile",
+                        "description": "Mobile"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "id": "1275194158949392385",
+            "text": "Question for tech Twitter, when was this a thing on our phones?? #iphone #COVID19 https://t.co/cyk03nfgvF",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1275194150527229952"
+                ]
+            },
+            "author_id": "817003148",
+            "created_at": "2020-06-22T22:29:14.000Z",
+            "conversation_id": "1275194158949392385"
+        },
+        "id": 1275194158949392385,
+        "text": "Question for tech Twitter, when was this a thing on our phones?? #iphone #COVID19 https://t.co/cyk03nfgvF",
+        "attachments": {
+            "media_keys": [
+                "3_1275194150527229952"
+            ]
+        },
+        "author_id": 817003148,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            },
+            {
+                "domain": {
+                    "id": "46",
+                    "name": "Brand Category",
+                    "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                    "id": "781974596752842752",
+                    "name": "Services"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10026364281",
+                    "name": "Apple"
+                }
+            },
+            {
+                "domain": {
+                    "id": "47",
+                    "name": "Brand",
+                    "description": "Brands and Companies"
+                },
+                "entity": {
+                    "id": "10045225402",
+                    "name": "Twitter"
+                }
+            },
+            {
+                "domain": {
+                    "id": "48",
+                    "name": "Product",
+                    "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                    "id": "10024011738",
+                    "name": "Apple - iPhone"
+                }
+            },
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "848920371311001600",
+                    "name": "Technology",
+                    "description": "Technology and computing"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "848985956778561538",
+                    "name": "Mobile",
+                    "description": "Mobile"
+                }
+            }
+        ],
+        "conversation_id": 1275194158949392385,
+        "created_at": "2020-06-22T22:29:14+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 65,
+                    "end": 72,
+                    "tag": "iphone"
+                },
+                {
+                    "start": 73,
+                    "end": 81,
+                    "tag": "COVID19"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 82,
+                    "end": 105,
+                    "url": "https://t.co/cyk03nfgvF",
+                    "expanded_url": "https://twitter.com/KashFida/status/1275194158949392385/photo/1",
+                    "display_url": "pic.twitter.com/cyk03nfgvF"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 18,
+                    "end": 24,
+                    "probability": 0.6274,
+                    "type": "Product",
+                    "normalized_text": "Twitter"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

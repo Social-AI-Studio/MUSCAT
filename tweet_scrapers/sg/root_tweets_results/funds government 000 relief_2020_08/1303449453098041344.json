@@ -1,0 +1,147 @@
+[
+    {
+        "data": {
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 10,
+                        "end": 17,
+                        "tag": "auspol"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 18,
+                        "end": 41,
+                        "url": "https://t.co/23DXJJBQPm",
+                        "expanded_url": "https://twitter.com/HayleyFoster_/status/1303449453098041344",
+                        "display_url": "twitter.com/HayleyFoster_/\u2026"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1043141608147841024",
+                        "name": "Scott Morrison",
+                        "description": "Prime Minister of Australia, Scott Morrison"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1043141608147841024",
+                        "name": "Scott Morrison",
+                        "description": "Prime Minister of Australia, Scott Morrison"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "lang": "und",
+            "id": "1303451405835931648",
+            "text": "\ud83e\udde8\ud83e\udde8\ud83d\udc47\ud83c\udffd\ud83d\udc47\ud83c\udffd\ud83d\udea9\ud83d\udea9\u203c\ufe0f#auspol https://t.co/23DXJJBQPm",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1303449453098041344"
+                }
+            ],
+            "author_id": "1973094985",
+            "created_at": "2020-09-08T21:53:26.000Z",
+            "conversation_id": "1303451405835931648"
+        },
+        "id": 1303451405835931648,
+        "text": "\ud83e\udde8\ud83e\udde8\ud83d\udc47\ud83c\udffd\ud83d\udc47\ud83c\udffd\ud83d\udea9\ud83d\udea9\u203c\ufe0f#auspol https://t.co/23DXJJBQPm",
+        "attachments": null,
+        "author_id": 1973094985,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "10",
+                    "name": "Person",
+                    "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                    "id": "1043141608147841024",
+                    "name": "Scott Morrison",
+                    "description": "Prime Minister of Australia, Scott Morrison"
+                }
+            },
+            {
+                "domain": {
+                    "id": "35",
+                    "name": "Politician",
+                    "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                    "id": "1043141608147841024",
+                    "name": "Scott Morrison",
+                    "description": "Prime Minister of Australia, Scott Morrison"
+                }
+            }
+        ],
+        "conversation_id": 1303451405835931648,
+        "created_at": "2020-09-08T21:53:26+00:00",
+        "entities": {
+            "hashtags": [
+                {
+                    "start": 10,
+                    "end": 17,
+                    "tag": "auspol"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 18,
+                    "end": 41,
+                    "url": "https://t.co/23DXJJBQPm",
+                    "expanded_url": "https://twitter.com/HayleyFoster_/status/1303449453098041344",
+                    "display_url": "twitter.com/HayleyFoster_/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1303449453098041344"
+                },
+                "id": 1303449453098041344,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

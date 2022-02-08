@@ -1,0 +1,81 @@
+[
+    {
+        "data": {
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 9,
+                        "username": "_atanas_",
+                        "id": "2257558088"
+                    }
+                ]
+            },
+            "lang": "en",
+            "in_reply_to_user_id": "2257558088",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1230827258127974402"
+                }
+            ],
+            "id": "1233258749663444993",
+            "conversation_id": "1230827258127974402",
+            "source": "Twitter for iPhone",
+            "text": "@_atanas_ try this. No? OK, try this, like that?",
+            "created_at": "2020-02-28T05:12:53.000Z",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 1
+            },
+            "author_id": "247428783",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false
+        },
+        "id": 1233258749663444993,
+        "text": "@_atanas_ try this. No? OK, try this, like that?",
+        "attachments": null,
+        "author_id": 247428783,
+        "context_annotations": [],
+        "conversation_id": 1230827258127974402,
+        "created_at": "2020-02-28T05:12:53+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 9,
+                    "username": "_atanas_",
+                    "id": "2257558088"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 2257558088,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1230827258127974402"
+                },
+                "id": 1230827258127974402,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

@@ -1,0 +1,601 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-05T20:07:46.000Z",
+            "author_id": "961664007584276481",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1379163875380240387",
+            "text": "For the poor, life was, is &amp; will remain shit. Its tragic but its a reality. But 1 year into pandemic, the biggest realization for me (personally) is that middle class will feel a lot more pressure than before. Just look at how badly pandemic has affected education sector (1 eg)",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379163340702879744"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1379159036592001029",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "961664007584276481",
+            "reply_settings": "everyone"
+        },
+        "id": 1379163875380240387,
+        "text": "For the poor, life was, is &amp; will remain shit. Its tragic but its a reality. But 1 year into pandemic, the biggest realization for me (personally) is that middle class will feel a lot more pressure than before. Just look at how badly pandemic has affected education sector (1 eg)",
+        "attachments": null,
+        "author_id": 961664007584276481,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379159036592001029,
+        "created_at": "2021-04-05T20:07:46+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 961664007584276481,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379163340702879744"
+                },
+                "id": 1379163340702879744,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-05T20:05:38.000Z",
+            "author_id": "961664007584276481",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1379163340702879744",
+            "text": "The gap between rich &amp; middle class can get a lot bigger (it already was huge pre-Covid) but things can get even more difficult for the middle class if this bloody virus doesn't leave us soon. That old talk of Covid-19 being equalizer feels like a tragic/horrible joke now.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379161831130939392"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1379159036592001029",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "961664007584276481",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 210,
+                        "end": 214,
+                        "probability": 0.4884,
+                        "type": "Person",
+                        "normalized_text": "Covid"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1379163340702879744,
+        "text": "The gap between rich &amp; middle class can get a lot bigger (it already was huge pre-Covid) but things can get even more difficult for the middle class if this bloody virus doesn't leave us soon. That old talk of Covid-19 being equalizer feels like a tragic/horrible joke now.",
+        "attachments": null,
+        "author_id": 961664007584276481,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379159036592001029,
+        "created_at": "2021-04-05T20:05:38+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 210,
+                    "end": 214,
+                    "probability": 0.4884,
+                    "type": "Person",
+                    "normalized_text": "Covid"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 961664007584276481,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379161831130939392"
+                },
+                "id": 1379161831130939392,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-05T19:59:38.000Z",
+            "author_id": "961664007584276481",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379161831130939392",
+            "text": "If we don't have a vaccine that works for a long period, we can be stuck in this Covid-19 rut for a very long time (God Forbid). \n\nDon't wanna exaggerate but it feels like this Covid-19 crisis will have significant long term impact on societies globally (generational thing).",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379160586186076160"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1379159036592001029",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "961664007584276481",
+            "reply_settings": "everyone"
+        },
+        "id": 1379161831130939392,
+        "text": "If we don't have a vaccine that works for a long period, we can be stuck in this Covid-19 rut for a very long time (God Forbid). \n\nDon't wanna exaggerate but it feels like this Covid-19 crisis will have significant long term impact on societies globally (generational thing).",
+        "attachments": null,
+        "author_id": 961664007584276481,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379159036592001029,
+        "created_at": "2021-04-05T19:59:38+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 961664007584276481,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379160586186076160"
+                },
+                "id": 1379160586186076160,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "903303816698671104",
+                        "name": "Wellness and health",
+                        "description": "Wellness & Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "918538847302041600",
+                        "name": "Community Health",
+                        "description": "Community Health"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "920768310152593408",
+                        "name": "Common Medication",
+                        "description": "Common Medication"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-05T19:54:41.000Z",
+            "author_id": "961664007584276481",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379160586186076160",
+            "text": "And think of it in Pakistan's context. Our population is massive. Even if it takes 10 years for a big chunk of our population to be vaccinated, we can get stuck in a cycle if vaccine doesn't offer immunity for life.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379160183566385152"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1379159036592001029",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "961664007584276481",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 26,
+                        "probability": 0.9978,
+                        "type": "Place",
+                        "normalized_text": "Pakistan"
+                    }
+                ]
+            },
+            "reply_settings": "everyone"
+        },
+        "id": 1379160586186076160,
+        "text": "And think of it in Pakistan's context. Our population is massive. Even if it takes 10 years for a big chunk of our population to be vaccinated, we can get stuck in a cycle if vaccine doesn't offer immunity for life.",
+        "attachments": null,
+        "author_id": 961664007584276481,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "903303816698671104",
+                    "name": "Wellness and health",
+                    "description": "Wellness & Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "918538847302041600",
+                    "name": "Community Health",
+                    "description": "Community Health"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "920768310152593408",
+                    "name": "Common Medication",
+                    "description": "Common Medication"
+                }
+            },
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379159036592001029,
+        "created_at": "2021-04-05T19:54:41+00:00",
+        "entities": {
+            "annotations": [
+                {
+                    "start": 19,
+                    "end": 26,
+                    "probability": 0.9978,
+                    "type": "Place",
+                    "normalized_text": "Pakistan"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 961664007584276481,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379160183566385152"
+                },
+                "id": 1379160183566385152,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "created_at": "2021-04-05T19:53:05.000Z",
+            "author_id": "961664007584276481",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1379160183566385152",
+            "text": "Also, even if you forget the travel related restrictions. Convincing elders to go for vaccination after every 6 months or 1 year. This will be really tough. People will inevitably get fed up of it (its basic human nature).",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379159416264667138"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1379159036592001029",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "961664007584276481",
+            "reply_settings": "everyone"
+        },
+        "id": 1379160183566385152,
+        "text": "Also, even if you forget the travel related restrictions. Convincing elders to go for vaccination after every 6 months or 1 year. This will be really tough. People will inevitably get fed up of it (its basic human nature).",
+        "attachments": null,
+        "author_id": 961664007584276481,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1379159036592001029,
+        "created_at": "2021-04-05T19:53:05+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 961664007584276481,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379159416264667138"
+                },
+                "id": 1379159416264667138,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "created_at": "2021-04-05T19:50:03.000Z",
+            "author_id": "961664007584276481",
+            "lang": "en",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "id": "1379159416264667138",
+            "text": "like if vaccine offers immunity for just 6 months or 1 year, then it will become a yearly thing to be vaccinated. That can be a cumbersome thing in long term future. I am not sure what research is saying about this.",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1379159036592001029"
+                }
+            ],
+            "source": "Twitter Web App",
+            "conversation_id": "1379159036592001029",
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "961664007584276481",
+            "reply_settings": "everyone"
+        },
+        "id": 1379159416264667138,
+        "text": "like if vaccine offers immunity for just 6 months or 1 year, then it will become a yearly thing to be vaccinated. That can be a cumbersome thing in long term future. I am not sure what research is saying about this.",
+        "attachments": null,
+        "author_id": 961664007584276481,
+        "context_annotations": [],
+        "conversation_id": 1379159036592001029,
+        "created_at": "2021-04-05T19:50:03+00:00",
+        "entities": null,
+        "geo": null,
+        "in_reply_to_user_id": 961664007584276481,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "replied_to",
+                    "id": "1379159036592001029"
+                },
+                "id": 1379159036592001029,
+                "type": "replied_to"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]

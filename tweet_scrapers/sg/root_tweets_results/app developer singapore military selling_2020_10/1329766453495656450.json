@@ -1,0 +1,157 @@
+[
+    {
+        "data": {
+            "conversation_id": "1329767864694239234",
+            "reply_settings": "everyone",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/dzEvGqE3oN",
+                        "expanded_url": "https://twitter.com/staronline/status/1329766453495656450",
+                        "display_url": "twitter.com/staronline/sta\u2026"
+                    }
+                ]
+            },
+            "author_id": "402563143",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "847544972781826048",
+                        "name": "Careers",
+                        "description": "Careers"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "1088509400464031744",
+                        "name": "US Military",
+                        "description": "US Military"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "1088509400464031744",
+                        "name": "US Military",
+                        "description": "US Military"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "text": "Muslim Pro must be desperate asking news agents to repost last week\u2019s news. https://t.co/dzEvGqE3oN",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1329766453495656450"
+                }
+            ],
+            "possibly_sensitive": false,
+            "id": "1329767864694239234",
+            "created_at": "2020-11-20T12:45:39.000Z",
+            "lang": "en",
+            "source": "Twitter for iPhone"
+        },
+        "id": 1329767864694239234,
+        "text": "Muslim Pro must be desperate asking news agents to repost last week\u2019s news. https://t.co/dzEvGqE3oN",
+        "attachments": null,
+        "author_id": 402563143,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical",
+                    "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                    "id": "847544972781826048",
+                    "name": "Careers",
+                    "description": "Careers"
+                }
+            },
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "1088509400464031744",
+                    "name": "US Military",
+                    "description": "US Military"
+                }
+            },
+            {
+                "domain": {
+                    "id": "88",
+                    "name": "Political Body",
+                    "description": "A section of a government, like The Supreme Court"
+                },
+                "entity": {
+                    "id": "1088509400464031744",
+                    "name": "US Military",
+                    "description": "US Military"
+                }
+            }
+        ],
+        "conversation_id": 1329767864694239234,
+        "created_at": "2020-11-20T12:45:39+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/dzEvGqE3oN",
+                    "expanded_url": "https://twitter.com/staronline/status/1329766453495656450",
+                    "display_url": "twitter.com/staronline/sta\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1329766453495656450"
+                },
+                "id": 1329766453495656450,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    }
+]

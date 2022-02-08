@@ -1,0 +1,5602 @@
+[
+    {
+        "data": {
+            "id": "1250759361691029505",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T12:14:04.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "871831042998624256",
+            "source": "Twitter Web App",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250759361691029505"
+        },
+        "id": 1250759361691029505,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 871831042998624256,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250759361691029505,
+        "created_at": "2020-04-16T12:14:04+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 52,
+                        "end": 75,
+                        "url": "https://t.co/3XDiGfy6VB",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                        "display_url": "twitter.com/XHNews/status/\u2026"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "astroecology",
+                        "id": "483657301"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 40,
+                        "end": 41,
+                        "probability": 0.8919,
+                        "type": "Place",
+                        "normalized_text": "\u65e5\u672c"
+                    }
+                ]
+            },
+            "id": "1250737066276605955",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T10:45:28.000Z",
+            "reply_settings": "everyone",
+            "author_id": "108616092",
+            "source": "Twitter Web App",
+            "text": "RT @astroecology: \u5148\u9032\u56fd\u307b\u3069\u3061\u3083\u3093\u3068\u6570\u3048\u3066\u3044\u308b\u3068\u3044\u3046\u6570\u5b57\u3060\u306a\u3002\u65e5\u672c\u306f\u5f8c\u9032\u56fd\u306e\u8a3c\u660e\u304b\u3002 https://t.co/3XDiGfy6VB",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250671735600545794"
+                }
+            ],
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "conversation_id": "1250737066276605955"
+        },
+        "id": 1250737066276605955,
+        "text": "RT @astroecology: \u5148\u9032\u56fd\u307b\u3069\u3061\u3083\u3093\u3068\u6570\u3048\u3066\u3044\u308b\u3068\u3044\u3046\u6570\u5b57\u3060\u306a\u3002\u65e5\u672c\u306f\u5f8c\u9032\u56fd\u306e\u8a3c\u660e\u304b\u3002 https://t.co/3XDiGfy6VB",
+        "attachments": null,
+        "author_id": 108616092,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250737066276605955,
+        "created_at": "2020-04-16T10:45:28+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 52,
+                    "end": 75,
+                    "url": "https://t.co/3XDiGfy6VB",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                    "display_url": "twitter.com/XHNews/status/\u2026"
+                }
+            ],
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 16,
+                    "username": "astroecology",
+                    "id": "483657301"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 40,
+                    "end": 41,
+                    "probability": 0.8919,
+                    "type": "Place",
+                    "normalized_text": "\u65e5\u672c"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250671735600545794"
+                },
+                "id": 1250671735600545794,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250715534280228864",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T09:19:55.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1172183250120454144",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250715534280228864"
+        },
+        "id": 1250715534280228864,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1172183250120454144,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250715534280228864,
+        "created_at": "2020-04-16T09:19:55+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 21,
+                        "end": 44,
+                        "url": "https://t.co/80iLsiFd59",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                        "display_url": "twitter.com/XHNews/status/\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 11,
+                        "end": 20,
+                        "tag": "Covid_19"
+                    }
+                ]
+            },
+            "id": "1250702888319533062",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T08:29:40.000Z",
+            "reply_settings": "everyone",
+            "author_id": "717092626072215552",
+            "source": "Twitter for Android",
+            "text": "Updates on #Covid_19 https://t.co/80iLsiFd59",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250702888319533062"
+        },
+        "id": 1250702888319533062,
+        "text": "Updates on #Covid_19 https://t.co/80iLsiFd59",
+        "attachments": null,
+        "author_id": 717092626072215552,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250702888319533062,
+        "created_at": "2020-04-16T08:29:40+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 21,
+                    "end": 44,
+                    "url": "https://t.co/80iLsiFd59",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                    "display_url": "twitter.com/XHNews/status/\u2026"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 11,
+                    "end": 20,
+                    "tag": "Covid_19"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250702162209824770",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T08:26:47.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "756693745",
+            "source": "Twitter for iPhone",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250702162209824770"
+        },
+        "id": 1250702162209824770,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 756693745,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250702162209824770,
+        "created_at": "2020-04-16T08:26:47+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 2,
+                        "end": 25,
+                        "url": "https://t.co/Iitj7ld6gt",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                        "display_url": "twitter.com/XHNews/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1250685054939848706",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T07:18:48.000Z",
+            "reply_settings": "everyone",
+            "author_id": "970075125662990336",
+            "source": "Twitter for iPad",
+            "text": "\ud83d\ude33 https://t.co/Iitj7ld6gt",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "und",
+            "possibly_sensitive": false,
+            "conversation_id": "1250685054939848706"
+        },
+        "id": 1250685054939848706,
+        "text": "\ud83d\ude33 https://t.co/Iitj7ld6gt",
+        "attachments": null,
+        "author_id": 970075125662990336,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250685054939848706,
+        "created_at": "2020-04-16T07:18:48+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 2,
+                    "end": 25,
+                    "url": "https://t.co/Iitj7ld6gt",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                    "display_url": "twitter.com/XHNews/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "und",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250679729902010369",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:57:38.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "955086752192098304",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250679729902010369"
+        },
+        "id": 1250679729902010369,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 955086752192098304,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250679729902010369,
+        "created_at": "2020-04-16T06:57:38+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 76,
+                        "end": 99,
+                        "url": "https://t.co/2OvNyLisdH",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                        "display_url": "twitter.com/XHNews/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1250679597240397824",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:57:07.000Z",
+            "reply_settings": "everyone",
+            "author_id": "1198124622555705344",
+            "source": "Twitter Web App",
+            "text": "\ud83c\udde8\ud83c\uddf3\u4e2d\u56fd\ud83c\udde8\ud83c\uddf3\u6cd5\u9662\u7cfb\u7edf\u7fa4\u4f53\u6027\u8150\u8d25\u6e0e\u804c\uff08\u5927\u91cf\u8bc1\u636e\uff09\uff0c\u767e\u59d3\u7684\u6700\u540e\u4e00\u9053\u516c\u5e73\u6b63\u4e49\u7684\u9632\u7ebf\u5df2\u7ecf\u574d\u584c\uff01\u771f\u7231\u81ea\u5df1\u7684\u767e\u59d3\u624d\u80fd\u771f\u7231\u522b\u56fd\u767e\u59d3\uff01\u8bf7\u4e2d\u5171\u4e2d\u592e\u5c3d\u5feb\u4f9d\u6cd5\u7ea6\u675f\u8fdd\u6cd5\u9ad8\u5b98\uff01 https://t.co/2OvNyLisdH",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "zh",
+            "possibly_sensitive": false,
+            "conversation_id": "1250679597240397824"
+        },
+        "id": 1250679597240397824,
+        "text": "\ud83c\udde8\ud83c\uddf3\u4e2d\u56fd\ud83c\udde8\ud83c\uddf3\u6cd5\u9662\u7cfb\u7edf\u7fa4\u4f53\u6027\u8150\u8d25\u6e0e\u804c\uff08\u5927\u91cf\u8bc1\u636e\uff09\uff0c\u767e\u59d3\u7684\u6700\u540e\u4e00\u9053\u516c\u5e73\u6b63\u4e49\u7684\u9632\u7ebf\u5df2\u7ecf\u574d\u584c\uff01\u771f\u7231\u81ea\u5df1\u7684\u767e\u59d3\u624d\u80fd\u771f\u7231\u522b\u56fd\u767e\u59d3\uff01\u8bf7\u4e2d\u5171\u4e2d\u592e\u5c3d\u5feb\u4f9d\u6cd5\u7ea6\u675f\u8fdd\u6cd5\u9ad8\u5b98\uff01 https://t.co/2OvNyLisdH",
+        "attachments": null,
+        "author_id": 1198124622555705344,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250679597240397824,
+        "created_at": "2020-04-16T06:57:07+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 76,
+                    "end": 99,
+                    "url": "https://t.co/2OvNyLisdH",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                    "display_url": "twitter.com/XHNews/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "zh",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250679108079681536",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:55:10.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1123528448331456512",
+            "source": "Twitter Web App",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250679108079681536"
+        },
+        "id": 1250679108079681536,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1123528448331456512,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250679108079681536,
+        "created_at": "2020-04-16T06:55:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250678877334179841",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:54:15.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "195230245",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250678877334179841"
+        },
+        "id": 1250678877334179841,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 195230245,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250678877334179841,
+        "created_at": "2020-04-16T06:54:15+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250676677488803842",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:45:31.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "2259199948",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250676677488803842"
+        },
+        "id": 1250676677488803842,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 2259199948,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250676677488803842,
+        "created_at": "2020-04-16T06:45:31+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250676636854427649",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:45:21.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "232620598",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250676636854427649"
+        },
+        "id": 1250676636854427649,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 232620598,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250676636854427649,
+        "created_at": "2020-04-16T06:45:21+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250675372628344832",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:40:19.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "2539239869",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250675372628344832"
+        },
+        "id": 1250675372628344832,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 2539239869,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250675372628344832,
+        "created_at": "2020-04-16T06:40:19+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250674760780054531",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:37:54.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "703944295",
+            "source": "Twitter Web App",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250674760780054531"
+        },
+        "id": 1250674760780054531,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 703944295,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250674760780054531,
+        "created_at": "2020-04-16T06:37:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250674577409269760",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:37:10.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1940002406",
+            "source": "Twitter Web App",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250674577409269760"
+        },
+        "id": 1250674577409269760,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1940002406,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250674577409269760,
+        "created_at": "2020-04-16T06:37:10+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250674105206165504",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:35:17.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1362153499",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250674105206165504"
+        },
+        "id": 1250674105206165504,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1362153499,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250674105206165504,
+        "created_at": "2020-04-16T06:35:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/x3c7R9IbEK",
+                        "expanded_url": "https://twitter.com/JRodneyChesson/status/1250673375707570178/photo/1",
+                        "display_url": "pic.twitter.com/x3c7R9IbEK"
+                    },
+                    {
+                        "start": 303,
+                        "end": 326,
+                        "url": "https://t.co/gZ1htXhg1k",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                        "display_url": "twitter.com/XHNews/status/\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 47,
+                        "end": 53,
+                        "probability": 0.9199,
+                        "type": "Place",
+                        "normalized_text": "LIBERIA"
+                    }
+                ]
+            },
+            "id": "1250673375707570178",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:32:23.000Z",
+            "reply_settings": "everyone",
+            "author_id": "388957713",
+            "source": "Twitter for Android",
+            "text": "THAT'S WHY ATTORNEY-CMDR. GLAPOHKPA CHESSON OF LIBERIA, IS THE RIGHT CHOICE FOR LEADER OF FORMER \"AFRICAN UNION\" - REVERSED TO PREVIOUS WORLD RECOGNIZED, PRE-1980'S, NAME OF;\n\n\"ORGANIZATION OF AFRICAN UNITY (OAU).\"\n\nNAMING \"AFRICAN UNITY\", AFTER COLONIAL \"UNION\", STILL, SUCK-O! https://t.co/x3c7R9IbEK https://t.co/gZ1htXhg1k",
+            "attachments": {
+                "media_keys": [
+                    "3_1250673368711467008"
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250673375707570178"
+        },
+        "id": 1250673375707570178,
+        "text": "THAT'S WHY ATTORNEY-CMDR. GLAPOHKPA CHESSON OF LIBERIA, IS THE RIGHT CHOICE FOR LEADER OF FORMER \"AFRICAN UNION\" - REVERSED TO PREVIOUS WORLD RECOGNIZED, PRE-1980'S, NAME OF;\n\n\"ORGANIZATION OF AFRICAN UNITY (OAU).\"\n\nNAMING \"AFRICAN UNITY\", AFTER COLONIAL \"UNION\", STILL, SUCK-O! https://t.co/x3c7R9IbEK https://t.co/gZ1htXhg1k",
+        "attachments": {
+            "media_keys": [
+                "3_1250673368711467008"
+            ]
+        },
+        "author_id": 388957713,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250673375707570178,
+        "created_at": "2020-04-16T06:32:23+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 279,
+                    "end": 302,
+                    "url": "https://t.co/x3c7R9IbEK",
+                    "expanded_url": "https://twitter.com/JRodneyChesson/status/1250673375707570178/photo/1",
+                    "display_url": "pic.twitter.com/x3c7R9IbEK"
+                },
+                {
+                    "start": 303,
+                    "end": 326,
+                    "url": "https://t.co/gZ1htXhg1k",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                    "display_url": "twitter.com/XHNews/status/\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 47,
+                    "end": 53,
+                    "probability": 0.9199,
+                    "type": "Place",
+                    "normalized_text": "LIBERIA"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250672769228046336",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:29:59.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1561326080",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672769228046336"
+        },
+        "id": 1250672769228046336,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1561326080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672769228046336,
+        "created_at": "2020-04-16T06:29:59+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250672713913511936",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:29:46.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1052781161422962688",
+            "source": "Twitter for iPhone",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672713913511936"
+        },
+        "id": 1250672713913511936,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1052781161422962688,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672713913511936,
+        "created_at": "2020-04-16T06:29:46+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250672659618119680",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:29:33.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "748010324348051456",
+            "source": "Twitter for iPhone",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672659618119680"
+        },
+        "id": 1250672659618119680,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 748010324348051456,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672659618119680,
+        "created_at": "2020-04-16T06:29:33+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250672527115816969",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:29:01.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1106882484",
+            "source": "Twitter Web App",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672527115816969"
+        },
+        "id": 1250672527115816969,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1106882484,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672527115816969,
+        "created_at": "2020-04-16T06:29:01+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250672320399753216",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:28:12.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "821247234587131905",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672320399753216"
+        },
+        "id": 1250672320399753216,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 821247234587131905,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672320399753216,
+        "created_at": "2020-04-16T06:28:12+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 75,
+                        "end": 98,
+                        "url": "https://t.co/n2owrdqsOG",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                        "display_url": "twitter.com/XHNews/status/\u2026"
+                    }
+                ]
+            },
+            "id": "1250672216083218432",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:27:47.000Z",
+            "reply_settings": "everyone",
+            "author_id": "118440834",
+            "source": "Twitter for Android",
+            "text": "Who starts this Pandemic and why? So many questions without answers yet... https://t.co/n2owrdqsOG",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672216083218432"
+        },
+        "id": 1250672216083218432,
+        "text": "Who starts this Pandemic and why? So many questions without answers yet... https://t.co/n2owrdqsOG",
+        "attachments": null,
+        "author_id": 118440834,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672216083218432,
+        "created_at": "2020-04-16T06:27:47+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 75,
+                    "end": 98,
+                    "url": "https://t.co/n2owrdqsOG",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                    "display_url": "twitter.com/XHNews/status/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250672128476590081",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:27:26.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "2856453673",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672128476590081"
+        },
+        "id": 1250672128476590081,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 2856453673,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672128476590081,
+        "created_at": "2020-04-16T06:27:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250672095513792513",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:27:18.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "733572922573357057",
+            "source": "Twitter for iPhone",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250672095513792513"
+        },
+        "id": 1250672095513792513,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 733572922573357057,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250672095513792513,
+        "created_at": "2020-04-16T06:27:18+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671991700537346",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:26:53.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1186055192200077313",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671991700537346"
+        },
+        "id": 1250671991700537346,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1186055192200077313,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671991700537346,
+        "created_at": "2020-04-16T06:26:53+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671976550727680",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:26:50.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "712730424024371200",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671976550727680"
+        },
+        "id": 1250671976550727680,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 712730424024371200,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671976550727680,
+        "created_at": "2020-04-16T06:26:50+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671755615748097",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:25:57.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1470341089",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671755615748097"
+        },
+        "id": 1250671755615748097,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1470341089,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671755615748097,
+        "created_at": "2020-04-16T06:25:57+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 34,
+                        "end": 57,
+                        "url": "https://t.co/3XDiGfy6VB",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                        "display_url": "twitter.com/XHNews/status/\u2026"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 22,
+                        "end": 23,
+                        "probability": 0.8945,
+                        "type": "Place",
+                        "normalized_text": "\u65e5\u672c"
+                    }
+                ]
+            },
+            "id": "1250671735600545794",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:25:52.000Z",
+            "reply_settings": "everyone",
+            "author_id": "483657301",
+            "source": "Twitter for iPhone",
+            "text": "\u5148\u9032\u56fd\u307b\u3069\u3061\u3083\u3093\u3068\u6570\u3048\u3066\u3044\u308b\u3068\u3044\u3046\u6570\u5b57\u3060\u306a\u3002\u65e5\u672c\u306f\u5f8c\u9032\u56fd\u306e\u8a3c\u660e\u304b\u3002 https://t.co/3XDiGfy6VB",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671735600545794"
+        },
+        "id": 1250671735600545794,
+        "text": "\u5148\u9032\u56fd\u307b\u3069\u3061\u3083\u3093\u3068\u6570\u3048\u3066\u3044\u308b\u3068\u3044\u3046\u6570\u5b57\u3060\u306a\u3002\u65e5\u672c\u306f\u5f8c\u9032\u56fd\u306e\u8a3c\u660e\u304b\u3002 https://t.co/3XDiGfy6VB",
+        "attachments": null,
+        "author_id": 483657301,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671735600545794,
+        "created_at": "2020-04-16T06:25:52+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 34,
+                    "end": 57,
+                    "url": "https://t.co/3XDiGfy6VB",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384",
+                    "display_url": "twitter.com/XHNews/status/\u2026"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 22,
+                    "end": 23,
+                    "probability": 0.8945,
+                    "type": "Place",
+                    "normalized_text": "\u65e5\u672c"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "ja",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671626242404353",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:25:26.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1071059190276374529",
+            "source": "Twitter for iPhone",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671626242404353"
+        },
+        "id": 1250671626242404353,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1071059190276374529,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671626242404353,
+        "created_at": "2020-04-16T06:25:26+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671586220183552",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:25:17.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1241410897232441353",
+            "source": "Twitter Web App",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671586220183552"
+        },
+        "id": 1250671586220183552,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1241410897232441353,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671586220183552,
+        "created_at": "2020-04-16T06:25:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671524157067266",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:25:02.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1221366000752324609",
+            "source": "world_news_eng",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671524157067266"
+        },
+        "id": 1250671524157067266,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1221366000752324609,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671524157067266,
+        "created_at": "2020-04-16T06:25:02+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "world_news_eng",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671489935949825",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:24:54.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "324797125",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671489935949825"
+        },
+        "id": 1250671489935949825,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 324797125,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671489935949825,
+        "created_at": "2020-04-16T06:24:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671432490799104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:24:40.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "211685069",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671432490799104"
+        },
+        "id": 1250671432490799104,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 211685069,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671432490799104,
+        "created_at": "2020-04-16T06:24:40+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671414929240066",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:24:36.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "70244885",
+            "source": "TweetDeck",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671414929240066"
+        },
+        "id": 1250671414929240066,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 70244885,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671414929240066,
+        "created_at": "2020-04-16T06:24:36+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671336898224128",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:24:17.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "3098695976",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671336898224128"
+        },
+        "id": 1250671336898224128,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 3098695976,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671336898224128,
+        "created_at": "2020-04-16T06:24:17+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671297346052097",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:24:08.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "4188552796",
+            "source": "Twitter for iPhone",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671297346052097"
+        },
+        "id": 1250671297346052097,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 4188552796,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671297346052097,
+        "created_at": "2020-04-16T06:24:08+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671199492997125",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:23:44.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "1249600241172611072",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671199492997125"
+        },
+        "id": 1250671199492997125,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 1249600241172611072,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671199492997125,
+        "created_at": "2020-04-16T06:23:44+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671141276061696",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:23:31.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "395098080",
+            "source": "Twitter for iPhone",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671141276061696"
+        },
+        "id": 1250671141276061696,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 395098080,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671141276061696,
+        "created_at": "2020-04-16T06:23:31+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "withheld": null
+    },
+    {
+        "data": {
+            "id": "1250671072942358528",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2020-04-16T06:23:14.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "XHNews",
+                        "id": "487118986"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 30,
+                        "end": 38,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 90,
+                        "end": 113,
+                        "probability": 0.9443,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    }
+                ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "737608894000701443",
+            "source": "Twitter for Android",
+            "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                }
+            ],
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250671072942358528"
+        },
+        "id": 1250671072942358528,
+        "text": "RT @XHNews: Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.\u2026",
+        "attachments": null,
+        "author_id": 737608894000701443,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250671072942358528,
+        "created_at": "2020-04-16T06:23:14+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "username": "XHNews",
+                    "id": "487118986"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 30,
+                    "end": 38,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 90,
+                    "end": 113,
+                    "probability": 0.9443,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "retweeted",
+                    "id": "1250670870122512384"
+                },
+                "id": 1250670870122512384,
+                "type": "retweeted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "withheld": null
+    },
+    {
+        "data": {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/JP2GKCueyN",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384/photo/1",
+                        "display_url": "pic.twitter.com/JP2GKCueyN"
+                    },
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/JP2GKCueyN",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384/photo/1",
+                        "display_url": "pic.twitter.com/JP2GKCueyN"
+                    },
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/JP2GKCueyN",
+                        "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384/photo/1",
+                        "display_url": "pic.twitter.com/JP2GKCueyN"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 18,
+                        "end": 26,
+                        "tag": "COVID19"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 78,
+                        "end": 101,
+                        "probability": 0.9548,
+                        "type": "Organization",
+                        "normalized_text": "Johns Hopkins University"
+                    },
+                    {
+                        "start": 123,
+                        "end": 126,
+                        "probability": 0.8369,
+                        "type": "Place",
+                        "normalized_text": "U.S."
+                    },
+                    {
+                        "start": 137,
+                        "end": 141,
+                        "probability": 0.9717,
+                        "type": "Place",
+                        "normalized_text": "Spain"
+                    },
+                    {
+                        "start": 152,
+                        "end": 156,
+                        "probability": 0.8702,
+                        "type": "Place",
+                        "normalized_text": "Italy"
+                    },
+                    {
+                        "start": 167,
+                        "end": 173,
+                        "probability": 0.9752,
+                        "type": "Place",
+                        "normalized_text": "Germany"
+                    },
+                    {
+                        "start": 184,
+                        "end": 189,
+                        "probability": 0.8707,
+                        "type": "Place",
+                        "normalized_text": "France"
+                    },
+                    {
+                        "start": 200,
+                        "end": 206,
+                        "probability": 0.9064,
+                        "type": "Place",
+                        "normalized_text": "Britain"
+                    },
+                    {
+                        "start": 216,
+                        "end": 220,
+                        "probability": 0.9078,
+                        "type": "Place",
+                        "normalized_text": "China"
+                    },
+                    {
+                        "start": 230,
+                        "end": 233,
+                        "probability": 0.7653,
+                        "type": "Place",
+                        "normalized_text": "Iran"
+                    },
+                    {
+                        "start": 243,
+                        "end": 248,
+                        "probability": 0.7849,
+                        "type": "Place",
+                        "normalized_text": "Turkey"
+                    },
+                    {
+                        "start": 258,
+                        "end": 264,
+                        "probability": 0.8478,
+                        "type": "Place",
+                        "normalized_text": "Belgium"
+                    }
+                ]
+            },
+            "id": "1250670870122512384",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "public_metrics": {
+                "retweet_count": 36,
+                "reply_count": 13,
+                "like_count": 63,
+                "quote_count": 7
+            },
+            "created_at": "2020-04-16T06:22:26.000Z",
+            "reply_settings": "everyone",
+            "author_id": "487118986",
+            "source": "China Xinhua News",
+            "text": "Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.: 639,055\nSpain: 180,659\nItaly: 165,155\nGermany: 134,753\nFrance: 134,582\nBritain: 99,489\nChina: 83,797\nIran: 76,389\nTurkey: 69,392\nBelgium: 33,573 https://t.co/JP2GKCueyN",
+            "attachments": {
+                "media_keys": [
+                    "3_1250670857107542018",
+                    "3_1250670854947532801",
+                    "3_1250670855400480769"
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1250670870122512384"
+        },
+        "id": 1250670870122512384,
+        "text": "Latest updates on #COVID19 global confirmed cases in hardest-hit countries by Johns Hopkins University:  \nWorld: 2,064,115\nU.S.: 639,055\nSpain: 180,659\nItaly: 165,155\nGermany: 134,753\nFrance: 134,582\nBritain: 99,489\nChina: 83,797\nIran: 76,389\nTurkey: 69,392\nBelgium: 33,573 https://t.co/JP2GKCueyN",
+        "attachments": {
+            "media_keys": [
+                "3_1250670857107542018",
+                "3_1250670854947532801",
+                "3_1250670855400480769"
+            ]
+        },
+        "author_id": 487118986,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1250670870122512384,
+        "created_at": "2020-04-16T06:22:26+00:00",
+        "entities": {
+            "urls": [
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/JP2GKCueyN",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384/photo/1",
+                    "display_url": "pic.twitter.com/JP2GKCueyN"
+                },
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/JP2GKCueyN",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384/photo/1",
+                    "display_url": "pic.twitter.com/JP2GKCueyN"
+                },
+                {
+                    "start": 274,
+                    "end": 297,
+                    "url": "https://t.co/JP2GKCueyN",
+                    "expanded_url": "https://twitter.com/XHNews/status/1250670870122512384/photo/1",
+                    "display_url": "pic.twitter.com/JP2GKCueyN"
+                }
+            ],
+            "hashtags": [
+                {
+                    "start": 18,
+                    "end": 26,
+                    "tag": "COVID19"
+                }
+            ],
+            "annotations": [
+                {
+                    "start": 78,
+                    "end": 101,
+                    "probability": 0.9548,
+                    "type": "Organization",
+                    "normalized_text": "Johns Hopkins University"
+                },
+                {
+                    "start": 123,
+                    "end": 126,
+                    "probability": 0.8369,
+                    "type": "Place",
+                    "normalized_text": "U.S."
+                },
+                {
+                    "start": 137,
+                    "end": 141,
+                    "probability": 0.9717,
+                    "type": "Place",
+                    "normalized_text": "Spain"
+                },
+                {
+                    "start": 152,
+                    "end": 156,
+                    "probability": 0.8702,
+                    "type": "Place",
+                    "normalized_text": "Italy"
+                },
+                {
+                    "start": 167,
+                    "end": 173,
+                    "probability": 0.9752,
+                    "type": "Place",
+                    "normalized_text": "Germany"
+                },
+                {
+                    "start": 184,
+                    "end": 189,
+                    "probability": 0.8707,
+                    "type": "Place",
+                    "normalized_text": "France"
+                },
+                {
+                    "start": 200,
+                    "end": 206,
+                    "probability": 0.9064,
+                    "type": "Place",
+                    "normalized_text": "Britain"
+                },
+                {
+                    "start": 216,
+                    "end": 220,
+                    "probability": 0.9078,
+                    "type": "Place",
+                    "normalized_text": "China"
+                },
+                {
+                    "start": 230,
+                    "end": 233,
+                    "probability": 0.7653,
+                    "type": "Place",
+                    "normalized_text": "Iran"
+                },
+                {
+                    "start": 243,
+                    "end": 248,
+                    "probability": 0.7849,
+                    "type": "Place",
+                    "normalized_text": "Turkey"
+                },
+                {
+                    "start": 258,
+                    "end": 264,
+                    "probability": 0.8478,
+                    "type": "Place",
+                    "normalized_text": "Belgium"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": null,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 36,
+            "reply_count": 13,
+            "like_count": 63,
+            "quote_count": 7
+        },
+        "referenced_tweets": null,
+        "reply_settings": "everyone",
+        "source": "China Xinhua News",
+        "withheld": null
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "data": {
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "possibly_sensitive": false,
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "US_FDA",
+                        "id": "208120290"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 251,
+                        "end": 274,
+                        "url": "https://t.co/9GxFSsfdP4",
+                        "expanded_url": "https://twitter.com/JohnBoweActor/status/1411282101945708546",
+                        "display_url": "twitter.com/JohnBoweActor/\u2026"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1411282101945708546"
+                }
+            ],
+            "created_at": "2021-07-04T06:14:54.000Z",
+            "author_id": "921848231939620864",
+            "lang": "en",
+            "id": "1411569186095067140",
+            "in_reply_to_user_id": "208120290",
+            "conversation_id": "1411569186095067140",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "text": "@US_FDA Guess what!  We all are finding out that you squashed a medication that would have saved lives.  Thousands died needlessly.  This isn't a conservative position, it is a liberal position as well and you cannot put the genie back in the bottle. https://t.co/9GxFSsfdP4",
+            "reply_settings": "everyone",
+            "source": "Twitter Web App"
+        },
+        "id": 1411569186095067140,
+        "text": "@US_FDA Guess what!  We all are finding out that you squashed a medication that would have saved lives.  Thousands died needlessly.  This isn't a conservative position, it is a liberal position as well and you cannot put the genie back in the bottle. https://t.co/9GxFSsfdP4",
+        "attachments": null,
+        "author_id": 921848231939620864,
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "123",
+                    "name": "Ongoing News Story",
+                    "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "conversation_id": 1411569186095067140,
+        "created_at": "2021-07-04T06:14:54+00:00",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 0,
+                    "end": 7,
+                    "username": "US_FDA",
+                    "id": "208120290"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 251,
+                    "end": 274,
+                    "url": "https://t.co/9GxFSsfdP4",
+                    "expanded_url": "https://twitter.com/JohnBoweActor/status/1411282101945708546",
+                    "display_url": "twitter.com/JohnBoweActor/\u2026"
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_user_id": 208120290,
+        "lang": "en",
+        "non_public_metrics": null,
+        "organic_metrics": null,
+        "possibly_sensitive": false,
+        "promoted_metrics": null,
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "data": {
+                    "type": "quoted",
+                    "id": "1411282101945708546"
+                },
+                "id": 1411282101945708546,
+                "type": "quoted"
+            }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "withheld": null
+    }
+]
