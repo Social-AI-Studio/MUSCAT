@@ -2,12 +2,22 @@
  - @Dan : [TOD0] Describe the data collection pipline and illustrate it with a diagram 
 
 ### Collected Dataset Statistics 
-#### Cekfakta News (Indonesia)
-We have attempted to scrape the tweets relevant to 5,157 Cekfakta news articles. In total, we manage to find 895 articles that at least have 1 Twitter conversation thread. The table below shows the statistical summary of 2,853 Twitter conversation threads retrieved for the 895 articles.
 
-|#Articles|#Threads|#Tweets|#Avg Threads per Article| #Avg Tweets per Thread|
-|---|---|---|---|---|
-|895|2,853|148,921| 3.18|52.53|
+As of now, we're scraping tweets from 4 sites: Cekfakta (Bahasa Indo), BlackDot (English, Singapore), Vietfactcheck (Vietnamese + English), Antifakenewscenter (Thai). Statistics are as follow:
+
+|Site|Language|#Articles|#Threads|#Tweets|#Avg Threads per Article| #Avg Tweets per Thread|
+|---|---|---|---|---|---|---|
+|Cekfakta|Indo|895|2,853|148,921| 3.18|52.53|
+|Blackdot|English(SG)|112|1029|68,987|9.19|67.04|
+|Vietfactcheck|Vietnamese| | | | | |
+|Antifakenewscenter|Thai| | | | | |
+
+##### Some important notes:
+
+- Vietfactcheck contains both English and Vietnamese articles. The content is mainly catered to the Vietnamese diaspora in the United States. For the purpose of this paper, only the Vietnamese content and tweets will be counted above (although English tweets are also scraped)
+
+- When preprocessing the Thai dataset, note that the date in `Thai_Antifakenewscenter_csvdump.csv` is written in Thai Buddhist solar calendar. The year in Thai calendar is offset by 543 years compared to Gregorian calendar. Use the conversion util in `thai_dateutils.py` to convert into `datetime` object, because the tweet scraper relies on date range to scrape relevant tweets.
+
 
 # Multilingual Rumor Detection
 
