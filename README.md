@@ -180,9 +180,10 @@ Experiment results for PHEME **English** dataset
 | EBGCN | | | |  |
 | mBERT | 0.564 | 0.335 | 0.333 | 0.333 | 0.262 | 0.178 | 0.126 | 0.765
 | XLM-R | 0.501 | 0.315 | 0.323 | 0.308 | 0.274 | 0.111 | 0.131 | 0.716
-| HierarchicalTransformer | 0.64 | 0.40 | 0.36 | 0.36  | 0.37 | 0.17 | 0.11 | 0.81 |
-| CoupleCoAttnTransformer (ours) | 0.63 | 0.39 | 0.35 | 0.36 | 0.35 | 0.11 | 0.17 | 0.79 |
-| CoupleCoAttnHierarchalTransformer (ours) | 0.63 | 0.37 | 0.35 | 0.35 | 0.41 | 0.08 | 0.12 | 0.80 |
+| CoupledHierarchicalTransformer | 0.64 | 0.40 | 0.36 | 0.36  | 0.37 | 0.17 | 0.11 | 0.81 |
+| CoupledTransformer | 0.60 | 0.35 | 0.35 | 0.32 | 0.27 | 0.12 | 0.11 | 0.80 |
+| CoupledCoAttnTransformer (ours) | 0.63 | 0.39 | 0.35 | 0.36 | 0.35 | 0.11 | 0.17 | 0.79 |
+| CoupledCoAttnHierarchalTransformer (ours) | 0.63 | 0.37 | 0.35 | 0.35 | 0.41 | 0.08 | 0.12 | 0.80 |
 
 *Our proposed model is not done yet. Still on preliminary stage. Don't take our proposed model row seriously yet.*
 
