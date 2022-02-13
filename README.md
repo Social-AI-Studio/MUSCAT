@@ -12,11 +12,33 @@ As of now, we're scraping tweets from 4 sites: Cekfakta (Bahasa Indo), BlackDot 
 |Vietfactcheck|Vietnamese| | | | | |
 |Antifakenewscenter|Thai| | | | | |
 
-##### Some important notes:
+**Some important notes:**
 
 - Vietfactcheck contains both English and Vietnamese articles. The content is mainly catered to the Vietnamese diaspora in the United States. For the purpose of this paper, only the Vietnamese content and tweets will be counted above (although English tweets are also scraped)
 
 - When preprocessing the Thai dataset, note that the date in `Thai_Antifakenewscenter_csvdump.csv` is written in Thai Buddhist solar calendar. The year in Thai calendar is offset by 543 years compared to Gregorian calendar. Use the conversion util in `thai_dateutils.py` to convert into `datetime` object, because the tweet scraper relies on date range to scrape relevant tweets.
+
+**Veracity statistics:**
+
+Veracity for articles that have at least 1 conversation.
+
+- Vietfactcheck does not have veracity labels
+- Blackdot might have more than 1 label per article. This is because Blackdot splits claims into sub claims and fact check them separately. Total number of labels will not add up to expected
+
+*NOTE: Currently having issue with pulling Thai tweets. Need further debugging before I can provide stats*
+
+**Indo:**
+- `False`: 840
+- `True`: 22
+- `Clarification`:29 (unclear label; some articles are clear misinformation, while some are half-truths)
+
+**Blackdot:**
+
+- `False`: 139
+- `True`: 24
+- `Clarification`: 37
+- Unlabelled (no info in the label column): 95
+- Others (include e.g. "mostly true", "likely true" etc.): 80
 
 
 # Multilingual Rumor Detection
