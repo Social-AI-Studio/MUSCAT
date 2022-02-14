@@ -35,7 +35,8 @@ import torch.nn.functional as F
 from sequence_labeling import classification_report
 
 from my_bert.tokenization import BertTokenizer
-from my_bert.filmx_modeling import BertForSequenceClassification
+from my_bert.filmx_modeling import BertForSequenceClassification, CoupledCoAttnBertForSequenceClassification
+from my_bert.modeling import CoupledBertForSequenceClassification
 from my_bert.optimization import BertAdam
 from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
 
@@ -341,7 +342,8 @@ def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer
             logger.info(
                 "segment_ids: %s" % " ".join([str(x) for x in segment_ids1]))
             logger.info("label: %s" % (label))
-
+            
+            logger.info("src_input_ids: %s" % " ".join([str(x) for x in src_input_ids]))
         features.append(
             CoInputFeatures(input_ids1=input_ids1, input_mask1=input_mask1, segment_ids1=segment_ids1,
                                 input_ids2=input_ids2, input_mask2=input_mask2, segment_ids2=segment_ids2,
@@ -610,7 +612,7 @@ def main():
     parser.add_argument('--bertlayer', action='store_true', help='whether to add another bert layer')
     parser.add_argument('--max_tweet_num', type=int, default=30, help="the maximum number of tweets")
     parser.add_argument('--max_tweet_length', type=int, default=17, help="the maximum length of each tweet")
-
+    parser.add_argument('--exp_setting', type=str, default="", help="Choice of experiments to run.")
     args = parser.parse_args()
 
     if args.bertlayer:
@@ -696,11 +698,22 @@ def main():
         train_examples = processor.get_train_examples(args.data_dir)
         num_train_steps = int(
             len(train_examples) / args.train_batch_size / args.gradient_accumulation_steps * args.num_train_epochs)
+    
+    logger.info(f"Using model experiment setting {args.exp_setting}")
 
     # Prepare model
-    model = BertForSequenceClassification.from_pretrained(args.bert_model,
-              cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
-              num_labels = num_labels)
+    if args.exp_setting == "coupled":
+        model = CoupledBertForSequenceClassification.from_pretrained(args.bert_model,
+                  cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
+                  num_labels = num_labels)
+    elif args.exp_setting == "coupled-attn":
+        model = CoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model,
+                  cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
+                  num_labels = num_labels)
+    else:
+        model = BertForSequenceClassification.from_pretrained(args.bert_model,
+                  cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
+                  num_labels = num_labels)
     if args.fp16:
         model.half()
     model.to(device)
@@ -1024,12 +1037,13 @@ def main():
             for key in sorted(result.keys()):
                 logger.info("  %s = %s", key, str(result[key]))
 
-            if eval_accuracy>= max_acc_f1:
+            if F_score >= max_acc_f1:
                 # Save a trained model
                 model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
                 if args.do_train:
+                    logger.info(f"Saving model at epoch {train_idx}")
                     torch.save(model_to_save.state_dict(), output_model_file)
-                max_acc_f1 = eval_accuracy
+                max_acc_f1 = F_score
 
             logger.info("***** Running evaluation on Test Set*****")
             logger.info("  Num examples = %d", len(test_examples))
@@ -1107,7 +1121,15 @@ def main():
     # Load a trained model that you have fine-tuned
 
     model_state_dict = torch.load(output_model_file)
-    model = BertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
+    logger.info(f"Loading model exp setting {args.exp_setting}")
+    if args.exp_setting == "coupled":
+        model = CoupledBertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
+                                                          num_labels=num_labels)
+    elif args.exp_setting == "coupled-attn":
+        model = CoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
+                                                          num_labels=num_labels)
+    else:
+        model = BertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
                                                           num_labels=num_labels)
     model.to(device)
 

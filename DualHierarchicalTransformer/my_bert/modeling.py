@@ -1884,3 +1884,77 @@ class BertForQuestionAnswering(PreTrainedBertModel):
             return total_loss
         else:
             return start_logits, end_logits
+
+
+class CoupledBertForSequenceClassification(PreTrainedBertModel):
+    def __init__(self, config, num_labels=2):
+        super(CoupledBertForSequenceClassification, self).__init__(config)
+        self.num_labels = num_labels
+        self.bert = BertModel(config)
+        self.dropout = nn.Dropout(config.hidden_dropout_prob)
+        self.add_bert_pooler = BertPooler(config)
+        self.classifier = nn.Sequential(
+            nn.Linear(config.hidden_size * 4, config.hidden_size),
+            nn.ReLU(),
+            nn.Linear(config.hidden_size, num_labels),
+        )
+        self.apply(self.init_bert_weights)
+
+    def forward(
+        self,
+        input_ids1,
+        token_type_ids1,
+        attention_mask1,
+        input_ids2,
+        token_type_ids2,
+        attention_mask2,
+        input_ids3,
+        token_type_ids3,
+        attention_mask3,
+        input_ids4,
+        token_type_ids4,
+        attention_mask4,
+        attention_mask,
+        src_input_ids,
+        src_input_mask,
+        labels=None,
+    ):
+        # sequence_output1, pooled_output = self.bert(input_ids1, token_type_ids1, attention_mask1, output_all_encoded_layers=False)
+        sequence_output1, pooled_output1 = self.bert(
+            input_ids1,
+            token_type_ids1,
+            attention_mask1,
+            output_all_encoded_layers=False,
+        )
+        sequence_output2, pooled_output2 = self.bert(
+            input_ids2,
+            token_type_ids2,
+            attention_mask2,
+            output_all_encoded_layers=False,
+        )
+        sequence_output3, pooled_output3 = self.bert(
+            input_ids3,
+            token_type_ids3,
+            attention_mask3,
+            output_all_encoded_layers=False,
+        )
+        sequence_output4, pooled_output4 = self.bert(
+            input_ids4,
+            token_type_ids4,
+            attention_mask4,
+            output_all_encoded_layers=False,
+        )
+        logger.debug(f"pooled --> {pooled_output1.shape}")
+        tmp_pool = torch.cat((pooled_output1, pooled_output2), dim=1)
+        tmp_pool = torch.cat((tmp_pool, pooled_output3), dim=1)
+        final_pool_output = torch.cat((tmp_pool, pooled_output4), dim=1)
+
+        pooled_output = self.dropout(final_pool_output)
+        logits = self.classifier(pooled_output)
+
+        if labels is not None:
+            loss_fct = CrossEntropyLoss()
+            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+            return loss
+        else:
+            return logits

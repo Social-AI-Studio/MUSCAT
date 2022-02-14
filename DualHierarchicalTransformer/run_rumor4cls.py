@@ -21,6 +21,7 @@ from __future__ import print_function
 
 import csv
 import os
+import sys
 import logging
 import argparse
 import random
@@ -37,9 +38,17 @@ from my_bert.tokenization import BertTokenizer
 from my_bert.modeling import BertForSequenceClassification
 from my_bert.optimization import BertAdam
 from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
+from transformers import (
+    AdamW,
+    get_linear_schedule_with_warmup,
+)
 
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import classification_report as cls_report
+lib_path = os.path.abspath(os.path.join(__file__, "..", "..", "preprocess"))
+print(lib_path)
+sys.path.append(lib_path)
+from utils import preprocess_en_text
 
 logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
                     datefmt = '%m/%d/%Y %H:%M:%S',
@@ -187,43 +196,6 @@ class Rumor4clsProcessor(RumorProcessor):
         return ['0', '1', '2', '3']
 
 
-class StanceProcessor(DataProcessor):
-    """Processor for the Stance Prediction data set (GLUE version)."""
-
-    def get_train_examples(self, data_dir):
-        """See base class."""
-        logger.info("LOOKING AT {}".format(os.path.join(data_dir, "stance_train.tsv")))
-        return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "stance_train.tsv")), "train")
-
-    def get_dev_examples(self, data_dir):
-        """See base class."""
-        return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "stance_dev.tsv")), "dev")
-
-    def get_test_examples(self, data_dir):
-        """See base class."""
-        return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "stance_test.tsv")), "test")
-
-    def get_labels(self):
-        """See base class."""
-        return ["B-DENY", "B-SUPPORT", "B-QUERY", "B-COMMENT"]
-
-    def _create_examples(self, lines, set_type):
-        """Creates examples for the training and dev sets."""
-        examples = []
-        for (i, line) in enumerate(lines):
-            if i == 0:
-                continue
-            guid = "%s-%s" % (set_type, i)
-            text_a = line[2].lower().split('|||||')
-            text_b = None
-            label = line[1].split(',')
-            examples.append(
-                InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
-        return examples
-
 
 def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer, max_tweet_num, max_tweet_len):
     """Loads a data file into a list of `InputBatch`s."""
@@ -249,6 +221,7 @@ def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer
             tweet = tweetlist[i]
             if tweet == '':
                 break
+            tweet = preprocess_en_text(tweet, force_clean=False)
             tweet_token = tokenizer.tokenize(tweet)
             if len(tweet_token) >= max_tweet_len - 1:
                 tweet_token = tweet_token[:(max_tweet_len - 2)]
@@ -376,86 +349,6 @@ def bucket_rumor_conversion(tweets_tokens, tokenizer, max_tweet_num, max_tweet_l
     return input_tokens, input_ids, input_mask, segment_ids, stance_position
 
 
-def bucket_conversion(tweets_tokens, labels, label_map, tokenizer, max_tweet_num, max_tweet_len, max_seq_length):
-    ntokens = []
-    input_tokens = []
-    input_ids = []
-    input_mask = []
-    segment_ids = []
-    label_ids = []
-    label_mask = []
-    stance_position = []
-    if labels != []:
-        ntokens.append("[CLS]")
-        # input_tokens.extend(ntokens) # avoid having two [CLS] at the begining
-        # segment_ids.append(0) #########no need to add this line
-        label_ids.append(label_map[labels[0]])
-        stance_position.append(0)
-        label_mask.append(1)
-    for i, tweet_token in enumerate(tweets_tokens):
-        if i != 0:
-            ntokens = []
-            ntokens.append("[CLS]")
-            label_ids.append(label_map[labels[i]])
-            stance_position.append(len(input_ids))
-            label_mask.append(1)
-        ntokens.extend(tweet_token)
-        ntokens.append("[SEP]")
-        input_tokens.extend(ntokens)  # just for printing out
-        input_tokens.extend("[padpadpad]")  # just for printing out
-        tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
-        tweet_input_mask = [1] * len(tweet_input_ids)
-        while len(tweet_input_ids) < max_tweet_len:
-            tweet_input_ids.append(0)
-            tweet_input_mask.append(0)
-        input_ids.extend(tweet_input_ids)
-        input_mask.extend(tweet_input_mask)
-        segment_ids = segment_ids + [i % 2] * len(tweet_input_ids)
-
-    cur_tweet_num = len(tweets_tokens)
-    pad_tweet_length = max_tweet_num - cur_tweet_num
-    for j in range(pad_tweet_length):
-        ntokens = []
-        ntokens.append("[CLS]")
-        ntokens.append("[SEP]")
-        label_ids.append(0)
-        stance_position.append(len(input_ids))
-        label_mask.append(0)
-        tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
-        tweet_input_mask = [1] * len(tweet_input_ids)
-        tweet_input_ids = tweet_input_ids + [0] * (max_tweet_len - 2)
-        tweet_input_mask = tweet_input_mask + [0] * (max_tweet_len - 2)
-        input_ids.extend(tweet_input_ids)
-        input_mask.extend(tweet_input_mask)
-        segment_ids = segment_ids + [(cur_tweet_num + j) % 2] * max_tweet_len
-
-    while len(input_ids) < max_seq_length:
-        input_ids.append(0)
-        input_mask.append(0)
-        segment_ids.append(0)
-
-    assert len(input_ids) == max_seq_length
-    assert len(input_mask) == max_seq_length
-    assert len(segment_ids) == max_seq_length
-
-    return input_tokens, input_ids, input_mask, segment_ids, label_ids, stance_position, label_mask
-
-
-def _truncate_seq_pair(tokens_a, tokens_b, max_length):
-    """Truncates a sequence pair in place to the maximum length."""
-
-    # This is a simple heuristic which will always truncate the longer sequence
-    # one token at a time. This makes more sense than truncating an equal percent
-    # of tokens from each, since if one sequence is very short then each token
-    # that's truncated likely contains more information than a longer sequence.
-    while True:
-        total_length = len(tokens_a) + len(tokens_b)
-        if total_length <= max_length:
-            break
-        if len(tokens_a) > len(tokens_b):
-            tokens_a.pop()
-        else:
-            tokens_b.pop()
 
 def accuracy(out, labels):
     outputs = np.argmax(out, axis=1)
@@ -528,6 +421,7 @@ def main():
                         default=5e-5,
                         type=float,
                         help="The initial learning rate for Adam.")
+    parser.add_argument("--adam_epsilon", default=1e-8, type=float, help="Epsilon for Adam optimizer.")
     parser.add_argument("--num_train_epochs",
                         default=20.0,
                         type=float,
@@ -537,6 +431,11 @@ def main():
                         type=float,
                         help="Proportion of training to perform linear learning rate warmup for. "
                              "E.g., 0.1 = 10%% of training.")
+    parser.add_argument("--max_steps",
+                        default=-1,
+                        type=int,
+                        help="If > 0: set total number of training steps to perform. Override num_train_epochs.")
+    parser.add_argument("--warmup_steps", default=0, type=int, help="Linear warmup over warmup_steps.")
     parser.add_argument("--no_cuda",
                         action='store_true',
                         help="Whether not to use CUDA when available")
@@ -555,6 +454,11 @@ def main():
     parser.add_argument('--fp16',
                         action='store_true',
                         help="Whether to use 16-bit float precision instead of 32-bit")
+    parser.add_argument("--fp16_opt_level",
+                        type=str,
+                        default="O1",
+                        help="For fp16: Apex AMP optimization level selected in ['O0', 'O1', 'O2', and 'O3']."
+                        "See details at https://nvidia.github.io/apex/amp.html")
     parser.add_argument('--loss_scale',
                         type=float, default=0,
                         help="Loss scaling to improve fp16 numeric stability. Only used when fp16 set to True.\n"
@@ -602,15 +506,15 @@ def main():
 
     if args.local_rank == -1 or args.no_cuda:
         device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
-        n_gpu = torch.cuda.device_count()
+        args.n_gpu = torch.cuda.device_count()
     else:
         torch.cuda.set_device(args.local_rank)
         device = torch.device("cuda", args.local_rank)
-        n_gpu = 1
+        args.n_gpu = 1
         # Initializes the distributed backend which will take care of sychronizing nodes/GPUs
         torch.distributed.init_process_group(backend='nccl')
     logger.info("device: {} n_gpu: {}, distributed training: {}, 16-bits training: {}".format(
-        device, n_gpu, bool(args.local_rank != -1), args.fp16))
+        device, args.n_gpu, bool(args.local_rank != -1), args.fp16))
 
     if args.gradient_accumulation_steps < 1:
         raise ValueError("Invalid gradient_accumulation_steps parameter: {}, should be >= 1".format(
@@ -621,7 +525,7 @@ def main():
     random.seed(args.seed)
     np.random.seed(args.seed)
     torch.manual_seed(args.seed)
-    if n_gpu > 0:
+    if args.n_gpu > 0:
         torch.cuda.manual_seed_all(args.seed)
 
     if not args.do_train and not args.do_eval:
@@ -640,7 +544,20 @@ def main():
     label_list = processor.get_labels()
     num_labels = num_labels_task[task_name] # label 0 corresponds to padding, label in label_list starts from 1
 
+    # Load pretrained model and tokenizer
+    if args.local_rank not in [-1, 0]:
+        torch.distributed.barrier()  # Make sure only the first process in distributed training will download model & vocab
+
     tokenizer = BertTokenizer.from_pretrained(args.bert_model, do_lower_case=args.do_lower_case)
+    
+    # Prepare model
+    model = BertForSequenceClassification.from_pretrained(args.bert_model,
+              cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
+              num_labels = num_labels)
+    
+    if args.local_rank == 0:
+        torch.distributed.barrier()  # Make sure only the first process in distributed training will download model & vocab
+
 
     train_examples = None
     num_train_steps = None
@@ -650,23 +567,7 @@ def main():
         num_train_steps = int(
             len(train_examples) / args.train_batch_size / args.gradient_accumulation_steps * args.num_train_epochs)
 
-    # Prepare model
-    model = BertForSequenceClassification.from_pretrained(args.bert_model,
-              cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
-              num_labels = num_labels)
-    if args.fp16:
-        model.half()
     model.to(device)
-    if args.local_rank != -1:
-        # try:
-        #     from apex.parallel import DistributedDataParallel as DDP
-        # except ImportError:
-        #     raise ImportError("Please install apex from https://www.github.com/nvidia/apex to use distributed and fp16 training.")
-
-        # model = DDP(model)
-        model = torch.nn.parallel.DistributedDataParallel(model)
-    elif n_gpu > 1:
-        model = torch.nn.DataParallel(model)
 
     # Prepare optimizer
     param_optimizer = list(model.named_parameters())
@@ -676,29 +577,31 @@ def main():
         {'params': [p for n, p in param_optimizer if any(nd in n for nd in no_decay)], 'weight_decay': 0.0}
         ]
     t_total = num_train_steps
+
+    optimizer = AdamW(optimizer_grouped_parameters, lr=args.learning_rate, eps=args.adam_epsilon)
+    scheduler = get_linear_schedule_with_warmup(
+        optimizer, num_warmup_steps=args.warmup_steps, num_training_steps=t_total
+    )
+
     if args.local_rank != -1:
         t_total = t_total // torch.distributed.get_world_size()
+
     if args.fp16:
         try:
-            from apex.optimizers import FP16_Optimizer
-            from apex.optimizers import FusedAdam
+            from apex import amp
         except ImportError:
-            raise ImportError("Please install apex from https://www.github.com/nvidia/apex to use distributed and fp16 training.")
+            raise ImportError("Please install apex from https://www.github.com/nvidia/apex to use fp16 training.")
+        model, optimizer = amp.initialize(model, optimizer, opt_level=args.fp16_opt_level)
+    
+    # multi-gpu training (should be after apex fp16 initialization)
+    if args.n_gpu > 1:
+        model = torch.nn.DataParallel(model)
 
-        optimizer = FusedAdam(optimizer_grouped_parameters,
-                              lr=args.learning_rate,
-                              bias_correction=False,
-                              max_grad_norm=1.0)
-        if args.loss_scale == 0:
-            optimizer = FP16_Optimizer(optimizer, dynamic_loss_scale=True)
-        else:
-            optimizer = FP16_Optimizer(optimizer, static_loss_scale=args.loss_scale)
-
-    else:
-        optimizer = BertAdam(optimizer_grouped_parameters,
-                             lr=args.learning_rate,
-                             warmup=args.warmup_proportion,
-                             t_total=t_total)
+    # Distributed training (should be after apex fp16 initialization)
+    if args.local_rank != -1:
+        model = torch.nn.parallel.DistributedDataParallel(
+            model, device_ids=[args.local_rank], output_device=args.local_rank, find_unused_parameters=True,
+        )
 
     global_step = 0
     nb_tr_steps = 0
@@ -706,6 +609,8 @@ def main():
     output_model_file = os.path.join(args.output_dir, "pytorch_model.bin")
     if args.do_train:
         print('training data')
+        if args.local_rank not in [-1, 0]:
+            torch.distributed.barrier()  # Make sure only the first process in distributed training process the dataset, and the others will use the cache
         train_features = convert_examples_to_features(
             train_examples, label_list, args.max_seq_length, tokenizer, args.max_tweet_num, args.max_tweet_length)
 
@@ -812,15 +717,17 @@ def main():
                 loss = model(input_ids1, segment_ids1, input_mask1, input_ids2, segment_ids2, input_mask2,
                              input_ids3, segment_ids3, input_mask3, input_ids4, segment_ids4, input_mask4,
                              input_mask, label_ids)
-                if n_gpu > 1:
+                if args.n_gpu > 1:
                     loss = loss.mean() # mean() to average on multi-gpu.
                 if args.gradient_accumulation_steps > 1:
                     loss = loss / args.gradient_accumulation_steps
 
                 if args.fp16:
-                    optimizer.backward(loss)
+                    with amp.scale_loss(loss, optimizer) as scaled_loss:
+                        scaled_loss.backward()
                 else:
                     loss.backward()
+
 
                 tr_loss += loss.item()
                 nb_tr_examples += input_ids1.size(0)
@@ -975,6 +882,7 @@ def main():
                 model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
                 if args.do_train:
                     torch.save(model_to_save.state_dict(), output_model_file)
+                    logger.info(f"Saving model checkpoint {output_model_file} from epoch {train_idx}")
                 max_acc_f1 = eval_accuracy
 
             logger.info("***** Running evaluation on Test Set*****")
@@ -1055,7 +963,7 @@ def main():
                                                           num_labels=num_labels)
     model.to(device)
 
-    if args.do_eval and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
+    if args.do_eval and args.local_rank in [-1, 0]:
         eval_examples = processor.get_test_examples(args.data_dir)
         eval_features = convert_examples_to_features(
             eval_examples, label_list, args.max_seq_length, tokenizer, args.max_tweet_num, args.max_tweet_length)
@@ -1163,8 +1071,8 @@ def main():
 
         fout_p.close()
         fout_t.close()
-
         output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
+        logger.info(f"Saving evaluation results {output_eval_file}")
         with open(output_eval_file, "w") as writer:
             logger.info("***** Test Eval results *****")
             for key in sorted(result.keys()):

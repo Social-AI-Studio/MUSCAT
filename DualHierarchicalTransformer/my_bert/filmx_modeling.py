@@ -42,7 +42,7 @@ from transformers.models.bert.modeling_bert import (
     #     BertSelfAttention,
     # BertSelfOutput,
 )
-
+from .modeling import BertLayer
 from .conditional_modules import FiLM, CBDA, ConditionalBottleNeck, ConditionalLayerNorm
 from .file_utils import cached_path
 
@@ -424,13 +424,11 @@ class SourceAttendsSubthread(nn.Module):
         return x.permute(0, 2, 1, 3)
 
     def forward(self, hidden_states, source_hidden_states):
-        mixed_query_layer = self.query(source_hidden_states)
-        mixed_key_layer = self.key(hidden_states)
-        mixed_value_layer = self.value(hidden_states)
+        mixed_query_layer = self.query(hidden_states)
+        mixed_key_layer = self.key(source_hidden_states)
 
         query_layer = self.transpose_for_scores(mixed_query_layer)
         key_layer = self.transpose_for_scores(mixed_key_layer)
-        value_layer = self.transpose_for_scores(mixed_value_layer)
 
         # Take the dot product between "query" and "key" to get the raw attention scores.
         attention_scores = torch.matmul(query_layer, key_layer.transpose(-1, -2))
@@ -531,9 +529,16 @@ class MyBertLayer(nn.Module):
 class BertEncoder(nn.Module):
     def __init__(self, config):
         super(BertEncoder, self).__init__()
-        layer = MyBertLayer(config)
+        # layer = MyBertLayer(config)
+        num_bert_layers = config.num_hidden_layers // 2
+        num_mybert_layers = config.num_hidden_layers // 2
+        assert num_bert_layers + num_mybert_layers == config.num_hidden_layers
+        # self.layer = nn.ModuleList(
+        #     [copy.deepcopy(layer) for _ in range(config.num_hidden_layers)]
+        # )
         self.layer = nn.ModuleList(
-            [copy.deepcopy(layer) for _ in range(config.num_hidden_layers)]
+            [BertLayer(config) for _ in range(num_bert_layers)]
+            + [MyBertLayer(config) for _ in range(num_mybert_layers)]
         )
 
     def forward(
@@ -545,9 +550,12 @@ class BertEncoder(nn.Module):
     ):
         all_encoder_layers = []
         for layer_module in self.layer:
-            hidden_states = layer_module(
-                hidden_states, attention_mask, source_embedding
-            )
+            if isinstance(layer_module, BertLayer):
+                hidden_states = layer_module(hidden_states, attention_mask)
+            else:
+                hidden_states = layer_module(
+                    hidden_states, attention_mask, source_embedding
+                )
             if output_all_encoded_layers:
                 all_encoder_layers.append(hidden_states)
         if not output_all_encoded_layers:
@@ -558,7 +566,7 @@ class BertEncoder(nn.Module):
 class ADDBertEncoder(nn.Module):
     def __init__(self, config):
         super(ADDBertEncoder, self).__init__()
-        layer = MyBertLayer(config)
+        layer = BertLayer(config)
         self.layer = nn.ModuleList([copy.deepcopy(layer) for _ in range(1)])
 
     def forward(self, hidden_states, attention_mask, output_all_encoded_layers=True):
@@ -834,7 +842,10 @@ class BertModel(PreTrainedBertModel):
         extended_attention_mask = (1.0 - extended_attention_mask) * -10000.0
 
         embedding_output = self.embeddings(input_ids, token_type_ids)
-        src_embedding = self.embeddings(src_input_ids, src_token_type_ids)
+        if src_input_ids is not None and src_token_type_ids is not None:
+            src_embedding = self.embeddings(src_input_ids, src_token_type_ids)
+        else:
+            src_embedding = None
         encoded_layers = self.encoder(
             embedding_output,
             extended_attention_mask,
@@ -934,6 +945,91 @@ class BertForSequenceClassification(PreTrainedBertModel):
         # final_text_output = self.add_bert_pooler(sequence_output)
 
         pooled_output = self.dropout(final_text_output)
+        logits = self.classifier(pooled_output)
+
+        if labels is not None:
+            loss_fct = CrossEntropyLoss()
+            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+            return loss
+        else:
+            return logits
+
+
+# Ablation: Coupled BERT model with CoAttention module
+
+
+class CoupledCoAttnBertForSequenceClassification(PreTrainedBertModel):
+    def __init__(self, config, num_labels=2):
+        super(CoupledCoAttnBertForSequenceClassification, self).__init__(config)
+        self.num_labels = num_labels
+        self.bert = BertModel(config)
+        self.dropout = nn.Dropout(config.hidden_dropout_prob)
+        self.add_bert_pooler = BertPooler(config)
+        self.classifier = nn.Sequential(
+            nn.Linear(config.hidden_size * 4, config.hidden_size),
+            nn.ReLU(),
+            nn.Linear(config.hidden_size, num_labels),
+        )
+        self.apply(self.init_bert_weights)
+
+    def forward(
+        self,
+        input_ids1,
+        token_type_ids1,
+        attention_mask1,
+        input_ids2,
+        token_type_ids2,
+        attention_mask2,
+        input_ids3,
+        token_type_ids3,
+        attention_mask3,
+        input_ids4,
+        token_type_ids4,
+        attention_mask4,
+        attention_mask,
+        src_input_ids,
+        src_input_mask,
+        labels=None,
+    ):
+        # sequence_output1, pooled_output = self.bert(input_ids1, token_type_ids1, attention_mask1, output_all_encoded_layers=False)
+        sequence_output1, pooled_output1 = self.bert(
+            input_ids1,
+            token_type_ids1,
+            attention_mask1,
+            output_all_encoded_layers=False,
+            src_input_ids=src_input_ids,
+            src_token_type_ids=src_input_mask,
+        )
+        sequence_output2, pooled_output2 = self.bert(
+            input_ids2,
+            token_type_ids2,
+            attention_mask2,
+            output_all_encoded_layers=False,
+            src_input_ids=src_input_ids,
+            src_token_type_ids=src_input_mask,
+        )
+        sequence_output3, pooled_output3 = self.bert(
+            input_ids3,
+            token_type_ids3,
+            attention_mask3,
+            output_all_encoded_layers=False,
+            src_input_ids=src_input_ids,
+            src_token_type_ids=src_input_mask,
+        )
+        sequence_output4, pooled_output4 = self.bert(
+            input_ids4,
+            token_type_ids4,
+            attention_mask4,
+            output_all_encoded_layers=False,
+            src_input_ids=src_input_ids,
+            src_token_type_ids=src_input_mask,
+        )
+        logger.debug(f"pooled --> {pooled_output1.shape}")
+        tmp_pool = torch.cat((pooled_output1, pooled_output2), dim=1)
+        tmp_pool = torch.cat((tmp_pool, pooled_output3), dim=1)
+        final_pool_output = torch.cat((tmp_pool, pooled_output4), dim=1)
+
+        pooled_output = self.dropout(final_pool_output)
         logits = self.classifier(pooled_output)
 
         if labels is not None:
