@@ -219,7 +219,7 @@ Experiment results for PHEME **Indonesia** dataset
 | RvNN | | | |  |
 | BiGCN | | | |  |
 | EBGCN | | | |  |
-| mBERT | |  | | |
+| mBERT | 0.512 | 0.344 | 0.349 | 0.326 | 0.355 | 0.102 | 0.160 | 0.686
 | XLM-R | | |  | |
 | HierarchicalTransformer |  |  |   |  |  |  |  |
 | Ours |  |  |  |  | | |  |
