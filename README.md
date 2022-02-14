@@ -213,7 +213,7 @@ Experiment results for PHEME **Indonesia** dataset
 
 |Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
 |---|---|---|---|---|---|---|---|---|
-| SVM | |  | | |
+| SVM | 0.630 | 0.371 | 0.344 | 0.342 | 0.334 | 0.070 | 0.162 | 0.801
 | LSTM | |  |  | |
 | Branch-LSTM | | | | |
 | RvNN | | | |  |
