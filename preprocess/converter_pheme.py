@@ -132,8 +132,9 @@ def reader_pheme():
                 if (idx + 1) % 500 == 0:
                     logger.info("*** Processed {} tweets ***".format(idx + 1))
 
-    out_dir = "preprocess"
-    outfile = os.path.join(out_dir, f"data.TD_PHEME.vol_{MAX_VOCAB_SZ}.txt")
+    out_dir = "preprocess/PHEME/EN/"
+    os.makedirs(out_dir, exist_ok=True)
+    outfile = os.path.join(out_dir, f"data.TD_RvNN.vol_{MAX_VOCAB_SZ}.txt")
     f = open(outfile, "w")
     f.writelines("\n".join(lines_to_dump))
     f.close()

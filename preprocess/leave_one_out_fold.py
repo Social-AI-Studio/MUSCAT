@@ -52,7 +52,7 @@ def load9foldData():
             if it_key != cur_key:
                 train_identifiers.extend(event_folds[it_key])
         logger.info(
-            f"Loading fold {i}# {split_key} \t sample size: train {len(train_identifiers)}, test {len(test_identifiers)}"
+            f"Loading fold {i}# {cur_key} \t sample size: train {len(train_identifiers)}, test {len(test_identifiers)}"
         )
 
         test_fname = os.path.join(
