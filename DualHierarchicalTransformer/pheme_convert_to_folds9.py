@@ -73,7 +73,7 @@ def convert_pheme_sequential():
                 )
 
     logger.info(label_cntr)
-    outdir = "rumor_data/pheme4cls"
+    outdir = os.path.join("rumor_data/pheme4cls", "en")
     for i, split_key in enumerate(pheme_info_all):
         test_identifiers = pheme_info_all[split_key]
         train_identifiers = []
