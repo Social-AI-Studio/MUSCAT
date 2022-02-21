@@ -225,6 +225,38 @@ Experiment results for PHEME **Indonesia** dataset
 | Ours |  |  |  |  | | |  |
 
 
+Experiment results for PHEME **Vietnamese** dataset
+
+|Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
+|---|---|---|---|---|---|---|---|---|
+| SVM | 
+| LSTM | 
+| Branch-LSTM | | | | |
+| RvNN | 
+| BiGCN |  
+| EBGCN | | | |  |
+| mBERT | 
+| XLM-R | 
+| HierarchicalTransformer |  |  |   |  |  |  |  |
+| Ours |  |  |  |  | | |  |
+
+
+Experiment results for PHEME **Thai** dataset
+
+|Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
+|---|---|---|---|---|---|---|---|---|
+| SVM | 
+| LSTM | 
+| Branch-LSTM | | | | |
+| RvNN | 
+| BiGCN |  
+| EBGCN | | | |  |
+| mBERT | 
+| XLM-R | 
+| HierarchicalTransformer |  |  |   |  |  |  |  |
+| Ours |  |  |  |  | | |  |
+
+
 # Static Analysis on datasets
 
 Stats on thread (or tree) length:
