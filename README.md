@@ -9,7 +9,7 @@ As of now, we're scraping tweets from 4 sites: Cekfakta (Bahasa Indo), BlackDot 
 |---|---|---|---|---|---|---|
 |Cekfakta|Indo|895|2,853|148,921| 3.18|52.53|
 |Blackdot|English(SG)|112|1029|68,987|9.19|67.04|
-|Vietfactcheck|Vietnamese| | | | | |
+|Vietfactcheck|Vietnamese| 38 |107 |2669 |2.82 |24.94 |
 |Antifakenewscenter|Thai| | | | | |
 
 **Some important notes:**
@@ -39,6 +39,15 @@ Veracity for articles that have at least 1 conversation.
 - `Clarification`: 37
 - Unlabelled (no info in the label column): 95
 - Others (include e.g. "mostly true", "likely true" etc.): 80
+
+**Vietfactcheck:**
+
+- `False`: 21
+- `Mostly false`: 9
+- `Half true`: 2
+- `Mostly true`: 2
+- `True`: 4
+- Unlabelled: 5 
 
 
 # Multilingual Rumor Detection
