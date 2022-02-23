@@ -32,18 +32,7 @@ import torch
 from torch import nn
 from torch.nn import CrossEntropyLoss
 
-from transformers.models.bert.modeling_bert import (
-    # BertEmbeddings,
-    #     BertPooler,
-    #     BertPreTrainedModel,
-    #     BertAttention,
-    BertIntermediate,
-    #     BertLayer,
-    #     BertSelfAttention,
-    # BertSelfOutput,
-)
-from .modeling import BertLayer
-from .conditional_modules import FiLM, CBDA, ConditionalBottleNeck, ConditionalLayerNorm
+from .modeling import BertLayer, BertIntermediate
 from .file_utils import cached_path
 
 logger = logging.getLogger(__name__)
@@ -526,9 +515,9 @@ class MyBertLayer(nn.Module):
         return layer_output
 
 
-class BertEncoder(nn.Module):
+class MyBertEncoder(nn.Module):
     def __init__(self, config):
-        super(BertEncoder, self).__init__()
+        super(MyBertEncoder, self).__init__()
         # layer = MyBertLayer(config)
         num_bert_layers = config.num_hidden_layers // 2
         num_mybert_layers = config.num_hidden_layers // 2
@@ -757,7 +746,7 @@ class PreTrainedBertModel(nn.Module):
         return model
 
 
-class BertModel(PreTrainedBertModel):
+class MyBertModel(PreTrainedBertModel):
     """BERT model ("Bidirectional Embedding Representations from a Transformer").
 
     Params:
@@ -803,9 +792,9 @@ class BertModel(PreTrainedBertModel):
     """
 
     def __init__(self, config):
-        super(BertModel, self).__init__(config)
+        super(MyBertModel, self).__init__(config)
         self.embeddings = BertEmbeddings(config)
-        self.encoder = BertEncoder(config)
+        self.encoder = MyBertEncoder(config)
         self.pooler = BertPooler(config)
         self.apply(self.init_bert_weights)
 
@@ -859,11 +848,13 @@ class BertModel(PreTrainedBertModel):
         return encoded_layers, pooled_output
 
 
-class BertForSequenceClassification(PreTrainedBertModel):
+class HierarchicalCoupledCoAttnBertForSequenceClassification(PreTrainedBertModel):
     def __init__(self, config, num_labels=2):
-        super(BertForSequenceClassification, self).__init__(config)
+        super(HierarchicalCoupledCoAttnBertForSequenceClassification, self).__init__(
+            config
+        )
         self.num_labels = num_labels
-        self.bert = BertModel(config)
+        self.bert = MyBertModel(config)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.add_bert_attention = ADDBertEncoder(config)
         self.add_bert_pooler = BertPooler(config)
@@ -962,12 +953,12 @@ class CoupledCoAttnBertForSequenceClassification(PreTrainedBertModel):
     def __init__(self, config, num_labels=2):
         super(CoupledCoAttnBertForSequenceClassification, self).__init__(config)
         self.num_labels = num_labels
-        self.bert = BertModel(config)
+        self.bert = MyBertModel(config)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.add_bert_pooler = BertPooler(config)
         self.classifier = nn.Sequential(
-            nn.Linear(config.hidden_size * 4, config.hidden_size),
-            nn.ReLU(),
+            nn.Linear(config.hidden_size * 3, config.hidden_size),
+            nn.Dropout(0.2),
             nn.Linear(config.hidden_size, num_labels),
         )
         self.apply(self.init_bert_weights)
@@ -1016,20 +1007,20 @@ class CoupledCoAttnBertForSequenceClassification(PreTrainedBertModel):
             src_input_ids=src_input_ids,
             src_token_type_ids=src_input_mask,
         )
-        sequence_output4, pooled_output4 = self.bert(
-            input_ids4,
-            token_type_ids4,
-            attention_mask4,
-            output_all_encoded_layers=False,
-            src_input_ids=src_input_ids,
-            src_token_type_ids=src_input_mask,
-        )
+        # sequence_output4, pooled_output4 = self.bert(
+        #     input_ids4,
+        #     token_type_ids4,
+        #     attention_mask4,
+        #     output_all_encoded_layers=False,
+        #     src_input_ids=src_input_ids,
+        #     src_token_type_ids=src_input_mask,
+        # )
         logger.debug(f"pooled --> {pooled_output1.shape}")
         tmp_pool = torch.cat((pooled_output1, pooled_output2), dim=1)
         tmp_pool = torch.cat((tmp_pool, pooled_output3), dim=1)
-        final_pool_output = torch.cat((tmp_pool, pooled_output4), dim=1)
+        # final_pool_output = torch.cat((tmp_pool, pooled_output4), dim=1)
 
-        pooled_output = self.dropout(final_pool_output)
+        pooled_output = self.dropout(tmp_pool)
         logits = self.classifier(pooled_output)
 
         if labels is not None:
