@@ -25,8 +25,6 @@ Veracity for articles that have at least 1 conversation.
 - Vietfactcheck does not have veracity labels
 - Blackdot might have more than 1 label per article. This is because Blackdot splits claims into sub claims and fact check them separately. Total number of labels will not add up to expected
 
-*NOTE: Currently having issue with pulling Thai tweets. Need further debugging before I can provide stats*
-
 **Indo:**
 - `False`: 840
 - `True`: 22
@@ -34,11 +32,11 @@ Veracity for articles that have at least 1 conversation.
 
 **Blackdot:**
 
-- `False`: 139
-- `True`: 24
-- `Clarification`: 37
-- Unlabelled (no info in the label column): 95
-- Others (include e.g. "mostly true", "likely true" etc.): 80
+- `False`: 52
+- `True`: 8
+- `Unproven`: 17
+- Unlabelled (no info in the label column): 35
+- Others (include e.g. "mostly true", "likely true" etc.): 20
 
 **Vietfactcheck:**
 
@@ -48,6 +46,8 @@ Veracity for articles that have at least 1 conversation.
 - `Mostly true`: 2
 - `True`: 4
 - Unlabelled: 5 
+
+**Thai**: in progress
 
 
 # Multilingual Rumor Detection
