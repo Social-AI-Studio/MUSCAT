@@ -35,8 +35,8 @@ import torch.nn.functional as F
 from sequence_labeling import classification_report
 
 from my_bert.tokenization import BertTokenizer
-from my_bert.filmx_modeling import BertForSequenceClassification, CoupledCoAttnBertForSequenceClassification
-from my_bert.modeling import CoupledBertForSequenceClassification
+from my_bert.filmx_modeling import HierarchicalCoupledCoAttnBertForSequenceClassification, CoupledCoAttnBertForSequenceClassification
+from my_bert.modeling import CoupledBertForSequenceClassification, BertForSequenceClassification
 from my_bert.optimization import BertAdam
 from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
 
@@ -710,6 +710,10 @@ def main():
         model = CoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model,
                   cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
                   num_labels = num_labels)
+    elif args.exp_setting == "hierarchical-coupled-attn":
+        model = HierarchicalCoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model,
+                  cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
+                  num_labels = num_labels)
     else:
         model = BertForSequenceClassification.from_pretrained(args.bert_model,
                   cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
@@ -1128,6 +1132,10 @@ def main():
     elif args.exp_setting == "coupled-attn":
         model = CoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
                                                           num_labels=num_labels)
+    elif args.exp_setting == "hierarchical-coupled-attn":
+        model = HierarchicalCoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model,
+                  cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
+                  num_labels = num_labels)
     else:
         model = BertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
                                                           num_labels=num_labels)

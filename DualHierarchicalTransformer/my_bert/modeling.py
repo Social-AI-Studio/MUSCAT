@@ -1895,7 +1895,7 @@ class CoupledBertForSequenceClassification(PreTrainedBertModel):
         self.add_bert_pooler = BertPooler(config)
         self.classifier = nn.Sequential(
             nn.Linear(config.hidden_size * 4, config.hidden_size),
-            nn.ReLU(),
+            nn.Dropout(0.3),
             nn.Linear(config.hidden_size, num_labels),
         )
         self.apply(self.init_bert_weights)
