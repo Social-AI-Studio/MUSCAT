@@ -262,13 +262,13 @@ def convert_examples_to_features(
 
         label = label_map[example.label]
 
-        if ex_index < 0:
+        if ex_index < 1:
             logger.info("*** Example ***")
             logger.info("guid: %s" % (example.guid))
             logger.info("tokens: %s" % " ".join([str(x) for x in input_tokens1]))
             logger.info("input_ids: %s" % " ".join([str(x) for x in input_ids1]))
             logger.info("input_mask: %s" % " ".join([str(x) for x in input_mask1]))
-            logger.info("segment_ids: %s" % " ".join([str(x) for x in segment_ids1]))
+            logger.debug("segment_ids: %s" % " ".join([str(x) for x in segment_ids1]))
             logger.info("label: %s" % (label))
             logger.info("src_input_ids: %s" % " ".join([str(x) for x in src_input_ids]))
         features.append(
@@ -346,7 +346,9 @@ def bucket_rumor_conversion(
             # ntokens.append("[CLS]")
             stance_position.append(len(input_ids))
         ntokens.extend(tweet_token)
-        ntokens.append("[SEP]")
+        if i == len(tweets_tokens) - 1:
+            ntokens.extend(["[SEP]"])
+        # ntokens.append("[SEP]")
         input_tokens.extend(ntokens)  # just for printing out
         input_tokens.extend("[padpadpad]")  # just for printing out
         tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
