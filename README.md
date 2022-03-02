@@ -237,6 +237,8 @@ Experiment results for PHEME **Indonesia** dataset
 
 Same leave-one-out setup as before: train on 8 events in English, test on the 9th event in Indo
 
+*Note: mBERT not optimal yet, will need to run more later*
+
 |Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
 |---|---|---|---|---|---|---|---|---|
 | SVM | 0.618 | 0.294 | 0.264 | 0.236 | 0.124 | 0.030 | 0.021 | 0.769
