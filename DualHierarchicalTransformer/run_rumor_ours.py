@@ -359,7 +359,7 @@ def source_conversion(source_tweet, tokenizer):
     source_tokens = tokenizer.tokenize(source_tweet)
     source_tokens = ["[CLS]"] + source_tokens + ["[SEP]"]
     source_input_ids = tokenizer.convert_tokens_to_ids(source_tokens)
-    source_input_mask = [1] * len(source_input_ids)
+    source_input_mask = [0] * len(source_input_ids)
     while len(source_input_ids) < max_seq_length:
         source_input_ids.append(0)
         source_input_mask.append(0)

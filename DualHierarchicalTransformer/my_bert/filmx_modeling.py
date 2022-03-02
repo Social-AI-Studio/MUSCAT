@@ -957,7 +957,7 @@ class CoupledCoAttnBertForSequenceClassification(PreTrainedBertModel):
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.add_bert_pooler = BertPooler(config)
         self.classifier = nn.Sequential(
-            nn.Linear(config.hidden_size * 3, config.hidden_size),
+            nn.Linear(config.hidden_size * 4, config.hidden_size),
             nn.Dropout(0.2),
             nn.Linear(config.hidden_size, num_labels),
         )
@@ -1007,20 +1007,20 @@ class CoupledCoAttnBertForSequenceClassification(PreTrainedBertModel):
             src_input_ids=src_input_ids,
             src_token_type_ids=src_input_mask,
         )
-        # sequence_output4, pooled_output4 = self.bert(
-        #     input_ids4,
-        #     token_type_ids4,
-        #     attention_mask4,
-        #     output_all_encoded_layers=False,
-        #     src_input_ids=src_input_ids,
-        #     src_token_type_ids=src_input_mask,
-        # )
+        sequence_output4, pooled_output4 = self.bert(
+            input_ids4,
+            token_type_ids4,
+            attention_mask4,
+            output_all_encoded_layers=False,
+            src_input_ids=src_input_ids,
+            src_token_type_ids=src_input_mask,
+        )
         logger.debug(f"pooled --> {pooled_output1.shape}")
         tmp_pool = torch.cat((pooled_output1, pooled_output2), dim=1)
         tmp_pool = torch.cat((tmp_pool, pooled_output3), dim=1)
-        # final_pool_output = torch.cat((tmp_pool, pooled_output4), dim=1)
+        final_pool_output = torch.cat((tmp_pool, pooled_output4), dim=1)
 
-        pooled_output = self.dropout(tmp_pool)
+        pooled_output = self.dropout(final_pool_output)
         logits = self.classifier(pooled_output)
 
         if labels is not None:
