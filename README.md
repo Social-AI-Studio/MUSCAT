@@ -233,6 +233,23 @@ Experiment results for PHEME **Indonesia** dataset
 | HierarchicalTransformer |  |  |   |  |  |  |  |
 | Ours |  |  |  |  | | |  |
 
+*March 2 new setup:* Train on English, test on Indo.
+
+Same leave-one-out setup as before: train on 8 events in English, test on the 9th event in Indo
+
+|Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
+|---|---|---|---|---|---|---|---|---|
+| SVM | 0.618 | 0.294 | 0.264 | 0.236 | 0.124 | 0.030 | 0.021 | 0.769
+| LSTM | 0.276 | 0.279 | 0.301 | 0.219 | 0.081 | 0.157 | 0.238 | 0.401
+| Branch-LSTM | | | | |
+| RvNN |
+| BiGCN |
+| EBGCN | | | |  |
+| mBERT | 0.670|0.353|0.299|0.294|0.237|0.036|0.089|0.815
+| XLM-R |
+| HierarchicalTransformer |  |  |   |  |  |  |  |
+| Ours |  |  |  |  | | |  |
+
 
 Experiment results for PHEME **Vietnamese** dataset
 
