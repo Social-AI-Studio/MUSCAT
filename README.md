@@ -248,7 +248,8 @@ Same leave-one-out setup as before: train on 8 events in English, test on the 9t
 | BiGCN |
 | EBGCN | | | |  |
 | mBERT | 0.670|0.353|0.299|0.294|0.237|0.036|0.089|0.815
-| XLM-R |
+| XLM-R | 0.558 | 0.321 | 0.325 | 0.321 |0.292| 0.068| 0.161|0.765
+
 | HierarchicalTransformer |  |  |   |  |  |  |  |
 | Ours |  |  |  |  | | |  |
 
@@ -263,8 +264,24 @@ Experiment results for PHEME **Vietnamese** dataset
 | RvNN | 
 | BiGCN |  
 | EBGCN | | | |  |
-| mBERT | 
+| mBERT | 0.553 | 0.340 | 0.350 | 0.342 | 0.344 |0.166 |0.106 |0.752
+| XLM-R | 0.549 | 0.346 | 0.353 | 0.346 | 0.298 |0.189 | 0.142 | 0.755
+| HierarchicalTransformer |  |  |   |  |  |  |  |
+| Ours |  |  |  |  | | |  |
+
+**Train on English, test on Vietnamese.**
+
+|Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
+|---|---|---|---|---|---|---|---|---|
+| SVM | 
+| LSTM |
+| Branch-LSTM | | | | |
+| RvNN |
+| BiGCN |
+| EBGCN | | | |  |
+| mBERT | 0.584 | 0.345 | 0.322 | 0.326 | 0.272 | 0.120 | 0.145 | 0.768
 | XLM-R | 
+
 | HierarchicalTransformer |  |  |   |  |  |  |  |
 | Ours |  |  |  |  | | |  |
 
