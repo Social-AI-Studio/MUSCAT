@@ -258,7 +258,7 @@ Experiment results for PHEME **Vietnamese** dataset
 
 |Model| Accuracy | Precision | Recall | Macro-F1| True F1| False F1| Unverified F1| Nonrumor F1|
 |---|---|---|---|---|---|---|---|---|
-| SVM | 
+| SVM | 0.608 | 0.351 | 0.333 | 0.334 | 0.287 | 0.080 | 0.188 | 0.783
 | LSTM | 
 | Branch-LSTM | | | | |
 | RvNN | 
