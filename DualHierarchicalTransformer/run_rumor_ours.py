@@ -1133,9 +1133,7 @@ def main():
         model = CoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
                                                           num_labels=num_labels)
     elif args.exp_setting == "hierarchical-coupled-attn":
-        model = HierarchicalCoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model,
-                  cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'distributed_{}'.format(args.local_rank),
-                  num_labels = num_labels)
+        model = HierarchicalCoupledCoAttnBertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, num_labels = num_labels)
     else:
         model = BertForSequenceClassification.from_pretrained(args.bert_model, state_dict=model_state_dict, \
                                                           num_labels=num_labels)
