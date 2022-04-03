@@ -400,7 +400,7 @@ class MyBertModel(BertPreTrainedModel):
 
 
 class HierarchicalCoupledCoAttnBertForSequenceClassification(BertPreTrainedModel):
-    def __init__(self, config, num_labels=2):
+    def __init__(self, config, num_labels=4):
         super(HierarchicalCoupledCoAttnBertForSequenceClassification, self).__init__(
             config
         )

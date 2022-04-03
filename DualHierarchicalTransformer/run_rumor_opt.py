@@ -21,7 +21,7 @@ from __future__ import print_function
 
 import csv
 import os
-import sys
+import json
 import logging
 import argparse
 import random
@@ -206,7 +206,7 @@ def convert_examples_to_features(
 
         src_tweet = tweetlist[0]
         src_input_ids, src_input_mask = source_conversion(src_tweet, tokenizer)
-        tweets_tokens = [] # store a tweet thread
+        tweets_tokens = []  # store a tweet thread
         for i, cur_tweet in enumerate(tweetlist):
             tweet = tweetlist[i]
             if tweet == "":
@@ -238,7 +238,7 @@ def convert_examples_to_features(
             tweets_tokens2 = tweets_tokens[max_tweet_num : max_tweet_num * 2]
             tweets_tokens3 = tweets_tokens[max_tweet_num * 2 : max_tweet_num * 3]
 
-        input_tokens1, input_ids1, input_mask1= bucket_rumor_conversion(
+        input_tokens1, input_ids1, input_mask1 = bucket_rumor_conversion(
             tweets_tokens1, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
         )
         input_tokens2, input_ids2, input_mask2 = bucket_rumor_conversion(
@@ -327,9 +327,9 @@ def bucket_rumor_conversion(
     # stance_position = []
     # if tweets_tokens != []:
     #     ntokens.append()
-        # input_tokens.extend(ntokens) # avoid having two [CLS] at the begining
-        # segment_ids.append(0) #########no need to add this line
-        # stance_position.append(0)
+    # input_tokens.extend(ntokens) # avoid having two [CLS] at the begining
+    # segment_ids.append(0) #########no need to add this line
+    # stance_position.append(0)
     for i, tweet_token in enumerate(tweets_tokens):
         if i == 0:
             ntokens = ["[CLS]"] + tweet_token
@@ -357,16 +357,16 @@ def bucket_rumor_conversion(
     # pad_tweet_length = max_tweet_num - cur_tweet_num
     # for j in range(pad_tweet_length):
     #     ntokens = []
-        # ntokens.append("[CLS]")
-        # ntokens.append("[SEP]")
-        # stance_position.append(len(input_ids))
-        # tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
-        # tweet_input_mask = [1] * len(tweet_input_ids)
-        # tweet_input_ids = [0] * (max_tweet_len)
-        # tweet_input_mask = [0] * (max_tweet_len)
-        # input_ids.extend(tweet_input_ids)
-        # input_mask.extend(tweet_input_mask)
-        # segment_ids = segment_ids + [(cur_tweet_num + j) % 2] * max_tweet_len
+    # ntokens.append("[CLS]")
+    # ntokens.append("[SEP]")
+    # stance_position.append(len(input_ids))
+    # tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
+    # tweet_input_mask = [1] * len(tweet_input_ids)
+    # tweet_input_ids = [0] * (max_tweet_len)
+    # tweet_input_mask = [0] * (max_tweet_len)
+    # input_ids.extend(tweet_input_ids)
+    # input_mask.extend(tweet_input_mask)
+    # segment_ids = segment_ids + [(cur_tweet_num + j) % 2] * max_tweet_len
 
     while len(input_ids) < max_seq_length:
         input_ids.append(0)
@@ -818,15 +818,10 @@ def main():
                 label_ids = inputs["labels"].to("cpu").numpy()
                 true_label_list.append(label_ids)
                 pred_label_list.append(logits)
-                tmp_eval_accuracy = accuracy(logits, label_ids)
-
                 eval_loss += tmp_eval_loss.mean().item()
-                eval_accuracy += tmp_eval_accuracy
-
                 nb_eval_steps += 1
 
             eval_loss = eval_loss / nb_eval_steps
-            eval_accuracy = eval_accuracy / nb_eval_examples
             loss = tr_loss / nb_tr_steps if args.do_train else None
             true_label = np.concatenate(true_label_list)
             pred_outputs = np.concatenate(pred_label_list)
@@ -836,7 +831,7 @@ def main():
             recall = report.get("macro avg").get("recall")
             result = {
                 "eval_loss": eval_loss,
-                "eval_accuracy": eval_accuracy,
+                "eval_accuracy": report.get("accuracy"),
                 "f_score": F_score,
                 "true_f1": report.get("1", {}).get("f1-score"),
                 "false_f1": report.get("0", {}).get("f1-score"),
@@ -856,7 +851,9 @@ def main():
                     model.module if hasattr(model, "module") else model
                 )  # Only save the model it-self
                 if args.do_train:
-                    logger.info(f"Saving model at epoch {train_idx}")
+                    logger.info(
+                        f"Saving best model from epoch {train_idx} in {output_model_file}"
+                    )
                     torch.save(model_to_save.state_dict(), output_model_file)
                 max_acc_f1 = F_score
 
@@ -925,15 +922,10 @@ def main():
             label_ids = inputs["labels"].to("cpu").numpy()
             true_label_list.append(label_ids)
             pred_label_list.append(logits)
-            tmp_eval_accuracy = accuracy(logits, label_ids)
-
             eval_loss += tmp_eval_loss.mean().item()
-            eval_accuracy += tmp_eval_accuracy
-
             nb_eval_steps += 1
 
         eval_loss = eval_loss / nb_eval_steps
-        eval_accuracy = eval_accuracy / nb_eval_examples
         loss = tr_loss / nb_tr_steps if args.do_train else None
         true_label = np.concatenate(true_label_list)
         pred_outputs = np.concatenate(pred_label_list)
@@ -943,7 +935,7 @@ def main():
         recall = report.get("macro avg").get("recall")
         result = {
             "eval_loss": eval_loss,
-            "eval_accuracy": eval_accuracy,
+            "eval_accuracy": report.get("accuracy"),
             "f_score": F_score,
             "true_f1": report.get("1", {}).get("f1-score"),
             "false_f1": report.get("0", {}).get("f1-score"),
@@ -967,12 +959,18 @@ def main():
         fout_p.close()
         fout_t.close()
 
-        output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
-        with open(output_eval_file, "w") as writer:
-            logger.info("***** Test Eval results *****")
-            for key in sorted(result.keys()):
-                logger.info("  %s = %s", key, str(result[key]))
-                writer.write("%s = %s\n" % (key, str(result[key])))
+        logger.info("***** Test Eval results *****")
+        for key in sorted(result.keys()):
+            logger.info("  %s = %s", key, str(result[key]))
+
+        output_eval_file = os.path.join(args.output_dir, "eval_results.json")
+        logger.info(f"Saving evaluation report {output_eval_file}")
+        with open(output_eval_file, "w") as fout:
+            json.dump(
+                {"args": vars(args), "eval_result": result},
+                fout,
+                indent=4,
+            )
 
 
 if __name__ == "__main__":
