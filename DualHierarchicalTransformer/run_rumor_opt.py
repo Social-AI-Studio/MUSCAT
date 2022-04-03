@@ -18,43 +18,35 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-
+import argparse
 import csv
-import os
+import inspect
 import json
 import logging
-import argparse
-import random
 import math
-from tqdm import tqdm, trange
+import os
+import random
 
 import numpy as np
-import torch
-from torch.utils.data import (
-    TensorDataset,
-    DataLoader,
-    RandomSampler,
-    SequentialSampler,
-)
-from torch.utils.data.distributed import DistributedSampler
-import torch.nn.functional as F
-from sequence_labeling import classification_report
-
-from transformers import AdamW, SchedulerType, get_scheduler
-
-from my_bert.tokenization import BertTokenizer
-from my_bert.hmcat_modeling import (
-    HierarchicalCoupledCoAttnBertForSequenceClassification,
-    CoupledCoAttnBertForSequenceClassification,
-)
-from my_bert.modeling import (
-    CoupledBertForSequenceClassification,
-    BertForSequenceClassification,
-)
-from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
-
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import classification_report as cls_report
+import torch
+import torch.nn.functional as F
+from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
+from torch.utils.data.distributed import DistributedSampler
+from tqdm import tqdm, trange
+from transformers import AdamW, SchedulerType, get_scheduler
+
+from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
+from my_bert.hmcat_modeling import (
+    CoupledCoAttnBertForSequenceClassification,
+    HierarchicalCoupledCoAttnBertForSequenceClassification,
+)
+from my_bert.modeling import (
+    BertForSequenceClassification,
+    CoupledBertForSequenceClassification,
+)
+from my_bert.tokenization import BertTokenizer
 
 
 logging.basicConfig(
@@ -63,6 +55,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 logger = logging.getLogger(__name__)
+
 
 class ObjectEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -84,6 +77,7 @@ class ObjectEncoder(json.JSONEncoder):
             )
             return self.default(d)
         return str(obj)
+
 
 class InputExample(object):
     """A single training/test example for simple sequence classification."""
