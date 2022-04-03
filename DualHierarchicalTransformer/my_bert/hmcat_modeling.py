@@ -410,7 +410,9 @@ class HierarchicalCoupledCoAttnBertForSequenceClassification(BertPreTrainedModel
         self.add_bert_attention = ADDBertEncoder(config)
         self.add_bert_pooler = BertPooler(config)
         self.classifier = nn.Linear(config.hidden_size, num_labels)
-        self.apply(self.init_bert_weights)
+
+        # Initialize weights and apply final processing
+        self.post_init()
 
     def forward(
         self,
@@ -459,7 +461,9 @@ class HierarchicalCoupledCoAttnBertForSequenceClassification(BertPreTrainedModel
         add_bert_encoder = self.add_bert_attention(
             sequence_output, extended_attention_mask
         )
-        add_bert_text_output_layer = add_bert_encoder[-1]
+        add_bert_text_output_layer = add_bert_encoder[-1][
+            0
+        ]  # double check pls, could be a bug
         final_text_output = self.add_bert_pooler(add_bert_text_output_layer)
         #'''
         # final_text_output = self.add_bert_pooler(sequence_output)

@@ -941,7 +941,6 @@ def main():
             "false_f1": report.get("0", {}).get("f1-score"),
             "unverified_f1": report.get("2", {}).get("f1-score"),
             "nonrumor_f1": report.get("3", {}).get("f1-score"),
-            "global_step": completed_step,
             "loss": loss,
         }
 
