@@ -808,6 +808,11 @@ class MyBertModel(PreTrainedBertModel):
         src_input_ids=None,
         src_token_type_ids=None,
     ):
+        print(input_ids)
+        print(attention_mask)
+        print(token_type_ids)
+        print(src_input_ids)
+        print(src_token_type_ids)
         if input_ids is not None and inputs_embeds is not None:
             raise ValueError(
                 "You cannot specify both input_ids and inputs_embeds at the same time"

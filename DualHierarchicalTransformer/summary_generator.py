@@ -55,8 +55,9 @@ def compute_f1_report(args):
         true_all.extend(true)
         pred_all.extend(pred)
 
-    cls_report = classification_report(true_all, pred_all)
+    cls_report = classification_report(true_all, pred_all, digits=3)
     print(cls_report)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

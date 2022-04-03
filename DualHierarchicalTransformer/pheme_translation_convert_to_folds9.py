@@ -20,6 +20,14 @@ logger = logging.getLogger(__name__)
 
 par_dir = os.path.dirname(os.getcwd())
 
+event_whitelist = [
+    "charliehebdo-all-rnr-threads",
+    "sydneysiege-all-rnr-threads",
+    "ottawashooting-all-rnr-threads",
+    "ferguson-all-rnr-threads",
+    "germanwings-crash-all-rnr-threads",
+]
+
 
 def convert_pheme_sequential(lang: str):
     dir_name = os.path.join(par_dir, "pheme-translations/all-rnr-annotated-threads")
@@ -75,7 +83,7 @@ def convert_pheme_sequential(lang: str):
     logger.info(label_cntr)
     outdir = os.path.join("rumor_data/pheme4cls", lang)
     os.makedirs(outdir)
-    for i, split_key in enumerate(pheme_info_all):
+    for i, split_key in enumerate(event_whitelist):
         test_identifiers = pheme_info_all[split_key]
         train_identifiers = []
 
@@ -85,7 +93,8 @@ def convert_pheme_sequential(lang: str):
         logger.info(
             f"Loading fold {i}# {split_key} \t sample size: train {len(train_identifiers)}, test {len(test_identifiers)}"
         )
-        foutdir = os.path.join(outdir, f"split_{i}")
+        fold = "-".join(split_key.split("-")[:-3])
+        foutdir = os.path.join(outdir, f"{fold}")
         os.makedirs(foutdir, exist_ok=True)
         train_fname = os.path.join(foutdir, "train.json")
         test_fname = os.path.join(foutdir, "test.json")
