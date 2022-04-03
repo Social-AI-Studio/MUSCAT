@@ -43,7 +43,7 @@ from sequence_labeling import classification_report
 from transformers import AdamW, SchedulerType, get_scheduler
 
 from my_bert.tokenization import BertTokenizer
-from my_bert.hcof_modeling import (
+from my_bert.hmcat_modeling import (
     HierarchicalCoupledCoAttnBertForSequenceClassification,
     CoupledCoAttnBertForSequenceClassification,
 )
@@ -56,10 +56,6 @@ from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import classification_report as cls_report
 
-lib_path = os.path.abspath(os.path.join(__file__, "..", "..", "preprocess"))
-print(lib_path)
-sys.path.append(lib_path)
-from utils import preprocess_en_text
 
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
@@ -100,8 +96,8 @@ class CoInputFeatures(object):
         input_ids3,
         input_mask3,
         input_mask,
-        label,
         src_input_ids,
+        label,
     ):
         self.input_ids1 = input_ids1
         self.input_mask1 = input_mask1
@@ -110,8 +106,8 @@ class CoInputFeatures(object):
         self.input_ids3 = input_ids3
         self.input_mask3 = input_mask3
         self.input_mask = input_mask
-        self.label = label
         self.src_input_ids = src_input_ids
+        self.label = label
 
 
 class DataProcessor(object):
@@ -201,8 +197,6 @@ def convert_examples_to_features(
 ):
     """Loads a data file into a list of `InputBatch`s."""
 
-    max_bucket_num = 4  # the number of buckets in each thread
-
     label_map = {label: i for i, label in enumerate(label_list)}
 
     features = []
@@ -211,14 +205,12 @@ def convert_examples_to_features(
         label = example.label
 
         src_tweet = tweetlist[0]
-        src_tweet = preprocess_en_text(src_tweet, force_clean=False)
         src_input_ids, src_input_mask = source_conversion(src_tweet, tokenizer)
-        tweets_tokens = []
+        tweets_tokens = [] # store a tweet thread
         for i, cur_tweet in enumerate(tweetlist):
             tweet = tweetlist[i]
             if tweet == "":
                 break
-            tweet = preprocess_en_text(tweet, force_clean=False)
             tweet_token = tokenizer.tokenize(tweet)
             if len(tweet_token) >= max_tweet_len - 1:
                 tweet_token = tweet_token[: (max_tweet_len - 2)]
@@ -246,13 +238,13 @@ def convert_examples_to_features(
             tweets_tokens2 = tweets_tokens[max_tweet_num : max_tweet_num * 2]
             tweets_tokens3 = tweets_tokens[max_tweet_num * 2 : max_tweet_num * 3]
 
-        input_tokens1, input_ids1, input_mask1, segment_ids1 = bucket_rumor_conversion(
+        input_tokens1, input_ids1, input_mask1= bucket_rumor_conversion(
             tweets_tokens1, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
         )
-        input_tokens2, input_ids2, input_mask2, segment_ids2 = bucket_rumor_conversion(
+        input_tokens2, input_ids2, input_mask2 = bucket_rumor_conversion(
             tweets_tokens2, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
         )
-        input_tokens3, input_ids3, input_mask3, segment_ids3 = bucket_rumor_conversion(
+        input_tokens3, input_ids3, input_mask3 = bucket_rumor_conversion(
             tweets_tokens3, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
         )
         input_mask = []
@@ -268,9 +260,8 @@ def convert_examples_to_features(
             logger.info("tokens: %s" % " ".join([str(x) for x in input_tokens1]))
             logger.info("input_ids: %s" % " ".join([str(x) for x in input_ids1]))
             logger.info("input_mask: %s" % " ".join([str(x) for x in input_mask1]))
-            logger.debug("segment_ids: %s" % " ".join([str(x) for x in segment_ids1]))
-            logger.info("label: %s" % (label))
             logger.info("src_input_ids: %s" % " ".join([str(x) for x in src_input_ids]))
+            logger.info("label: %s" % (label))
         features.append(
             CoInputFeatures(
                 input_ids1=input_ids1,
@@ -280,8 +271,8 @@ def convert_examples_to_features(
                 input_ids3=input_ids3,
                 input_mask3=input_mask3,
                 input_mask=input_mask,
-                label=label,
                 src_input_ids=src_input_ids,
+                label=label,
             )
         )
 
@@ -292,10 +283,10 @@ def convert_examples_to_features(
     all_input_ids3 = torch.tensor([f.input_ids3 for f in features], dtype=torch.long)
     all_input_mask3 = torch.tensor([f.input_mask3 for f in features], dtype=torch.long)
     all_input_mask = torch.tensor([f.input_mask for f in features], dtype=torch.long)
-    all_label_ids = torch.tensor([f.label for f in features], dtype=torch.long)
     all_src_input_ids = torch.tensor(
         [f.src_input_ids for f in features], dtype=torch.long
     )
+    all_label_ids = torch.tensor([f.label for f in features], dtype=torch.long)
 
     dataset = TensorDataset(
         all_input_ids1,
@@ -329,80 +320,65 @@ def source_conversion(source_tweet, tokenizer):
 def bucket_rumor_conversion(
     tweets_tokens, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
 ):
-    ntokens = []
     input_tokens = []
     input_ids = []
     input_mask = []
-    segment_ids = []
-    stance_position = []
-    if tweets_tokens != []:
-        ntokens.append("[CLS]")
+    # segment_ids = []
+    # stance_position = []
+    # if tweets_tokens != []:
+    #     ntokens.append()
         # input_tokens.extend(ntokens) # avoid having two [CLS] at the begining
         # segment_ids.append(0) #########no need to add this line
-        stance_position.append(0)
+        # stance_position.append(0)
     for i, tweet_token in enumerate(tweets_tokens):
-        if i != 0:
-            ntokens = []
+        if i == 0:
+            ntokens = ["[CLS]"] + tweet_token
             # ntokens.append("[CLS]")
-            stance_position.append(len(input_ids))
-        ntokens.extend(tweet_token)
-        if i == len(tweets_tokens) - 1:
-            ntokens.extend(["[SEP]"])
+            # stance_position.append(len(input_ids))
+        elif i == len(tweets_tokens) - 1:
+            ntokens = tweet_token + ["[SEP]"]
+        else:
+            ntokens = tweet_token
         # ntokens.append("[SEP]")
         input_tokens.extend(ntokens)  # just for printing out
         input_tokens.extend("[padpadpad]")  # just for printing out
         tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
         tweet_input_mask = [1] * len(tweet_input_ids)
-        while len(tweet_input_ids) < max_tweet_len:
-            tweet_input_ids.append(0)
-            tweet_input_mask.append(0)
+        # while len(tweet_input_ids) < max_tweet_len:
+        #     tweet_input_ids.append(0)
+        #     tweet_input_mask.append(0)
         input_ids.extend(tweet_input_ids)
         input_mask.extend(tweet_input_mask)
-        segment_ids = segment_ids + [i % 2] * len(tweet_input_ids)
+        # segment_ids = segment_ids + [i % 2] * len(tweet_input_ids)
 
-    cur_tweet_num = len(tweets_tokens)
-    pad_tweet_length = max_tweet_num - cur_tweet_num
-    for j in range(pad_tweet_length):
-        ntokens = []
+    logger.debug(input_tokens)
+    logger.debug(input_ids)
+    # cur_tweet_num = len(tweets_tokens)
+    # pad_tweet_length = max_tweet_num - cur_tweet_num
+    # for j in range(pad_tweet_length):
+    #     ntokens = []
         # ntokens.append("[CLS]")
         # ntokens.append("[SEP]")
-        stance_position.append(len(input_ids))
+        # stance_position.append(len(input_ids))
         # tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
         # tweet_input_mask = [1] * len(tweet_input_ids)
-        tweet_input_ids = [0] * (max_tweet_len)
-        tweet_input_mask = [0] * (max_tweet_len)
-        input_ids.extend(tweet_input_ids)
-        input_mask.extend(tweet_input_mask)
-        segment_ids = segment_ids + [(cur_tweet_num + j) % 2] * max_tweet_len
+        # tweet_input_ids = [0] * (max_tweet_len)
+        # tweet_input_mask = [0] * (max_tweet_len)
+        # input_ids.extend(tweet_input_ids)
+        # input_mask.extend(tweet_input_mask)
+        # segment_ids = segment_ids + [(cur_tweet_num + j) % 2] * max_tweet_len
 
     while len(input_ids) < max_seq_length:
         input_ids.append(0)
         input_mask.append(0)
-        segment_ids.append(0)
+        # segment_ids.append(0)
 
     assert len(input_ids) == max_seq_length
     assert len(input_mask) == max_seq_length
-    assert len(segment_ids) == max_seq_length
+    # assert len(segment_ids) == max_seq_length
 
     # return input_tokens, input_ids, input_mask, segment_ids, stance_position
-    return input_tokens, input_ids, input_mask, segment_ids
-
-
-def _truncate_seq_pair(tokens_a, tokens_b, max_length):
-    """Truncates a sequence pair in place to the maximum length."""
-
-    # This is a simple heuristic which will always truncate the longer sequence
-    # one token at a time. This makes more sense than truncating an equal percent
-    # of tokens from each, since if one sequence is very short then each token
-    # that's truncated likely contains more information than a longer sequence.
-    while True:
-        total_length = len(tokens_a) + len(tokens_b)
-        if total_length <= max_length:
-            break
-        if len(tokens_a) > len(tokens_b):
-            tokens_a.pop()
-        else:
-            tokens_b.pop()
+    return input_tokens, input_ids, input_mask
 
 
 processors = {
@@ -439,11 +415,6 @@ def get_dataset(args, split_type, tokenizer):
     )
     logger.info(f"size = {len(features)}")
     return dataset
-
-
-def accuracy(out, labels):
-    outputs = np.argmax(out, axis=1)
-    return np.sum(outputs == labels)
 
 
 def rumor_macro_f1(y_true, y_pred):

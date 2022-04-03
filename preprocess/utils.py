@@ -268,11 +268,12 @@ def preprocess_en_text(text: str, force_clean=True):
     text = text.replace("’", "'")
 
     tokens = w_tokenizer.tokenize(text)
-    tokens = [w for w in tokens if not w.lower() in stop_words]
+    if force_clean:
+        tokens = [w for w in tokens if not w.lower() in stop_words]
+        tokens = [fill[word] if word in fill else word for word in tokens]
+        text = " ".join(tokens)
+        text = re.sub("'s", "", text)
 
-    tokens = [fill[word] if word in fill else word for word in tokens]
-    text = " ".join(tokens)
-    text = re.sub("'s", "", text)
     # call ekphrasis
     text = encode_ekphrasis_en(text, force_clean)
     if force_clean:
