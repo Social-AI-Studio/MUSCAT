@@ -179,14 +179,14 @@ ekphrasis_text_processor_en = TextPreProcessor(
     # terms that will be normalized
     normalize=[
         "url",
-        "email",
-        "percent",
-        "money",
-        "phone",
-        "user",
-        "time",
-        "date",
-        "number",
+        # "email",
+        # "percent",
+        # "money",
+        # "phone",
+        # "user",
+        # "time",
+        # "date",
+        # "number",
     ],
     # terms that will be annotated
     annotate={},
@@ -204,7 +204,7 @@ ekphrasis_text_processor_en = TextPreProcessor(
     corrector="twitter",
     unpack_hashtags=True,  # perform word segmentation on hashtags
     unpack_contractions=True,  # Unpack contractions (can't -> can not)
-    spell_correct_elong=True,  # spell correction for elongated words
+    spell_correct_elong=False,  # spell correction for elongated words
     # select a tokenizer. You can use SocialTokenizer, or pass
     # your own
     # the tokenizer, should take as input a string and return a
@@ -246,11 +246,12 @@ def handle_punctuation(text):
     return text
 
 
-def encode_ekphrasis_en(text):
+def encode_ekphrasis_en(text, force_clean=True):
     global ekphrasis_text_processor_en
     text = " ".join(ekphrasis_text_processor_en.pre_process_doc(text))
-    text = text.replace("<user>", "")
-    text = text.replace("url", "")
+    if force_clean:
+        text = text.replace("<user>", "")
+        text = text.replace("url", "")
     text = text.replace("<email>", "email")
     text = text.replace("<percent>", "percent")
     text = text.replace("<money>", "money")
@@ -261,27 +262,25 @@ def encode_ekphrasis_en(text):
     return text
 
 
-def preprocess_en_text(text: str):
+def preprocess_en_text(text: str, force_clean=True):
     # logger.info(text)
     # fixing apostrope
     text = text.replace("’", "'")
 
     tokens = w_tokenizer.tokenize(text)
-    tokens = [w for w in tokens if not w.lower() in stop_words]
+    if force_clean:
+        tokens = [w for w in tokens if not w.lower() in stop_words]
+        tokens = [fill[word] if word in fill else word for word in tokens]
+        text = " ".join(tokens)
+        text = re.sub("'s", "", text)
 
-    tokens = [fill[word] if word in fill else word for word in tokens]
-    text = " ".join(tokens)
-    text = re.sub("'s", "", text)
-    # logger.info(text)
-    text = encode_ekphrasis_en(text)
-    # logger.info(text)
-    text = " ".join(lemmatize_text(text))
-    # logger.info(text)
-    text = handle_punctuation(text)
-    # logger.info(text)
-    # if len(text) < 2:
-    #     logger.info(raw)
-    #     logger.info(text)
+    # call ekphrasis
+    text = encode_ekphrasis_en(text, force_clean)
+    if force_clean:
+        # lemmatize text
+        text = " ".join(lemmatize_text(text))
+        # remove punctuation
+        text = handle_punctuation(text)
     return text
 
 

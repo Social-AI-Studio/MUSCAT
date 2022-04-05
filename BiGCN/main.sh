@@ -9,9 +9,9 @@
 #Generate graph data and store in /data/Twitter16graph
 # python ./Process/getTwittergraph.py Twitter16
 #Generate graph data and store in /data/PHEMEgraph
-# python ./Process/getTwittergraph.py PHEME
+python ./Process/getTwittergraph.py PHEME EN
 #Reproduce the experimental results.
 # python ./model/Weibo/BiGCN_Weibo.py 100
 # python ./model/Twitter/BiGCN_Twitter.py Twitter15 100
 # python ./model/Twitter/BiGCN_Twitter.py Twitter16 100
-python ./model/Twitter/BiGCN_Twitter.py PHEME 20
+python ./model/Twitter/BiGCN_Twitter.py PHEME 20 EN

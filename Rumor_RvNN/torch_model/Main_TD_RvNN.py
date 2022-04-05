@@ -25,13 +25,16 @@ import argparse
 parser = argparse.ArgumentParser()
 
 parser.add_argument("--fold", default="3", type=str,
-                    help="validation folder")
+                    help="validation folder to use")
+parser.add_argument("--lang", default="EN", type=str,
+                    help="data dir for loading tree")
 args = parser.parse_args()
 
 
 
 # obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
 obj = "PHEME"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
+lang = args.lang 
 fold = args.fold  # fold index, choose from 0-4
 tag = "_u2b"
 vocabulary_size = 5000
@@ -49,7 +52,7 @@ lr = 0.005
 # labelPath = "../resource/" + obj + "_label_All.txt"
 
 
-treePath = "../../preprocess/data.TD_PHEME.vol_" + str(vocabulary_size) + ".txt"
+treePath = f"../../preprocess/{obj}/{lang}/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
 
 trainPath = "../../preprocess/folds9/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
 testPath = "../../preprocess/folds9/RNNtestSet_" + obj + str(fold) + "_tree.txt"

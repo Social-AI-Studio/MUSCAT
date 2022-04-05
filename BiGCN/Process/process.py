@@ -5,9 +5,16 @@ cwd = os.getcwd()
 
 
 ################################### load tree#####################################
-def loadTree(dataname):
+def loadTree(dataname, lang="EN"):
     if "Twitter" or "PHEME" in dataname:
-        treePath = os.path.join(cwd, "data/" + dataname + "/data.TD_RvNN.vol_5000.txt")
+        if lang:
+            treePath = os.path.join(
+                cwd, "data/" + dataname, lang, f"/data.TD_RvNN.vol_5000.txt"
+            )
+        else:
+            treePath = os.path.join(
+                cwd, "data/" + dataname, lang,  "/data.TD_RvNN.vol_5000.txt"
+            )
         print("reading twitter tree")
         treeDic = {}
         for line in open(treePath):

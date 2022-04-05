@@ -278,6 +278,7 @@ TDdroprate = 0.2
 BUdroprate = 0.2
 datasetname = sys.argv[1]  # "Twitter15"、"Twitter16"
 iterations = int(sys.argv[2])
+lang=sys.argv[3]
 model = "GCN"
 device = th.device("cuda:0" if th.cuda.is_available() else "cpu")
 test_accs = []
@@ -287,7 +288,7 @@ TR_F1 = []
 UR_F1 = []
 
 folds9_dict = load9foldData()
-treeDic = loadTree(datasetname)
+treeDic = loadTree(datasetname, lang)
 for iter in range(iterations):
     print("-------------------------------------------------")
     print(f"Iteration {iter}")
