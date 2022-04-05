@@ -26,27 +26,26 @@ import logging
 import math
 import os
 import random
+import re
 
 import numpy as np
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import classification_report as cls_report
 import torch
 import torch.nn.functional as F
+from torch.optim.adamw import AdamW
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 from torch.utils.data.distributed import DistributedSampler
 from tqdm import tqdm, trange
-from transformers import AdamW, SchedulerType, get_scheduler
+from transformers import BertTokenizer, SchedulerType, get_scheduler
 
 from my_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
 from my_bert.hmcat_modeling import (
+    CoupledBertForSequenceClassification,
     CoupledCoAttnBertForSequenceClassification,
     HierarchicalCoupledCoAttnBertForSequenceClassification,
 )
-from my_bert.modeling import (
-    BertForSequenceClassification,
-    CoupledBertForSequenceClassification,
-)
-from my_bert.tokenization import BertTokenizer
+from my_bert.modeling import BertForSequenceClassification
 
 
 logging.basicConfig(
@@ -77,6 +76,26 @@ class ObjectEncoder(json.JSONEncoder):
             )
             return self.default(d)
         return str(obj)
+
+
+def freeze_encoder_layers(args, bert, unfrozen_modules=[]):
+    if args.freeze_encoder_layers is not None:
+        start_layer, end_layer = args.freeze_encoder_layers.split("-")
+
+        for name, param in bert.named_parameters():
+            requires_grad = True
+            match = re.match(bert.get_layer_regexp(), name)
+            if match:
+                layer_number = int(match.groups()[0])
+                requires_grad = not int(start_layer) <= layer_number <= int(
+                    end_layer
+                ) or any([module in match.string for module in unfrozen_modules])
+            elif name.startswith("bert.embedding"):
+                requires_grad = False
+            param.requires_grad = requires_grad
+
+    for name, param in bert.named_parameters():
+        logger.info("%s - %s", name, ("Unfrozen" if param.requires_grad else "FROZEN"))
 
 
 class InputExample(object):
@@ -253,13 +272,13 @@ def convert_examples_to_features(
             tweets_tokens3 = tweets_tokens[max_tweet_num * 2 : max_tweet_num * 3]
 
         input_tokens1, input_ids1, input_mask1 = bucket_rumor_conversion(
-            tweets_tokens1, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
+            tweets_tokens1, tokenizer, max_seq_length
         )
         input_tokens2, input_ids2, input_mask2 = bucket_rumor_conversion(
-            tweets_tokens2, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
+            tweets_tokens2, tokenizer, max_seq_length
         )
         input_tokens3, input_ids3, input_mask3 = bucket_rumor_conversion(
-            tweets_tokens3, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
+            tweets_tokens3, tokenizer, max_seq_length
         )
         input_mask = []
         input_mask.extend(input_mask1)
@@ -268,7 +287,7 @@ def convert_examples_to_features(
 
         label = label_map[example.label]
 
-        if ex_index < 1:
+        if ex_index < 0:
             logger.info("*** Example ***")
             logger.info("guid: %s" % (example.guid))
             logger.info("tokens: %s" % " ".join([str(x) for x in input_tokens1]))
@@ -331,67 +350,34 @@ def source_conversion(source_tweet, tokenizer):
     return source_input_ids, source_input_mask
 
 
-def bucket_rumor_conversion(
-    tweets_tokens, tokenizer, max_tweet_num, max_tweet_len, max_seq_length
-):
+def bucket_rumor_conversion(tweets_tokens, tokenizer, max_seq_length):
     input_tokens = []
     input_ids = []
     input_mask = []
-    # segment_ids = []
-    # stance_position = []
-    # if tweets_tokens != []:
-    #     ntokens.append()
-    # input_tokens.extend(ntokens) # avoid having two [CLS] at the begining
-    # segment_ids.append(0) #########no need to add this line
-    # stance_position.append(0)
     for i, tweet_token in enumerate(tweets_tokens):
         if i == 0:
             ntokens = ["[CLS]"] + tweet_token
-            # ntokens.append("[CLS]")
-            # stance_position.append(len(input_ids))
         elif i == len(tweets_tokens) - 1:
             ntokens = tweet_token + ["[SEP]"]
         else:
             ntokens = tweet_token
-        # ntokens.append("[SEP]")
         input_tokens.extend(ntokens)  # just for printing out
         input_tokens.extend("[padpadpad]")  # just for printing out
         tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
         tweet_input_mask = [1] * len(tweet_input_ids)
-        # while len(tweet_input_ids) < max_tweet_len:
-        #     tweet_input_ids.append(0)
-        #     tweet_input_mask.append(0)
         input_ids.extend(tweet_input_ids)
         input_mask.extend(tweet_input_mask)
-        # segment_ids = segment_ids + [i % 2] * len(tweet_input_ids)
 
     logger.debug(input_tokens)
     logger.debug(input_ids)
-    # cur_tweet_num = len(tweets_tokens)
-    # pad_tweet_length = max_tweet_num - cur_tweet_num
-    # for j in range(pad_tweet_length):
-    #     ntokens = []
-    # ntokens.append("[CLS]")
-    # ntokens.append("[SEP]")
-    # stance_position.append(len(input_ids))
-    # tweet_input_ids = tokenizer.convert_tokens_to_ids(ntokens)
-    # tweet_input_mask = [1] * len(tweet_input_ids)
-    # tweet_input_ids = [0] * (max_tweet_len)
-    # tweet_input_mask = [0] * (max_tweet_len)
-    # input_ids.extend(tweet_input_ids)
-    # input_mask.extend(tweet_input_mask)
-    # segment_ids = segment_ids + [(cur_tweet_num + j) % 2] * max_tweet_len
 
     while len(input_ids) < max_seq_length:
         input_ids.append(0)
         input_mask.append(0)
-        # segment_ids.append(0)
 
     assert len(input_ids) == max_seq_length
     assert len(input_mask) == max_seq_length
-    # assert len(segment_ids) == max_seq_length
 
-    # return input_tokens, input_ids, input_mask, segment_ids, stance_position
     return input_tokens, input_ids, input_mask
 
 
@@ -585,6 +571,17 @@ def main():
         "--bertlayer", action="store_true", help="whether to add another bert layer"
     )
     parser.add_argument(
+        "--use_longformer",
+        action="store_true",
+        help="Ue Longformer layer as global context encoder.",
+    )
+    parser.add_argument(
+        "--freeze_encoder_layers",
+        default=None,
+        type=str,
+        help="Layers of Bert pretrained model to be frozen e.g. `0-5`",
+    )
+    parser.add_argument(
         "--max_tweet_num", type=int, default=30, help="the maximum number of tweets"
     )
     parser.add_argument(
@@ -678,6 +675,7 @@ def main():
             cache_dir=PYTORCH_PRETRAINED_BERT_CACHE
             / "distributed_{}".format(args.local_rank),
             num_labels=num_labels,
+            use_longformer=args.use_longformer,
         )
     else:
         model = BertForSequenceClassification.from_pretrained(
@@ -686,6 +684,8 @@ def main():
             / "distributed_{}".format(args.local_rank),
             num_labels=num_labels,
         )
+    if args.freeze_encoder_layers:
+        freeze_encoder_layers(args, model)
 
     model.to(device)
     if args.local_rank != -1:
@@ -804,9 +804,8 @@ def main():
             logger.info(f"  Num examples = {len(eval_data)}")
             logger.info(f"  Batch size = {args.eval_batch_size}")
             model.eval()
-            eval_loss, eval_accuracy = 0, 0
+            eval_loss = 0
             nb_eval_steps = 0
-            nb_eval_examples = len(eval_data)
 
             true_label_list = []
             pred_label_list = []
@@ -888,6 +887,7 @@ def main():
             args.bert_model,
             state_dict=model_state_dict,
             num_labels=num_labels,
+            use_longformer=args.use_longformer,
         )
     else:
         model = BertForSequenceClassification.from_pretrained(

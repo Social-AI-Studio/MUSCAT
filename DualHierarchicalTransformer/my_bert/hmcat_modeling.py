@@ -18,29 +18,24 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-
-import os
 import copy
-import json
-import math
 import logging
-import tarfile
-import tempfile
-import shutil
+import math
 
 import torch
 from torch import nn
 from torch.nn import CrossEntropyLoss
-
-from transformers import BertPreTrainedModel
+from transformers import BertModel, BertPreTrainedModel
 from transformers.models.bert.modeling_bert import (
     BertEmbeddings,
-    BertLayer,
     BertIntermediate,
+    BertLayer,
     BertOutput,
     BertSelfOutput,
 )
-from .file_utils import cached_path
+
+from my_bert.modeling_longformer import LongformerSelfAttention
+
 
 logger = logging.getLogger(__name__)
 
@@ -242,6 +237,51 @@ class ADDBertEncoder(nn.Module):
         return all_encoder_layers
 
 
+class BertLongSelfAttention(LongformerSelfAttention):
+    def forward(
+        self,
+        hidden_states,
+        attention_mask=None,
+        head_mask=None,
+        encoder_hidden_states=None,
+        encoder_attention_mask=None,
+        past_key_values=None,
+        use_cache=None,
+        output_attentions=False,
+        output_hidden_states=False,
+        return_dict=False,
+    ):
+        return super().forward(
+            hidden_states,
+            attention_mask=attention_mask,
+            output_attentions=output_attentions,
+        )
+
+
+class BertLongLayer(BertLayer):
+    def __init__(self, config):
+        super().__init__(config)
+        self.attention.self = BertLongSelfAttention(config, layer_id=0)
+
+
+class ADDLongformerEncoder(nn.Module):
+    def __init__(self, config, attention_window):
+        super(ADDLongformerEncoder, self).__init__()
+        config.attention_window = [attention_window] * 1
+        layer = BertLongLayer(config)
+        self.layer = nn.ModuleList([copy.deepcopy(layer) for _ in range(1)])
+
+    def forward(self, hidden_states, attention_mask, output_all_encoded_layers=True):
+        all_encoder_layers = []
+        for layer_module in self.layer:
+            hidden_states = layer_module(hidden_states, attention_mask=attention_mask)
+            if output_all_encoded_layers:
+                all_encoder_layers.append(hidden_states)
+        if not output_all_encoded_layers:
+            all_encoder_layers.append(hidden_states)
+        return all_encoder_layers
+
+
 class BertPooler(nn.Module):
     def __init__(self, config):
         super(BertPooler, self).__init__()
@@ -258,50 +298,6 @@ class BertPooler(nn.Module):
 
 
 class MyBertModel(BertPreTrainedModel):
-    """BERT model ("Bidirectional Embedding Representations from a Transformer").
-
-    Params:
-        config: a BertConfig class instance with the configuration to build a new model
-
-    Inputs:
-        `input_ids`: a torch.LongTensor of shape [batch_size, sequence_length]
-            with the word token indices in the vocabulary(see the tokens preprocessing logic in the scripts
-            `extract_features.py`, `run_classifier.py` and `run_squad.py`)
-        `token_type_ids`: an optional torch.LongTensor of shape [batch_size, sequence_length] with the token
-            types indices selected in [0, 1]. Type 0 corresponds to a `sentence A` and type 1 corresponds to
-            a `sentence B` token (see BERT paper for more details).
-        `attention_mask`: an optional torch.LongTensor of shape [batch_size, sequence_length] with indices
-            selected in [0, 1]. It's a mask to be used if the input sequence length is smaller than the max
-            input sequence length in the current batch. It's the mask that we typically use for attention when
-            a batch has varying length sentences.
-        `output_all_encoded_layers`: boolean which controls the content of the `encoded_layers` output as described below. Default: `True`.
-
-    Outputs: Tuple of (encoded_layers, pooled_output)
-        `encoded_layers`: controled by `output_all_encoded_layers` argument:
-            - `output_all_encoded_layers=True`: outputs a list of the full sequences of encoded-hidden-states at the end
-                of each attention block (i.e. 12 full sequences for BERT-base, 24 for BERT-large), each
-                encoded-hidden-state is a torch.FloatTensor of size [batch_size, sequence_length, hidden_size],
-            - `output_all_encoded_layers=False`: outputs only the full sequence of hidden-states corresponding
-                to the last attention block of shape [batch_size, sequence_length, hidden_size],
-        `pooled_output`: a torch.FloatTensor of size [batch_size, hidden_size] which is the output of a
-            classifier pretrained on top of the hidden state associated to the first character of the
-            input (`CLF`) to train on the Next-Sentence task (see BERT's paper).
-
-    Example usage:
-    ```python
-    # Already been converted into WordPiece token ids
-    input_ids = torch.LongTensor([[31, 51, 99], [15, 5, 0]])
-    input_mask = torch.LongTensor([[1, 1, 1], [1, 1, 0]])
-    token_type_ids = torch.LongTensor([[0, 0, 1], [0, 1, 0]])
-
-    config = modeling.BertConfig(vocab_size_or_config_json_file=32000, hidden_size=768,
-        num_hidden_layers=12, num_attention_heads=12, intermediate_size=3072)
-
-    model = modeling.BertModel(config=config)
-    all_encoder_layers, pooled_output = model(input_ids, token_type_ids, input_mask)
-    ```
-    """
-
     def __init__(self, config):
         super(MyBertModel, self).__init__(config)
         self.embeddings = BertEmbeddings(config)
@@ -400,14 +396,17 @@ class MyBertModel(BertPreTrainedModel):
 
 
 class HierarchicalCoupledCoAttnBertForSequenceClassification(BertPreTrainedModel):
-    def __init__(self, config, num_labels=4):
+    def __init__(self, config, num_labels=4, use_longformer=False):
         super(HierarchicalCoupledCoAttnBertForSequenceClassification, self).__init__(
             config
         )
         self.num_labels = num_labels
         self.bert = MyBertModel(config)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
-        self.add_bert_attention = ADDBertEncoder(config)
+        if use_longformer:
+            self.add_bert_attention = ADDLongformerEncoder(config, attention_window=512)
+        else:
+            self.add_bert_attention = ADDBertEncoder(config)
         self.add_bert_pooler = BertPooler(config)
         self.classifier = nn.Linear(config.hidden_size, num_labels)
 
@@ -478,6 +477,10 @@ class HierarchicalCoupledCoAttnBertForSequenceClassification(BertPreTrainedModel
 
         return ((loss,) + (logits,)) if loss is not None else logits
 
+    @classmethod
+    def get_layer_regexp(cls):
+        return r"bert.encoder.layer.*\.([0-9]+)\..*"
+
 
 # Ablation: Coupled BERT model with CoAttention module
 class CoupledCoAttnBertForSequenceClassification(BertPreTrainedModel):
@@ -503,8 +506,8 @@ class CoupledCoAttnBertForSequenceClassification(BertPreTrainedModel):
         attention_mask2,
         input_ids3,
         attention_mask3,
-        attention_mask,
-        src_input_ids,
+        attention_mask=None,
+        src_input_ids=None,
         labels=None,
     ):
         _, pooled_output1 = self.bert(
@@ -537,3 +540,67 @@ class CoupledCoAttnBertForSequenceClassification(BertPreTrainedModel):
             loss_fct = CrossEntropyLoss()
             loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
         return ((loss,) + (logits,)) if loss is not None else logits
+
+    @classmethod
+    def get_layer_regexp(cls):
+        return r"bert.encoder.layer.*\.([0-9]+)\..*"
+
+
+class CoupledBertForSequenceClassification(BertPreTrainedModel):
+    def __init__(self, config, num_labels=4):
+        super(CoupledBertForSequenceClassification, self).__init__(config)
+        self.num_labels = num_labels
+        self.bert = BertModel(config)
+        self.dropout = nn.Dropout(config.hidden_dropout_prob)
+        self.add_bert_pooler = BertPooler(config)
+        self.classifier = nn.Sequential(
+            nn.Linear(config.hidden_size * 3, config.hidden_size),
+            nn.Dropout(0.2),
+            nn.Linear(config.hidden_size, num_labels),
+        )
+        # Initialize weights and apply final processing
+        self.post_init()
+
+    def forward(
+        self,
+        input_ids1,
+        attention_mask1,
+        input_ids2,
+        attention_mask2,
+        input_ids3,
+        attention_mask3,
+        attention_mask=None,
+        src_input_ids=None,
+        labels=None,
+    ):
+        _, pooled_output1 = self.bert(
+            input_ids1,
+            attention_mask=attention_mask1,
+            return_dict=False,
+        )
+        _, pooled_output2 = self.bert(
+            input_ids2,
+            attention_mask=attention_mask2,
+            return_dict=False,
+        )
+        _, pooled_output3 = self.bert(
+            input_ids3,
+            attention_mask=attention_mask3,
+            return_dict=False,
+        )
+        logger.debug(f"pooled --> {pooled_output1.shape}")
+        tmp_pool = torch.cat((pooled_output1, pooled_output2), dim=1)
+        final_pool_output = torch.cat((tmp_pool, pooled_output3), dim=1)
+
+        pooled_output = self.dropout(final_pool_output)
+        logits = self.classifier(pooled_output)
+
+        loss = None
+        if labels is not None:
+            loss_fct = CrossEntropyLoss()
+            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+        return ((loss,) + (logits,)) if loss is not None else logits
+
+    @classmethod
+    def get_layer_regexp(cls):
+        return r"bert.encoder.layer.*\.([0-9]+)\..*"
