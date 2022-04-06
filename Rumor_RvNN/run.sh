@@ -1,12 +1,15 @@
-cd torch_model
-echo $PWD
+echo "Working dir" $PWD
 
 OBJ=PHEME
 END=5
-LANG=EN
+LANG_LIST=(en id th vi ms)
 
-for ((i=0;i<=END;i++)); do
-    echo "Choosing dataset " $OBJ
-    echo "Processing fold " $i
-    python Main_TD_RvNN.py --obj $OBJ --fold $i --lang $LANG
+for LANG in ${LANG_LIST[@]}; do
+    for ((i=0;i<=END;i++)); do
+        echo "Choosing dataset" $OBJ
+        echo "Choosing language" $LANG
+        echo "Processing fold" $i
+        CUDA_VISIBLE_DEVICES=$((i%4)) python torch_model/Main_TD_RvNN.py --obj $OBJ \
+        --lang $LANG --fold $i --epochs 300 &
+    done
 done
