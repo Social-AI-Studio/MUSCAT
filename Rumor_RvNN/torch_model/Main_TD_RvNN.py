@@ -8,55 +8,22 @@
 @time: Jan 24, 2018
 """
 
-import sys
-
-import numpy as np
-import TD_RvNN
-import time
+import argparse
+import datetime
+from tqdm import tqdm
 import json
 import random
+import time as ttime
+
+import numpy as np
+from sklearn.metrics import classification_report, f1_score
+import torch
 import torch.optim as optim
-import datetime
-from sklearn.metrics import f1_score
-from sklearn.metrics import classification_report
+
+from Rumor_RvNN.torch_model.logger import MyLogger
+import TD_RvNN
 from evaluate import *
-import argparse
 
-parser = argparse.ArgumentParser()
-
-parser.add_argument("--fold", default="3", type=str,
-                    help="validation folder to use")
-parser.add_argument("--lang", default="EN", type=str,
-                    help="data dir for loading tree")
-args = parser.parse_args()
-
-
-
-# obj = "Twitter15"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
-obj = "PHEME"  # choose dataset, you can choose either "Twitter15" or "Twitter16"
-lang = args.lang 
-fold = args.fold  # fold index, choose from 0-4
-tag = "_u2b"
-vocabulary_size = 5000
-hidden_dim = 100
-Nclass = 4
-Nepoch = 600
-lr = 0.005
-
-# unit = "../output/TD_RvNN-" + obj + str(fold) + "-vol." + str(vocabulary_size) + tag + ".json"
-
-# treePath = "../resource/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
-
-# trainPath = "../nfold/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
-# testPath = "../nfold/RNNtestSet_" + obj + str(fold) + "_tree.txt"
-# labelPath = "../resource/" + obj + "_label_All.txt"
-
-
-treePath = f"../../preprocess/{obj}/{lang}/data.TD_RvNN.vol_" + str(vocabulary_size) + ".txt"
-
-trainPath = "../../preprocess/folds9/RNNtrainSet_" + obj + str(fold) + "_tree.txt"
-testPath = "../../preprocess/folds9/RNNtestSet_" + obj + str(fold) + "_tree.txt"
-labelPath = "../../preprocess/" + obj + "_label_All.txt"
 
 ################################### tools #####################################
 def str2matrix(Str, MaxL):  # str = index:wordfreq index:wordfreq
@@ -125,11 +92,9 @@ def constructTree(tree):
     return x_word, x_index, tree, leaf_idxs
 
 
-################################# loas data ###################################
-def loadData():
-    print(
-        "loading tree label",
-    )
+################################# load data ###################################
+def loadData(treePath, labelPath, trainPath, testPath):
+    print(f"loading tree label from {labelPath}")
     labelDic = {}
     for line in open(labelPath):
         line = line.rstrip()
@@ -137,7 +102,7 @@ def loadData():
         labelDic[eid] = label.lower()
     print(len(labelDic))
 
-    print("reading tree"),  ## X
+    print(f"reading tree from {treePath}")
     treeDic = {}
     for line in open(treePath):
         line = line.rstrip()
@@ -157,11 +122,9 @@ def loadData():
             "maxL": maxL,
             "vec": Vec,
         }
-    print("tree no:", len(treeDic))
+    print(f"tree no: {len(treeDic)}")
 
-    print(
-        "loading train set",
-    )
+    print("loading train set")
     tree_train, word_train, index_train, y_train, leaf_idxs_train, c = (
         [],
         [],
@@ -262,101 +225,168 @@ def loadData():
 
 
 ##################################### MAIN ####################################
-## 1. load tree & word & index & label
-(
-    tree_train,
-    word_train,
-    index_train,
-    leaf_idxs_train,
-    y_train,
-    tree_test,
-    word_test,
-    index_test,
-    leaf_idxs_test,
-    y_test,
-) = loadData()
-## 2. ini RNN model
+def main(args):
+    obj = args.obj
+    lang = args.lang
+    fold = args.fold
+    Nclass = args.num_labels
+    Nepoch = args.epochs
+    lr = args.learning_rate
+    vocabulary_size = 5000
+    hidden_dim = 100
 
-t0 = time.time()
-model = TD_RvNN.RvNN(vocabulary_size, hidden_dim, Nclass)
-t1 = time.time()
-print("Recursive model established,", (t1 - t0) / 60)
+    treePath = os.path.join(
+        "resource", obj, lang, f"data.TD_RvNN.vol_{vocabulary_size}.txt"
+    )
+    trainPath = os.path.join("nfold", f"RNNtrainSet_{obj}{fold}_tree.txt")
+    testPath = os.path.join("nfold", f"RNNtestSet_{obj}{fold}_tree.txt")
+    labelPath = os.path.join("resource", f"{obj}_label_All.txt")
 
-## 3. looping SGD
-optimizer = optim.Adagrad(model.parameters(), lr=0.01)
-losses_5, losses = [], []
-num_examples_seen = 0
-indexs = [i for i in range(len(y_train))]
+    ## 1. load tree & word & index & label
+    (
+        tree_train,
+        word_train,
+        index_train,
+        leaf_idxs_train,
+        y_train,
+        tree_test,
+        word_test,
+        index_test,
+        leaf_idxs_test,
+        y_test,
+    ) = loadData(treePath, labelPath, trainPath, testPath)
+    ## 2. ini RNN model
 
-best_f1 = -1.0
-best_result = {}
-best_pred = []
-for epoch in range(Nepoch):
-    ## one SGD
-    random.shuffle(indexs)
-    for i in indexs:
-        pred_y, loss = model.forward(
-            word_train[i], index_train[i], tree_train[i], leaf_idxs_train[i], y_train[i]
-        )
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
-        losses.append(loss.data)
-        num_examples_seen += 1
-        # print("epoch=%d: idx=%d, loss=%f" % (epoch, i, np.mean(losses)))
-        if i == indexs[10]:
-            break
-    ## cal loss & evaluate
-    if epoch % 25 == 0:
-        losses_5.append((num_examples_seen, np.mean(losses)))
-        time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        print(
-            "%s: Loss after num_examples_seen=%d epoch=%d: %f"
-            % (time, num_examples_seen, epoch, np.mean(losses))
-        )
-        sys.stdout.flush()
-        prediction = []
-        for j in range(len(y_test)):
-            prediction.append(
-                model.predict_up(
-                    word_test[j], index_test[j], tree_test[j], leaf_idxs_test[j]
-                ).data.tolist()
+    device = torch.device(
+        "cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu"
+    )
+    t0 = ttime.time()
+    model = TD_RvNN.RvNN(vocabulary_size, hidden_dim, Nclass)
+    model = model.to(device)
+    t1 = ttime.time()
+    print("Recursive model established,", (t1 - t0) / 60)
+
+    ## 3. looping SGD
+    optimizer = optim.Adagrad(model.parameters(), lr=args.learning_rate)
+    losses_5, losses = [], []
+    num_examples_seen = 0
+    indexs = [i for i in range(len(y_train))]
+
+    best_f1 = -1.0
+    best_result = {}
+    best_pred = []
+    accumulated_steps = 32
+    for epoch in tqdm(range(Nepoch), desc="Epoch"):
+        ## one SGD
+        random.shuffle(indexs)
+        for step, i in enumerate(tqdm(indexs, desc="Iteration")):
+            batch = (
+                word_train[i],
+                index_train[i],
+                tree_train[i],
+                leaf_idxs_train[i],
+                y_train[i],
             )
-        # print("predictions:", prediction)
-        res = evaluation_4class(prediction, y_test)
-        cur_f1 = res.get("Favg")
-        if cur_f1 >= best_f1:
-            best_result = res
-            best_pred = prediction
-        # res = classification_report(prediction, y_test)
-        print("results:", res)
-        sys.stdout.flush()
-        ## Adjust the learning rate if loss increases
-        if len(losses_5) > 1 and losses_5[-1][1] > losses_5[-2][1]:
-            lr = lr * 0.5
-            print("Setting learning rate to %f" % lr)
+            batch = tuple(torch.tensor(t, dtype=torch.long).to(device) for t in batch)
+            pred_y, loss = model.forward(
+                batch[0], batch[1], batch[2], batch[3], batch[4]
+            )
+            loss = loss / accumulated_steps
+            loss.backward()
+            losses.append(loss.item())
+            num_examples_seen += 1
+            torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=5.0)
+
+            if (step + 1) % accumulated_steps == 0:
+                optimizer.step()
+                optimizer.zero_grad()
+            # print("epoch=%d: idx=%d, loss=%f" % (epoch, i, np.mean(losses)))
+            # if i == indexs[10]:
+            #     break
+        # cal loss & evaluate
+        if (epoch+1) % 5 == 0:
+            losses_5.append((num_examples_seen, np.mean(losses)))
+            time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            print(
+                "%s: Loss after num_examples_seen=%d epoch=%d: %f"
+                % (time, num_examples_seen, epoch, np.mean(losses))
+            )
             sys.stdout.flush()
-    sys.stdout.flush()
-    losses = []
+            prediction = []
+            for j in tqdm(range(len(y_test)), desc="Iteration"):
+                batch = (word_test[j], index_test[j], tree_test[j], leaf_idxs_test[j])
+                batch = tuple(
+                    torch.tensor(t, dtype=torch.long).to(device) for t in batch
+                )
+                prediction.append(
+                    model.predict_up(
+                        batch[0], batch[1], batch[2], batch[3]
+                    ).data.tolist()
+                )
+            # print("predictions:", prediction)
+            res = evaluation_4class(prediction, y_test)
+            # res = classification_report(y_test, prediction)
+            cur_f1 = res.get("Favg")
+            if cur_f1 >= best_f1:
+                best_result = res
+                best_pred = prediction
+            print("results:", res)
+            sys.stdout.flush()
+            ## Adjust the learning rate if loss increases
+            if len(losses_5) > 1 and losses_5[-1][1] > losses_5[-2][1]:
+                lr = lr * 0.5
+                print("Setting learning rate to %f" % lr)
+                sys.stdout.flush()
+        sys.stdout.flush()
+        losses = []
 
-print(f"best resutl --> {best_result}")
+    print(f"best result --> {best_result}")
 
-eval_fname = os.path.join("../output", f"fold{fold}", "eval_result.json")
-pred_fname = os.path.join("../output", f"fold{fold}", "pred.txt")
-true_fname = os.path.join("../output", f"fold{fold}", "true.txt")
-best_pred = np.argmax(best_pred, axis = 1)
-true = np.argmax(y_test, axis = 1)
+    foutdir = os.path.join(args.output_dir, obj, lang, f"fold{fold}")
+    os.makedirs(foutdir, exist_ok=True)
+    eval_fname = os.path.join(foutdir, "eval_result.json")
+    pred_fname = os.path.join(foutdir, "pred.txt")
+    true_fname = os.path.join(foutdir, "true.txt")
+    best_pred = np.argmax(best_pred, axis=1)
+    true = np.argmax(y_test, axis=1)
 
-with open(eval_fname, "w") as fp:
-    json.dump(best_result, fp)
+    with open(eval_fname, "w") as fp:
+        json.dump(best_result, fp)
 
-with open(pred_fname, "w") as fp:
-    fp.writelines(
-        "%s\n" % pred for pred in list(best_pred)
+    with open(pred_fname, "w") as fp:
+        fp.writelines("%s\n" % pred for pred in list(best_pred))
+
+    with open(true_fname, "w") as fp:
+        fp.writelines("%s\n" % label for label in list(true))
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--output_dir", default="output", type=str, help="output data dir"
     )
-
-with open(true_fname, "w") as fp:
-    fp.writelines(
-        "%s\n" % label for label in list(true)
+    parser.add_argument(
+        "--obj",
+        default="PHEME",
+        type=str,
+        help="choose dataset, you can choose either 'PHEME', 'Twitter15' or 'Twitter16'",
     )
+    parser.add_argument(
+        "--lang", default="EN", type=str, help="data dir for loading tree"
+    )
+    parser.add_argument(
+        "--fold", default="3", type=str, help="validation fold index, choose from 0-4"
+    )
+    parser.add_argument(
+        "--epochs", default=600, type=int, help="number of training epochs"
+    )
+    parser.add_argument("--num_labels", default=4, type=int, help="number of classes")
+    parser.add_argument(
+        "--learning_rate", default=0.005, type=float, help="learning rate for training"
+    )
+    parser.add_argument(
+        "--no_cuda", action="store_true", help="Whether not to use CUDA when available"
+    )
+    args = parser.parse_args()
 
+    main(args)

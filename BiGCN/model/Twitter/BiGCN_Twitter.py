@@ -1,25 +1,27 @@
+import copy
+import os
 import re
-import sys, os
+import sys
+import time
 
 sys.path.append(os.getcwd())
-lib_path = os.path.abspath(os.path.join(__file__, "..", "..", "..", "..", "preprocess"))
-sys.path.append(lib_path)
-from Process.process import *
-import torch as th
-from torch_scatter import scatter_mean
-import torch.nn.functional as F
+
 import numpy as np
-from tools.earlystopping import EarlyStopping
-from tools.tqdm_helper import myprogress
-from torch_geometric.data import DataLoader
-from tqdm import tqdm
-from Process.rand5fold import *
-from tools.evaluate import *
 from sklearn.metrics import classification_report
+import torch as th
+import torch.nn.functional as F
+from torch_geometric.data import DataLoader
 from torch_geometric.nn import GCNConv
-import copy
-import time
-from leave_one_out_fold import load9foldData
+from torch_scatter import scatter_mean
+from tqdm import tqdm
+
+from Process.process import *
+from tools.earlystopping import EarlyStopping
+from tools.evaluate import *
+from tools.tqdm_helper import myprogress
+
+from preprocess.leave_one_out_pheme import load5foldData
+from preprocess.rand5fold import loadTwitterSplits
 
 
 class TDrumorGCN(th.nn.Module):
@@ -119,6 +121,7 @@ def train_GCN(
     dataname,
     iter,
     fold,
+    lang,
 ):
     model = Net(5000, 64, 64).to(device)
     BU_params = list(map(id, model.BUrumorGCN.conv1.parameters()))
@@ -141,7 +144,7 @@ def train_GCN(
     early_stopping = EarlyStopping(patience=patience, verbose=True)
 
     traindata_list, testdata_list = loadBiData(
-        dataname, treeDic, x_train, x_test, TDdroprate, BUdroprate
+        dataname, lang, treeDic, x_train, x_test, TDdroprate, BUdroprate
     )
     train_loader = DataLoader(
         traindata_list, batch_size=batchsize, shuffle=True, num_workers=5
@@ -150,14 +153,16 @@ def train_GCN(
         testdata_list, batch_size=batchsize, shuffle=True, num_workers=5
     )
 
-    pbar = tqdm(range(n_epochs), desc="Epoch", bar_format="{l_bar}{bar:10}{r_bar}{bar:-10b}")
+    pbar = tqdm(
+        range(n_epochs), desc="Epoch", bar_format="{l_bar}{bar:10}{r_bar}{bar:-10b}"
+    )
     for epoch in pbar:
         avg_loss = []
         avg_acc = []
         batch_idx = 0
         # tqdm_train_loader = tqdm(train_loader)
         for i, Batch_data in enumerate(train_loader):
-            pbar.set_postfix_str(myprogress(i, len(train_loader), msg='Batch'))
+            pbar.set_postfix_str(myprogress(i, len(train_loader), msg="Batch"))
             Batch_data.to(device)
             out_labels = model(Batch_data)
             finalloss = F.nll_loss(out_labels, Batch_data.y)
@@ -189,7 +194,7 @@ def train_GCN(
         model.eval()
         # tqdm_test_loader = tqdm(test_loader)
         for i, Batch_data in enumerate(test_loader):
-            pbar.set_postfix_str(myprogress(i, len(test_loader), msg='Batch'))
+            pbar.set_postfix_str(myprogress(i, len(test_loader), msg="Batch"))
             Batch_data.to(device)
             val_out = model(Batch_data)
             val_loss = F.nll_loss(val_out, Batch_data.y)
@@ -247,24 +252,23 @@ def train_GCN(
             F4 = early_stopping.F4
             temp_preds = early_stopping.preds
             break
-        
+
         if epoch % 5 == 0:
             # print("results:", report)
             pbar.set_postfix_str(f"F1= {F1}, F2= {F2}, F3={F3}, F4={F4}")
             time.sleep(0.03)
 
-    fout_dir = f"output/iter{iter}/fold{fold}" 
+    if lang:
+        fout_dir = f"output/{dataname}/{lang}/iter{iter}/fold{fold}"
+    else:
+        fout_dir = f"output/{dataname}/iter{iter}/fold{fold}"
     os.makedirs(fout_dir, exist_ok=True)
     pred_fname = os.path.join(fout_dir, "pred.txt")
     true_fname = os.path.join(fout_dir, "true.txt")
     with open(pred_fname, "w") as fp:
-        fp.writelines(
-            "%s\n" % pred for pred in temp_preds 
-        )
+        fp.writelines("%s\n" % pred for pred in temp_preds)
     with open(true_fname, "w") as fp:
-        fp.writelines(
-            "%s\n" % true for true in temp_labels 
-        )
+        fp.writelines("%s\n" % true for true in temp_labels)
 
     return accs, F1, F2, F3, F4
 
@@ -278,7 +282,10 @@ TDdroprate = 0.2
 BUdroprate = 0.2
 datasetname = sys.argv[1]  # "Twitter15"、"Twitter16"
 iterations = int(sys.argv[2])
-lang=sys.argv[3]
+if datasetname == "PHEME":
+    lang = sys.argv[3]
+else:
+    lang = None
 model = "GCN"
 device = th.device("cuda:0" if th.cuda.is_available() else "cpu")
 test_accs = []
@@ -287,16 +294,20 @@ FR_F1 = []
 TR_F1 = []
 UR_F1 = []
 
-folds9_dict = load9foldData()
+if datasetname == "PHEME":
+    folds5_dict = load5foldData()
+else:
+    folds5_dict = loadTwitterSplits(datasetname)
+
 treeDic = loadTree(datasetname, lang)
 for iter in range(iterations):
     print("-------------------------------------------------")
     print(f"Iteration {iter}")
     print("-------------------------------------------------")
     cur_accs, cur_F1, cur_F2, cur_F3, cur_F4 = [], [], [], [], []
-    for i in range(len(folds9_dict)):
+    for i in range(len(folds5_dict)):
         print(f"################# FOLD {i} #######################")
-        fold_x_train, fold_x_test = folds9_dict[i]
+        fold_x_train, fold_x_test = folds5_dict[i]
         fold_x_train = [str(intt) for intt in fold_x_train]
         fold_x_test = [str(intt) for intt in fold_x_test]
         accs, F1, F2, F3, F4 = train_GCN(
@@ -313,6 +324,7 @@ for iter in range(iterations):
             datasetname,
             iter,
             i,
+            lang,
         )
         cur_accs.append(accs)
         cur_F1.append(F1)

@@ -1,7 +1,7 @@
 import logging
+import sys
 import os
 import json
-import ast
 import logging
 from tqdm import tqdm
 from utils import preprocess_en_text, Vocabulary
@@ -117,7 +117,7 @@ def reader_pheme(lang: str):
                         label = "non-rumor"
 
                     logger.debug(f"num parents --> {num_par}")
-                    logger.info(f"num edge_list --> {edge_list}")
+                    logger.debug(f"num edge_list --> {edge_list}")
 
                     labels_to_dump.append(f"{label}\tEMPTY\t{tweet_tree_idx}")
                     logger.debug(f"label --> {label}")
@@ -134,18 +134,22 @@ def reader_pheme(lang: str):
                 if (idx + 1) % 500 == 0:
                     logger.info("*** Processed {} tweets ***".format(idx + 1))
 
-    out_dir = f"preprocess/PHEME/{lang.upper()}"
-    os.makedirs(out_dir, exist_ok=True)
-    outfile = os.path.join(out_dir, f"data.TD_RvNN.vol_{MAX_VOCAB_SZ}.txt")
+    out_dir = "Rumor_RvNN/resource"
+    out_lg_dir = os.path.join(out_dir, "PHEME", lang)
+    os.makedirs(out_lg_dir, exist_ok=True)
+    outfile = os.path.join(out_lg_dir, f"data.TD_RvNN.vol_{MAX_VOCAB_SZ}.txt")
+    logger.info(f"Saving file in {outfile}")
+
     f = open(outfile, "w")
     f.writelines("\n".join(lines_to_dump))
     f.close()
 
+    """
     outfile = os.path.join(out_dir, f"PHEME_label_All_ID.txt")
     f = open(outfile, "w")
     f.writelines("\n".join(labels_to_dump))
     f.close()
-
+    """
     load5foldData(obj="PHEME")
 
 
@@ -263,6 +267,6 @@ class TreeProcessor:
 
 
 if __name__ == "__main__":
-    lang = "id"
+    lang = sys.argv[1]
     reader_pheme(lang)
     # vocab_gen()

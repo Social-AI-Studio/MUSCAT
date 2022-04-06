@@ -2,6 +2,7 @@ import logging
 import logging.handlers
 import datetime
 
+
 class MyLogger(object):
     def __init__(self, loggername, fmt=None):
         super(MyLogger, self).__init__()
@@ -11,12 +12,17 @@ class MyLogger(object):
             self.fmt = "%(asctime)-15s %(levelname)s %(filename)s %(lineno)d %(process)d %(message)s"
         self.logger = logging.getLogger(loggername)
         self.logger.setLevel(logging.DEBUG)
-        debug_handler = logging.FileHandler('./res/%s.info'%loggername)
-        debug_handler.setFormatter(logging.Formatter("%(asctime)-15s %(process)d %(message)s"))
-        info_handler = logging.FileHandler('./res/%s.error'%loggername)
+        debug_handler = logging.FileHandler("./logs/%s.info" % loggername)
+        debug_handler.setFormatter(
+            logging.Formatter("%(asctime)-15s %(process)d %(message)s")
+        )
+        info_handler = logging.FileHandler("./logs/%s.error" % loggername)
         info_handler.setLevel(logging.ERROR)
         info_handler.setFormatter(
-            logging.Formatter("%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(message)s"))
+            logging.Formatter(
+                "%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(message)s"
+            )
+        )
         self.logger.addHandler(debug_handler)
         self.logger.addHandler(info_handler)
 

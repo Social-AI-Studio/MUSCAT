@@ -1,8 +1,12 @@
 cd torch_model
 echo $PWD
-END=8
+
+OBJ=PHEME
+END=5
 LANG=EN
+
 for ((i=0;i<=END;i++)); do
-    echo "Processing fold" $i
-    python Main_TD_RvNN.py --fold $i --lang LANG
+    echo "Choosing dataset " $OBJ
+    echo "Processing fold " $i
+    python Main_TD_RvNN.py --obj $OBJ --fold $i --lang $LANG
 done

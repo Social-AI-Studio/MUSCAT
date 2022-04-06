@@ -7,10 +7,32 @@ import os
 cwd = os.getcwd()
 
 
+def loadTwitterSplits(obj):
+    folds_dict = {}
+    for fold in range(5):
+        trainPath = os.path.join(
+            cwd, f"Rumor_RvNN/nfold/RNNtrainSet_{obj}{fold}_tree.txt"
+        )
+        testPath = os.path.join(
+            cwd, f"Rumor_RvNN/nfold/RNNtestSet_{obj}{fold}_tree.txt"
+        )
+
+        train_identifiers = []
+        test_identifiers = []
+        for line in open(trainPath):
+            line = line.rstrip()
+            train_identifiers.append(line)
+        for line in open(testPath):
+            line = line.rstrip()
+            test_identifiers.append(line)
+        folds_dict[fold] = (train_identifiers, test_identifiers)
+    return folds_dict
+
+
 def load5foldData(obj, shuffle_flag=True, seed=2020):
     random.seed(seed)
     if "PHEME" in obj:
-        labelPath = os.path.join(cwd, "preprocess/" + obj + "_label_All.txt")
+        labelPath = os.path.join(cwd, "Rumor_RvNN/resource/" + obj + "_label_All.txt")
         labelset_nonR, labelset_f, labelset_t, labelset_u = (
             ["news", "non-rumor"],
             ["false"],
@@ -145,11 +167,17 @@ def load5foldData(obj, shuffle_flag=True, seed=2020):
     fold4_train = list(fold4_x_train)
     shuffle(fold4_train)
 
-    train_identifiers = [fold0_train, fold1_train, fold3_train, fold4_train]
-    test_identifiers = [fold0_test, fold1_test, fold3_test, fold4_test]
-    for i in range(4):
-        test_fname = "preprocess/folds5/RNNtestSet_PHEME" + str(i) + "_tree.txt"
-        train_fname = "preprocess/folds5/RNNtrainSet_PHEME" + str(i) + "_tree.txt"
+    train_identifiers = [
+        fold0_train,
+        fold1_train,
+        fold2_train,
+        fold3_train,
+        fold4_train,
+    ]
+    test_identifiers = [fold0_test, fold1_test, fold2_test, fold3_test, fold4_test]
+    for i in range(5):
+        test_fname = f"Rumor_RvNN/nfold/RNNtestSet_PHEME{i}_tree.txt"
+        train_fname = f"Rumor_RvNN/nfold/RNNtrainSet_PHEME{i}_tree.txt"
         with open(train_fname, "w") as filehandle:
             filehandle.writelines(
                 "%s\n" % tree_idx for tree_idx in list(train_identifiers[i])
@@ -173,6 +201,7 @@ def load5foldData(obj, shuffle_flag=True, seed=2020):
         list(fold3_train),
         list(fold4_train),
     ]
+
 
 if __name__ == "__main__":
     load5foldData(obj="PHEME")

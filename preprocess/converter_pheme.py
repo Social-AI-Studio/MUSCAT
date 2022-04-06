@@ -92,7 +92,7 @@ def reader_pheme():
             if file_name.startswith("."):
                 continue
 
-            logger.info("***** Working on {} dir *****".format(file_name))
+            logger.debug("***** Working on {} dir *****".format(file_name))
             annot_subfile = os.path.join(dir_name, event_dir, file_name)
             tweet_tree_dirs = os.listdir(annot_subfile)
             cntr += len(tweet_tree_dirs)
@@ -115,7 +115,7 @@ def reader_pheme():
                         label = "non-rumor"
 
                     logger.debug(f"num parents --> {num_par}")
-                    logger.info(f"num edge_list --> {edge_list}")
+                    logger.debug(f"num edge_list --> {edge_list}")
 
                     labels_to_dump.append(f"{label}\tEMPTY\t{tweet_tree_idx}")
                     logger.debug(f"label --> {label}")
@@ -132,9 +132,12 @@ def reader_pheme():
                 if (idx + 1) % 500 == 0:
                     logger.info("*** Processed {} tweets ***".format(idx + 1))
 
-    out_dir = "preprocess/PHEME/EN/"
-    os.makedirs(out_dir, exist_ok=True)
-    outfile = os.path.join(out_dir, f"data.TD_RvNN.vol_{MAX_VOCAB_SZ}.txt")
+    out_dir = "Rumor_RvNN/resource"
+    out_lg_dir = os.path.join(out_dir, "PHEME", "en")
+    os.makedirs(out_lg_dir, exist_ok=True)
+    outfile = os.path.join(out_lg_dir, f"data.TD_RvNN.vol_{MAX_VOCAB_SZ}.txt")
+    logger.info(f"Saving file in {outfile}")
+
     f = open(outfile, "w")
     f.writelines("\n".join(lines_to_dump))
     f.close()
@@ -144,7 +147,8 @@ def reader_pheme():
     f.writelines("\n".join(labels_to_dump))
     f.close()
 
-    load5foldData(obj="PHEME")
+    # splitting to 5 folds
+    # load5foldData(obj="PHEME")
 
 
 class TreeProcessor:
@@ -171,7 +175,7 @@ class TreeProcessor:
             cur_tweet = preprocess_en_text(cur_tweet)
             cur_tokens = w_tokenizer.tokenize(cur_tweet)
             index_cnt_list, cur_len = t_vocab.get_vocab_count(cur_tokens)
-            
+
             if cur_len < 1:
                 continue
 

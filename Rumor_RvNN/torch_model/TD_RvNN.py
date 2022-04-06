@@ -142,17 +142,17 @@ class RvNN(nn.Module):
 
     def recursive_unit(self, child_word, child_index, parent_h):
         child_xe = self.E_td[:, child_index].mul(torch.tensor(child_word)).sum(dim=1)
-        z_td = F.sigmoid(
+        z_td = torch.sigmoid(
             self.W_z_td.mul(child_xe).sum(dim=1)
             + self.U_z_td.mul(parent_h).sum(dim=1)
             + self.b_z_td
         )
-        r_td = F.sigmoid(
+        r_td = torch.sigmoid(
             self.W_r_td.mul(child_xe).sum(dim=1)
             + self.U_r_td.mul(parent_h).sum(dim=1)
             + self.b_r_td
         )
-        c = F.tanh(
+        c = torch.tanh(
             self.W_h_td.mul(child_xe).sum(dim=1)
             + self.U_h_td.mul(parent_h * r_td).sum(dim=1)
             + self.b_h_td
@@ -167,7 +167,7 @@ class RvNN(nn.Module):
             node_h = torch.cat((node_h, child_h.view(1, -1)))
             return node_h
 
-        node_h = torch.zeros([1, self.hidden_dim])
+        node_h = torch.zeros([1, self.hidden_dim], device=x_word.device)
 
         for words, indexs, thislayer in zip(x_word, x_index, tree):
             node_h = _recurrence(words, indexs, thislayer, node_h)

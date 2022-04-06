@@ -155,6 +155,9 @@ def main(obj, lang):
                 np.array(rootindex),
                 np.array(y),
             )
+            os.makedirs(
+                os.path.join(cwd, "data/" + obj + "graph/", lang), exist_ok=True
+            )
             np.savez(
                 os.path.join(cwd, "data/" + obj + "graph/", lang, id + ".npz"),
                 x=x_x,

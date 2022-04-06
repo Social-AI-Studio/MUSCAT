@@ -5,15 +5,15 @@ cwd = os.getcwd()
 
 
 ################################### load tree#####################################
-def loadTree(dataname, lang="EN"):
+def loadTree(dataname, lang="en"):
     if "Twitter" or "PHEME" in dataname:
         if lang:
             treePath = os.path.join(
-                cwd, "data/" + dataname, lang, f"/data.TD_RvNN.vol_5000.txt"
+                cwd, "data/" + dataname, lang, f"data.TD_RvNN.vol_5000.txt"
             )
         else:
             treePath = os.path.join(
-                cwd, "data/" + dataname, lang,  "/data.TD_RvNN.vol_5000.txt"
+                cwd, "data/" + dataname, "data.TD_RvNN.vol_5000.txt"
             )
         print("reading twitter tree")
         treeDic = {}
@@ -93,8 +93,13 @@ def loadUdData(dataname, treeDic, fold_x_train, fold_x_test, droprate):
     return traindata_list, testdata_list
 
 
-def loadBiData(dataname, treeDic, fold_x_train, fold_x_test, TDdroprate, BUdroprate):
-    data_path = os.path.join(cwd, "data", dataname + "graph")
+def loadBiData(
+    dataname, lang, treeDic, fold_x_train, fold_x_test, TDdroprate, BUdroprate
+):
+    if lang:
+        data_path = os.path.join(cwd, "data", dataname + "graph", lang)
+    else:
+        data_path = os.path.join(cwd, "data", dataname + "graph")
     print(
         "loading train set",
     )
