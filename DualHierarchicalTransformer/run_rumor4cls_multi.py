@@ -174,10 +174,10 @@ class RumorProcessor(DataProcessor):
             lines.extend(_lines)
         return lines
 
-    def get_test_examples(self, data_dir):
+    def get_test_examples(self, data_dir, fold, lang):
         """See base class."""
         return self._create_examples(
-            self._read_tsv(os.path.join(data_dir, "test.tsv")), "test")
+            self._read_tsv(os.path.join(data_dir, lang, fold, "test.tsv")), "test")
 
     def get_labels(self):
         """See base class."""
@@ -620,7 +620,8 @@ def main():
     global_step = 0
     nb_tr_steps = 0
     tr_loss = 0
-    output_model_file = os.path.join(args.output_dir, "pytorch_model.bin")
+    os.makedirs(os.path.join(args.output_dir, args.fold))
+    output_model_file = os.path.join(args.output_dir, args.fold, "pytorch_model.bin")
     if args.do_train:
         print('training data')
         if args.local_rank not in [-1, 0]:
@@ -980,120 +981,123 @@ def main():
     model.to(device)
 
     if args.do_eval and args.local_rank in [-1, 0]:
-        eval_examples = processor.get_test_examples(args.data_dir)
-        eval_features = convert_examples_to_features(
-            eval_examples, label_list, args.max_seq_length, tokenizer, args.max_tweet_num, args.max_tweet_length)
-        logger.info("***** Running evaluation on Test Set *****")
-        logger.info("  Num examples = %d", len(eval_examples))
-        logger.info("  Batch size = %d", args.eval_batch_size)
-        all_input_ids1 = torch.tensor([f.input_ids1 for f in eval_features], dtype=torch.long)
-        all_input_mask1 = torch.tensor([f.input_mask1 for f in eval_features], dtype=torch.long)
-        all_segment_ids1 = torch.tensor([f.segment_ids1 for f in eval_features], dtype=torch.long)
-        all_input_ids2 = torch.tensor([f.input_ids2 for f in eval_features], dtype=torch.long)
-        all_input_mask2 = torch.tensor([f.input_mask2 for f in eval_features], dtype=torch.long)
-        all_segment_ids2 = torch.tensor([f.segment_ids2 for f in eval_features], dtype=torch.long)
-        all_input_ids3 = torch.tensor([f.input_ids3 for f in eval_features], dtype=torch.long)
-        all_input_mask3 = torch.tensor([f.input_mask3 for f in eval_features], dtype=torch.long)
-        all_segment_ids3 = torch.tensor([f.segment_ids3 for f in eval_features], dtype=torch.long)
-        all_input_ids4 = torch.tensor([f.input_ids4 for f in eval_features], dtype=torch.long)
-        all_input_mask4 = torch.tensor([f.input_mask4 for f in eval_features], dtype=torch.long)
-        all_segment_ids4 = torch.tensor([f.segment_ids4 for f in eval_features], dtype=torch.long)
-        all_input_mask = torch.tensor([f.input_mask for f in eval_features], dtype=torch.long)
-        all_label_ids = torch.tensor([f.label_id for f in eval_features], dtype=torch.long)
+        for lang in ["en", "id", "vi", "th", "ms"]:
+            eval_examples = processor.get_test_examples(args.data_dir, args.fold, lang)
+            eval_features = convert_examples_to_features(
+                eval_examples, label_list, args.max_seq_length, tokenizer, args.max_tweet_num, args.max_tweet_length)
+            logger.info(f"======== Language = {lang} =========")
+            logger.info("***** Running evaluation on Test Set *****")
+            logger.info("  Num examples = %d", len(eval_examples))
+            logger.info("  Batch size = %d", args.eval_batch_size)
+            all_input_ids1 = torch.tensor([f.input_ids1 for f in eval_features], dtype=torch.long)
+            all_input_mask1 = torch.tensor([f.input_mask1 for f in eval_features], dtype=torch.long)
+            all_segment_ids1 = torch.tensor([f.segment_ids1 for f in eval_features], dtype=torch.long)
+            all_input_ids2 = torch.tensor([f.input_ids2 for f in eval_features], dtype=torch.long)
+            all_input_mask2 = torch.tensor([f.input_mask2 for f in eval_features], dtype=torch.long)
+            all_segment_ids2 = torch.tensor([f.segment_ids2 for f in eval_features], dtype=torch.long)
+            all_input_ids3 = torch.tensor([f.input_ids3 for f in eval_features], dtype=torch.long)
+            all_input_mask3 = torch.tensor([f.input_mask3 for f in eval_features], dtype=torch.long)
+            all_segment_ids3 = torch.tensor([f.segment_ids3 for f in eval_features], dtype=torch.long)
+            all_input_ids4 = torch.tensor([f.input_ids4 for f in eval_features], dtype=torch.long)
+            all_input_mask4 = torch.tensor([f.input_mask4 for f in eval_features], dtype=torch.long)
+            all_segment_ids4 = torch.tensor([f.segment_ids4 for f in eval_features], dtype=torch.long)
+            all_input_mask = torch.tensor([f.input_mask for f in eval_features], dtype=torch.long)
+            all_label_ids = torch.tensor([f.label_id for f in eval_features], dtype=torch.long)
 
-        eval_data = TensorDataset(all_input_ids1, all_input_mask1, all_segment_ids1,
-                                  all_input_ids2, all_input_mask2, all_segment_ids2,
-                                  all_input_ids3, all_input_mask3, all_segment_ids3,
-                                  all_input_ids4, all_input_mask4, all_segment_ids4,
-                                  all_input_mask, all_label_ids)
-        # Run prediction for full data
-        eval_sampler = SequentialSampler(eval_data)
-        eval_dataloader = DataLoader(eval_data, sampler=eval_sampler, batch_size=args.eval_batch_size)
+            eval_data = TensorDataset(all_input_ids1, all_input_mask1, all_segment_ids1,
+                                      all_input_ids2, all_input_mask2, all_segment_ids2,
+                                      all_input_ids3, all_input_mask3, all_segment_ids3,
+                                      all_input_ids4, all_input_mask4, all_segment_ids4,
+                                      all_input_mask, all_label_ids)
+            # Run prediction for full data
+            eval_sampler = SequentialSampler(eval_data)
+            eval_dataloader = DataLoader(eval_data, sampler=eval_sampler, batch_size=args.eval_batch_size)
 
-        model.eval()
-        eval_loss, eval_accuracy = 0, 0
-        nb_eval_steps, nb_eval_examples = 0, 0
+            model.eval()
+            eval_loss, eval_accuracy = 0, 0
+            nb_eval_steps, nb_eval_examples = 0, 0
 
-        true_label_list = []
-        pred_label_list = []
- 
-        for input_ids1, input_mask1, segment_ids1, input_ids2, input_mask2, segment_ids2, \
-                input_ids3, input_mask3, segment_ids3, input_ids4, input_mask4, segment_ids4, \
-                input_mask, label_ids in tqdm(eval_dataloader, desc="Evaluating"):
-            input_ids1 = input_ids1.to(device)
-            input_mask1 = input_mask1.to(device)
-            segment_ids1 = segment_ids1.to(device)
-            input_ids2 = input_ids2.to(device)
-            input_mask2 = input_mask2.to(device)
-            segment_ids2 = segment_ids2.to(device)
-            input_ids3 = input_ids3.to(device)
-            input_mask3 = input_mask3.to(device)
-            segment_ids3 = segment_ids3.to(device)
-            input_ids4 = input_ids4.to(device)
-            input_mask4 = input_mask4.to(device)
-            segment_ids4 = segment_ids4.to(device)
-            input_mask = input_mask.to(device)
-            label_ids = label_ids.to(device)
+            true_label_list = []
+            pred_label_list = []
+     
+            for input_ids1, input_mask1, segment_ids1, input_ids2, input_mask2, segment_ids2, \
+                    input_ids3, input_mask3, segment_ids3, input_ids4, input_mask4, segment_ids4, \
+                    input_mask, label_ids in tqdm(eval_dataloader, desc="Evaluating"):
+                input_ids1 = input_ids1.to(device)
+                input_mask1 = input_mask1.to(device)
+                segment_ids1 = segment_ids1.to(device)
+                input_ids2 = input_ids2.to(device)
+                input_mask2 = input_mask2.to(device)
+                segment_ids2 = segment_ids2.to(device)
+                input_ids3 = input_ids3.to(device)
+                input_mask3 = input_mask3.to(device)
+                segment_ids3 = segment_ids3.to(device)
+                input_ids4 = input_ids4.to(device)
+                input_mask4 = input_mask4.to(device)
+                segment_ids4 = segment_ids4.to(device)
+                input_mask = input_mask.to(device)
+                label_ids = label_ids.to(device)
 
-            with torch.no_grad():
-                tmp_eval_loss = model(input_ids1, segment_ids1, input_mask1, input_ids2, segment_ids2, input_mask2,
-                                      input_ids3, segment_ids3, input_mask3, input_ids4, segment_ids4, input_mask4,
-                                      input_mask, label_ids)
-                logits = model(input_ids1, segment_ids1, input_mask1, input_ids2, segment_ids2, input_mask2,
-                                   input_ids3, segment_ids3, input_mask3, input_ids4, segment_ids4, input_mask4,
-                                   input_mask)
+                with torch.no_grad():
+                    tmp_eval_loss = model(input_ids1, segment_ids1, input_mask1, input_ids2, segment_ids2, input_mask2,
+                                          input_ids3, segment_ids3, input_mask3, input_ids4, segment_ids4, input_mask4,
+                                          input_mask, label_ids)
+                    logits = model(input_ids1, segment_ids1, input_mask1, input_ids2, segment_ids2, input_mask2,
+                                       input_ids3, segment_ids3, input_mask3, input_ids4, segment_ids4, input_mask4,
+                                       input_mask)
 
-            logits = logits.detach().cpu().numpy()
-            label_ids = label_ids.to('cpu').numpy()
-            true_label_list.append(label_ids)
-            pred_label_list.append(logits)
-            tmp_eval_accuracy = accuracy(logits, label_ids)
+                logits = logits.detach().cpu().numpy()
+                label_ids = label_ids.to('cpu').numpy()
+                true_label_list.append(label_ids)
+                pred_label_list.append(logits)
+                tmp_eval_accuracy = accuracy(logits, label_ids)
 
-            eval_loss += tmp_eval_loss.mean().item()
-            eval_accuracy += tmp_eval_accuracy
+                eval_loss += tmp_eval_loss.mean().item()
+                eval_accuracy += tmp_eval_accuracy
 
-            nb_eval_examples += input_ids1.size(0)
-            nb_eval_steps += 1
+                nb_eval_examples += input_ids1.size(0)
+                nb_eval_steps += 1
 
-        eval_loss = eval_loss / nb_eval_steps
-        eval_accuracy = eval_accuracy / nb_eval_examples
-        loss = tr_loss/nb_tr_steps if args.do_train else None
-        true_label = np.concatenate(true_label_list)
-        pred_outputs = np.concatenate(pred_label_list)
-        report = rumor_macro_f1(true_label, pred_outputs)
-        F_score = report.get('macro avg').get('f1-score')
-        precision = report.get('macro avg').get('precision')
-        recall = report.get('macro avg').get('recall')
-        result = {'eval_loss': eval_loss,
-                  'eval_accuracy': eval_accuracy,
-                  'f_score': F_score,
-                  'true_f1': report.get('1',{}).get('f1-score'),
-                  'false_f1': report.get('0',{}).get('f1-score'),
-                  'unverified_f1': report.get('2',{}).get('f1-score'),
-                  'nonrumor_f1': report.get('3',{}).get('f1-score'),
-                  'global_step': global_step,
-                  'loss': loss}
+            eval_loss = eval_loss / nb_eval_steps
+            eval_accuracy = eval_accuracy / nb_eval_examples
+            loss = tr_loss/nb_tr_steps if args.do_train else None
+            true_label = np.concatenate(true_label_list)
+            pred_outputs = np.concatenate(pred_label_list)
+            report = rumor_macro_f1(true_label, pred_outputs)
+            F_score = report.get('macro avg').get('f1-score')
+            precision = report.get('macro avg').get('precision')
+            recall = report.get('macro avg').get('recall')
+            result = {'eval_loss': eval_loss,
+                      'eval_accuracy': eval_accuracy,
+                      'f_score': F_score,
+                      'true_f1': report.get('1',{}).get('f1-score'),
+                      'false_f1': report.get('0',{}).get('f1-score'),
+                      'unverified_f1': report.get('2',{}).get('f1-score'),
+                      'nonrumor_f1': report.get('3',{}).get('f1-score'),
+                      'global_step': global_step,
+                      'loss': loss}
 
-        pred_label = np.argmax(pred_outputs, axis=-1)
-        fout_p = open(os.path.join(args.output_dir, "pred.txt"), 'w')
-        fout_t = open(os.path.join(args.output_dir, "true.txt"), 'w')
+            pred_label = np.argmax(pred_outputs, axis=-1)
+            os.makedirs(os.path.join(args.output_dir, lang, args.fold), exist_ok=True)
+            fout_p = open(os.path.join(args.output_dir, lang, args.fold, "pred.txt"), 'w')
+            fout_t = open(os.path.join(args.output_dir, lang, args.fold, "true.txt"), 'w')
 
-        for i in range(len(pred_label)):
-            attstr = str(pred_label[i])
-            fout_p.write(attstr + '\n')
-        for i in range(len(true_label)):
-            attstr = str(true_label[i])
-            fout_t.write(attstr + '\n')
+            for i in range(len(pred_label)):
+                attstr = str(pred_label[i])
+                fout_p.write(attstr + '\n')
+            for i in range(len(true_label)):
+                attstr = str(true_label[i])
+                fout_t.write(attstr + '\n')
 
-        fout_p.close()
-        fout_t.close()
-        output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
-        logger.info(f"Saving evaluation results {output_eval_file}")
-        with open(output_eval_file, "w") as writer:
-            logger.info("***** Test Eval results *****")
-            for key in sorted(result.keys()):
-                logger.info("  %s = %s", key, str(result[key]))
-                writer.write("%s = %s\n" % (key, str(result[key])))
+            fout_p.close()
+            fout_t.close()
+            output_eval_file = os.path.join(args.output_dir, lang, args.fold, "eval_results.txt")
+            logger.info(f"Saving evaluation results {output_eval_file}")
+            with open(output_eval_file, "w") as writer:
+                logger.info("***** Test Eval results *****")
+                for key in sorted(result.keys()):
+                    logger.info("  %s = %s", key, str(result[key]))
+                    writer.write("%s = %s\n" % (key, str(result[key])))
 
 if __name__ == "__main__":
     main()
