@@ -544,8 +544,9 @@ def main():
     if not args.do_train and not args.do_eval:
         raise ValueError("At least one of `do_train` or `do_eval` must be True.")
 
-    if os.path.exists(args.output_dir) and os.listdir(args.output_dir) and args.do_train:
-        raise ValueError("Output directory ({}) already exists and is not empty.".format(args.output_dir))
+
+    if os.path.exists(os.path.join(args.output_dir, args.fold)) and os.listdir(os.path.join(args.output_dir, args.fold)) and args.do_train:
+        raise ValueError("Output directory ({}) already exists and is not empty.".format(os.path.join(args.output_dir, args.fold)))
     os.makedirs(args.output_dir, exist_ok=True)
 
     task_name = args.task_name.lower()
@@ -620,7 +621,7 @@ def main():
     global_step = 0
     nb_tr_steps = 0
     tr_loss = 0
-    os.makedirs(os.path.join(args.output_dir, args.fold))
+    os.makedirs(os.path.join(args.output_dir, args.fold), exist_ok=True)
     output_model_file = os.path.join(args.output_dir, args.fold, "pytorch_model.bin")
     if args.do_train:
         print('training data')
