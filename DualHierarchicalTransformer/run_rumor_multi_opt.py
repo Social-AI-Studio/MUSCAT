@@ -653,13 +653,13 @@ def main():
         raise ValueError("At least one of `do_train` or `do_eval` must be True.")
 
     if (
-        os.path.exists(args.output_dir)
-        and os.listdir(args.output_dir)
+        os.path.exists(os.path.join(args.output_dir, args.fold))
+        and os.listdir(os.path.join(args.output_dir, args.fold))
         and args.do_train
     ):
         raise ValueError(
             "Output directory ({}) already exists and is not empty.".format(
-                args.output_dir
+                os.path.join(args.output_dir, args.fold)
             )
         )
     os.makedirs(args.output_dir, exist_ok=True)
@@ -721,7 +721,7 @@ def main():
     elif n_gpu > 1:
         model = torch.nn.DataParallel(model)
 
-    os.makedirs(os.path.join(args.output_dir, args.fold))
+    os.makedirs(os.path.join(args.output_dir, args.fold), exist_ok=True)
     output_model_file = os.path.join(args.output_dir, args.fold, "pytorch_model.bin")
     if args.do_train:
         logger.info("loading training data")
