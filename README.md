@@ -4,6 +4,9 @@
 
 This repository contains codes for the paper MUSCAT: Multilingual Rumor Detection in Social Media Conversations, IEEE BigData 2022. The code here implements the MUSCAT model and includes scripts for multiple baselines.
 
+## Approach
+![MUSCAT](MUSCAT.png)
+
 ## Data
 To conduct experiments using MUSCAT, we used the PHEME, Twitter16, and SEAR datasets. To download the data, you can follow these links:
 - [PHEME](https://figshare.com/articles/PHEME_dataset/4505933)
@@ -44,3 +47,15 @@ python run_rumor_opt.py --data_dir ./rumor_data/${i}/${LANG}/${k}/ --train_batch
 --exp_setting $EXP_SETTING # --use_longformer
 ```
 
+## To cite
+
+```
+@inproceedings{awal2022muscat,
+  title={MUSCAT: Multilingual Rumor Detection in Social Media Conversations},
+  author={Awal, Md Rabiul and Nguyen, Minh Dang and Lee, Roy Ka-Wei and Choo, Kenny Tsu Wei},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)},
+  pages={455--464},
+  year={2022},
+  organization={IEEE}
+}
+```
